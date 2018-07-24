@@ -216,6 +216,15 @@ img {
   border: 0;
 }
 
+#border {
+  align: center;
+  border: 2px solid #ffffff;
+  width: 35%;
+  height: auto;
+
+}
+
+
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
@@ -693,7 +702,7 @@ body {
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 31.76157%;
+    width: 30.11389%;
   }
   .usa-width-one-third:last-child {
     margin-right: 0;
@@ -3779,7 +3788,7 @@ input.usa-input-medium {
 
 .usa-hero-callout .usa-button {
   font-size: 1.4rem;
-  margin-top: 7rem;
+  margin-top: 1rem;
   width: 100%;
 }
 
@@ -4775,10 +4784,15 @@ color: #112e51;
 border-top: 1.6rem solid #aeb0b5;
 }
 
+.usa-section-CAP-noborder {
+background-color: #e4e2e0;
+color: #112e51;
+}
+
 .usa-section-lightblue {
-background-color: #e1f3f8;
+background-color: #ffffff;
 color: #212121;
-border-top: 1.6rem solid #046b99;
+border-top: 1.6rem solid #112e51;
 }
 
 .usa-section-dark-border {
@@ -4852,7 +4866,6 @@ height: 100%;
            color:#02bfe7;
            text-decoration:none;
            transition:0.9s color ease;
-           font-weight: bold;
            }
 
      .center-div {

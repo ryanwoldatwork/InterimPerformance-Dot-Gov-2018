@@ -6,13 +6,15 @@ layout: navigation_PMA
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
        <div class="usa-media_block-body">
-         <a href="{{ site.baseurl }}/performance-news/performance-news.html" style="text-decoration:none;">
+         <a href="{{ site.baseurl }}/news" style="text-decoration:none;">
 
            <b>&#10094; &nbsp; Back to News</a></b>
 
            <p class="card-tag-post"> {{ page.agency }}</p>
               <h1-post>{{ page.title }}
               </h1>
+              {% include post-author.html context="page" %}
+
       </div>
     </div>
 <div class="usa-width-one-half">
@@ -26,10 +28,10 @@ layout: navigation_PMA
    <div class="usa-grid usa-graphic_list-row">
       <div class="usa-width-two-thirds usa-media_block">
         <div class="usa-media_block-body">
-          {% include post-author.html context="page" %}
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
           </p>
 
+          <span class="card-tag-text">Tags:</span><br>
           <span class="post-tags" itemprop="keywords">
             {% for tag in page.tags %}
               <span class="usa-label">
@@ -85,23 +87,3 @@ layout: navigation_PMA
       </aside>
     </div>
   </section>
-
-
-      <!--{% include post-author.html context="page" %}
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
-      </p>
-      <span class="post-tags" itemprop="keywords">
-        {% for tag in page.tags %}
-          <a class="usa-label" href="{{ site.baseurl }}/{{ site.tag_dir }}/{{ tag | slugify }}/">{{ tag }}
-          </a>
-        {% endfor %}
-      </span>
-        {% if page.image and page.image_feature_small == true %}
-        <img class="image-feature-small" src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_accessibility }}">
-      {% endif %}
-      {{ content }}
-    </div>
-  </div>
-</div>
-</div>
-</section>

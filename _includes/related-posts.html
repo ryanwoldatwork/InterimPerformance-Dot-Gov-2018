@@ -1,3 +1,4 @@
+<!--GENERATES THE RELATED POSTS SECTION ON THE POST.HTML PAGES-->
 <div class="relatedPosts">
 
   <h2>Related posts</h2>
@@ -33,7 +34,7 @@
     {% if sameTagCount >= minCommonTags %}
       <div>
       <p class="card-tag">{{ post.date | date: '%B %d, %Y' }}</p>
-      <p><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></p>
+      <p><a style="text-decoration: none;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
       <br>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

@@ -41,11 +41,9 @@ layout: base_PMA
 <div class="usa-navbar">
     <button class="usa-menu-btn">Menu</button>
     <div class="usa-logo" id="logo">
-      <em class="usa-logo-text">
-        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
-          <img class="logo-img" src="{{ site.baseurl }}/img/homepage_images/performance-gov-logo.png" alt="Performance.gov">
-        </a>
-      </em>
+      <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
+        <img class="logo-img" src="{{ site.baseurl }}/img/homepage_images/performance-gov-logo.png" alt="Performance.gov">
+      </a>
     </div>
   </div>
   <nav role="navigation" class="usa-nav">
@@ -150,9 +148,12 @@ layout: base_PMA
                   <ul>
                     <li>
                       <a href="#" class="disabled"><span id="navheader">Other Initiatives</span></a>
-                      <!--<li>
-                        <a href="government-redesign/overview.html">Government Redesign</a>
-                      </li>-->
+                      <li>
+                        <a href="{{ site.baseurl }}/GovReform/index.html">Reform Plan and Reorganization Recommendations</a>
+                      </li>
+                      <li>
+                        <a href="{{ site.baseurl }}/GEARcenter/index.html">GEAR Center</a>
+                      </li>
                       <li>
                         <a href="{{ site.baseurl }}/elimination/elimination_of_unnecessary_agency_reports.html">Elimination of Unnecessary Agency Reports</a>
                       </li>
@@ -287,7 +288,7 @@ layout: base_PMA
   </ul>
   </li>
 <li>
-      <a class="usa-nav-link" href="{{ site.baseurl }}/performance-news/performance-news.html">
+      <a class="usa-nav-link" href="{{ site.baseurl }}/news">
         <span>News</span>
       </a>
     </li>
@@ -330,7 +331,7 @@ layout: base_PMA
                 <li><a href="https://www.whitehouse.gov/">WhiteHouse.gov</a></li>
                 <li><a href="https://www.whitehouse.gov/omb/">OMB</a></li>
                  <li><a href="https://www.gpo.gov/fdsys/pkg/PLAW-111publ352/pdf/PLAW-111publ352.pdf">GPRAMA Legislation</a></li>
-                 <li><a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/a11_current_year/a11_2017.pdf">Circular A-11</a></li>
+                 <li><a href="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf">Circular A-11</a></li>
                  <li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
 
 </div>
@@ -420,9 +421,8 @@ layout: base_PMA
                  <h3 class="usa-footer-contact-heading">Contact Us</h3>
 
                  <a href="mailto:PgovSupport@GSA.gov">PgovSupport@GSA.gov</a>
-                 <p>Content is updated every 3 months; last on May 4, 2018</p>
-                 <p><a href="{{ site.baseurl }}/about/Performance.gov-Reports.xlsx" alt="performance data download" style="color:#205493;"><b>Download Performance Data Report </b></a></p>
-                 {% include modal.html %} <!--code for subscribe button and pop out modal box. CSS is in the _modal.scss under the SASS folder-->
+                 <p>Content is updated every 3 months; last on June 26, 2018</p>
+                 <p><a href="{{ site.baseurl }}/about/Performance.gov Reports_FY2018_Q2.xlsx" alt="performance data download" style="color:#205493;"><b>Download Performance Data Report </b></a></p>
                </address>
              </div>
            </div>
