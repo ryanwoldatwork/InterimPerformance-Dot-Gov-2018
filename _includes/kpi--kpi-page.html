@@ -1,0 +1,9 @@
+{% assign cap_goal = site.data.cap_goals | where: "title", include.title | first %}
+{% include kpi-popout.html title=cap_goal.title
+  updated=cap_goal.updated
+  kpi_url=cap_goal.kpi_url
+  img=cap_goal.img
+  pdf_url=cap_goal.pdf_url
+  cap_goal_url=cap_goal.url
+  width=300
+%}
