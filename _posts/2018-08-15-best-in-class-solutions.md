@@ -7,7 +7,7 @@ rating: "0"
 
 agency:
 
-permalink: /2018-08-15-best-in-class-Solutions.md/
+url: /2018-08-15-best-in-class-Solutions.md/
 
 description: New fact sheets are available for more than 30 Best-in-Class solutions, highlighting their unique value for agencies.
 

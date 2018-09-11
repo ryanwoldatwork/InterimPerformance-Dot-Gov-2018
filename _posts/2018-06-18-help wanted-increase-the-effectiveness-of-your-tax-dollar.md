@@ -3,7 +3,7 @@ layout: post
 
 title: "Help Wanted: Increase the Effectiveness of your Tax Dollar!"
 
-permalink: /2018-06-18-help wanted-increase-the-effectiveness-of-your-tax-dollar.md/
+url: /2018-06-18-help wanted-increase-the-effectiveness-of-your-tax-dollar.md/
 
 description: The adoption of the Technology Business Management (TBM) Framework will provide more granularity in IT investments based upon an open-source taxonomy broadly accepted across both private and public sector organizations.
 

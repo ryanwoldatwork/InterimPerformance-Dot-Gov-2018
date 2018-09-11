@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Office of Management and Budget"
 
-permalink: /2018-08-21-gears-of-government-awards.md/
+url: /2018-08-21-gears-of-government-awards.md/
 
 description: The Gears of Government Awards will recognize individuals and teams across the federal workforce whose performance and dedication deliver key outcomes for the American people.
 

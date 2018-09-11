@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Office of Management and Budget"
 
-permalink: /2018-08-31-GEAR-conference-highlights.md/
+url: /2018-08-31-GEAR-conference-highlights.md/
 
 description: Read highlights from the GEAR conference and watch a full recording of the live stream.
 
