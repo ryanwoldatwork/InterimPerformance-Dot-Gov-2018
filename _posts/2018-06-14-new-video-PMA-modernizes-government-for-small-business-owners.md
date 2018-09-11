@@ -5,7 +5,7 @@ title: "New Video: President's Management Agenda Modernizes Government for Small
 
 permalink: /2018-06-14-new-video-PMA-modernizes-government-for-small-business-owners.md/
 
-url: permalink: /2018-06-14-new-video-PMA-modernizes-government-for-small-business-owners.md
+url: /2018-06-14-new-video-PMA-modernizes-government-for-small-business-owners.md
 
 agency: "Small Business Administration"
 
