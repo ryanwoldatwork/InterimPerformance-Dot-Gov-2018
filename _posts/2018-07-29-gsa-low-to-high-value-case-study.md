@@ -5,6 +5,8 @@ title: "Reforms in GSA's CFO Office Refocus 50,000 Employee Hours on Higher-Valu
 
 permalink: /2018-07-29-gsa-low-to-high-value-case-study/
 
+url: /2018-07-29-gsa-low-to-high-value-case-study
+
 rating: "0"
 
 agency: "General Services Administration"

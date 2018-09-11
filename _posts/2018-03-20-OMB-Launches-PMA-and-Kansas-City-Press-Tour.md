@@ -7,6 +7,8 @@ agency: "Office of Management and Budget"
 
 permalink: /2018-03-20-OMB-Launches-PMA-and-Kansas-City-Press-Tour.md/
 
+url: /2018-03-20-OMB-Launches-PMA-and-Kansas-City-Press-Tour.md
+
 description: Today, the White House Office of Management and Budget (OMB) kicked off a two-day listening tour to engage federal workers and citizens in discussions about improving government services.
 
 summary: summary_large_image
