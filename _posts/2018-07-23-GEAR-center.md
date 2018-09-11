@@ -5,6 +5,8 @@ title: "GEAR Center Seeks to Bring Bright Minds Together to Solve Government's B
 
 permalink: /2018-07-20-GEAR-center.md/
 
+url: /2018-07-20-GEAR-center.md
+
 rating: "1"
 
 description: We are looking for ideas from the public, academics, experts, and industry on how to establish the Government Effectiveness Advanced Research (GEAR) Center, a public-private partnership to improve mission delivery, citizen services, and stewardship of public resources.
