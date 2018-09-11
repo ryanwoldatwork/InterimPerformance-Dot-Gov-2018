@@ -9,6 +9,8 @@ agency: "NASA"
 
 permalink: /2018-08-02-nasa-satellite-data.md/
 
+url: /2018-08-02-nasa-satellite-data.md
+
 description: Data, Accountability and Transparency is a key driver of the President's Management Agenda. NASA is advancing this priority through a new online resource that promotes commercial use of remote-sensing data.
 
 summary: summary_large_image

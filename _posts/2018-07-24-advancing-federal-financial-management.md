@@ -5,6 +5,8 @@ title: "Advancing Federal Financial Management"
 
 permalink: /2018-07-24-advancing-federal-financial-management.md/
 
+url: /2018-07-24-advancing-federal-financial-management.md
+
 rating: "0"
 
 agency: Office of Management and Budget
