@@ -3,7 +3,7 @@ layout: post
 
 title: "GEAR Center Seeks to Bring Bright Minds Together to Solve Government's Biggest Challenges"
 
-url: /2018-07-20-GEAR-center.md/
+permalink: /2018-07-20-GEAR-center.md/
 
 rating: "1"
 
