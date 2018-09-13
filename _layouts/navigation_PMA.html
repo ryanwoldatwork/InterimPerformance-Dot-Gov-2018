@@ -313,12 +313,29 @@ layout: base_PMA
 </header>
 <div class="usa-overlay"></div>
 <main id="main-content">
+      <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
   {{ content }}
+  <script>
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      document.getElementById("backtotop").style.display = "block";
+  } else {
+      document.getElementById("backtotop").style.display = "none";
+  }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+  }
+  </script>
+
 </main>
         <footer class="usa-footer usa-footer-big" role="contentinfo">
-         <div class="usa-grid usa-footer-return-to-top">
-           <a href="#">Return to top</a>
-         </div>
          <div class="usa-footer-primary-section">
            <div class="usa-grid-full">
              <nav class="usa-footer-nav usa-width-one-whole">
