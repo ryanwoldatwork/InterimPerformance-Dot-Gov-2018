@@ -315,7 +315,7 @@ layout: base_index
 </header>
 <div class="usa-overlay"></div>
 <main id="main-content">
-  <button onclick="topFunction()" id="myBtn" title="Go to top" style="display: none;">˄ Top</button>
+  <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
 
   {{ content }}
   <script>
@@ -324,9 +324,9 @@ layout: base_index
 
   function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-      document.getElementById("myBtn").style.display = "block";
+      document.getElementById("backtotop").style.display = "block";
   } else {
-      document.getElementById("myBtn").style.display = "none";
+      document.getElementById("backtotop").style.display = "none";
   }
   }
 

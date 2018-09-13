@@ -313,7 +313,7 @@ layout: base_PMA
 </header>
 <div class="usa-overlay"></div>
 <main id="main-content">
-      <button onclick="topFunction()" id="myBtn" title="Go to top" style="display: none;">˄ Top</button>
+      <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
   {{ content }}
   <script>
   // When the user scrolls down 20px from the top of the document, show the button
@@ -321,9 +321,9 @@ layout: base_PMA
 
   function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-      document.getElementById("myBtn").style.display = "block";
+      document.getElementById("backtotop").style.display = "block";
   } else {
-      document.getElementById("myBtn").style.display = "none";
+      document.getElementById("backtotop").style.display = "none";
   }
   }
 

@@ -314,9 +314,9 @@ layout: base
 
   function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-      document.getElementById("myBtn").style.display = "block";
+      document.getElementById("backtotop").style.display = "block";
   } else {
-      document.getElementById("myBtn").style.display = "none";
+      document.getElementById("backtotops").style.display = "none";
   }
   }
 
@@ -326,7 +326,7 @@ layout: base
   document.documentElement.scrollTop = 0;
   }
   </script>
-  <button onclick="topFunction()" id="myBtn" title="Go to top" style="display: none;">˄ Top</button>
+  <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
   <div class="usa-overlay"></div>
   <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
     {{ content }}
