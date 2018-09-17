@@ -28,7 +28,7 @@ tags:
 ---
 As public servants, we have a unique privilege to serve our country and the responsibility to ensure our fellow Americans’ tax dollars produce results that enhance their lives.
 
-Some federal employees have the honor of working face-to-face with the American people, like the firefighters who protect our communities from wildfire and the responders who provide food, clothing, and shelter in the aftermath of a natural disaster. Other federal employees who serve behind the scenes ensure the food we feed our families and the roads we drive on are safe. Many federal employees drive innovation and technology produce better outcomes for Americans, like the scientists who use federal data to reduce the overprescription of opioids. Every day civil servants are working for you, your family, your community, and the nation.
+Some federal employees have the honor of working face-to-face with the American people, like the firefighters who protect our communities from wildfire and the responders who provide food, clothing, and shelter in the aftermath of a natural disaster. Other federal employees who serve behind the scenes ensure the food we feed our families and the roads we drive on are safe. Many federal employees drive innovation and technology to produce better outcomes for Americans, like the scientists who use federal data to reduce the overprescription of opioids. Every day civil servants are working for you, your family, your community, and the nation.
 
 All of these federal employees across the government play pivotal roles in achieving the President's vision for a modern, effective government. Hard-working and innovative federal employees should be recognized, which is why we launched the Gears of Government Awards.
 
