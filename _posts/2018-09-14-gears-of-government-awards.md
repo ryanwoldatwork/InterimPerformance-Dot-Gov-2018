@@ -36,4 +36,4 @@ The Gears of Government Awards recognize individuals and teams across the federa
 
 We look forward to sharing the stories of exceptional civil servants who are shaping a more modern, effective government and living the values of mission, service, and stewardship.
 
-<a class="usa-button" href="/gearawards">Learn About the Awards</a>
+<a class="usa-button" href="{{ site.baseurl }}/gearawards">Learn About the Awards</a>
