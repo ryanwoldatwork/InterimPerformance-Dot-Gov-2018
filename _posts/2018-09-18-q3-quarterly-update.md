@@ -28,7 +28,7 @@ tags:
 - quarterly update
 - success story
 ---
-Cross-Agency Priority Goal teams released the latest updates on the high-priority federal initiatives that make-up the [President’s Management Agenda](../PMA/PMA.html). Agency goal teams also released progress updates on their own Agency Priority Goals. The CAP Goal updates showcase what teams achieved during fiscal year (FY) 2018 quarter Q3 and Q4, while the APG updates reflect progress during FY2018 Q3. All of the progress updates highlight the milestones that teams continue to work towards as they advance the goals.
+Cross-Agency Priority (CAP) Goal teams released the latest updates on the high-priority federal initiatives that make-up the [President’s Management Agenda](../PMA/PMA.html). Agency goal teams also released progress updates on their own Agency Priority Goals (APGs). The CAP Goal updates showcase what teams achieved during fiscal year (FY) 2018 quarter Q3 and Q4, while the APG updates reflect progress during FY2018 Q3. All of the progress updates highlight the milestones that teams continue to work towards as they advance the goals.
 
 For more information about why goal teams provide quarterly updates, please visit the [Performance Framework](../about/framework_about.html) section, which includes an explanation of [CAP Goals](../about/CAP_about.html) and [APGs](../about/APG_about.html).
 
