@@ -52,7 +52,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [APG: Department of Veterans Affairs Veteran Suicide Prevention](../veterans_affairs/APG_va_4.html)
 
-<img src="../img/agency/Veterans_Affairs_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Veterans Health Administration (VHA) is steadily increasing the use of interventions for Veterans at-risk for suicide through the use of predictive modeling and enhanced engagement strategies. As of June 30, 2018, more than 60% of Veterans targeted through predictive modeling algorithms within the VHA system received core recommended interventions—exceeding targets on the way to reaching a 90% goal by September 30, 2019.
+<img src="../img/agency/Veterans_Affairs_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Veterans Health Administration (VHA) is steadily increasing the use of interventions for Veterans at-risk for suicide through the use of predictive modeling and enhanced engagement strategies. As of June 30, 2018, 68% of Veterans targeted through predictive modeling algorithms within the VHA system received core recommended interventions—exceeding targets on the way to reaching a 90% goal by September 30, 2019.
 
 ### How to Find the Action Plans & Progress Reports
 
