@@ -34,6 +34,10 @@ For more information about why goal teams provide quarterly updates, please visi
 
 ### A Few Highlights from the CAP Goal and APG Progress Updates
 
+#### [CAP Goal: Modernize Infrastructure Permitting](../CAP/CAP_goal_12.html)
+
+<img src="../img/CAP_icons/Icon_Modernize_Infrastructure_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The Permitting Council’s work has already saved $1 billion by avoiding permitting process delays. The team is focused on ensuring efficiency in the permitting process, breaking down silos through enhanced coordination, and providing oversight and issue resolution.
+
 #### [CAP Goal: Category Management - Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies](../CAP/CAP_goal_7.html)
 
 <img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The “Next Generation Package Delivery” solution saw a cost avoidance of $34.8M since it became available in October 2017 by helping agencies manage demand and timing of their shipments. This is just one example of how streamlining the way government buys goods and services is saving money and enabling the government to be stewards of taxpayer dollars.
