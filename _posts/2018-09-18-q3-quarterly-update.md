@@ -56,13 +56,13 @@ For more information about why goal teams provide quarterly updates, please visi
 
 ### How to Find the Action Plans & Progress Reports
 
-To view Agency Priority Goal updates:
+To view latest Agency Priority Goal updates:
 1. Click on “Agencies” on the menu at the top of the page
 2. Click on the name of the Agency that you would like to view
 3. Select the title of the APG from the menu on the left side of the page
 4. Find the Q3 Action Plan under “Action Plans and Progress Updates”
 
-To view FY2018 Q3/Q4 CAP goal updates:
+To view latest CAP goal updates:
 1. Click <a href="../CAP/CAP_goals.html">here</a> to access a list of all CAP Goals
 2. Select the goal you would like to view
 3. Find the Q3/Q4 Action Plan under “Action Plans and Progress Updates”
