@@ -17,7 +17,7 @@ summary: summary_large_image
 
 excerpt: Cross-Agency and Agency Priority Goal teams today released the latest updates on the progress of high-priority federal initiatives..
 
-image: "/img/blog/XXXXXX.png"
+image: "/img/blog/FY18Q3-update.jpeg"
 authors:
 - Performance.gov Team
 
