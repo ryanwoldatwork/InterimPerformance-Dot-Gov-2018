@@ -27,17 +27,19 @@ tags:
 - quarterly update
 - success story
 ---
-Cross-Agency and Agency Priority Goal teams today released the latest updates on the progress of high-priority federal initiatives. The progress updates showcase what Agency Priority Goal (APG) teams achieved during the third quarter of fiscal year 2018 (FY2018 Q3) and what Cross-Agency Priority (CAP) Goal teams achieved during FY2018 Q3 and Q4. The progress updates highlight the milestones that teams continue to work towards as they advance toward the goals.
+Cross-Agency Priority Goal teams released the latest updates on the high-priority federal initiatives that make-up the [President’s Management Agenda](../PMA/PMA.html). Agency goal teams also released progress updates on their own Agency Priority Goals. The CAP Goal updates showcase what teams achieved during fiscal year (FY) 2018 quarter Q3 and Q4, while the APG updates reflect progress during FY2018 Q3. All of the progress updates highlight the milestones that teams continue to work towards as they advance the goals.
 
-### A Few Highlights from the Progress Updates
+For more information about why goal teams provide quarterly updates, please visit the [Performance Framework](../about/framework_about.html) section, which includes an explanation of [CAP Goals](../about/CAP_about.html) and [APGs](../about/APG_about.html).
+
+### A Few Highlights from the CAP Goal and APG Progress Updates
 
 #### [CAP Goal: Modernize Infrastructure Permitting](../CAP/CAP_goal_12.html)
 
-<img src="../img/CAP_icons/Icon_Modernize_Infrastructure_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The Permitting Council’s continuing efforts to ensure efficiency in the permitting process, break down silos through enhanced coordination, and provide oversight and issue resolution, have resulted in $1 billion in cost savings through avoided permitting process delays.
+<img src="../img/CAP_icons/Icon_Modernize_Infrastructure_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The Permitting Council’s has already saved $1 billion by avoiding permitting process delays. The team’s is focused on ensuring efficiency in the permitting process, breaking down silos through enhanced coordination, and providing oversight and issue resolution.
 
 #### [CAP Goal: Category Management - Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies](../CAP/CAP_goal_7.html)
 
-<img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The “Next Generation Package Delivery” solution saw a cost avoidance of $34.8M since it became available in October 2017 by helping agencies manage demand and timing of their shipments. This is another effort that is enabling the government to be stewards of taxpayer dollars.
+<img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The “Next Generation Package Delivery” solution saw a cost avoidance of $34.8 million since it became available in October 2017 by helping agencies manage demand and timing of their shipments. This is just one example of how streamlining the way government buys goods and services is saving money and enabling the government to be stewards of taxpayer dollars.
 
 #### [CAP Goal: Improve Transfer of Federally-Funded Technologies from Lab-to-Market](../CAP/CAP_goal_14.html)
 
@@ -49,7 +51,7 @@ Cross-Agency and Agency Priority Goal teams today released the latest updates on
 
 #### [APG: Department of Veterans Affairs Veteran Suicide Prevention](../veterans_affairs/APG_va_4.html)
 
-<img src="../img/agency/Veterans_Affairs_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">VHA is steadily increasing the use of interventions for Veterans at-risk for suicide through the use of predictive modeling and enhanced engagement strategies. As of June 30, 2019, more than 60% of Veterans targeted through predictive modeling algorithms within the VHA system received core recommended interventions.
+<img src="../img/agency/Veterans_Affairs_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Veterans Health Administration (VHA) is steadily increasing the use of interventions for Veterans at-risk for suicide through the use of predictive modeling and enhanced engagement strategies. As of June 30, 2019, more than 60% of Veterans targeted through predictive modeling algorithms within the VHA system received core recommended interventions.
 
 ### How to Find the Action Plans & Progress Reports
 
@@ -63,7 +65,3 @@ To view FY2018 Q3/Q4 CAP goal updates:
 1. Click <a href="../CAP/CAP_goals.html">here</a> to access a list of all CAP Goals
 2. Select the goal you would like to view
 3. Find the Q3/Q4 Action Plan under “Action Plans and Progress Updates”
-
-### Background on Quarterly Updates
-
-For more information about why agencies provide quarterly updates, please visit the <a href="/about/framework_about.html">Performance Framework</a> section, which includes an explanation of <a href="../about/CAP_about.html">CAP Goals</a> and <a href="../about/APG_about.html">APGs</a>.
