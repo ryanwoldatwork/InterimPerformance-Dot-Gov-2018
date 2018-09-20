@@ -44,7 +44,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [CAP Goal: Improve Transfer of Federally-Funded Technologies from Lab-to-Market](../CAP/CAP_goal_14.html)
 
-<img src="../img/CAP_icons/Icon_Enhance_Technology_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The Army Research Laboratory opened its newest Open Campus hub in April 2018 at the George J. Kostas Research institute for Homeland Security at Northwestern University. This partnership will allow Army scientists to work with top research universities to find ways to make our warfighters safer and stronger. In addition to its main laboratories in Maryland, the Army Research Laboratory also recently established regional presences in California, Texas, and Illinois.
+<img src="../img/CAP_icons/Icon_Enhance_Technology_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The Army Research Laboratory opened its newest Open Campus hub in April 2018 at the George J. Kostas Research institute for Homeland Security at Northeastern University. This partnership will allow Army scientists to work with top research universities to find ways to make our warfighters safer and stronger. In addition to its main laboratories in Maryland, the Army Research Laboratory also recently established regional presences in California, Texas, and Illinois.
 
 #### [APG: Department of Labor Job Creation: Apprenticeship Expansion](../labor/APG_labor_3.html)
 
