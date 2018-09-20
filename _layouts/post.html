@@ -35,14 +35,14 @@ layout: navigation_PMA
           <span class="post-tags" itemprop="keywords">
             {% for tag in page.tags %}
               <span class="usa-label">
-              <a href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
+              <a style="color:#ffffff;" href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
               </a>
             </span>
             {% endfor %}
 
 
             {% include share-bar.html %}
-          
+
 
           <p>
             {{ content }}
