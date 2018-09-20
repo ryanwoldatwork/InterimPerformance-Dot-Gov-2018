@@ -7,9 +7,9 @@ rating: "0"
 
 agency:
 
-permalink: /2018-09-18-q3-quarterly-update.md/
+permalink: /2018-09-20-q3-quarterly-update.md/
 
-url: /2018-09-18-q3-quarterly-update.md/
+url: /2018-09-20-q3-quarterly-update.md/
 
 description: Cross-Agency and Agency Priority Goal teams today released the latest updates on the progress of high-priority federal initiatives.
 
