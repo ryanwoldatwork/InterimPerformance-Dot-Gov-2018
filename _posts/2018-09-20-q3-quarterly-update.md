@@ -28,7 +28,7 @@ tags:
 - quarterly update
 - success story
 ---
-As part of advancing the [President’s Management Agenda](../PMA/PMA.html), Cross-Agency Priority (CAP) Goal teams released the latest quarterly progress on these high-priority federal initiatives. Agencies also released progress updates on their own Agency Priority Goals. The CAP Goal updates showcase what teams have achieved to date, while the APG updates reflect progress through June 2018. All of the progress updates highlight the milestones that teams continue to work towards as they advance the goals.
+As part of advancing the [President’s Management Agenda](../PMA/PMA.html), Cross-Agency Priority (CAP) Goal teams released the latest quarterly progress on these high-priority federal initiatives. Agencies also released progress updates on their own Agency Priority Goals. The CAP Goal updates showcase what teams have achieved to date, while the APG updates reflect progress through June 2018. All of the progress updates highlight upcoming milestones as teams continue to use these goals to advance mission, service, and stewardship on behalf of the American people.
 
 For more information about why goal teams provide quarterly updates, please visit the [Performance Framework](../about/framework_about.html) section, which includes an explanation of [CAP Goals](../about/CAP_about.html) and [APGs](../about/APG_about.html).
 
