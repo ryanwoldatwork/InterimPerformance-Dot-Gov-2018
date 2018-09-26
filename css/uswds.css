@@ -3744,8 +3744,8 @@ input.usa-input-medium {
 .usa-hero {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-image: url("../img/homepage_images/newhero2_blue_overlay.png"); /*blue overlay image*/
-  /*background-image: url("../img/homepage_images/newhero2_gradient.png"); red to blue gradient image*/
+  /*background-image: url("../img/homepage_images/newhero2_blue_overlay.png"); /*blue overlay image*/
+  background-image: url("../img/homepage_images/newhero2_gradient.png"); /*bred to blue gradient image*/
   /*background-image: url("../img/homepage_images/newhero2_v2.JPG.jpg"); /*original banner image*/
   /*background: linear-gradient(to bottom right,#981b1e,#112E51) ;activate linear gradient and opacity and comment out background images for no banner image on homepage
   opacity: 1; activate opactiy witih background: linear gradient for no banner image on homepage*/
