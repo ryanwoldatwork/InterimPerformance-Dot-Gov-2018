@@ -1723,6 +1723,12 @@ legend {
 
 }
 
+.usa-label:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+    color: #ffffff;
+}
+
+
 .usa-label:first-child  {
   background-color: #981b1e;
   border-radius: 0.3rem;
@@ -1741,6 +1747,11 @@ legend {
   margin-top: .5em;
   padding: 0.3rem
 
+}
+
+.usa-label:last-child:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+    color: #ffffff;
 }
 
 .usa-label a {
@@ -4837,7 +4848,7 @@ color: #112e51;
 }
 
 .usa-section-lightblue {
-background-color: #ffffff;
+background-color: #dce4ef;
 color: #212121;
 border-top: 1.6rem solid #112e51;
 }
