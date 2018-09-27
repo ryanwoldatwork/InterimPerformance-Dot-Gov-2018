@@ -44,7 +44,7 @@ BPAs were awarded to the following teams:
 * Team Carahsoft: Carahsoft Technology Corporation, Immix Technology, and Deloitte Consulting LLP
 * Solution: Kronos and SAP
 * Team Grant Thornton: Grant Thornton, The Arcanum Group, Inc., and CGI Federal
-* Solution: Infor.
+* Solution: Infor
 
 **About GSA**
 
