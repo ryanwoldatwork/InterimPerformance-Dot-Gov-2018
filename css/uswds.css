@@ -1723,6 +1723,12 @@ legend {
 
 }
 
+.usa-label:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+    color: #ffffff;
+}
+
+
 .usa-label:first-child  {
   background-color: #981b1e;
   border-radius: 0.3rem;
@@ -1741,6 +1747,11 @@ legend {
   margin-top: .5em;
   padding: 0.3rem
 
+}
+
+.usa-label:last-child:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+    color: #ffffff;
 }
 
 .usa-label a {
@@ -3213,7 +3224,7 @@ li.usa-footer-primary-content:last-child {
   }
 }
 
-.usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss {
+.usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss, .usa-link-mail {
   margin: 2.5rem 1rem 1.5rem 0;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3227,13 +3238,13 @@ li.usa-footer-primary-content:last-child {
 }
 
 @media screen and (min-width: 600px) {
-  .usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss {
+  .usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss, .usa-link-mail {
     margin: 0 0 0 1rem;
     left: 1.2rem;
   }
 }
 
-.usa-social_link span, .usa-link-facebook span, .usa-link-twitter span, .usa-link-youtube span, .usa-link-rss span {
+.usa-social_link span, .usa-link-facebook span, .usa-link-twitter span, .usa-link-youtube span, .usa-link-rss span, .usa-link-mail span {
   position: absolute;
   left: -999em;
 }
@@ -3256,6 +3267,11 @@ li.usa-footer-primary-content:last-child {
 .usa-link-rss {
   background-image: url("../img/social-icons/png/rss25.png");
   background-image: url("../img/social-icons/svg/rss25.svg");
+}
+
+.usa-link-mail {
+  background-image: url("../img/social-icons/png/mail.png");
+  background-image: url("../img/social-icons/svg/mail.svg");
 }
 
 form a {
@@ -4790,7 +4806,7 @@ color: #112e51;
 }
 
 .usa-section-lightblue {
-background-color: #ffffff;
+background-color: #dce4ef;
 color: #212121;
 border-top: 1.6rem solid #112e51;
 }
@@ -4805,6 +4821,11 @@ border-top: 1.6rem solid #205493;
 background-color: #112e51;
 color: #ffffff;
 border-top: 1.6rem solid #205493;
+}
+
+.usa-section-takeaways {
+background-color: #e1f3f8;
+color: #323a45;
 }
 
 .usa-section-video {
