@@ -30,7 +30,11 @@
 <!--other social media sharing: Facebook and LinkedIn-->
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:description" content="{{ page.description }}">
-<meta property="og:image:src" content="{{ site.url }}{{ page.image }}"><meta property="og:url" content="{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}">
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="600" />
+<meta property="og:type"  content="article" />
+<meta property='og:url' content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 <!--end of Facebook and LinkedIn-->
 <!-- We participate in the US government's analytics
 <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->

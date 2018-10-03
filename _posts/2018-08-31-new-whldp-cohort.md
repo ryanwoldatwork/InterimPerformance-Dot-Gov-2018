@@ -9,6 +9,8 @@ agency:
 
 permalink: /2018-08-31-new-whldp-cohort.md/
 
+url: /2018-8-31-new-whldp-cohort.md
+
 description: Over the past three years, the program has accelerated the development of 44 high-performing civil servants to help build the next cadre of leaders in the executive branch.
 
 summary: summary_large_image
