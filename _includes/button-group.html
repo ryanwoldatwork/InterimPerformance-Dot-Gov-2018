@@ -1,0 +1,8 @@
+
+
+<div class="button-group filter-button-group">
+	{% for agency-acronym in site.GoG_winners %}
+		<a class="button" data-filter=".{{ agency-acronym }}">{{ agency-acronym }}</a>
+	{% endfor %}
+		<a class="button active" data-filter="GSA">Name</a>
+</div>

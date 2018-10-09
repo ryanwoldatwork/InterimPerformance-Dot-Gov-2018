@@ -1,12 +1,66 @@
-<div class="winner-container">
+<center>
+  <div class="winner-container">
   <img
      src="{{ site.baseurl }}{{ GoG_winners.image }}"
      id="winner"
      >
 <div class="winner-text">
   <p class="card-tag">{{ GoG_winners.agency }}</p>
-  <p><b>{{ GoG_winners.name}}</b>, <i>{{ GoG_winners.title}}</i></p>
-  <p>{{ GoG_winners.award }}</p>
+  <p class="name-text"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>--><br>
+  {{ GoG_winners.award }} Award</p>
 </div>
 
 </div>
+</center>
+
+
+<script src="http://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+<script>
+	// init Isotope
+	var $grid = $('.grid').isotope({
+	  // options
+	});
+	// filter items on button click
+	$('.filter-button-group').on( 'click', 'a', function() {
+	  var filterValue = $(this).attr('data-filter');
+	  $grid.isotope({ filter: filterValue });
+	});
+	$('.button-group a.button').on('click', function(){
+		$('.button-group a.button').removeClass('active');
+		$(this).addClass('active');
+	});
+</script>
+<style type="text/css">
+	a.button.active {
+		background: #F76B48;
+		border: 1px solid #F76B48;
+		color: #fff;
+	}
+</style>
+
+
+
+
+<!--<div class="button-group filter-button-group">
+	{% for agency-acronym in site.GoG_winners %}
+		<a class="button" data-filter=".{{ agency-acronym }}">{{ agency-acronym }}</a>
+	{% endfor %}
+		<a class="button active" data-filter="GSA">Agency</a>
+</div>
+
+
+<center>
+  <div class="winner-container grid">
+  <img
+     src="{{ site.baseurl }}{{ GoG_winners.image }}"
+     id="winner"
+     >
+<div class="winner-text">
+  <p class="card-tag">{{ GoG_winners.agency }}</p>
+  <p class="name-text"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>--><br>
+<!--  {{ GoG_winners.award }} Award</p>
+</div>
+
+</div>
+</center>-->

@@ -1,5 +1,5 @@
 ---
-title: "WHall of Winners"
+title: "Hall of Winners"
 layout: navigation_PMA
 
 ---
@@ -20,6 +20,7 @@ layout: navigation_PMA
       <div class="usa-media_block-body">
         <h1>Hall of Winners</h1>
       </div>
+      {% include button-group.html %}
     </div>
   </div>
 </section>
@@ -38,3 +39,32 @@ layout: navigation_PMA
   </div>
 </div>
 </section>
+
+<script>
+
+// filter .GSA items
+$grid.isotope({ filter: '.GSA' });
+
+// filter .alkali OR .alkaline-earth items
+$grid.isotope({ filter: '.alkali, .alkaline-earth' });
+
+// filter .metal AND .transition items
+$grid.isotope({ filter: '.metal.transition' });
+
+// show all items
+$grid.isotope({ filter: '*' });
+
+/ init Isotope
+var $grid = $('.grid').isotope({
+  // options
+});
+// filter items on button click
+$('.filter-button-group').on( 'click', 'a', function() {
+  var filterValue = $(this).attr('data-filter');
+  $grid.isotope({ filter: filterValue });
+});
+$('.button-group a.button').on('click', function(){
+	$('.button-group a.button').removeClass('active');
+	$(this).addClass('active');
+});
+</script>
