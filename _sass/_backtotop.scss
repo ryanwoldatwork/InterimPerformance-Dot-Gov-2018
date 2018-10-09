@@ -14,6 +14,12 @@
     font-size: 18px; /* Increase font size */
 }
 
+@media screen and (max-width: 480px) {
+  #backtotop {
+    width: 85px;
+  }
+}
+
 #backtotop:hover {
     background-color: #555; /* Add a dark-grey background on hover */
 }
