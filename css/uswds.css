@@ -3606,7 +3606,7 @@ input.usa-input-medium {
   color: #ffffff;
 }
 
-.usa-overlay {
+/*.usa-overlay {
   position: fixed;
   top: 0;
   right: 0;
@@ -3622,7 +3622,7 @@ input.usa-input-medium {
 .usa-overlay.is-visible {
   opacity: 0.1;
   visibility: visible;
-}
+}*/
 
 @media screen and (min-width: 951px) {
   .usa-header-basic .usa-logo {
@@ -3751,13 +3751,39 @@ input.usa-input-medium {
 		top: 0;
 	}
 
-.usa-hero {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-image: url("../img/homepage_images/newhero2_v2 JPG.jpg");
+  .usa-hero {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url("../img/homepage_images/newhero2_v2 JPG.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+/*.usa-hero {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  /*background-image: url("../img/homepage_images/newhero2_blue_overlay.png"); /*blue overlay image*/
+  /*background-image: url("../img/homepage_images/newhero2_gradient.png"); /*bred to blue gradient image*/
+  /*background-image: url("../img/homepage_images/newhero2_v2.JPG.jpg"); /*original banner image*/
+  /*background: linear-gradient(to bottom right,#981b1e,#112E51) ;activate linear gradient and opacity and comment out background images for no banner image on homepage
+  opacity: 1; activate opactiy witih background: linear gradient for no banner image on homepage*/
+/*  position: relative;
   background-position: center;
   background-size: cover;
-}
+}*/
+
+/*.usa-hero:after {    activate this field with backgroun: linear gradient above for no banner on homepage
+  content: " ";
+ display: block;
+ position: absolute;
+ height: 100%;
+ top: 0;
+ left: 0;
+ right: 0;
+ background: linear-gradient(to bottom right,#981b1e,#112E51) ;
+ opacity: 1;
+}*/
+
 
 .usa-hero .usa-button {
   color: #ffffff;
@@ -3793,7 +3819,7 @@ input.usa-input-medium {
 
 @media screen and (min-width: 481px) {
   .usa-hero-callout {
-    max-width: 30rem;
+    max-width: 30rem;r
   }
 }
 
@@ -3804,13 +3830,36 @@ input.usa-input-medium {
 
 .usa-hero-callout .usa-button {
   font-size: 1.4rem;
-  margin-top: 1rem;
+  margin-top: 5rem;
   width: 100%;
 }
 
 .usa-hero-callout-alt {
   color: #ffffff;
   display: block;
+}
+
+.usa-hero-callout-gradient {
+  background-color: #112e51;
+  padding: 3rem;
+
+}
+
+@media screen and (min-width: 481px) {
+  .usa-hero-callout-gradient {
+    max-width: 30rem;r
+  }
+}
+
+.usa-hero-callout-gradient > *:first-child {
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
+
+.usa-hero-callout-gradient .usa-button {
+  font-size: 1.4rem;
+  margin-top: 0rem;
+  width: 100%;
 }
 
 .usa-layout-docs {
