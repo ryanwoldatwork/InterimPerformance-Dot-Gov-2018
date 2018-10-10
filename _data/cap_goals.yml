@@ -1,6 +1,6 @@
 - title: Cybersecurity
   updated: (Updated Q2 2018)
-  kpi_url: https://tableau.d2d.gsa.gov/#/workbooks/767/views
+  kpi_url: https://staging.d2d.gsa.gov/tableau-report-for-embed/10277
   pdf_url: /CAP/KPI_Cybersecurity_FY2018_Q2.pdf
   img: /CAP/Cyber_Security.JPG
   url: /CAP/CAP_goal_1.html
@@ -14,21 +14,21 @@
 
 - title: Federal Employee Viewpoint Survey
   updated: (Updated Q1 2018)
-  kpi_url: https://tableau.d2d.gsa.gov/#/workbooks/770/views
+  kpi_url: https://staging.d2d.gsa.gov/tableau-report-for-embed/10281
   pdf_url: /CAP/EVS_Final_Round.pdf
   img: /CAP/EVS_Final_Round-1.JPG
   url: /CAP/CAP_goal_3.html
 
 - title: Customer Satisfaction Scores
   updated: (Updated Q1 2018)
-  kpi_url: https://tableau.d2d.gsa.gov/#/workbooks/763/views
+  kpi_url: https://staging.d2d.gsa.gov/tableau-report-for-embed/10280
   pdf_url: /CAP/Customer_Satisfaction_Scores.pdf
   img: /CAP/Customer_Satisfaction_Scores.JPG
   url: /CAP/CAP_goal_5.html
 
 - title: Cash Loss to the Government
   updated: (Updated Q1 2018)
-  kpi_url: https://tableau.d2d.gsa.gov/#/workbooks/769/views
+  kpi_url: https://staging.d2d.gsa.gov/tableau-report-for-embed/10283
   pdf_url: /CAP/Improper_Payments.pdf
   img: /CAP/Improper_payments.JPG
   url: /CAP/CAP_goal_9.html
