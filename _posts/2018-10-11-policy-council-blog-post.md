@@ -30,21 +30,27 @@ The PMIAA designates the Program Management Policy Council (PMPC) as the leading
 
 During the meeting, PMIOs voiced priorities for the next two years and sought to identify how the Council can be most effective in supporting the Administration’s 5-year strategic plan for improving program and project management. Specific items included the development of career path guidance to attract and retain excellent program managers and exploring the design of a rotational program for program managers to gain experience in other agencies. Check Performance.gov for regular updates as this important work progresses as part of the PMA. 
 
-The PMPC members, and agency PMIOs, consist of:
-<table border="0">
- <tr>
-    <td><b>George Cabaniss</b></td>
-    <td><b>Barry Berkowitz</b></td>
-    <td><b>Doug Webster</b></td>
- </tr>
- <tr>
-   <td><i> Director, Office of Contracting and Procurement</i> 
-     <br> United States Department of Agrculture</td>
-    <td><i> SPE and Director OAM</i>
-<br> Department of Commerce</td>
-<td><i>Chief Financial Officer/Chief Acquisition Officer</i>
-<br> Department of Education</td>
- </tr>
-</table>
+<center><h3>The PMPC members, and agency PMIOs, consist of:</h3></center>
+<div class="grid-post">
+  <div id="post-white-grid"><b>Mr. Anselm Beach</b><br><i>Director, Diversity and EEO</i><br>U.S. Department of Homeland Security</div>
+  <div id="post-white-grid"><b>Ms. Michelle Dorsey</b><br><i>Chief of Radiology, Phoenix VA Health Care System</i><br>U.S. Department of Veterans Affairs</div>
+  <div id="post-white-grid"><b>Mr. Helena Fu</b><br><i>Supervisory Foreign Affairs Specialist</i><br>U.S. Department of Energy</div>
+  <div id="post-white-grid"><b>Ms. Nicoletta Giordani</b><br><i>Assistant Director, Industrial Policy & Programs</i><br>U.S. Department of Defense</div>
+  <div id="post-white-grid"><b>Ms. Tamara Hamaty</b><br><i>Associate Director for Public Health Intelligence</i><br>U.S. Department of Health and Human Services</div>
+  <div id="post-white-grid"><b>Mr. Robert Hankinson</b><br><i>Information Integrity Branch Chief</i><br>U.S. Department of State</div>
+  <div id="post-white-grid"><b>Mr. William Huie</b><br><i>Supervisory IT Specialist, OPP</i><br>U.S. General Services Administration</div>
+  <div id="post-white-grid"><b>Ms. Lelia Jackson</b><br><i>Director, Center for Compassionate Innovation, Veterans Health Administration</i><br>U.S. Department of Veterans Affairs</div>
+  <div id="post-white-grid"><b>Mr. Bradley Jewitt</b><br><i>Chief, Facilities Management Division</i><br>U.S. National Aeronautics and Space Administration</div>
+  <div id="post-white-grid"><b>Mr. Yaropolk Kulchyckyj</b><br><i>Director, Budget and Administration</i><br>U.S. Department of State</div>
+  <div id="post-white-grid"><b>Ms. Jeannette Mandycz</b><br><i>Division Director, Office of the General Counsel</i><br>U.S. Social Security Administration</div>
+  <div id="post-white-grid"><b>Mr. Salim Mawani</b><br><i>Senior Advisor, Federal Motor Carrier Safety Administration</i><br>U.S. Department of Transportation</div>
+  <div id="post-white-grid"><b>Mr. Clifford McCoy</b><br><i>Acting Deputy Chief Security Officer</i><br>U.S. Department of Homeland Security</div>
+  <div id="post-white-grid"><b>Ms. Gloria Perry</b><br><i>Acquisition Program Manager</i><br>U.S. Department of Defense</div>
+  <div id="post-white-grid"><b>Mr. Chris Polen</b><br><i>Director, Financial Policy</i><br>U.S. Department of Labor</div>
+  <div id="post-white-grid"><b>Mr. Richard Skokowski</b><br><i>Enforcement Officer and Team Leader</i><br>U.S. Nuclear Regulatory Commission</div>
+  <div id="post-white-grid"><b>Ms. Kimberly Smith</b><br><i>Senior Financial Economist</i><br>U.S. Agency for International Development</div>
+  <div id="post-white-grid"><b>Ms. Kim Tuminaro</b><br><i>Senior Trade Officer and Transatlantic Economic Council Coordinator</i><br>U.S. Department of State</div>
+  <div id="post-white-grid"><b>Mr. Khoa Vo</b><br><i>Chief, Spaceport Systems Branch</i><br>U.S. National Aeronautics and Space Administration</div>
+</div>
 
 
