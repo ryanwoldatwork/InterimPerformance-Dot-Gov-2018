@@ -14,7 +14,7 @@ description: Agency Leaders Gather to Implement Improvement Initiatives
 
 excerpt: Agency leaders gather to advance the President Management Agenda's efforts to implement program management improvement initiatives. 
 
-image: !img/blog/whitehouse_reduced.jpeg
+image: ! /img/blog/whitehouse_reduced.jpeg
 
 authors:
 - Performance.gov Team
