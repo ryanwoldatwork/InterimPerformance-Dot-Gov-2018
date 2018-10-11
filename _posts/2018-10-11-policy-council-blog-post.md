@@ -14,7 +14,7 @@ description: Agency Leaders Gather to Implement Improvement Initiatives
 
 excerpt: Agency leaders gather to advance the President Management Agenda's efforts to implement program management improvement initiatives. 
 
-image: ![White House](https://github.com/GSA/InterimPerformance-Dot-Gov-2018/blob/2018-10-11-policy-council-blog-post/img/blog/whitehouse_reduced.jpeg?raw=true)"
+image: !https://github.com/GSA/InterimPerformance-Dot-Gov-2018/blob/2018-10-11-policy-council-blog-post/img/blog/whitehouse_reduced.jpeg?raw=true)"
 
 authors:
 - Performance.gov Team
@@ -33,17 +33,17 @@ During the meeting, PMIOs voiced priorities for the next two years and sought to
 The PMPC members, and agency PMIOs, consist of:
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">George Cabaniss</b></td>
-    <td><b style="font-size:30px">Barry Berkowitz</b></td>
-    <td><b style="font-size:30px">Doug Webster</b></td>
+    <td><b>George Cabaniss</b></td>
+    <td><b>Barry Berkowitz</b></td>
+    <td><b>Doug Webster</b></td>
  </tr>
  <tr>
    <td><i> Director, Office of Contracting and Procurement</i> 
-     <br> United States Department of Agrculture</br></td>
+     <br> United States Department of Agrculture</td>
     <td><i> SPE and Director OAM</i>
-<br> Department of Commerce</br></td>
+<br> Department of Commerce</td>
 <td><i>Chief Financial Officer/Chief Acquisition Officer</i>
-<br> Department of Education</br></td>
+<br> Department of Education</td>
  </tr>
 </table>
 
