@@ -7,7 +7,7 @@
 
 - title: Category Management
   updated: (Updated Q2 2018)
-  kpi_url: /CAP/KPI_Category_Management_FY2018_Q2.pdf
+  kpi_url: 
   pdf_url: /CAP/KPI_Category_Management_FY2018_Q2.pdf
   img: /CAP/Spend_Under_Management.JPG
   url: /CAP/CAP_goal_7.html
@@ -32,3 +32,10 @@
   pdf_url: /CAP/Improper_Payments.pdf
   img: /CAP/Improper_payments.JPG
   url: /CAP/CAP_goal_9.html
+
+- title: Cloud Email Adoption
+  updated: (Updated Q3 2018)
+  kpi_url: https://staging.d2d.gsa.gov/tableau-report-for-embed/10279
+  pdf_url: /CAP/KPI_Cloud_Email_Adoption_Q3.pdf
+  img: /CAP/Email_Cloud_Adoption_capture.PNG
+  url: /CAP/CAP_goal_1.html
