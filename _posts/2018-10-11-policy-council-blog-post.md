@@ -30,5 +30,21 @@ The PMIAA designates the Program Management Policy Council (PMPC) as the leading
 
 During the meeting, PMIOs voiced priorities for the next two years and sought to identify how the Council can be most effective in supporting the Administration’s 5-year strategic plan for improving program and project management. Specific items included the development of career path guidance to attract and retain excellent program managers and exploring the design of a rotational program for program managers to gain experience in other agencies. Check Performance.gov for regular updates as this important work progresses as part of the PMA. 
 
+The PMPC members, and agency PMIOs, consist of:
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">George Cabaniss</b></td>
+    <td><b style="font-size:30px">Barry Berkowitz</b></td>
+    <td><b style="font-size:30px">Doug Webster</b></td>
+ </tr>
+ <tr>
+   <td><i> Director, Office of Contracting and Procurement</i> 
+     <br> United States Department of Agrculture</br></td>
+    <td><i> SPE and Director OAM</i>
+<br> Department of Commerce</br></td>
+<td><i>Chief Financial Officer/Chief Acquisition Officer</i>
+<br> Department of Education</br></td>
+ </tr>
+</table>
 
 
