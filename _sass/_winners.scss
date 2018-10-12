@@ -56,6 +56,12 @@ body {
   cursor: pointer;
 }
 
+a.button.active {
+  background: #F76B48;
+  border: 1px solid #F76B48;
+  color: #fff;
+}
+
 .button:hover {
   background-color: #8CF;
   text-shadow: 0 1px hsla(0, 0%, 100%, 0.5);
