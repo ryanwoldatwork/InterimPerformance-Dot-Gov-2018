@@ -56,6 +56,7 @@ During the meeting, PMIOs voiced priorities for the next two years and sought to
   <div id="post-white-grid"><b>James Richardson</b><br><i>Assistant to the Administrator, Bureau for Policy, Planning, and Learning</i><br>United States Agengy for International Development</div>
   <div id="post-white-grid"><b>Scott E. Hine</b><br><i>PMP, FAC-P/PM (IT) Senior, DAWIA III Director, Information Technology Services Office (ITSO) and Acting Director, Workforce Management Office</i><br>FedPM</div>
   <div id="post-white-grid"><b>Douglas Pitkin</b><br><i>Director, Bureau of Budget and Planning</i><br>Department of State</div>
+  <br>
   <div id="post-white-grid"><b>Gerard Badorrek</b><br><i>Chief Financial Officer and Performance Improvement Officer</i><br>General Services Administraton</div>
 </div>
 
