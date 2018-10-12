@@ -1,5 +1,0 @@
----
--category:
-  GSA
-  OMB
----

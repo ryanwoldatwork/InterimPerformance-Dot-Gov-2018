@@ -1,20 +1,21 @@
 
+{% for GoG_winners in site.GoG_winners %}
 <center>
-  <div
-  class="winner-container"
-  data-category="GSA">
-  <img
-     src="{{ site.baseurl }}{{ GoG_winners.image }}"
-     id="winner"
-     >
-<div class="winner-text">
-  <p class="card-tag">{{ GoG_winners.agency }}</p>
-  <p class="name-text"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>--><br>
-  {{ GoG_winners.award }} Award</p>
-</div>
+  <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }}">
 
-</div>
+      <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
+      <div class="winner-text">
+        <p class="name-text"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>--><br>
+          {{ GoG_winners.award }} Award</p>
+        <p class="card-tag">{{ GoG_winners.agency }}</p>
+      </div>
+    </div>
+
 </center>
+  {% endfor %}
+
+
+<!---->
 
 
 

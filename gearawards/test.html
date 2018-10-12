@@ -4,20 +4,34 @@ layout: navigation_PMA
 
 ---
 
-<div class="wrapper">
-  <div class="iso-nav">
-    <ul>
-      <li>Show All</li>
-      <li>OMB</li>
-      <li>GSA</li>
-    </ul>
+
+<section style="background-color: #aeb0b5;" class="usa-section usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole usa-media_block">
+        <h1 style="line-height:2.3;"><img src="../img/GoG/GoG-logo.png" style="width:100px;float:left;margin-right:15px;">
+      Gears of Government Awards</h1>
+    <!--<p>Cultivating and Championing Excellence in Federal Service</p>-->
   </div>
-  <div class="main-iso">
-      <div class="item">
-        <img src="img/GoG/winners/anderson_lauren.jpg"
+</div>
+</section>
+<section class="usa-section  usa-graphic_list">
+ <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole usa-media_block">
+      <div class="usa-media_block-body">
+        <h1>Hall of Winners</h1>
       </div>
 
-    
-  </div>
-
+{% include button-group.html %}
+<div class="main-iso">
+{% include GoG_winners.html %}
 </div>
+</div>
+</div>
+
+<!--    Javascript files are here... -->
+<!--Jquery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<!--isotope here...-->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
+<!--Custom Js file here ... -->
+<script src="{{ site.baseurl }}/js/script.js"></script>

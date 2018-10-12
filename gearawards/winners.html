@@ -1,23 +1,9 @@
 ---
-title: "Hall of Winners"
+title: "Test"
 layout: navigation_PMA
 
 ---
-<script>
-	// init Isotope
-	var $grid = $('.grid').isotope({
-	  // options
-	});
-	// filter items on button click
-	$('.filter-button-group').on( 'click', 'a', function() {
-	  var filterValue = $(this).attr('data-filter');
-	  $grid.isotope({ filter: filterValue });
-	});
-	$('.button-group a.button').on('click', function(){
-		$('.button-group a.button').removeClass('active');
-		$(this).addClass('active');
-	});
-</script>
+
 
 <section style="background-color: #aeb0b5;" class="usa-section usa-graphic_list">
   <div class="usa-grid usa-graphic_list-row">
@@ -28,67 +14,25 @@ layout: navigation_PMA
   </div>
 </div>
 </section>
-
 <section class="usa-section  usa-graphic_list">
  <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-whole usa-media_block">
       <div class="usa-media_block-body">
         <h1>Hall of Winners</h1>
+        {% include button-group.html %}
       </div>
 
-      <div class="button-group filter-button-group">
-        {% for category in GoG_winners.button %}
-        <a
-        class="button"
-        data-filter=".{{ category | first }}">{{ category | first }}
-      </a>
-      {% endfor %}
-      <a class="button active" data-filter="*">All</a>
-        </div>
 
-    </div>
-  </div>
-</section>
-
-<section class="usa-section  usa-graphic_list">
- <div class="usa-grid usa-graphic_list-row">
-   <div class="usa-flex usa-flex-wrap">
-
-      {% for GoG_winners in site.GoG_winners %}
-      <div class="usa-width-one-fourth usa-media_block">
-      </div>
-      {% endfor %}
-
-  </div>
+<div class="main-iso">
+{% include GoG_winners.html %}
 </div>
-</section>
+</div>
+</div>
 
-<script>
-
-// filter .GSA items
-$grid.isotope({ filter: '.GSA' });
-
-// filter .alkali OR .alkaline-earth items
-$grid.isotope({ filter: '.alkali, .alkaline-earth' });
-
-// filter .metal AND .transition items
-$grid.isotope({ filter: '.metal.transition' });
-
-// show all items
-$grid.isotope({ filter: '*' });
-
-/ init Isotope
-var $grid = $('.grid').isotope({
-  // options
-});
-// filter items on button click
-$('.filter-button-group').on( 'click', 'a', function() {
-  var filterValue = $(this).attr('data-filter');
-  $grid.isotope({ filter: filterValue });
-});
-$('.button-group a.button').on('click', function(){
-	$('.button-group a.button').removeClass('active');
-	$(this).addClass('active');
-});
-</script>
-{% include button-group.html %}
+<!--    Javascript files are here... -->
+<!--Jquery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<!--isotope here...-->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
+<!--Custom Js file here ... -->
+<script src="{{ site.baseurl }}/js/script.js"></script>
