@@ -32,25 +32,31 @@ During the meeting, PMIOs voiced priorities for the next two years and sought to
 
 <center><h3>The PMPC members, and agency PMIOs, consist of:</h3></center>
 <div class="grid-post">
-  <div id="post-white-grid"><b>Mr. Anselm Beach</b><br><i>Director, Diversity and EEO</i><br>U.S. Department of Homeland Security</div>
-  <div id="post-white-grid"><b>Ms. Michelle Dorsey</b><br><i>Chief of Radiology, Phoenix VA Health Care System</i><br>U.S. Department of Veterans Affairs</div>
-  <div id="post-white-grid"><b>Mr. Helena Fu</b><br><i>Supervisory Foreign Affairs Specialist</i><br>U.S. Department of Energy</div>
-  <div id="post-white-grid"><b>Ms. Nicoletta Giordani</b><br><i>Assistant Director, Industrial Policy & Programs</i><br>U.S. Department of Defense</div>
-  <div id="post-white-grid"><b>Ms. Tamara Hamaty</b><br><i>Associate Director for Public Health Intelligence</i><br>U.S. Department of Health and Human Services</div>
-  <div id="post-white-grid"><b>Mr. Robert Hankinson</b><br><i>Information Integrity Branch Chief</i><br>U.S. Department of State</div>
-  <div id="post-white-grid"><b>Mr. William Huie</b><br><i>Supervisory IT Specialist, OPP</i><br>U.S. General Services Administration</div>
-  <div id="post-white-grid"><b>Ms. Lelia Jackson</b><br><i>Director, Center for Compassionate Innovation, Veterans Health Administration</i><br>U.S. Department of Veterans Affairs</div>
-  <div id="post-white-grid"><b>Mr. Bradley Jewitt</b><br><i>Chief, Facilities Management Division</i><br>U.S. National Aeronautics and Space Administration</div>
-  <div id="post-white-grid"><b>Mr. Yaropolk Kulchyckyj</b><br><i>Director, Budget and Administration</i><br>U.S. Department of State</div>
-  <div id="post-white-grid"><b>Ms. Jeannette Mandycz</b><br><i>Division Director, Office of the General Counsel</i><br>U.S. Social Security Administration</div>
-  <div id="post-white-grid"><b>Mr. Salim Mawani</b><br><i>Senior Advisor, Federal Motor Carrier Safety Administration</i><br>U.S. Department of Transportation</div>
-  <div id="post-white-grid"><b>Mr. Clifford McCoy</b><br><i>Acting Deputy Chief Security Officer</i><br>U.S. Department of Homeland Security</div>
-  <div id="post-white-grid"><b>Ms. Gloria Perry</b><br><i>Acquisition Program Manager</i><br>U.S. Department of Defense</div>
-  <div id="post-white-grid"><b>Mr. Chris Polen</b><br><i>Director, Financial Policy</i><br>U.S. Department of Labor</div>
-  <div id="post-white-grid"><b>Mr. Richard Skokowski</b><br><i>Enforcement Officer and Team Leader</i><br>U.S. Nuclear Regulatory Commission</div>
-  <div id="post-white-grid"><b>Ms. Kimberly Smith</b><br><i>Senior Financial Economist</i><br>U.S. Agency for International Development</div>
-  <div id="post-white-grid"><b>Ms. Kim Tuminaro</b><br><i>Senior Trade Officer and Transatlantic Economic Council Coordinator</i><br>U.S. Department of State</div>
-  <div id="post-white-grid"><b>Mr. Khoa Vo</b><br><i>Chief, Spaceport Systems Branch</i><br>U.S. National Aeronautics and Space Administration</div>
+  <div id="post-white-grid"><b>George Cabaniss</b><br><i>Director, Office of Contracting and Procurement</i><br>United States Department of Agriculture</div>
+  <div id="post-white-grid"><b>Barry Berkowitz</b><br><i>SPE and Director OAM</i><br>Department of Commerce</div>
+  <div id="post-white-grid"><b>Doug Webster</b><br><i>Chief Financial Officer/Chief Acquisition Officer</i><br>Department of Education</div>
+  <div id="post-white-grid"><b>Kevin Fahey</b><br><i>Assistant Secretary of Defense for Acquisition</i><br>Department of Defense</div>
+  <div id="post-white-grid"><b>Bill Eckroade</b><br><i>Acting Director, Office of Enterprise Assessments</i><br>Department of Energy</div>
+  <div id="post-white-grid"><b>John Kramer</b><br><i>Deputy Assistant Secretary for Budget, Finance</i><br>Department of Transportation</div>
+  <div id="post-white-grid"><b>Suzanne Iacono</b><br><i>Head, Office of Integrative Activities</i><br>National Science Foundation</div>
+  <div id="post-white-grid"><b>Robert Coquis</b><br><i>Deputy Assistant Secretary for Administration</i><br>Department of Health and Human Services</div>
+  <div id="post-white-grid"><b>David Eisner</b><br><i>Assistant Secretary for Management</i><br>Department of the Treasury</div>
+  <div id="post-white-grid"><b>Robert Lewis</b><br><i>Assistant for Operations, Office of the Executive Director for Operations</i><br>United States Nuclear Regulatory Commission</div>
+  <div id="post-white-grid"><b>Chip Fulghum</b><br><i>Deputy Under Secretary for Management</i><br>Department of Homeland Security</div>
+  <div id="post-white-grid"><b>Melissa Glynn</b><br><i>Assistant Secretary for Enterprise Integration</i><br>Department of Veterans Affairs</div>
+  <div id="post-white-grid"><b>Margaret Pearson</b><br><i>Associate CFO for Budget and Performance</i><br>Office of Personnel Management</div>
+  <div id="post-white-grid"><b>Patricia A. Hoban-Moore</b><br><i>Assistant Deputy Secretary</i><br>Department of Housing and Urban Development</div>
+  <div id="post-white-grid"><b>Kevin DeBell, Ph.D.</b><br><i>Senior Advisor to the Associate Deputy Administrator and Chief of Operations</i><br>Environment Protection Agency</div>
+  <div id="post-white-grid"><b>Tim Gribben</b><br><i>Chief Financial Officer and Associate Administrator for Performance Management</i><br>Small Business Administration</div>
+  <div id="post-white-grid"><b>Scott J. Cameron</b><br><i>Principal Deputy Assistant Secretary for Policy</i><br>Managemet and Budget Department of the Interior</div>
+   <div id="post-white-grid"><b>James N. Ortiz, Ph.D. </b><br><i>Senior Advisor to the Associate Administrator</i><br>National Aeronautics and Space Administration</div>
+   <div id="post-white-grid"><b>Michelle King</b><br><i>Deputy Commissioner for Budget, Finance, and Management</i><br>Social Security Administration</div>
+   <div id="post-white-grid"><b>Robin Funston</b><br><i>Director of Strategic Planning and Performance</i><br>Department of Justice</div>
+  <div id="post-white-grid"><b>Bryan Slater</b><br><i>Assistant Secretary of Administration and Management</i><br>Department of Labor</div>
+  <div id="post-white-grid"><b>James Richardson</b><br><i>Assistant to the Administrator, Bureau for Policy, Planning, and Learning</i><br>United States Agengy for International Development</div>
+  <div id="post-white-grid"><b>Scott E. Hine</b><br><i>PMP, FAC-P/PM (IT) Senior, DAWIA III Director, Information Technology Services Office (ITSO) and Acting Director, Workforce Management Office</i><br>FedPM</div>
+  <div id="post-white-grid"><b>Douglas Pitkin</b><br><i>Director, Bureau of Budget and Planning</i><br>Department of State</div>
+  <div id="post-white-grid"><b>Gerard Badorrek</b><br><i>Chief Financial Officer and Performance Improvement Officer</i><br>General Services Administraton</div>
 </div>
 
 
