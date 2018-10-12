@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "Agency Leaders Gather to Advance the President Management Agenda’s Efforts to Implement Program Management Improvement Initiatives"
+title: "Agency Leaders Gather to Advance Program Management Improvement Initiatives"
 
 permalink: /2018-10-11-policy-council-blog-post.md/
 
@@ -12,28 +12,25 @@ summary: summary_large_image
 
 description: Agency Leaders Gather to Implement Improvement Initiatives
 
-excerpt: Agency leaders gather to advance the President Management Agenda's efforts to implement program management improvement initiatives. 
+excerpt: Agency leaders gather to implement program management improvement initiatives. 
 
 image: ! /img/blog/whitehouse_reduced.jpeg
-
-authors:
-- Performance.gov Team
 
 tags:
 - PMA
 
 ---
 
-Agency and Administration leaders took another significant step in advancing efforts aimed at improving how Federal agencies get things done more efficiently, cost-effectively, and with accountability to the American people by gathering for the first meeting of the Program Management Policy Council (PMPC). Convening on Thursday, September 27, this initial meeting set out to establish priority areas for the Council to focus on as it works to implement the Program Management Improvement Accountability Act (PMIAA) guidance published in June, 2018. The implementation of the PMIAA is also supported by cross-agency priority goal 11: [Improve Management of Major Acquisitions](https://www.performance.gov/CAP/CAP_goal_11.html).  
+Agency and Administration leaders took another significant step in advancing efforts aimed at improving how Federal agencies get things done more efficiently, cost-effectively, and with accountability to the American people by gathering for the first meeting of the Program Management Policy Council (PMPC). Convening on Thursday, September 27, this initial meeting set out to establish priority areas for the Council to focus on as it works to implement the Program Management Improvement Accountability Act (PMIAA) guidance published in June, 2018. The implementation of the PMIAA is also supported by Cross Agency Priority Goal: [Improve Management of Major Acquisitions](https://www.performance.gov/CAP/CAP_goal_11.html).  
 
 The PMIAA designates the Program Management Policy Council (PMPC) as the leading group for overseeing implementation of the Act’s major provisions including identifying and carrying-out government-wide standards and policies designed to strengthen agency program management, sharing best practices, and facilitating cross-agency learning. Comprised of officials from the twenty-four major federal agencies, each representative serves as the Program Management Improvement Officer (PMIO) of their agency and reports to their agency’s Chief Operation Officer or equivalent. 
 
-During the meeting, PMIOs voiced priorities for the next two years and sought to identify how the Council can be most effective in supporting the Administration’s 5-year strategic plan for improving program and project management. Specific items included the development of career path guidance to attract and retain excellent program managers and exploring the design of a rotational program for program managers to gain experience in other agencies. Check Performance.gov for regular updates as this important work progresses as part of the PMA. 
+During the meeting, PMIOs voiced priorities for the next two years and sought to identify how the Council can be most effective in supporting the Administration’s strategic plan for improving program and project management. Specific items included the development of career path guidance to attract and retain excellent program managers and exploring the design of a rotational program for program managers to gain experience in other agencies. 
 
 <center><h3>The PMPC members, and agency PMIOs, consist of:</h3></center>
 <div class="grid-post">
   <div id="post-white-grid"><b>George Cabaniss</b><br><i>Director, Office of Contracting and Procurement</i><br>United States Department of Agriculture</div>
-  <div id="post-white-grid"><b>Barry Berkowitz</b><br><i>SPE and Director OAM</i><br>Department of Commerce</div>
+  <div id="post-white-grid"><b>Barry Berkowitz</b><br><i>Senior Procurement Executive and Director of Acquisition Management</i><br>Department of Commerce</div>
   <div id="post-white-grid"><b>Doug Webster</b><br><i>Chief Financial Officer/Chief Acquisition Officer</i><br>Department of Education</div>
   <div id="post-white-grid"><b>Kevin Fahey</b><br><i>Assistant Secretary of Defense for Acquisition</i><br>Department of Defense</div>
   <div id="post-white-grid"><b>Bill Eckroade</b><br><i>Acting Director, Office of Enterprise Assessments</i><br>Department of Energy</div>
@@ -46,15 +43,15 @@ During the meeting, PMIOs voiced priorities for the next two years and sought to
   <div id="post-white-grid"><b>Melissa Glynn</b><br><i>Assistant Secretary for Enterprise Integration</i><br>Department of Veterans Affairs</div>
   <div id="post-white-grid"><b>Margaret Pearson</b><br><i>Associate CFO for Budget and Performance</i><br>Office of Personnel Management</div>
   <div id="post-white-grid"><b>Patricia A. Hoban-Moore</b><br><i>Assistant Deputy Secretary</i><br>Department of Housing and Urban Development</div>
-  <div id="post-white-grid"><b>Kevin DeBell, Ph.D.</b><br><i>Senior Advisor to the Associate Deputy Administrator and Chief of Operations</i><br>Environment Protection Agency</div>
+  <div id="post-white-grid"><b>Kevin DeBell</b><br><i>Senior Advisor to the Associate Deputy Administrator and Chief of Operations</i><br>Environment Protection Agency</div>
   <div id="post-white-grid"><b>Tim Gribben</b><br><i>Chief Financial Officer and Associate Administrator for Performance Management</i><br>Small Business Administration</div>
   <div id="post-white-grid"><b>Scott J. Cameron</b><br><i>Principal Deputy Assistant Secretary for Policy</i><br>Managemet and Budget Department of the Interior</div>
-   <div id="post-white-grid"><b>James N. Ortiz, Ph.D. </b><br><i>Senior Advisor to the Associate Administrator</i><br>National Aeronautics and Space Administration</div>
+   <div id="post-white-grid"><b>James N. Ortiz</b><br><i>Senior Advisor to the Associate Administrator</i><br>National Aeronautics and Space Administration</div>
    <div id="post-white-grid"><b>Michelle King</b><br><i>Deputy Commissioner for Budget, Finance, and Management</i><br>Social Security Administration</div>
    <div id="post-white-grid"><b>Robin Funston</b><br><i>Director of Strategic Planning and Performance</i><br>Department of Justice</div>
   <div id="post-white-grid"><b>Bryan Slater</b><br><i>Assistant Secretary of Administration and Management</i><br>Department of Labor</div>
   <div id="post-white-grid"><b>James Richardson</b><br><i>Assistant to the Administrator, Bureau for Policy, Planning, and Learning</i><br>United States Agengy for International Development</div>
-  <div id="post-white-grid"><b>Scott E. Hine</b><br><i>PMP, FAC-P/PM (IT) Senior, DAWIA III Director, Information Technology Services Office (ITSO) and Acting Director, Workforce Management Office</i><br>FedPM</div>
+  <div id="post-white-grid"><b>Scott E. Hine</b><br><i>PMP, FAC-P/PM (IT) Senior, DAWIA III Director, Information Technology Services Office (ITSO) and Acting Director, Workforce Management Office</i><br>FedPM Community of Practice</div>
   <div id="post-white-grid"><b>Douglas Pitkin</b><br><i>Director, Bureau of Budget and Planning</i><br>Department of State</div>
   <div id="post-white-grid"><b>Gerard Badorrek</b><br><i>Chief Financial Officer and Performance Improvement Officer</i><br>General Services Administraton</div>
 </div>
