@@ -10,11 +10,15 @@ url: /2018-10-11-policy-council-blog-post.md
 
 summary: summary_large_image
 
+agency: Office of Management and Budget
+
 description: Agency Leaders Gather to Implement Improvement Initiatives
 
 excerpt: Agency leaders gather to implement program management improvement initiatives. 
 
 image: ! /img/blog/whitehouse_reduced.jpeg
+
+author: Performance.gov Tea
 
 tags:
 - PMA
