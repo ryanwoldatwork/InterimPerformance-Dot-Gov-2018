@@ -1,8 +1,10 @@
 .winner-container {
   margin-bottom: 1rem;
+  padding: 5px;
 }
 
 .winner-image {
+  padding:0;
 }
 
 .winner-text {
@@ -12,8 +14,7 @@
    flex-shrink: 0;
    flex-basis: auto;
   float: left;
-  padding: 3rem;
-  padding-top: 0;
+  padding: 1.5rem 2rem 1rem 2rem;
   width: 100%;
   height: auto;
 }
@@ -21,12 +22,13 @@
 #winner {
   height: 150px;
   width: 100%;
-  padding:10px;
+  padding:0px;
   object-fit: cover ;
 }
 
 .name-text {
   font-size: 1.7rem;
+  margin-top: 0;
 }
 * { box-sizing: border-box; }
 
@@ -79,3 +81,26 @@
   background-color: #cd2026;
   color: white;
 }
+
+.winner-card-link {
+ display: flex;
+ flex-direction: column;
+ text-decoration: none;
+ margin: 0;
+
+ -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+ box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2); }
+ .winner-card-link:hover {
+   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
+ .card-link:active {
+   box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; }
+ @media screen and (min-width: 600px) {
+   .card-link {
+     margin-bottom: 0; } }

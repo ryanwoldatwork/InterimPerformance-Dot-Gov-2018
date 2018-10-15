@@ -1,8 +1,10 @@
 
 {% for GoG_winners in site.GoG_winners %}
 <center>
-  <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }}">
-
+  <div
+  class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} winner-card-link"
+  style="margin: 7px;"
+  >
       <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
       <div class="winner-text">
         <p class="name-text"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>--><br>
