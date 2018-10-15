@@ -25,8 +25,6 @@ Agency and Administration leaders took another significant step in advancing eff
 
 The PMIAA designates the Program Management Policy Council (PMPC) as the leading group for overseeing implementation of the Act’s major provisions including identifying and carrying-out government-wide standards and policies designed to strengthen agency program management, sharing best practices, and facilitating cross-agency learning. Comprised of officials from the twenty-four major federal agencies, each representative serves as the Program Management Improvement Officer (PMIO) of their agency and reports to their agency’s Chief Operation Officer or equivalent. 
 
-During the meeting, PMIOs voiced priorities for the next two years and sought to identify how the Council can be most effective in supporting the Administration’s strategic plan for improving program and project management. Specific items included the development of career path guidance to attract and retain excellent program managers and exploring the design of a rotational program for program managers to gain experience in other agencies. 
-
 <center><h3>The PMPC members, and agency PMIOs, consist of:</h3></center>
 <div class="grid-post">
   <div id="post-white-grid"><b>George Cabaniss</b><br><i>Director, Office of Contracting and Procurement</i><br>United States Department of Agriculture</div>
