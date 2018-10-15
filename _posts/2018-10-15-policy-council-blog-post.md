@@ -14,21 +14,23 @@ agency: Office of Management and Budget
 
 description: Agency Leaders Gather to Implement Improvement Initiatives
 
-excerpt: Agency leaders gather to implement program management improvement initiatives. 
+excerpt: Agency leaders gather to implement program management improvement initiatives.
 
-image: ! /img/blog/whitehouse_reduced.jpeg
+image: /img/blog/PMPC-graphic.png
 
-author: Performance.gov Tea
+authors:
+- Performance.gov Team
 
 tags:
 - PMA
 - OMB
+- CAP Goal
 
 ---
 
 Agency and Administration leaders took another significant step in advancing efforts aimed at improving how Federal agencies get things done more efficiently, cost-effectively, and with accountability to the American people by gathering for the first meeting of the Program Management Policy Council (PMPC). Convening on Thursday, September 27, this initial meeting set out to establish priority areas for the Council to focus on as it works to implement the Program Management Improvement Accountability Act (PMIAA) guidance published in June, 2018. The implementation of the PMIAA is also supported by Cross Agency Priority Goal: [Improve Management of Major Acquisitions](https://www.performance.gov/CAP/CAP_goal_11.html).  
 
-The PMIAA designates the Program Management Policy Council (PMPC) as the leading group for overseeing implementation of the Act’s major provisions including identifying and carrying-out government-wide standards and policies designed to strengthen agency program management, sharing best practices, and facilitating cross-agency learning. Comprised of officials from the twenty-four major federal agencies, each representative serves as the Program Management Improvement Officer (PMIO) of their agency and reports to their agency’s Chief Operation Officer or equivalent. 
+The PMIAA designates the Program Management Policy Council (PMPC) as the leading group for overseeing implementation of the Act’s major provisions including identifying and carrying-out government-wide standards and policies designed to strengthen agency program management, sharing best practices, and facilitating cross-agency learning. Comprised of officials from the twenty-four major federal agencies, each representative serves as the Program Management Improvement Officer (PMIO) of their agency and reports to their agency’s Chief Operation Officer or equivalent.
 
 <center><h3>The PMPC members, and agency PMIOs, consist of:</h3></center>
 <div class="grid-post">
@@ -58,5 +60,3 @@ The PMIAA designates the Program Management Policy Council (PMPC) as the leading
   <div id="post-white-grid"><b>Douglas Pitkin</b><br><i>Director, Bureau of Budget and Planning</i><br>Department of State</div>
   <div id="post-white-grid"><b>Gerard Badorrek</b><br><i>Chief Financial Officer and Performance Improvement Officer</i><br>General Services Administraton</div>
 </div>
-
-
