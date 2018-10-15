@@ -4,9 +4,9 @@ tumblr_url:
 
 title: "Agency Leaders Gather to Advance Program Management Improvement Initiatives"
 
-permalink: /2018-10-11-policy-council-blog-post.md/
+permalink: /2018-10-15-policy-council-blog-post.md/
 
-url: /2018-10-11-policy-council-blog-post.md
+url: /2018-10-15-policy-council-blog-post.md
 
 summary: summary_large_image
 
