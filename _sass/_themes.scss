@@ -3,55 +3,18 @@
 
 
 
-
-
-
-
-
-
 .grid {
-
-
  position: relative;
-
-
  display: grid;
-
-
  grid-gap: 10px;
-
-
  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
-
-
  margin-right: 7rem;
-
-
  margin-left: 7rem;
-
-
  padding: 2% 0;
-
-
-
-
-
-
-
 }
 
-
-
-
-
-
-
 @media screen and (min-width: 800px) {
-
-
  .grid {
-
-
    width: 1200px;
 
 
@@ -69,20 +32,9 @@
 
 }
 
-
-
-
-
-
-
 .flex-center {
-
-
  display: flex;
-
-
  flex-direction: column;
-
 
  justify-content: center;
 
