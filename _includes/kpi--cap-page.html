@@ -1,6 +1,6 @@
 {% assign cap_goal = site.data.cap_goals | where: "title", include.title | first %}
 <center>
-  {% include kpi-popout.html class="kpi-popout--inverse"
+  {% include kpi-cap-popout.html class="kpi-popout--inverse"
     title=cap_goal.title
     kpi_url=cap_goal.kpi_url
     img=cap_goal.img
