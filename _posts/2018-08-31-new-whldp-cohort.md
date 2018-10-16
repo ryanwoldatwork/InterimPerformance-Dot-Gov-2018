@@ -37,7 +37,7 @@ This year’s cohort includes a broad cross-section of fellows with a rich set o
 <center><h3>WHLDP welcomes the following members to its 2019 cohort:</h3></center>
 <div class="grid-post">
   <div id="post-white-grid"><b>Mr. Anselm Beach</b><br><i>Director, Diversity and EEO</i><br>U.S. Department of Homeland Security</div>
-  <div id="post-white-grid"><b>Ms. Michelle Dorsey</b><br><i>Chief of Radiology, Phoenix VA Health Care System</i><br>U.S. Department of Veterans Affairs</div>
+  <div id="post-white-grid"><b>Dr. Michelle Dorsey</b><br><i>Chief of Radiology, Phoenix VA Health Care System</i><br>U.S. Department of Veterans Affairs</div>
   <div id="post-white-grid"><b>Mr. Helena Fu</b><br><i>Supervisory Foreign Affairs Specialist</i><br>U.S. Department of Energy</div>
   <div id="post-white-grid"><b>Ms. Nicoletta Giordani</b><br><i>Assistant Director, Industrial Policy & Programs</i><br>U.S. Department of Defense</div>
   <div id="post-white-grid"><b>Ms. Tamara Hamaty</b><br><i>Associate Director for Public Health Intelligence</i><br>U.S. Department of Health and Human Services</div>
