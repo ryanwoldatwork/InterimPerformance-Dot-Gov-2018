@@ -7,5 +7,5 @@ category: gsa #for the filter
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/golson-brad.jpeg"
-banner: "/img/GoG/banners/agency-banner_2-8.png"
+banner: "/img/GoG/banners/agency-banner.png"
 ---

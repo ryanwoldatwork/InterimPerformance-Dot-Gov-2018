@@ -7,6 +7,5 @@ category: gsa #for the filter
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/sharon_scott.jpg"
-banner: "/img/GoG/banners/agency-banner_2-8.png"
-
+banner: "/img/GoG/banners/agency-banner.png"
 ---

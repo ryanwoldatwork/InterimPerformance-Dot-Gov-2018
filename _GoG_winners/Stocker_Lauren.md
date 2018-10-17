@@ -7,6 +7,6 @@ category: gsa #for the filter
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/stocker_lauren.jpg"
-banner: "/img/GoG/banners/agency-banner_2-8.png"
+banner: "/img/GoG/banners/council-banner.png"
 
 ---
