@@ -1,12 +1,11 @@
 ---
-name: Lauren Stocker
+name: Brad Golson
 title: Performance Manager
-description: Ms. Stocker works for OSSPI
+description: Mr. Golson  works for OSSPI
 agency: General Services Administration
 category: gsa #for the filter
 award: Agency
 Year: 2018
-image: "/img/GoG/winners/stocker_lauren.jpg"
+image: "/img/GoG/winners/golson-brad.jpeg"
 banner: "/img/GoG/banners/agency-banner_2-8.png"
-
 ---

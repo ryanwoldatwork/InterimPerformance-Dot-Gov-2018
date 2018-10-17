@@ -7,5 +7,5 @@ category: omb
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/ladue_erik.jpeg"
-
+banner: "/img/GoG/banners/agency-banner_2-8.png"
 ---
