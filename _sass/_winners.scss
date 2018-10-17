@@ -1,12 +1,4 @@
-.winner-container {
-  margin-bottom: 1rem;
-  padding: 5px;
 
-}
-
-.winner-image {
-  padding:0;
-}
 
 .winner-text {
   background-color: #ffffff;
@@ -24,22 +16,17 @@
 #winner {
   height: 175px;
   width: 100%;
-  padding:0px;
   object-fit: cover ;
 }
 
 #winner-left {
- width: 65%;
+ width: 55%;
  float: left;
- height:auto;
-
 }
 
 #winner-right {
-  width: 35%;
+  width: 45%;
   float: right;
-  height:auto;
-
 }
 
 .name-text {
@@ -99,7 +86,7 @@
 
 .winner-card-link {
  display: flex;
- height:auto;
+
  flex-direction: column;
  text-decoration: none;
  margin: 20px;
@@ -107,7 +94,7 @@
  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
- box-shadow: 0 1px 1x rgba(0, 0, 0, 0.2); }
+ box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
  .winner-card-link:hover {
    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
