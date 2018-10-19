@@ -3,7 +3,7 @@ name: Brad Golson
 title: Performance Manager
 description: Mr. Golson  works for OSSPI
 agency: General Services Administration
-category: gsa #for the filter
+category: nsf #for the filter
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/golson-brad.jpeg"
