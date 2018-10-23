@@ -14,6 +14,9 @@ layout: navigation_PMA
   </div>
 </div>
 </section>
+
+
+
 <section class="usa-section  usa-graphic_list">
  <div class="usa-grid usa-graphic_list-row">
 <div class="iso-nav">
@@ -33,31 +36,20 @@ layout: navigation_PMA
 </div>
 
 
-<div class="main-iso">
-{% for GoG_winners in site.GoG_winners limit:12 %}
-
-  <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} winner-card-link" style="margin: 7px;">
+{% for GoG_winners in site.GoG_winners  %}
+<div class="flip-box ">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
       <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
-      <div class="winner-text">
-        <div id="left">
-        <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>
-        {{ GoG_winners.award }} Award--></p>
-          <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
-    <!--  <img
-        src="{{ site.baseurl }}{{ GoG_winners.banner }}"
-        style=>-->
-      </div>
-      <div id="right">
-         <img
-            src="{{ site.baseurl }}{{ GoG_winners.banner }}"
-            style="height:60px;float:right;">
-      </div>
     </div>
+    <div class="flip-box-back">
+      <h2>Back Side</h2>
     </div>
+  </div>
+
+</div>
  {% endfor %}
-</div>
-</div>
-</section>
+
 <!--    Javascript files are here... -->
 <!--Jquery CDN -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
