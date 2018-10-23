@@ -14,24 +14,24 @@ layout: navigation_PMA
   </div>
 </div>
 </section>
-<section class="usa-section  usa-graphic_list">
+<section class="usa-section usa-graphic_list">
  <div class="usa-grid usa-graphic_list-row">
 
 {% include button-group.html %}
 
-<div class="main-iso">
-{% for GoG_winners in site.GoG_winners limit:12 %}
+  {% include GoG_winners.html %}
+<!--{% for GoG_winners in site.GoG_winners limit:12 %}
 
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} winner-card-link" style="margin: 7px;">
       <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
       <div class="winner-text">
         <div id="left">
-        <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}</b> <!--<i>{{ GoG_winners.title}}</i>
-        {{ GoG_winners.award }} Award--></p>
+        <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}</b> <i>{{ GoG_winners.title}}</i>
+        {{ GoG_winners.award }} Award-</p>
           <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
-    <!--  <img
+   <img
         src="{{ site.baseurl }}{{ GoG_winners.banner }}"
-        style=>-->
+        style=>
       </div>
       <div id="right">
          <img
@@ -40,8 +40,8 @@ layout: navigation_PMA
       </div>
     </div>
     </div>
- {% endfor %}
-</div>
+ {% endfor %}-->
+
 </div>
 </section>
 <!--    Javascript files are here... -->

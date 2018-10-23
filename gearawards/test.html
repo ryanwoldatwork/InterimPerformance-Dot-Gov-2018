@@ -36,19 +36,38 @@ layout: navigation_PMA
 </div>
 
 
-{% for GoG_winners in site.GoG_winners  %}
-<div class="flip-box ">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
-    </div>
-    <div class="flip-box-back">
-      <h2>Back Side</h2>
-    </div>
-  </div>
 
-</div>
+{% for GoG_winners in site.GoG_winners limit:12 %}
+<div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} winner-card-link-flip"
+  style="margin-right:0;margin-bottom:15px;"  >
+  <div class="flip-box">
+    <div class="flip-box-inner">
+      <div class="flip-box-front">
+        <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
+          <div class="winner-text">
+            <div id="left">
+            <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}</b>
+            <!--<i>{{ GoG_winners.title}}</i>{{ GoG_winners.award }} Award--></p>
+            <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
+          </div> <!--close left div-->
+          <div id="right">
+             <img
+                src="{{ site.baseurl }}{{ GoG_winners.banner }}"
+                style="height:60px;float:right;">
+          </div><!--close right div-->
+        </div><!--close winner text-->
+        </div><!--close flip box front-->
+          <div class="flip-box-back">
+            <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}, <br></b>
+              <i>{{ GoG_winners.title}}</i></p>
+            <p> {{ GoG_winners.description }}</p>
+            <p><b>{{ GoG_winners.award }} Award</b></p>
+          </div> <!--close flip box back-->
+  </div><!-- flip box inner-->
+</div> <!--close flip box-->
+</div><!--cloe 1/4th-->
  {% endfor %}
+
 
 <!--    Javascript files are here... -->
 <!--Jquery CDN -->
