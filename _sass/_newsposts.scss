@@ -109,15 +109,18 @@
   line-height: 1.4;
   position: relative;
   background: #f1f1f1; }
-  .testimonial-blockquote ::before {
+
+  .testimonial-blockquote p::before {
     content: '\201C';
     color: #046b99;
     font-size: 4em;
     position: absolute;
     left: 10px;
     top: -10px; }
-  .testimonial-blockquote ::after {
-    content: ''; }
+
+  .testimonial-blockquote p::after {
+    content:'' ; }
+
   .testimonial-blockquote span {
     display: block;
     color: #046b99;
