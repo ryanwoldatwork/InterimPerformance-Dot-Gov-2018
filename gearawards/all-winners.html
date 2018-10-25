@@ -3,6 +3,7 @@ title: "Test"
 layout: navigation_PMA
 
 ---
+
 <section style="background-color: #aeb0b5;" class="usa-section usa-graphic_list">
   <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-whole usa-media_block">
@@ -16,19 +17,14 @@ layout: navigation_PMA
 <section class="usa-section usa-graphic_list">
  <div class="usa-grid usa-graphic_list-row">
    <div class="usa-width-one-whole usa-media_block ">
-    {% include button-group.html %}
     <div class="main-iso">
-      {% for GoG_winners in site.GoG_winners %}
-        {% include GoG_winners.html %}
-      {% endfor %}
+  {% for GoG_winners in site.GoG_winners %}
+    {% include GoG_winners.html %}
+  {% endfor %}
     </div><!--close main-iso-->
    </div><!--close one whole-->
   </div><!--close graphic list row-->
-  <!--<center>
-  <a class="usa-button usa-button-big" href="all-winners.html">See All Winners
-  </a>-->
-</center>
-</section>
+  </section>
 
 
 

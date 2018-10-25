@@ -6,7 +6,7 @@ category: gsa
 agency: General Services Administration
 award: Agency
 Year: 2018
-image: "/img/GoG/winners/price_austin.jpg"
+image: "/img/GoG/winners/price_austin.jpeg"
 banner: "/img/GoG/banners/agency-banner.png"
 
 ---

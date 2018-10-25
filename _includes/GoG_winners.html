@@ -1,9 +1,7 @@
-{% for GoG_winners in site.GoG_winners limit:12 %}
-<div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} winner-card-link-flip"
+<div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} shadow"
   style="margin-right:0;margin-bottom:15px;"  >
-  <div class="flip-box">
-    <div class="flip-box-inner">
-      <div class="flip-box-front">
+  <div class="flipper">
+      <div class="front">
         <img id="winner" src="{{ site.baseurl }}{{ GoG_winners.image }}">
           <div class="winner-text">
             <div id="left">
@@ -17,14 +15,12 @@
                 style="height:60px;float:right;">
           </div><!--close right div-->
         </div><!--close winner text-->
-        </div><!--close flip box front-->
-          <div class="flip-box-back">
-            <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}, <br></b>
+      </div> <!--close front-->
+      <div class="back">
+        <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}, <br></b>
               <i>{{ GoG_winners.title}}</i></p>
             <p> {{ GoG_winners.description }}</p>
             <p><b>{{ GoG_winners.award }} Award</b></p>
-          </div> <!--close flip box back-->
-  </div><!-- flip box inner-->
-</div> <!--close flip box-->
-</div><!--cloe 1/4th-->
- {% endfor %}
+      </div><!--close back-->
+    </div><!--close flipper-->
+</div><!--close 1/4th-->
