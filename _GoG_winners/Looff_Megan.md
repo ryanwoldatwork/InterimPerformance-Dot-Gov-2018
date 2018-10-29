@@ -4,6 +4,7 @@ title: Website Manger
 description: Ms. Looff works for GSA.
 agency: General Services Administration
 award: Agency
+story: cx
 category: gsa #for the filter
 Year: 2018
 image: "/img/GoG/winners/looff_megan.jpg"

@@ -16,11 +16,17 @@ layout: navigation_PMA
 <section class="usa-section usa-graphic_list">
  <div class="usa-grid usa-graphic_list-row">
    <div class="usa-width-one-whole usa-media_block ">
+  <h3>Hall of Winners</h3>
+     <p>The Gears of Government Awards recognize individuals and teams across the Federal workforce whose dedication supports exceptional delivery of key outcomes for the American people, specifically:</p>
+
     {% include button-group.html %}
-    <div class="main-iso">
+
+      <div class="main-iso">
+
       {% for GoG_winners in site.GoG_winners %}
         {% include GoG_winners.html %}
       {% endfor %}
+
     </div><!--close main-iso-->
    </div><!--close one whole-->
   </div><!--close graphic list row-->

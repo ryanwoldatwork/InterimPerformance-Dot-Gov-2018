@@ -3,6 +3,7 @@ name: Steve Scarano
 title: Fearless Leader
 description: Ms. Anderson leads a team of stellar contractors who provide invaluable service to their clients at GSA.
 category: gsa
+story: cx
 agency: General Services Administration
 award: Executive
 Year: 2018

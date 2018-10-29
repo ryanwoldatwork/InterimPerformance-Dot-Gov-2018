@@ -4,6 +4,7 @@ title: Performance Guru
 description: Ms. Crump......
 agency: Office of Management and Budget
 category: omb
+story: mission
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/crump_julie.jpeg"

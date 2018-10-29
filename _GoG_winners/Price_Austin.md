@@ -3,6 +3,7 @@ name: Austin Price
 title: Comms Wizard
 description: Mr. Price is very deserving of this award.
 category: gsa
+story: cx
 agency: General Services Administration
 award: Agency
 Year: 2018
