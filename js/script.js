@@ -4,6 +4,8 @@
 
 // Active isotope with jQuery code:
 
+
+
 $('.main-iso').isotope({
 	itemSelector: '.item',
 	layoutMode: 'fitRows'
@@ -20,6 +22,15 @@ $('.iso-nav ul li').click(function(){
 	return false;
 });
 
+
+$('.main-iso').on( 'arrangeComplete', function( event, filteredItems ) {
+	  //console.log( filteredItems.length );
+	  if(filteredItems.height == 0){
+		  $(".no-results").show();
+	  }else{
+		  $(".no-results").hide();
+	  }
+});
 
 
 //SMOOTH accordion
