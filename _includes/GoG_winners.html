@@ -1,8 +1,5 @@
-
-<section class="usa-section usa-graphic_list">
- <div class="usa-grid usa-graphic_list-row">
-<div class="usa-width-one-whole usa-media_block ">
 <div class="main-iso">
+
 {% for GoG_winners in site.GoG_winners %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
@@ -15,7 +12,7 @@
       <div id="right">
        <img
         src="{{ site.baseurl }}{{ GoG_winners.banner }}"
-        style="height:120px;float:right;"><br>
+        style="height:75px;float:right;"><br>
             </div><!--close right div-->
 </div><!--close winner text-->
   <div class="overlay">
@@ -37,6 +34,3 @@
 </div><!--close one fourth-->
 {% endfor %}
 </div><!--close main-iso-->
-</div><!--close one whole-->
-</div><!--close graphic list row-->
-</section>
