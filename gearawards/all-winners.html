@@ -3,61 +3,63 @@ title: "Test"
 layout: navigation_PMA
 
 ---
-<ul id="accordion" class="accordion iso-nav">
-  <li>
-    <div class="link"><i class="fa fa-database"></i>Agencies<i class="fa fa-chevron-down"></i></div>
-    <ul class="submenu">
-      <li id="agency" data-filter = ".usda">Department of Agriculture</li>
-      <li id="agency" data-filter = ".doc">Department of Commerce</li>
-      <li id="agency" data-filter = ".dod">Department of Defense</li>
-      <li id="agency" data-filter = ".ed">Department of Education</li>
-      <li id="agency" data-filter = ".doe">Department of Energy</li>
-      <li id="agency" data-filter = ".hhs">Department of Health and Human Services</li>
-      <li id="agency" data-filter = ".dhs">Department of Homeland Security</li>
-      <li id="agency" data-filter = ".hud">Department of Housing and Urban Development</li>
-      <li id="agency" data-filter = ".doi">Department of the Interior</li>
-      <li id="agency" data-filter = ".doj">Department of Justice</li>
-      <li id="agency" data-filter = ".dol">Department of Labor</li>
-      <li id="agency" data-filter = ".state">Department of State</li>
-      <li id="agency" data-filter = ".dot">Department of Transportation</li>
-      <li id="agency" data-filter = ".treasury">Department of the Treasury</li>
-      <li id="agency" data-filter = ".va">Department of Veteran Affairs</li>
-      <li id="agency" data-filter = ".epa">Environmental Protection Agency</li>
-      <li id="agency" data-filter = ".gsa">General Services Administration</li>
-      <li id="agency" data-filter = ".omb">Office of Management and Budget</li>
-      <li id="agency" data-filter = ".nasa">National Aeronautics and Space</li>
-      <li id="agency" data-filter = ".nsf">National Science Foundation</li>
-      <li id="agency" data-filter = ".opm">Office of Personnel Management</li>
-      <li id="agency" data-filter = ".sba">Small Business Administration</li>
-      <li id="agency" data-filter = ".ssa">Social Security Administration</li>
-      <li id="agency" data-filter = ".usaid">United States Agency for International Development</li>
-    </ul>
-  </li>
-  <li>
-    <div class="link"><i class="fa fa-code"></i>Story<i class="fa fa-chevron-down"></i></div>
-    <li id="agency" data-filter = ".mission">Mission</li>
-    <li id="agency" data-filter = ".stewardship">stewardship</li>
-    <li id="agency" data-filter = ".cx">Customer Experience</li>
-    </ul>
-  </li>
-  <li>
-    <div class="link"><i class="fa fa-mobile"></i>Devices<i class="fa fa-chevron-down"></i></div>
-    <ul class="submenu">
-      <li><a href="#">Tablet</a></li>
-      <li><a href="#">Mobile</a></li>
-      <li><a href="#">Desktop</a></li>
-    </ul>
-  </li>
-  <li>
-    <div class="link"><i class="fa fa-globe"></i>Global<i class="fa fa-chevron-down"></i></div>
-    <ul class="submenu">
-      <li><a href="#">Google</a></li>
-      <li><a href="#">Bing</a></li>
-      <li><a href="#">Yahoo</a></li>
-    </ul>
-  </li>
-</ul>
+<section style="background-color: #aeb0b5;" class="usa-section usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole usa-media_block">
+        <h1 style="line-height:2.3;"><img src="../img/GoG/GoG-logo.png" style="width:100px;float:left;margin-right:15px;">
+      Gears of Government Awards</h1>
+    <!--<p>Cultivating and Championing Excellence in Federal Service</p>-->
+  </div>
+</div>
+</section>
 
+<section class="usa-section usa-graphic_list">
+ <div class="usa-grid usa-graphic_list-row">
+   <div class="usa-width-one-whole usa-media_block ">
+  <h3>Hall of Winners</h3>
+     <p>The Gears of Government Awards recognize individuals and teams across the Federal workforce whose dedication supports exceptional delivery of key outcomes for the American people, specifically mission, stewardship, and customer service.</p>
+     <p><i>Use the dropdown buttons to select between agencies, stories, are show all. View more information about each winner by hoverings, or clicking, on each winner's card.</i></p>
+
+    {% include button-group.html %}
+  </div>
+  </div>
+  </section>
+
+<section class="usa-section usa-graphic_list">
+ <div class="usa-grid usa-graphic_list-row">
+<div class="usa-width-one-whole usa-media_block ">
+<div class="main-iso">
+{% for GoG_winners in site.GoG_winners %}
+<div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+  <div class="container">
+  <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+  <div class="winner-text">
+    <div id="left">
+    <p class="name-text" style="margin-bottom:7px;"><b>{{ GoG_winners.name}}</b>
+    <!--<i>{{ GoG_winners.title}}</i>{{ GoG_winners.award }} Award--></p>
+    <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
+  </div> <!--close left div-->
+  <div id="right">
+     <img
+        src="{{ site.baseurl }}{{ GoG_winners.banner }}"
+        style="height:60px;float:right;">
+  </div><!--close right div-->
+</div><!--close winner text-->
+  <div class="overlay">
+    <div class="text">
+      <p><b>{{ GoG_winners.name}}, <br></b>
+            <i>{{ GoG_winners.title}}</i></p>
+          <p>{{ GoG_winners.description }}</p>
+          <p><b>{{ GoG_winners.award }} Award</b></p>
+    </div>
+  </div>
+  </div>
+</div>
+{% endfor %}
+</div>
+</div>
+</div>
+</section>
 
 
 

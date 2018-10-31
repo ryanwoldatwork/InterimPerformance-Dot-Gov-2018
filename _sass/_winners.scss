@@ -130,6 +130,7 @@ background-color: #ffffff;
   flex-shrink: 0;
   flex-basis: auto;
   float: left;
+  height:156px;
   padding: 0rem 2rem 1rem 2rem;
   width: 100%;
   z-index: 1;}
@@ -140,6 +141,14 @@ background-color: #ffffff;
   object-fit: cover ;
      z-index: 1;
   }
+
+  .card-image-gog {
+    object-fit:cover;
+    height: 160px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   }
 
   #winner-left {
   width: 55%;
@@ -154,10 +163,33 @@ background-color: #ffffff;
   }
 
   .name-text {
-  font-size: 1.7rem;
+
      z-index: 1;
   }
   * { box-sizing: border-box; }
+
+  #agency-winner-border {
+    border-left: .6rem solid #00cfff;
+        border-color: #2e8540;
+        padding-left: .7rem;
+        color:#ffffff;
+}
+
+#council-winner-border {
+  border-left: .6rem solid #00cfff;
+      border-color: #02bfe7;
+      padding-left: .7rem;
+      color:#ffffff;
+}
+
+
+#president-winner-border {
+  border-left: .6rem solid #00cfff;
+      border-color: #fdb81e;
+      padding-left: .7rem;
+      color:#ffffff;
+}
+
 
   /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 
@@ -168,15 +200,15 @@ background-color: #ffffff;
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  perspective: 1000px;}
-  .shadow:hover .flipper  {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);}
+  /*perspective: 1000px;} flipper */
+  /*.shadow:hover .flipper  { for flipper
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
     -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
     -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-    transform: rotateY(180deg);}
+    transform: rotateY(180deg);}*/
 
   .shadow:active {
     box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; }
@@ -246,10 +278,8 @@ a {
 .accordion .link {
   cursor: pointer;
   display: block;
-  padding: 15px 15px 15px 42px;
-  color: #4D4D4D;
-  font-size: 17px;
-  font-weight: 700;
+  padding: 15px 15px 15px 8px;
+  margin: 3.5px;
   border-bottom: 1px solid #CCC;
   position: relative;
   -webkit-transition: all 0.4s ease;
@@ -304,7 +334,7 @@ a {
   text-decoration: none;
   color: #d9d9d9;
   padding: 12px;
-  padding-left: 42px;
+  padding-left: 0px;
   -webkit-transition: all 0.25s ease;
   -o-transition: all 0.25s ease;
   transition: all 0.25s ease;
@@ -314,3 +344,54 @@ a {
   background: #b63b4d;
   color: #FFF;
 }
+
+
+/*slide down*/
+
+.container {
+  position: relative;
+  width: 100%;
+  display: block;
+  width: 100%;
+  height: 320px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.image {
+
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: rgba(17,46,81,1);
+  overflow: hidden;
+  width: 100%;
+  height:0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.text {
+  color: white;
+  position: absolute;
+  padding: 15px;
+
+}
+
+.card-tag-winner {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #ffffff; }

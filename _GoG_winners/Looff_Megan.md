@@ -1,7 +1,7 @@
 ---
 name: Megan Looff
-title: Website Manger
-description: Ms. Looff works for GSA.
+title: Title
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 agency: General Services Administration
 award: Agency
 story: cx

@@ -1,8 +1,7 @@
 ---
 name: Lauren Anderson
-title: Fearless Leader
-description: Ms. Anderson leads a team of stellar contractors who provide invaluable service to their clients at GSA.
-category: gsa
+title: Title
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 story: mission
 agency: General Services Administration
 award: Agency

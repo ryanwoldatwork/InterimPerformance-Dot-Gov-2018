@@ -1,7 +1,7 @@
 ---
 name: Mark Bussow
-title: Adam's Boss
-description: Mr. Bussow......
+title: Title
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 agency: Office of Management and Budget
 category: omb
 story: mission

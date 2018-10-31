@@ -1,7 +1,7 @@
 ---
 name: Austin Price
-title: Comms Wizard
-description: Mr. Price is very deserving of this award.
+title: Title
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 category: gsa
 story: cx
 agency: General Services Administration

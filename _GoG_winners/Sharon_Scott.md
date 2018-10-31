@@ -1,7 +1,7 @@
 ---
 name: Scott Sharon
-title: Twitter Ninja
-description: Mr. Sharon is a research fiend and budding Twitter ninja. He enjoys health food, hiking, and toothpicks.
+title: Title
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 agency: General Services Administration
 category: gsa #for the filter
 story: cx
