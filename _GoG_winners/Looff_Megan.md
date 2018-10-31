@@ -7,6 +7,6 @@ award: Agency
 story: cx
 category: gsa #for the filter
 Year: 2018
-image: "/img/GoG/winners/looff_megan.jpg"
+image: "/img/agency/GSA_Seal.png"
 banner: "/img/GoG/banners/agency-banner.png"
 ---
