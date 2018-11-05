@@ -65,7 +65,7 @@ A successful shared service transition requires the flexibility to be adept at m
 
 Federal leaders can leverage existing tools to manage a shared service transition. The <a target="_blank" href="https://www.ussm.gov/m3/">Modernization and Migration Management (M3) framework</a> helps federal leaders achieve successful outcomes and reduce risk during mission support system and/or service modernizations and migrations.
 
-Peggy Martin, a former federal executive who led the NewPay initiative, and migration of shared services between HUD and the Treasury Department, discussed a migration and modernization playbook that encouraged developing vision, strategy, and a roadmap early in the process, allowing for early victories and incremental progress.
+ Peggy Martin, a former federal executive who led the NewPay initiative, and migration of shared services between HUD and the Treasury Department, discussed leveraging the M3 playbook and encouraged developing vision, strategy, and a roadmap early in the process, allowing for early victories and incremental progress. 
 
 <h3>The Role of Technology</h3>
 Efforts to advance government-wide shared services are closely linked to <a target="_blank" href="https://www.performance.gov/CAP/CAP_goal_1.html">modernization of federal information technology</a>, which is one of the key drivers of the President’s Management Agenda. The Sharing Quality Services Cross-Agency Priority goal team is exploring how the federal government can leverage commercial solutions and innovation practices.
