@@ -1,0 +1,35 @@
+#cap-goal-headshot {
+  border-radius:50%;
+  width:130px;
+  margin:20px 50px 20px 0px;
+
+}
+
+.cap-box {
+  width:300px;
+  height: 600px;
+  z-index: 10;
+  position: absolute;
+  margin-left: 170px;
+  display: block;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+}
+
+.cap-box #top {
+  background-color: #e31c3d;
+  height: 300px;
+  padding:15px;
+  color: #ffffff;
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.cap-box #bottom {
+  background-color: #323a45;
+  height: 300px;
+  padding:15px;
+
+}

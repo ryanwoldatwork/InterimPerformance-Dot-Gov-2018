@@ -2,12 +2,89 @@
 layout: navigation_PMA
 ---
 
+
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
        <div class="usa-media_block-body">
-         <h1-post>{{ page.title }}</h1>
+         <h1 style="margin-top:100px;">{{ page.title }}</h1>
       </div>
     </div>
+    <div class="usa-width-one-half usa-media_block">
+      <div class="usa-media_block-body" >
+        <div class="cap-box"style="float:right">
+          <div id="top">
+            <p>Download the latest Action Plan and Progress Update</p>
+            </div>
+          <div id="bottom">
+            INTERIOR CNTENT
+            </div>
+        </div>
+     </div>
+   </div>
   </div>
 </section>
+<section class="usa-section usa-graphic_list">
+   <div class="usa-grid usa-graphic_list-row">
+     <div class="usa-width-one-whole usa-media_block">
+       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader }}">
+       <img class="usa-media_block-img" id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2 }}">
+       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3 }}">
+       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-4 }}">
+   </div>
+  </div>
+</section>
+<section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
+   <div class="usa-grid usa-graphic_list-row">
+     <div class="usa-width-three-fourths usa-media_block">
+       <ul class="usa-accordion">
+        <li>
+        <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+          aria-expanded="true"
+          aria-controls="a1">
+          Goal Statement
+        </button>
+        <div id="a1" class="usa-accordion-content" style="background-color:#f1f1f1;">
+          {{ page.statement }}
+        </div>
+      </li><li>
+        <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+          aria-expanded="false"
+          aria-controls="a2">
+          The Challenge
+        </button>
+        <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;">
+          {{ page.challenge }}
+        </div>
+      </li><li>
+        <li>
+          <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+            aria-expanded="false"
+            aria-controls="a3">
+            The Opportunity
+          </button>
+          <div id="a3" class="usa-accordion-content" style="background-color:#f1f1f1;">
+            {{ page.opportunity }}
+          </div>
+        </li>
+        <li>
+          <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+            aria-expanded="false"
+            aria-controls="a4">
+            Action Plans and Updates
+          </button>
+          <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;">
+            {{ page.action }}
+          </div>
+        </li>
+    </ul>
+  </div>
+ </div>
+</section>
+<section class="usa-section usa-section-leader usa-graphic_list">
+   <div class="usa-grid usa-graphic_list-row">
+     <div class="usa-width-one-whole usa-media_block">
+     <h2>Highlights</h2>
+   </div>
+  </div>
+ </section>

@@ -11,11 +11,15 @@ collections:
     output: true
     permalink: /:path
 
-defaults:
-  - scope:
-      type: agencies
-    values:
-      layout: navigation
+  defaults:
+    - scope:
+        type: agencies
+      values:
+        layout: navigation
+
+  cap-goal-page:
+      output: true
+      permalink: /CAP/:title
 
 # Social usernames/URLs
 twitter_username: PerformanceGov
