@@ -6,9 +6,10 @@ layout: navigation_PMA
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
-       <div class="usa-media_block-body">
          <h1 style="margin-top:100px;">{{ page.title }}</h1>
-      </div>
+         <a class="usa-button usa-button-secondary card-tag-text"style="background-color:#046b99;color:#ffffff;" href="PMA/PMA.html">What is a CAP Goal?</a>
+         <a class="usa-button usa-button-secondary card-tag-text" style="color:#ffffff;" href="PMA/PMA.html">In the News</a>
+         <a class="usa-button card-tag-text" href="PMA/PMA.html" style="margin-top:0;color:#ffffff;">President's Management Agenda</a>
     </div>
     <div class="usa-width-one-half usa-media_block">
       <div class="usa-media_block-body" >
@@ -26,11 +27,19 @@ layout: navigation_PMA
 </section>
 <section class="usa-section usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
-     <div class="usa-width-one-whole usa-media_block">
-       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader }}">
-       <img class="usa-media_block-img" id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2 }}">
-       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3 }}">
-       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-4 }}">
+     <center>
+       <div class="usa-width-one-sixth ">
+       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-photo }}">
+      <p style="font-size:1.3rem"><b>{{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p>
+       </div>
+        <div class="usa-width-one-sixth ">
+       <img class="usa-media_block-img" id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
+      <p style="font-size:1.3rem"><b>{{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p>
+       </div>
+        <div class="usa-width-one-sixth">
+       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
+      <p style="font-size:1.3rem"><b>{{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p>
+    </center>
    </div>
   </div>
 </section>
@@ -44,7 +53,7 @@ layout: navigation_PMA
           aria-controls="a1">
           Goal Statement
         </button>
-        <div id="a1" class="usa-accordion-content" style="background-color:#f1f1f1;">
+        <div id="a1" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
           {{ page.statement }}
         </div>
       </li><li>
@@ -53,7 +62,7 @@ layout: navigation_PMA
           aria-controls="a2">
           The Challenge
         </button>
-        <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;">
+        <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
           {{ page.challenge }}
         </div>
       </li><li>
@@ -63,7 +72,7 @@ layout: navigation_PMA
             aria-controls="a3">
             The Opportunity
           </button>
-          <div id="a3" class="usa-accordion-content" style="background-color:#f1f1f1;">
+          <div id="a3" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             {{ page.opportunity }}
           </div>
         </li>
@@ -73,7 +82,7 @@ layout: navigation_PMA
             aria-controls="a4">
             Action Plans and Updates
           </button>
-          <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;">
+          <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             {{ page.action }}
           </div>
         </li>
