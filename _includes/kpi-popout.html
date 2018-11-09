@@ -2,16 +2,19 @@
 {% assign figure_url = include.kpi_url | default: include.pdf_url %}
 <div class="kpi-popout {{ include.class }}">
   <h4>{{ include.title }}<br>
-    {% if include.updated %} <span style="font-size:1em;font-weight:normal;">{{ include.updated }}</span>{% endif %}</h4>
+
+    {% if include.updated %} <span style="font-size:1em;font-weight:normal;"><em>{{ include.updated }}</em></span>{% endif %}  <br>
+    <span style="font-size:1em;font-weight:normal;">CAP Goal: <a href="{{ site.baseurl }}{{ page.CAP-url }}">{{include.name}}</a></h4>
   <figure>
     <a href="{{ figure_url | relative_url }}" target="_blank"><img src="{{ include.img | relative_url }}" alt="{{ include.title }}" width="{{ width }}px" height="205px;"></a>
   </figure>
   {% if include.cap_goal_url %}
-    <a class="kpi-popout-link" href="{{ include.cap_goal_url | relative_url }}">See the CAP Goal</a> |
+    <a class="kpi-popout-link" href="{{ include.cap_goal_url | relative_url }}">See CAP Goal</a> |
   {% endif %}
   {% if cap_goal.title == "Category Management" %}
   <a class="kpi-popout-link" href="{{ figure_url | relative_url }}" target="_blank">View the PDF </a>
   {% else %}
-  <a class="kpi-popout-link" href="{{ figure_url | relative_url }}" target="_blank">View the dashboard </a>
+  <a class="kpi-popout-link" href="{{ figure_url | relative_url }}" target="_blank">View dashboard </a> |
+  <a class="kpi-popout-link" href="{{ include.data_url }}">Download Data </a>
   {% endif %}
 </div>
