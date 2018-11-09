@@ -4,7 +4,7 @@
   <h4>{{ include.title }}<br>
 
     {% if include.updated %} <span style="font-size:1em;font-weight:normal;"><em>{{ include.updated }}</em></span>{% endif %}  <br>
-    <span style="font-size:1em;font-weight:normal;">CAP Goal: <a href="{{ include.CAP-url }}">{{include.name}}</a></h4>
+    <span style="font-size:1em;font-weight:normal;">CAP Goal: <a href="{{ include.CAP-url | relative_url }}">{{include.name}}</a></h4>
   <figure>
     <a href="{{ figure_url | relative_url }}" target="_blank"><img src="{{ include.img | relative_url }}" alt="{{ include.title }}" width="{{ width }}px" height="205px;"></a>
   </figure>
