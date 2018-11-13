@@ -4863,7 +4863,7 @@ border-top: 1.6rem solid #aeb0b5;
 
 .usa-section-CAP-noborder {
 background-color: #e4e2e0;
-color: #112e51;
+color: #000000;
 }
 
 .usa-section-lightblue {
@@ -5010,7 +5010,7 @@ height: 100%;
 }
 
 .usa-section-dark a {
-  color: #d6d7d9;
+  color: #ffffff;
 }
 
 .usa-section-dark a:hover {
