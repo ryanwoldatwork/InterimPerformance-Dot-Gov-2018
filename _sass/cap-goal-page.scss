@@ -1,9 +1,13 @@
 #cap-goal-headshot {
   border-radius:50%;
   width:130px;
+<<<<<<< HEAD
   height:130px;
   //margin:20px 50px 20px 0px;
   object-fit: cover;
+=======
+  margin:20px 50px 20px 0px;
+>>>>>>> Staging
 
 }
 
@@ -17,6 +21,7 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+<<<<<<< HEAD
   -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.4);
   -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.4);
@@ -28,6 +33,10 @@
     .cap-box {
       display:none;
 }}
+=======
+
+}
+>>>>>>> Staging
 
 .cap-box #top {
   background-color: #e31c3d;

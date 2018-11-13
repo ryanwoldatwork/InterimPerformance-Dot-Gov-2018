@@ -3231,7 +3231,7 @@ li.usa-footer-primary-content:last-child {
   }
 }
 
-.usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss, .usa-link-mail {
+.usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss, .usa-link-mail, .usa-link-linkedin {
   margin: 2.5rem 1rem 1.5rem 0;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3245,13 +3245,13 @@ li.usa-footer-primary-content:last-child {
 }
 
 @media screen and (min-width: 600px) {
-  .usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss, .usa-link-mail {
+  .usa-social_link, .usa-link-facebook, .usa-link-twitter, .usa-link-youtube, .usa-link-rss, .usa-link-mail, .usa-link-linkedin  {
     margin: 0 0 0 1rem;
     left: 1.2rem;
   }
 }
 
-.usa-social_link span, .usa-link-facebook span, .usa-link-twitter span, .usa-link-youtube span, .usa-link-rss span, .usa-link-mail span {
+.usa-social_link span, .usa-link-facebook span, .usa-link-twitter span, .usa-link-youtube span, .usa-link-rss span, .usa-link-mail span, .usa-link-linkedin span {
   position: absolute;
   left: -999em;
 }
@@ -3279,6 +3279,11 @@ li.usa-footer-primary-content:last-child {
 .usa-link-mail {
   background-image: url("../img/social-icons/png/mail.png");
   background-image: url("../img/social-icons/svg/mail.svg");
+}
+
+.usa-link-linkedin {
+  background-image: url("../img/social-icons/png/linkedin.png");
+  background-image: url("../img/social-icons/svg/linkedin.svg");
 }
 
 form a {
@@ -4880,8 +4885,11 @@ border-top: 1.6rem solid #205493;
 }
 
 .usa-section-takeaways {
-background-color: #e1f3f8;
+background-color: #f1f1f1;
 color: #323a45;
+padding-top: 5px;
+padding: 20px;
+margin-right: 15px;
 }
 
 .usa-section-video {
