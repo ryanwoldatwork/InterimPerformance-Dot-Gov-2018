@@ -6,9 +6,9 @@ title: "Federal Grants Management Draft Data Standards Feedback"
 
 rating: "1" 
 
-permalink: /2018-11-15-Data-Standards-Feedback/
+permalink: /2018-11-15-Data-Standards-Feedback.md/
 
-url: /2018-11-15-Data-Standards-Feedback/
+url: /2018-11-15-Data-Standards-Feedback.md/
 
 summary: summary_large_image
 
