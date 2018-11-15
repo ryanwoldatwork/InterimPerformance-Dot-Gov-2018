@@ -308,14 +308,33 @@ layout: base
        </nav>
     </div>
   </header>
+  <script>
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      document.getElementById("backtotop").style.display = "block";
+  } else {
+      document.getElementById("backtotop").style.display = "none";
+  }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+  }
+  </script>
+  <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
+
   <div class="usa-overlay"></div>
   <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+  <script src="{{ site.baseurl }}/js/uswds.min.js"></script>
     {{ content }}
+
   </main>
   <footer class="usa-footer usa-footer-big" role="contentinfo">
-   <div class="usa-grid usa-footer-return-to-top">
-     <a href="#">Return to top</a>
-   </div>
    <div class="usa-footer-primary-section">
      <div class="usa-grid-full">
        <nav class="usa-footer-nav usa-width-one-whole">
@@ -411,7 +430,11 @@ layout: base
       <a href="https://twitter.com/performancegov" class="usa-link-twitter" href="javascript:void(0);" target="_blank">
           <span>Twitter</span>
         </a>
-     <!--   <a class="usa-link-youtube" href="javascript:void(0);">
+
+  <a href="https://www.linkedin.com/company/performance-gov/" class="usa-link-linkedin" href="javascript:void(0);" target="_blank">
+      <span>LinkedIn</span>
+    </a>
+        <!--   <a class="usa-link-youtube" href="javascript:void(0);">
           <span>YouTube</span>
         </a>
         <a class="usa-link-rss" href="javascript:void(0);">
@@ -421,12 +444,13 @@ layout: base
            <h3 class="usa-footer-contact-heading">Contact Us</h3>
 
            <a href="mailto:PgovSupport@GSA.gov">PgovSupport@GSA.gov</a>
-             <p>Content is updated every 3 months; last on June 26, 2018</p>
-              <p><a href="{{ site.baseurl }}/about/Performance.gov Reports_FY2018_Q2.xlsx" alt="performance data download" style="color:#205493;"><b>Download Performance Data Report </b></a></p>
+             <p>Content is updated every 3 months; last on September 20, 2018</p>
+              <p><a href="{{ site.baseurl }}/about/Performance.gov Reports_FY2018_Q3.xlsx" alt="performance data download" style="color:#205493;"><b>Download Performance Data Report </b></a></p>
+{% include modal.html %} <!--code for subscribe button and pop out modal box. CSS is in the _modal.scss under the SASS folder-->
          </address>
        </div>
      </div>
    </div>
   </footer>
+
   <!-- Update the link path to where your JavaScript file is located. For example: /path/to/your/assets/js/lib/uswds.min.js -->
-  <script src="{{ site.baseurl }}/js/uswds.min.js"></script>

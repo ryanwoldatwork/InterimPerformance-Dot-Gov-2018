@@ -13,6 +13,7 @@ layout: navigation_PMA
            <p class="card-tag-post"> {{ page.agency }}</p>
               <h1-post>{{ page.title }}
               </h1>
+              <h3 style="color:#ffffff;"><i> {{ page.subtitle }}</i></h3>
               {% include post-author.html context="page" %}
 
       </div>
@@ -35,14 +36,14 @@ layout: navigation_PMA
           <span class="post-tags" itemprop="keywords">
             {% for tag in page.tags %}
               <span class="usa-label">
-              <a href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
+              <a style="color:#ffffff;" href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
               </a>
             </span>
             {% endfor %}
 
 
             {% include share-bar.html %}
-          
+
 
           <p>
             {{ content }}
