@@ -16,9 +16,10 @@ layout: navigation_PMA
         <div class="cap-box"style="float:right">
           <div id="top">
             <p>Download the latest Action Plan and Progress Update</p>
+            <p class="card-tag" style="margin-top:40px;margin-bottom:30px;font-size:.5em;"><a style="text-decoration:none;background-color:#ffffff;color:#e31c3d;padding:10px;border-radius:25px;"  href="{{ site.baseurl }}/about/APG_about.html">Download</a></p>
             </div>
           <div id="bottom">
-            INTERIOR CNTENT
+            <center><p>"Modernizing Federal IT will enhance mission effectiveness and reduce mission risks through a series of complementary initiatives that will drive sustained change in Federal technology, deployment, security, and service delivery."</p></center>
             </div>
         </div>
      </div>
@@ -26,22 +27,20 @@ layout: navigation_PMA
   </div>
 </section>
 <section class="usa-section usa-graphic_list">
-   <div class="usa-grid usa-graphic_list-row">
-     <center>
-       <div class="usa-width-one-sixth ">
-       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-photo }}">
-      <p style="font-size:1.3rem"><b>{{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p>
-       </div>
-        <div class="usa-width-one-sixth ">
-       <img class="usa-media_block-img" id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
-      <p style="font-size:1.3rem"><b>{{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p>
-       </div>
-        <div class="usa-width-one-sixth">
-       <img class="usa-media_block-img" id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
-      <p style="font-size:1.3rem"><b>{{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p>
-    </center>
-   </div>
-  </div>
+    <div class="usa-grid usa-graphic_list-row">
+         <div class="usa-width-one-sixth ">
+         <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-photo }}">
+        <p style="font-size:1.3rem"><b>{{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
+         </div>
+          <div class="usa-width-one-sixth ">
+        <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
+        <p style="font-size:1.3rem"><b>{{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
+         </div>
+          <div class="usa-width-one-sixth">
+        <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
+        <p style="font-size:1.3rem"><b>{{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
+     </div>
+    </div>
 </section>
 <section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
    <div class="usa-grid usa-graphic_list-row">
@@ -97,3 +96,6 @@ layout: navigation_PMA
    </div>
   </div>
  </section>
+
+
+{% include CAP-icons-set.html %}
