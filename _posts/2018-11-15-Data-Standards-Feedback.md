@@ -2,7 +2,9 @@
 layout: post
 tumblr_url:
 
-title: "FEATURED NEWS: Federal Grants Management Draft Data Standards Feedback"
+title: "Federal Grants Management Draft Data Standards Feedback"
+
+rating: "1" 
 
 permalink: /2018-11-15-Data-Standards-Feedback/
 
@@ -16,7 +18,7 @@ description: Federal Grants Management Draft Data Standards Open for Feedback
 
 excerpt: Federal Grants Management Draft Data Standards Open for Feedback
 
-image: 
+image: /img/blog/Featured News Post.png/
 
 authors:
 - Performance.gov Team
