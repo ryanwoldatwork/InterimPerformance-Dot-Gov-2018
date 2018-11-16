@@ -2,74 +2,117 @@
 layout: navigation_PMA
 ---
 
-
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
-         <h1 style="margin-top:100px;">{{ page.title }}</h1>
-         <a class="usa-button usa-button-secondary card-tag-text"style="background-color:#046b99;color:#ffffff;" href="PMA/PMA.html">What is a CAP Goal?</a>
-         <a class="usa-button usa-button-secondary card-tag-text" style="color:#ffffff;" href="PMA/PMA.html">In the News</a>
-         <a class="usa-button card-tag-text" href="PMA/PMA.html" style="margin-top:0;color:#ffffff;">President's Management Agenda</a>
+       <a href="{{ site.baseurl }}{{ page.previous-page-url }}" style="text-decoration:none;color:#d6d7d9;float:left;">
+           <b>&#10094; &nbsp; CAP Goal: {{ page.previous-cap-goal-name }}</b></a>
+         <h1 style="margin-top:100px;"> <!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="PMA/PMA.html">Key Performance Indicator</a>
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="PMA/PMA.html">Resource 1</a>
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="PMA/PMA.html">Resource 2</a>
+
     </div>
     <div class="usa-width-one-half usa-media_block">
-      <div class="usa-media_block-body" >
-        <div class="cap-box"style="float:right">
+      <a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#d6d7d9;float:right;">
+         <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>
+        <div class="cap-box"style="float:right;margin-top:50px;">
           <div id="top">
             <p>Download the latest Action Plan and Progress Update</p>
-            <p class="card-tag" style="margin-top:40px;margin-bottom:30px;font-size:.5em;"><a style="text-decoration:none;background-color:#ffffff;color:#e31c3d;padding:10px;border-radius:25px;"  href="{{ site.baseurl }}/about/APG_about.html">Download</a></p>
+            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="PMA/PMA.html">Download</a>
             </div>
           <div id="bottom">
-            <center><p>"Modernizing Federal IT will enhance mission effectiveness and reduce mission risks through a series of complementary initiatives that will drive sustained change in Federal technology, deployment, security, and service delivery."</p></center>
-            </div>
-        </div>
+            <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3></center>
+          </div>
      </div>
    </div>
   </div>
 </section>
 <section class="usa-section usa-graphic_list">
-    <div class="usa-grid usa-graphic_list-row">
-         <div class="usa-width-one-sixth ">
+  <div class="usa-grid usa-graphic_list-row">
+    {% if page.goal-leader-name %}
+       <div class="usa-width-one-sixth " style="margin-right:50px;">
          <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-photo }}">
-        <p style="font-size:1.3rem"><b>{{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
+          <p style="font-size:1.3rem"><b>{{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
+       </div>
+    {% endif %}
+    {% if page.goal-leader-2-name %}
+        <div class="usa-width-one-sixth " style="margin-right:50px;">
+          <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
+          <p style="font-size:1.3rem"><b>{{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
+       </div>
+     {% endif %}
+     {% if page.goal-leader-3-name %}
+        <div class="usa-width-one-sixth" style="margin-right:50px;" >
+          <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
+          <p style="font-size:1.3rem"><b>{{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
+       </div>
+     {% endif %}
+       </div>
+     {% if page.goal-leader-4-name %}
+       <div class="usa-grid usa-graphic_list-row">
+          <div class="usa-width-one-sixth " style="margin-right:50px;">
+             <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-4-photo }}">
+            <p style="font-size:1.3rem"><b>{{ page.goal-leader-4-name }},</b><br>{{ page.goal-leader-4-title }}</p></center>
          </div>
-          <div class="usa-width-one-sixth ">
-        <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
-        <p style="font-size:1.3rem"><b>{{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
-         </div>
-          <div class="usa-width-one-sixth">
-        <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
-        <p style="font-size:1.3rem"><b>{{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
-     </div>
+     {% endif %}
+     {% if page.goal-leader-5-name %}
+            <div class="usa-width-one-sixth " style="margin-right:50px;">
+              <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-5-photo }}">
+              <p style="font-size:1.3rem"><b>{{ page.goal-leader-5-name }},</b><br>{{ page.goal-leader-5-title }}</p></center>
+           </div>
+     {% endif %}
+     {% if page.goal-leader-6-name %}
+            <div class="usa-width-one-sixth" style="margin-right:50px;" >
+              <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-6-photo }}">
+              <p style="font-size:1.3rem"><b>{{ page.goal-leader-6-name }},</b><br>{{ page.goal-leader-6-title }}</p></center>
+           </div>
+     {% endif %}
     </div>
+</section>
+<section class="CAP-media usa-section usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole">
+      <center><h2 style="margin-top:18px;">Download the latest Action Plan and Progress Update</h2>
+      <p class="card-tag" style="margin-top:70px;margin-bottom:30px;font-size:.8em;"><a style="text-decoration:none;background-color:#ffffff;color:#e31c3d;padding:10px;border-radius:25px;"  href="{{ site.baseurl }}/about/APG_about.html">Download</a></p></center>
+      </div>
+    </div>
+  </section>
+  <section class="quote-media usa-section usa-graphic_list">
+    <div class="usa-grid usa-graphic_list-row">
+      <div class="usa-width-one-whole">
+          <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3></center>
+        </div>
+      </div>
 </section>
 <section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-whole usa-media_block">
        <ul class="usa-accordion">
         <li>
-        <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+        <button class="usa-accordion-button " style="font-size:2.2rem;padding-left:0;padding-bottom:20px;"
           aria-expanded="true"
           aria-controls="a1">
-          Goal Statement
+          	&#9678;&nbsp;&nbsp; Goal Statement
         </button>
-        <div id="a1" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+        <div id="a1" class="usa-accordion-content " style="background-color:#f1f1f1;padding-left:0;">
           {{ page.statement }}
         </div>
       </li><li>
         <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
           aria-expanded="false"
           aria-controls="a2">
-          The Challenge
+        	&#9888;&nbsp;&nbsp;  The Challenge
         </button>
-        <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
-          {{ page.challenge }}
+        <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;border-top:">
+           {{ page.challenge }}
         </div>
       </li><li>
         <li>
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
             aria-controls="a3">
-            The Opportunity
+          	&#10535;&nbsp;&nbsp; The Opportunity
           </button>
           <div id="a3" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             {{ page.opportunity }}
@@ -79,7 +122,7 @@ layout: navigation_PMA
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
             aria-controls="a4">
-            Action Plans and Updates
+            &#10162;&nbsp;&nbsp;Action Plans and Updates
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             {{ page.action }}
