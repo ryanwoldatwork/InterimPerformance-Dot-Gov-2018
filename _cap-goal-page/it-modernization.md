@@ -3,6 +3,8 @@ layout: cap-goal-page
 
 title: "Modernize IT to Increase Productivity and Security"
 
+cap-category: "Key Driver of Reform"
+
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png"
 
 quote: "Modernizing Federal IT will enhance mission effectiveness and reduce mission risks, driving sustained change in Federal technology, deployment, security, and service delivery."
@@ -22,8 +24,8 @@ goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpeg"
 goal-leader-2-name: "Suzette Kent"
 goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
 
-previous-cap-goal-name:
-previous-page-url:
+previous-cap-goal-name: "CAP Goal Overview"
+previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveraging-data/
 

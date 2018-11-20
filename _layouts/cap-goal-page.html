@@ -7,7 +7,13 @@ layout: navigation_PMA
      <div class="usa-width-one-half usa-media_block">
        <a href="{{ site.baseurl }}{{ page.previous-page-url }}" style="text-decoration:none;color:#d6d7d9;float:left;">
            <b>&#10094; &nbsp; CAP Goal: {{ page.previous-cap-goal-name }}</b></a>
-         <h1 style="margin-top:100px;"> <!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
+          <h1 style="margin-top:100px;">
+           {% if page.cap-category == "Key Driver of Reform" %}
+           <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Key Driver of Reform</a></p>
+          {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
+           <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
+          {% endif %}<!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
+
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="PMA/PMA.html">Key Performance Indicator</a>
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="PMA/PMA.html">Resource 1</a>
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="PMA/PMA.html">Resource 2</a>

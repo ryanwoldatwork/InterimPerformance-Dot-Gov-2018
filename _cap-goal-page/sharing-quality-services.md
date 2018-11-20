@@ -3,6 +3,8 @@ layout: cap-goal-page
 
 title: "Sharing Quality Services"
 
+cap-category: "Cross-Cutting Priority Area"
+
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png"
 
 latest-action-plan: "/CAP/action_plans/FY2018_Q3_Sharing_Quality_Services.pdf"
