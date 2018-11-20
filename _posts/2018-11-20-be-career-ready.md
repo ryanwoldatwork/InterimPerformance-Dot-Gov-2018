@@ -23,7 +23,7 @@ authors:
 
 tags:
 - PMA
-- CAP Goal
+- CAP goal
 - success story
 
 ---
@@ -31,6 +31,7 @@ tags:
 November is National Career Development Month and there’s no better time to share what the Administration is doing to help reskill and retrain our Federal workforce to better serve the American people for the 21st century.
 
 To lay the foundation needed to address these challenges, we developed a 21st century workforce strategy as outlined in the [President’s Management Agenda](http://omb.gov/pma) (PMA), which was released earlier this year. This laid out our plan to modernize the Federal government, focusing on mission, service and stewardship to protect taxpayers and better serve the American people.
+
 OMB recently held a workforce symposium at the White House, which brought together government, industry and academic leaders to generate ideas and discuss the challenges the Federal government currently faces as the nation’s largest workforce.
 
 The conclusions [drawn from those discussions are clear](https://www.performance.gov/2018-10-23-federal-workforce-symposium-report.md/): we need to reduce the skills-gaps so our workforce is better aligned to the needs of the 21st century.  But how do we do that? With every modernization action we take must be both mission-driven and people-driven; those actions and practices will focus on a common sense of purpose and mission; and that they will engage employees, stakeholders, and other related parties in that shared purpose and mission.
