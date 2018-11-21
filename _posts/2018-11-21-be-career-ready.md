@@ -4,9 +4,9 @@ tumblr_url:
 
 title: "Building and Retraining our Federal Workforce for Tomorrow"
 
-permalink: /2018-11-20-building-and-retraing-our-federal-workforce/
+permalink: /2018-11-21-building-and-retraing-our-federal-workforce/
 
-url: /2018-11-20-building-and-retraing-our-federal-workforce/
+url: /2018-11-21-building-and-retraing-our-federal-workforce/
 
 summary: summary_large_image
 
