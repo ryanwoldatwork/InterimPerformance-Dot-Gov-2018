@@ -25,7 +25,7 @@ authors:
 
 tags:
 - PMA
-- CAP Goal
+- CAP goal
 
 ---
 
