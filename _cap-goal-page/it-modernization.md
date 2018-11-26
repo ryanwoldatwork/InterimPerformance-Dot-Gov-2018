@@ -24,7 +24,7 @@ goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpeg"
 goal-leader-2-name: "Suzette Kent"
 goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
 
-previous-cap-goal-name: "CAP Goal Overview"
+previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveraging-data/
