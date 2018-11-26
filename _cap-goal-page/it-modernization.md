@@ -1,7 +1,7 @@
 ---
 layout: cap-goal-page
 
-url: "/CAP/it-modernization/"
+permalink: "/CAP/it-modernization/"
 
 title: "Modernize IT to Increase Productivity and Security"
 
