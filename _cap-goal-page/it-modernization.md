@@ -1,6 +1,8 @@
 ---
 layout: cap-goal-page
 
+url: /CAP/it-modernization/
+
 title: "Modernize IT to Increase Productivity and Security"
 
 cap-category: "Key Driver of Reform"
