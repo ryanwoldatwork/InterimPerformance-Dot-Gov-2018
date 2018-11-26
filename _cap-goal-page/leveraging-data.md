@@ -15,7 +15,7 @@ opportunity: "There are opportunities to: develop a long-term, enterprise-wide F
 
 quote: "This is the quote"
 
-goal-leader-photo: "/img/CAP-photos/Pradeep-belur.jpg"
+goal-leader-photo: "/img/CAP-photos/pradeep-belur.jpg"
 goal-leader-name: "Pradeep Belur"
 goal-leader-title: "Chief of Staff, Small Business Administration"
 goal-leader-2-photo: "/img/CAP-photos/kelley-karen.jpg"
