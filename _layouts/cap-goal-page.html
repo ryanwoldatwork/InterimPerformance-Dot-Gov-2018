@@ -5,7 +5,7 @@ layout: navigation_PMA
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
-       <a href="{{ site.baseurl }}{{ page.previous-page-url }}" style="text-decoration:none;color:#d6d7d9;float:left;">
+       <a href="{{ site.baseurl }}{{ page.previous-page-url }}" style="text-decoration:none;color:#d6d7d9;float:left;font-size:2rem;">
            <b>&#10094; &nbsp; CAP Goal: {{ page.previous-cap-goal-name }}</b></a>
           <h1 style="margin-top:100px;">
            {% if page.cap-category == "Key Driver of Reform" %}
@@ -13,14 +13,17 @@ layout: navigation_PMA
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}<!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
-
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="PMA/PMA.html">Key Performance Indicator</a>
+      {% if page.cap-kpi-url == 'inlcude' %}
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/CAP/key_performance-indicators.html">Key Performance Indicator</a>
+      {%  else %}
+        <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}##">Resource 1</a>
+      {% endif %}
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="PMA/PMA.html">Resource 1</a>
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="PMA/PMA.html">Resource 2</a>
 
     </div>
     <div class="usa-width-one-half usa-media_block">
-      <a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#d6d7d9;float:right;">
+      <a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#d6d7d9;float:right;font-size:2rem">
          <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>
         <div class="cap-box"style="float:right;margin-top:50px;">
           <div id="top">

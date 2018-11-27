@@ -19,6 +19,8 @@ challenge-icon: "/img/CAP_icons/Icon_Modernize_IT_CAP.png"
 
 opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs."
 
+cap-kpi-url: https://d2d.gsa.gov/tableau-report-for-embed/7861
+
 goal-leader-photo: "/img/CAP-photos/censky-steve.jpg"
 goal-leader-name: "Steve Censky"
 goal-leader-title: "Deputy Secretary, United States Department of Agriculture"
@@ -27,7 +29,7 @@ goal-leader-2-name: "Suzette Kent"
 goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
 
 previous-cap-goal-name: "Overview"
-previous-page-url: {{ site.baseurl }}/CAP/overview/
+previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveraging-data/
 
