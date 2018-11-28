@@ -34,9 +34,9 @@ goal-leader-5-name:   "Nancy Potok"
 goal-leader-5-title: "Chief Statistician of the United Sates, Office of Management and Budget"
 
 previous-cap-goal-name: "IT Modernization"
-previous-page-url: /CAP/it-modernization/
+previous-page-url: /CAP/CAP_goal_1.html/
 next-cap-goal-name: "Sharing Quality Services"
-next-page-url: /CAP/sharing-quality-services/
+next-page-url: /CAP/CAP_goal_5.html/
 
 
 
