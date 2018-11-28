@@ -27,6 +27,9 @@ tags:
 - APG
 - PMA
 - success story
+- IT
+- sharing
+- data
 ---
 As part of advancing the [President’s Management Agenda](../PMA/PMA.html), Cross-Agency Priority (CAP) Goal teams released the latest quarterly progress on these high-priority federal initiatives. Agencies also released progress updates on their own Agency Priority Goals. The CAP Goal updates showcase what teams have achieved to date, while the APG updates reflect progress through June 2018. All of the progress updates highlight upcoming milestones as teams continue to use these goals to advance mission, service, and stewardship on behalf of the American people.
 

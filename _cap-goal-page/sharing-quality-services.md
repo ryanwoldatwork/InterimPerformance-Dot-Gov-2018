@@ -19,6 +19,8 @@ challenge: "Families economize by buying in volume or taking advantage of the sh
 
 challenge-icon: "/img/CAP_icons/Icon_Modernize_IT_CAP.png"
 
+tag: "sharing"
+
 opportunity: "Opportunities for transformation include converging around common standards for administrative activities to reduce “unique” requirements and duplicate contracts and:"
 
 goal-leader-photo: "/img/CAP-photos/murphy-emily.jpg"

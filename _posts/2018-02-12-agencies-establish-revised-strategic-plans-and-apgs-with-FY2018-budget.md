@@ -21,6 +21,9 @@ authors:
 tags:
 - strategic objectives
 - APG
+- IT
+- sharing
+- data
 
 ---
 

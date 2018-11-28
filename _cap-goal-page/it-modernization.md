@@ -3,31 +3,46 @@ layout: cap-goal-page
 
 permalink: "/CAP/it-modernization/"
 
-title: "Modernize IT to Increase Productivity and Security"
+title: "Modernize IT to Increase Productivity and Security" #page title
 
-cap-category: "Key Driver of Reform"
+cap-category: "Key Driver of Reform" #category text
 
-cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png"
+cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to title
 
-quote: "Modernizing Federal IT will enhance mission effectiveness and reduce mission risks, driving sustained change in Federal technology, deployment, security, and service delivery."
+#***********************FLOATING BOX SECTION*****************************
+quote: "Modernizing Federal IT will enhance mission effectiveness and reduce mission risks, driving sustained change in Federal technology, deployment, security, and service delivery." #appears in the gray text box
+#***********************FLOATING BOX SECTION*****************************
 
-statement: "The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide."
+#***********************ACCORDION SECTION*****************************
+statement: "The Executive Branch will build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide." #first accordion text
 
-challenge: "The challenge includes: limited accountability for achieving enterprise-wide outcomes that enhance IT service effectiveness and reduce cybersecurity risks; slow adoption of cutting edge commercial technologies due to onerous acquisition and authorization processes; and federal agencies employ patchwork network architectures and rely on legacy systems that are costly and difficult to secure and upgrade."
+challenge: "The challenge includes: limited accountability for achieving enterprise-wide outcomes that enhance IT service effectiveness and reduce cybersecurity risks; slow adoption of cutting edge commercial technologies due to onerous acquisition and authorization processes; and federal agencies employ patchwork network architectures and rely on legacy systems that are costly and difficult to secure and upgrade." #second accordion text
 
-challenge-icon: "/img/CAP_icons/Icon_Modernize_IT_CAP.png"
+opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs." #third accordion text
+#***********************END ACCORDION SECTION*****************************
 
-opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs."
+#***********************KPI SECTION*****************************
+cap-kpi-url: https://d2d.gsa.gov/tableau-report-for-embed/7861 #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the Tableau dashboard
+KPI: "Cybersecurity" #KPI title that pulls in CAP-KPI include
+#***********************END KPI SECTION*****************************
 
-cap-kpi-url: https://d2d.gsa.gov/tableau-report-for-embed/7861
+#***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
+tag: "IT" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
+CAP-event-title: "IT Modernization Conference"
+CAP-event-date: "Thursday, Dec. 6, 2018"
+CAP-event-text: "Are you interested in learning how the Federal Government plans to improve the lives of American taxpayers by modernizing IT systems? Join the IT Modernization CAP Goal Team to find out how."
+#***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
-goal-leader-photo: "/img/CAP-photos/censky-steve.jpg"
+#************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
+goal-leader-photo: "/img/CAP-photos/censky-steve.jpg" #Goal leader 1
 goal-leader-name: "Steve Censky"
 goal-leader-title: "Deputy Secretary, United States Department of Agriculture"
-goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpeg"
+goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpeg" #Goal leader 2
 goal-leader-2-name: "Suzette Kent"
 goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
+#***********************END GOAL LEADER SECTION*****************************8
 
+#***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
