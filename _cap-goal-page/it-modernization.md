@@ -1,7 +1,7 @@
 ---
 layout: cap-goal-page
 
-permalink: "/CAP/CAP_goal_1.html/"
+permalink: "/CAP/CAP_goal_1.html"
 
 title: "Modernize IT to Increase Productivity and Security" #page title
 
@@ -44,9 +44,9 @@ goal-leader-2-title: "Federal Chief Information Officer, Office of Management an
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "Overview"
-previous-page-url: /CAP/overview.html/
+previous-page-url: /CAP/overview.html
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/CAP_goal_2.html/
+next-page-url: /CAP/CAP_goal_2.html
 
 
 ---  
