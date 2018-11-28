@@ -32,7 +32,7 @@ goal-leader-3-name:  "Suzette Kent"
 goal-leader-3-title: "Federal Chief Information Officer, Office of Management and Budget"
 
 previous-cap-goal-name: "Leveraging Data"
-previous-page-url: /it-modernization
+previous-page-url: /CAP/it-modernization
 next-cap-goal-name:
 next-page-url:
 ---  
