@@ -13,8 +13,8 @@ layout: navigation_PMA
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}<!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
-          {% if page.cap-kpi-url %}
-               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/CAP/key_performance-indicators.html">Key Performance Indicator</a>
+            {% if page.cap-kpi-url %}
+               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/CAP/key_performance_indicators.html">Key Performance Indicator</a>
               {% else %}
                  <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/##">Resource Link</a>
             {% endif %}
@@ -146,10 +146,10 @@ layout: navigation_PMA
           </button>
           <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
-              <div class="usa-width-one-half usa-media_block">
-                <p>The President’s Management Agenda identifies cross-agency priority (CAP) goals to target those areas where multiple agencies must collaborate to effect change and report progress in a manner the public can easily track.</p><p> In this the section, find the key indicators from the CAP Goal Action Plan used to measure how this goal is performing. </p>
+              <div class="usa-width-one-third usa-media_block">
+              <p> In this the section, find the key indicators from the CAP Goal Action Plan used to measure how this goal is performing. </p>
               </div>
-              <div class="usa-width-one-half usa-media_block">
+              <div class="usa-width-two-thirds usa-media_block">
                 {% include kpi--cap-page.html title=page.KPI %}
               </div>
           </div>
@@ -175,15 +175,19 @@ layout: navigation_PMA
              <a  href="{{ site.baseurl }}/tags/{{ tag }}/">{{ tag }}</a>
            </span>
            {% endfor %}
-           <hr align="left">
          {% endif %}
          {% endfor %}
      </div>
-     <div class="usa-width-one-third usa-media_block" style="background-color:rgba(255,255,255,0.85);color:#205493;padding:20px;">
+     <div class="usa-width-one-third usa-media_block" style="background-color:rgba(255,255,255,1);color:#205493;padding:20px;height:400px;">
         <h2>&#128467;&nbsp;Upcoming Events</h2>
+        <hr style="color:#ffffff;">
+        {% if page.CAP-event-title %}
         <p style="font-size:1.1em;margin-bottom:0px;"><b>{{ page.CAP-event-title}}</b>, <em>{{ page.CAP-event-date}}</em></p>
         <p style="margin-top:5px;">{{ page.CAP-event-text }}</p>
           <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:25px;" href="{{ site.baseurl }}/news">RSVP &#10095;</a></p>
+        {% else %}
+          <p>No upcoming events</p>
+        {% endif %}
      </div
    </div>
 </section>
