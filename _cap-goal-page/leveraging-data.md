@@ -3,8 +3,6 @@ layout: cap-goal-page
 
 title: "Leveraging Data as a Strategic Asset"
 
-path: "/CAP_goal_2.html"
-
 cap-category: "Key Driver of Reform"
 
 statement: "Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency."
@@ -34,9 +32,9 @@ goal-leader-5-name:   "Nancy Potok"
 goal-leader-5-title: "Chief Statistician of the United Sates, Office of Management and Budget"
 
 previous-cap-goal-name: "IT Modernization"
-previous-page-url: /CAP/CAP_goal_1.html
+previous-page-url: /CAP/it-modernization
 next-cap-goal-name: "Sharing Quality Services"
-next-page-url: /CAP/CAP_goal_5.htmls
+next-page-url: /CAP/sharing-quality-services
 
 
 

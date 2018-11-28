@@ -3,8 +3,6 @@ layout: cap-goal-page
 
 title: "Sharing Quality Services"
 
-path: "/CAP_goal_5.html"
-
 cap-category: "Cross-Cutting Priority Area"
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png"
@@ -34,7 +32,7 @@ goal-leader-3-name:  "Suzette Kent"
 goal-leader-3-title: "Federal Chief Information Officer, Office of Management and Budget"
 
 previous-cap-goal-name: "Leveraging Data"
-previous-page-url: /CAP/CAP_goal_2.html
+previous-page-url: /it-modernization
 next-cap-goal-name:
 next-page-url:
 ---  
