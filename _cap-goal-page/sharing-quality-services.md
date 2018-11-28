@@ -3,7 +3,7 @@ layout: cap-goal-page
 
 title: "Sharing Quality Services"
 
-permalink: "/CAP/CAP_goal_5.html"
+path: "/CAP_goal_5.html"
 
 cap-category: "Cross-Cutting Priority Area"
 
