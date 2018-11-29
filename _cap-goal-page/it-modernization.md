@@ -20,11 +20,16 @@ statement: "The Executive Branch will build and maintain more modern, secure, an
 challenge: "The challenge includes: limited accountability for achieving enterprise-wide outcomes that enhance IT service effectiveness and reduce cybersecurity risks; slow adoption of cutting edge commercial technologies due to onerous acquisition and authorization processes; and federal agencies employ patchwork network architectures and rely on legacy systems that are costly and difficult to secure and upgrade." #second accordion text
 
 opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs." #third accordion text
+
+action-2018-Q1: "/CAP/action_plans/FY2018_Q1_IT_Modernization.pdf"
+action-2018-Q2: "/CAP/action_plans/FY2018_Q2_IT_Modernization.pdf"
+action-2018-Q2: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
 #***********************END ACCORDION SECTION*****************************
 
 #***********************KPI SECTION*****************************
 cap-kpi-url: https://d2d.gsa.gov/tableau-report-for-embed/7861 #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the Tableau dashboard
 KPI: "Cybersecurity" #KPI title that pulls in CAP-KPI include
+KPI-2: "Cloud Email Adoption" #2nd KPI title that pulls in CAP-KPI include
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************

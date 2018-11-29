@@ -17,7 +17,7 @@ layout: navigation_PMA
               {% else %}
                  <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/##">Resource Link</a>
             {% endif %}
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="PMA/PMA.html">Resource Link</a>
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="##">Resource Link</a>
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="PMA/PMA.html">Resource Link</a>
 
     </div>
@@ -96,7 +96,7 @@ layout: navigation_PMA
 <section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-whole usa-media_block">
-       <ul class="usa-accordion">
+       <ul class="usa-accordion" id="transition">
         <li>
         <button class="usa-accordion-button " style="font-size:2.2rem;padding-left:0;padding-bottom:20px;"
           aria-expanded="true"
@@ -133,7 +133,12 @@ layout: navigation_PMA
             &#10162;&nbsp;&nbsp;Action Plans and Updates
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
-            {{ page.action }}
+            <p><a href="{{ page.action-2018-Q3 }}" target="_blank"><b>Download the FY2018 Q3 Action Plan</b></a>
+            </p>
+            <p><a href="{{ page.action-2018-Q2 }}" target="_blank"><b>Download the FY2018 Q2 Action Plan</b></a>
+            </p>
+             <p><a href="{{ page.action-2018-Q1 }}" target="_blank"><b>Download the FY2018 Q1 Action Plan</b></a>
+             </p>
           </div>
         </li>
         {% if page.KPI %}
@@ -145,11 +150,13 @@ layout: navigation_PMA
           </button>
           <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
-              <div class="usa-width-one-third usa-media_block">
-              <p> In this the section, find the key indicators from the CAP Goal Action Plan used to measure how this goal is performing. </p>
-              </div>
-              <div class="usa-width-two-thirds usa-media_block">
+              <div class="usa-width-one-half usa-media_block">
                 {% include kpi--cap-page.html title=page.KPI %}
+              </div>
+              {% if page.KPI-2 %}
+              <div class="usa-width-one-half usa-media_block">
+                {% include kpi--cap-page.html title=page.KPI-2 %}
+              {% endif %}
               </div>
           </div>
         </li>

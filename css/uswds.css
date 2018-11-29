@@ -2264,6 +2264,7 @@ dfn {
   list-style: none;
   margin-bottom: 6px;
   width: 100%;
+
 }
 
 .usa-accordion > ul button,
@@ -2339,6 +2340,9 @@ dfn {
   list-style: none;
   margin-bottom: 6px;
   width: 100%;
+  -webkit-transition: all 0.4s ease;
+-o-transition: all 0.4s ease;
+transition: all 0.4s ease;
 }
 
 .usa-accordion-bordered .usa-accordion-content {
@@ -2394,6 +2398,9 @@ dfn {
   margin: 0;
   padding: 1.5rem 5.5rem 1.5rem 3rem;
   width: 100%;
+  -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease; }
 }
 
 .usa-accordion-button:hover {
