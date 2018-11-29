@@ -19,7 +19,7 @@ collections:
 
   cap-goal-page:
       output: true
-      permalink: /CAP/:path
+      permalink: /DAP/:path
 
 # Social usernames/URLs
 twitter_username: PerformanceGov
