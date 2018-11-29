@@ -1,7 +1,6 @@
 ---
 layout: navigation_PMA
 ---
-{% for cap-goal-page in site.cap-goal-page  %}
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
@@ -170,11 +169,6 @@ layout: navigation_PMA
            <h3 style="margin-top:1em;">{{ post.title }}</h3>
          </a>
          <p>{{ post.description}}</p>
-         {% for tag in include.tags %}
-           <span class="usa-label">
-             <a  href="{{ site.baseurl }}/tags/{{ tag }}/">{{ tag }}</a>
-           </span>
-           {% endfor %}
          {% endif %}
          {% endfor %}
      </div>
@@ -219,5 +213,3 @@ layout: navigation_PMA
 
 
 {% include CAP-icons-set.html %}
-
-{% endfor %}

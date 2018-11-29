@@ -1,13 +1,21 @@
 
 /*grid for themes*/
-
-
-
+/* old grid
 .grid {
  position: relative;
  display: grid;
  grid-gap: 10px;
  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+ margin-right: 7rem;
+ margin-left: 7rem;
+ padding: 2% 0;
+}*/
+
+.grid {
+ position: relative;
+ display: grid;
+ grid-gap: 10px;
+ grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
  margin-right: 7rem;
  margin-left: 7rem;
  padding: 2% 0;
