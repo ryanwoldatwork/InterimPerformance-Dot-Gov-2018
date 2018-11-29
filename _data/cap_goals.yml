@@ -35,9 +35,9 @@
   kpi_url:  https://d2d.gsa.gov/tableau-report-for-embed/7864
   pdf_url: /CAP/Customer_Satisfaction_Scores.pdf
   img: /CAP/Customer_Satisfaction_Scores.JPG
-  url: /CAP/CAP_goal_5.html
+  url: /CAP/sharing-quality-services/
   name: Sharing Quality Services
-  CAP-url: /CAP/CAP_goal_5.html
+  CAP-url: /CAP/sharing-quality-services/
   data_url: /CAP/KPI/Customer Satisfaction Survey_KPI Data_FY18Q3.xlsx
 
 
@@ -57,7 +57,7 @@
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7863
   pdf_url: /CAP/KPI_Cloud_Email_Adoption_Q3.pdf
   img: /CAP/Email_Cloud_Adoption_capture.PNG
-  url: /CAP/CAP_goal_1.html
+  url: /CAP/it-modernization/
   name: IT Modernization
-  CAP-url: /CAP/CAP_goal_1.html
+  CAP-url: /CAP/it-modernization/
   data_url: /CAP/KPI/Cloud Email Adoption_KPI Data_FY18Q3.xlsx

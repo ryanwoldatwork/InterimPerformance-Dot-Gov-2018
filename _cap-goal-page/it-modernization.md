@@ -12,6 +12,7 @@ cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to titl
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Modernizing Federal IT will enhance mission effectiveness and reduce mission risks, driving sustained change in Federal technology, deployment, security, and service delivery." #appears in the gray text box
+current-action-plan: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -23,11 +24,11 @@ opportunity: "There are opportunities to: expand the use of modern commercial te
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_IT_Modernization.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_IT_Modernization.pdf"
-action-2018-Q2: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
+
 #***********************END ACCORDION SECTION*****************************
 
 #***********************KPI SECTION*****************************
-cap-kpi-url: https://d2d.gsa.gov/tableau-report-for-embed/7861 #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the Tableau dashboard
+cap-kpi-url: /CAP/key_performance_indicators.html/ #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the Tableau dashboard
 KPI: "Cybersecurity" #KPI title that pulls in CAP-KPI include
 KPI-2: "Cloud Email Adoption" #2nd KPI title that pulls in CAP-KPI include
 #***********************END KPI SECTION*****************************

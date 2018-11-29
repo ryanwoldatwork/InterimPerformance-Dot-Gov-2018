@@ -18,7 +18,7 @@ layout: navigation_PMA
                  <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/##">Resource Link</a>
             {% endif %}
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="##">Resource Link</a>
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="PMA/PMA.html">Resource Link</a>
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="##">Resource Link</a>
 
     </div>
     <div class="usa-width-one-half usa-media_block">
@@ -27,7 +27,7 @@ layout: navigation_PMA
         <div class="cap-box"style="float:right;margin-top:50px;">
           <div id="top">
             <p>Download the latest Action Plan and Progress Update</p>
-            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="PMA/PMA.html">Download</a>
+            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}">Download</a>
             </div>
           <div id="bottom">
             <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3></center>
@@ -82,7 +82,7 @@ layout: navigation_PMA
   <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-whole">
       <center><h2 style="margin-top:18px;">Download the latest Action Plan and Progress Update</h2>
-      <p class="card-tag" style="margin-top:70px;margin-bottom:30px;font-size:.8em;"><a style="text-decoration:none;background-color:#ffffff;color:#e31c3d;padding:10px;border-radius:25px;"  href="{{ site.baseurl }}/about/APG_about.html">Download</a></p></center>
+      <p class="card-tag" style="margin-top:70px;margin-bottom:30px;font-size:.8em;"><a style="text-decoration:none;background-color:#ffffff;color:#e31c3d;padding:10px;border-radius:25px;"  href="{{ site.baseurl }}{{ page.current-action-plan }}">Download</a></p></center>
       </div>
     </div>
   </section>
@@ -133,11 +133,9 @@ layout: navigation_PMA
             &#10162;&nbsp;&nbsp;Action Plans and Updates
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
-            <p><a href="{{ page.action-2018-Q3 }}" target="_blank"><b>Download the FY2018 Q3 Action Plan</b></a>
+            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q2 }}" target="_blank"><b>Download the FY2018 Q2 Action Plan</b></a>
             </p>
-            <p><a href="{{ page.action-2018-Q2 }}" target="_blank"><b>Download the FY2018 Q2 Action Plan</b></a>
-            </p>
-             <p><a href="{{ page.action-2018-Q1 }}" target="_blank"><b>Download the FY2018 Q1 Action Plan</b></a>
+             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q1 }}" target="_blank"><b>Download the FY2018 Q1 Action Plan</b></a>
              </p>
           </div>
         </li>

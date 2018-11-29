@@ -9,6 +9,8 @@ cap-category: "Key Driver of Reform" #category text
 
 #***********************FLOATING BOX SECTION*****************************
 quote: Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.
+
+current-action-plan: "/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -21,7 +23,7 @@ opportunity: "There are opportunities to: develop a long-term, enterprise-wide F
 #action plan links
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Data_Accountability_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Data_Accountability_Transparency.pdf"
-action-2018-Q3: "/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pdf"
+
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "data"
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
