@@ -3,6 +3,8 @@ layout: cap-goal-page
 
 title: "Leveraging Data as a Strategic Asset"
 
+permalink: "/CAP/leveraging-data"
+
 cap-category: "Key Driver of Reform"
 
 statement: "Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency."
