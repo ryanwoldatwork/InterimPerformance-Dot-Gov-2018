@@ -3,7 +3,7 @@ layout: cap-goal-page
 
 title: "Leveraging Data as a Strategic Asset"
 
-permalink: "/CAP/leveraging-data"
+permalink: /CAP/leveraging-data
 
 cap-category: "Key Driver of Reform"
 
