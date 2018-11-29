@@ -8,6 +8,7 @@ title_image: "../img/homepage_images/newhero2_v2 JPG.jpg"
 
 collections:
   cap-goal-page:
+      layout:
       output: true
 
   defaults:
