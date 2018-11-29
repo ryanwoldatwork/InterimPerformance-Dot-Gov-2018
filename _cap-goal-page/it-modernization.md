@@ -3,7 +3,7 @@ layout: cap-goal-page
 
 title: "Modernize IT to Increase Productivity and Security" #page title
 
-permalink: ../CAP/it-modernization
+permalink: ../CAP/it-modernization/
 
 cap-category: "Key Driver of Reform" #category text
 
