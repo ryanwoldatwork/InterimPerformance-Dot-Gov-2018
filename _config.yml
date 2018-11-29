@@ -10,6 +10,9 @@ collections:
   agencies:
     output: true
     permalink: /:path
+  cap-goal-page:
+      output: true
+      permalink: /:CAP/:title
 
   defaults:
     - scope:
@@ -17,9 +20,7 @@ collections:
       values:
         layout: navigation
 
-  cap-goal-page:
-      output: true
-      permalink: /DAP/:path
+
 
 # Social usernames/URLs
 twitter_username: PerformanceGov
