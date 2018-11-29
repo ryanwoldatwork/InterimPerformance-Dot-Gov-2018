@@ -51,7 +51,7 @@ goal-leader-2-title: "Federal Chief Information Officer, Office of Management an
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "Overview"
-previous-page-url: /CAP/overview.html
+previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveraging-data
 
