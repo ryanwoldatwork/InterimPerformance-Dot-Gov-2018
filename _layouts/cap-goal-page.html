@@ -13,7 +13,7 @@ layout: navigation_PMA
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}<!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
             {% if page.cap-kpi-url %}
-               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/CAP/key_performance_indicators.html">Key Performance Indicator</a>
+               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="#KPI">Key Performance Indicator</a>
               {% else %}
                  <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/##">Resource Link</a>
             {% endif %}
@@ -24,7 +24,7 @@ layout: navigation_PMA
     <div class="usa-width-one-half usa-media_block">
       <a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#d6d7d9;float:right;font-size:2rem">
          <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>
-        <div class="cap-box"style="float:right;margin-top:50px;">
+        <div class="cap-box">
           <div id="top">
             <p>Download the latest Action Plan and Progress Update</p>
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}">Download</a>
@@ -101,7 +101,7 @@ layout: navigation_PMA
         <button class="usa-accordion-button " style="font-size:2.2rem;padding-left:0;padding-bottom:20px;"
           aria-expanded="true"
           aria-controls="a1">
-          	&#9678;&nbsp;&nbsp; Goal Statement
+          	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/goal-statement-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Goal Statement
         </button>
         <div id="a1" class="usa-accordion-content " style="background-color:#f1f1f1;padding-left:0;">
           {{ page.statement }}
@@ -110,18 +110,20 @@ layout: navigation_PMA
         <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
           aria-expanded="false"
           aria-controls="a2">
-        	&#9888;&nbsp;&nbsp;  The Challenge
+        	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/challenge_icon_blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;The Challenge
         </button>
         <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;border-top:">
            {{ page.challenge }}
         </div>
       </li><li>
         <li>
+        <a name="KPI">
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
             aria-controls="a3">
-          	&#10535;&nbsp;&nbsp; The Opportunity
+          	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/opportunity_icon_blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;The Opportunity
           </button>
+        </a>
           <div id="a3" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             {{ page.opportunity }}
           </div>
@@ -130,7 +132,7 @@ layout: navigation_PMA
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
             aria-controls="a4">
-            &#10162;&nbsp;&nbsp;Action Plans and Updates
+            <img class="usa-media_block-img" src="{{ site.baseurl }}/img/action-plan-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Action Plans and Updates
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q2 }}" target="_blank"><b>Download the FY2018 Q2 Action Plan</b></a>
@@ -141,11 +143,13 @@ layout: navigation_PMA
         </li>
         {% if page.KPI %}
         <li>
-          <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+
+          <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
             aria-controls="a5">
-            &#128477;&nbsp;&nbsp;Key Performance Indicator (KPI)
+              <img class="usa-media_block-img" src="{{ site.baseurl }}/img/action-plan-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Key Performance Indicator (KPI)
           </button>
+        </a>
           <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
               <div class="usa-width-one-half usa-media_block">
@@ -169,9 +173,10 @@ layout: navigation_PMA
        <h2>News</h2>
        {% for post in site.tags[page.tag] limit:2 %}
        {% if page.tag %}
-       <p class="card-tag" style="color:#ffffff;">{{ post.date | date: '%B %d, %Y' }}</p>
-         <a style="color:#ffffff;" href="{{ site.baseurl }}{{ post.permalink }}">
-           <h3 style="margin-top:1em;">{{ post.title }}</h3>
+       <hr>
+       <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ post.date | date: '%B %d, %Y' }}</p>
+         <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ post.permalink }}">
+           <h3 style="margin-top:5px;">{{ post.title }}</h3>
          </a>
          <p>{{ post.description}}</p>
          {% endif %}
