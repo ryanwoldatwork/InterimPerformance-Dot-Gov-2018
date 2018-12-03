@@ -4,6 +4,18 @@
   color: #ffffff;
 }
 
+#cap-icon {
+  margin: 10px 10px 0px 0px;
+  width: 80px;
+
+}
+
+@media screen and (max-width: 769px) {
+    #cap-icon {
+      display:none;
+}}
+
+
 .CAP-tag-text {
  color: #d6d7d9;
  font-size: 1.2rem;
@@ -19,8 +31,8 @@
 
 #cap-goal-headshot {
   border-radius:50%;
-  width:145px;
-  height:145px;
+  width:140px;
+  height:140px;
   margin:0px 0px 0px 0px;
   object-fit: cover;
 
@@ -44,10 +56,6 @@
   box-shadow: 0 1px 9px rgba(0, 0, 0, 0.4);
 }
 
-@media screen and (max-width: 769px) {
-    .cap-box {
-      display:none;
-}}
 
 .cap-box #top {
   background-color: #e31c3d;

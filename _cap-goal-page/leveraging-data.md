@@ -7,7 +7,7 @@ permalink: /CAP/leveraging-data/
 
 cap-category: "Key Driver of Reform" #category text
 
-cap-icon: "/img/CAP_icons/Icon_Modernize_IT_white.png" #icon that appears next to title
+cap-icon: "/img/CAP_icons/Icon_Federal_Data_gray.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
 quote: Leverage data as a strategic asset to grow the economy, increase the effectiveness of the Federal Government, facilitate oversight, and promote transparency.

@@ -12,7 +12,7 @@ layout: navigation_PMA
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}-->
-        <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="80" style="margin-right:10px;">{{ page.title }}</h1>
+        <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}</h1>
           {% if page.CAP-event-title %}
               <a class="usa-button pulse-button CAP-tag-text" style="background-color:#046b99;color:#ffffff;" href="#KPI">News & Events</a>
           {% else %}
