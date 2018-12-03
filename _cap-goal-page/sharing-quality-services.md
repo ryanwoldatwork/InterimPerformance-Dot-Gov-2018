@@ -9,6 +9,8 @@ cap-category: "Cross-Cutting Priority Area" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to title
 
+cap-icon: "/img/CAP_icons/Icon_Modernize_IT_white.png" #icon that appears next to title
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "We strive to improve the efficiency and effectiveness of administrative services across government."
 current-action-plan: "/CAP/action_plans/FY2018_Q3_Sharing_Quality_Services.pdf"

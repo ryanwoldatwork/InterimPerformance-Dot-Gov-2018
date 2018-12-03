@@ -1,3 +1,9 @@
+#image {
+  background-image: url(../img/it-mod-banner.png);
+  object-fit: fill;
+  color: #ffffff;
+}
+
 .CAP-tag-text {
  color: #d6d7d9;
  font-size: 1.2rem;
@@ -10,23 +16,23 @@
 
 }
 
+
 #cap-goal-headshot {
   border-radius:50%;
-  width:130px;
-  height:130px;
+  width:145px;
+  height:145px;
   margin:0px 0px 0px 0px;
   object-fit: cover;
 
 }
 
 .cap-box {
+  border-radius:15px;
   width:300px;
-  height: 600px;
+  height: 620px;
   z-index: 10;
   float:right;
   position: absolute;
-  margin-left: 170px;
-  margin-top:65px;
   display: block;
   overflow: hidden;
   overflow-x: hidden;
@@ -45,23 +51,34 @@
 
 .cap-box #top {
   background-color: #e31c3d;
-  height: 300px;
-  padding:35px;
+  height: 310px;
+  padding: 35px;
   color: #ffffff;
   font-size: 2.5rem;
   font-weight: bold;
-
 }
 
 .cap-box #top p {
   margin-top:0;
   padding-bottom:40px;
+}
 
-
+.cap-box #top:after{
+  content: '   ';
+  width:0px;
+  height:0px;
+  border-top: 10px solid transparent;
+  border-left: 10px solid #e31c3d;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid transparent;
+  position: absolute;
+  margin-left: 100%;
+  margin-top: 50%;
 }
 .cap-box #bottom {
-  background-color: #323a45;
-  height: 300px;
+  /*background-color: #323a45;*/
+  background-image: url(../img/it-mod-quote.png);
+  height: 310px;
   padding:35px;
 
 }
@@ -107,3 +124,42 @@
   text-decoration: none;
   color: #000000;
 }
+
+
+/* PULSE FUNCTION
+
+.pulse-button {
+  margin: 0.5em;
+  position: relative;
+  width: auto;
+  height: auto;
+  border: none;
+  box-shadow: 0 0 0 0 rgba(2, 191, 231, 0.7);
+  border-radius: 0.3rem;
+  background-size:cover;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+}
+.pulse-button:hover
+{
+  -webkit-animation: none;
+  -moz-animation: none;
+  -ms-animation: none;
+   animation: none;
+}
+
+.pulse-button:active
+{
+  -webkit-animation: none;
+  -moz-animation: none;
+  -ms-animation: none;
+   animation: none;
+}
+@-webkit-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}
+@-moz-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}
+@-ms-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}
+@keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}*/

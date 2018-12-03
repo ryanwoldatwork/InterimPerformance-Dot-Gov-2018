@@ -1,30 +1,34 @@
 ---
 layout: navigation_PMA
 ---
-<section class="usa-section usa-section-dark usa-graphic_list">
+<section class="usa-section usa-graphic_list" id="image">
    <div class="usa-grid usa-graphic_list-row">
-     <div class="usa-width-one-half usa-media_block">
-       <a href="{{ site.baseurl }}{{ page.previous-page-url }}" style="text-decoration:none;color:#d6d7d9;float:left;font-size:2rem;">
-           <b>&#10094; &nbsp; CAP Goal: {{ page.previous-cap-goal-name }}</b></a>
-          <h1 style="margin-top:100px;">
-           {% if page.cap-category == "Key Driver of Reform" %}
-           <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Key Driver of Reform</a></p>
+     <div class="usa-width-two-thirds usa-media_block">
+       <a href="{{ site.baseurl }}/CAP/overview/" style="text-decoration:none;color:#ffffff;float:left;font-size:2rem;">
+           <b>&#10094; &nbsp; CAP Goal Overview</b></a>
+          <h1 style="margin-top:66px;">
+        <!--   {% if page.cap-category == "Key Driver of Reform" %}
+           <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Key Driver of Reform</a></p>
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
-           <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#ffffff;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
-          {% endif %}<!--<img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="50">-->{{ page.title }}</h1>
-            {% if page.cap-kpi-url %}
-               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="#KPI">Key Performance Indicator</a>
-              {% else %}
-                 <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="{{ site.baseurl }}/##">Resource Link</a>
-            {% endif %}
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="##">Resource Link</a>
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="##">Resource Link</a>
-
+           <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
+          {% endif %}-->
+        <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" width="80" style="margin-right:10px;">{{ page.title }}</h1>
+          {% if page.CAP-event-title %}
+              <a class="usa-button pulse-button CAP-tag-text" style="background-color:#046b99;color:#ffffff;" href="#KPI">News & Events</a>
+          {% else %}
+              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="#KPI">News & Events</a>
+          {% endif %}
+         {% if page.cap-kpi-url %}
+              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="#KPI" id="pulse">Key Performance Indicator</a>
+         {% else %}
+             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;" href="##">Resource Link</a>
+         {% endif %}
+              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="##">Resource Link</a>
     </div>
-    <div class="usa-width-one-half usa-media_block">
-      <a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#d6d7d9;float:right;font-size:2rem">
-         <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>
-        <div class="cap-box">
+    <div class="usa-width-one-third usa-media_block">
+      <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
+         <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>-->
+        <div class="cap-box" style="margin-top:30px;">
           <div id="top">
             <p>Download the latest Action Plan and Progress Update</p>
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}">Download</a>
@@ -41,19 +45,19 @@ layout: navigation_PMA
     {% if page.goal-leader-name %}
        <div class="usa-width-one-sixth " style="margin-right:50px;">
          <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-photo }}">
-          <p style="font-size:1.3rem"><b>{{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
+          <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
        </div>
     {% endif %}
     {% if page.goal-leader-2-name %}
         <div class="usa-width-one-sixth " style="margin-right:50px;">
           <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
-          <p style="font-size:1.3rem"><b>{{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
+          <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
        </div>
      {% endif %}
      {% if page.goal-leader-3-name %}
         <div class="usa-width-one-sixth" style="margin-right:50px;" >
           <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
-          <p style="font-size:1.3rem"><b>{{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
+          <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
        </div>
      {% endif %}
        </div>
@@ -61,19 +65,19 @@ layout: navigation_PMA
        <div class="usa-grid usa-graphic_list-row">
           <div class="usa-width-one-sixth " style="margin-right:50px;">
              <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-4-photo }}">
-            <p style="font-size:1.3rem"><b>{{ page.goal-leader-4-name }},</b><br>{{ page.goal-leader-4-title }}</p></center>
+            <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-4-name }},</b><br>{{ page.goal-leader-4-title }}</p></center>
          </div>
      {% endif %}
      {% if page.goal-leader-5-name %}
             <div class="usa-width-one-sixth " style="margin-right:50px;">
               <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-5-photo }}">
-              <p style="font-size:1.3rem"><b>{{ page.goal-leader-5-name }},</b><br>{{ page.goal-leader-5-title }}</p></center>
+              <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-5-name }},</b><br>{{ page.goal-leader-5-title }}</p></center>
            </div>
      {% endif %}
      {% if page.goal-leader-6-name %}
             <div class="usa-width-one-sixth" style="margin-right:50px;" >
               <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-6-photo }}">
-              <p style="font-size:1.3rem"><b>{{ page.goal-leader-6-name }},</b><br>{{ page.goal-leader-6-title }}</p></center>
+              <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-6-name }},</b><br>{{ page.goal-leader-6-title }}</p></center>
            </div>
      {% endif %}
     </div>
@@ -182,13 +186,13 @@ layout: navigation_PMA
          {% endif %}
          {% endfor %}
      </div>
-     <div class="usa-width-one-third usa-media_block" style="background-color:rgba(255,255,255,1);color:#205493;padding:20px;height:400px;">
+     <div class="usa-width-one-third usa-media_block" style="background-color:rgba(255,255,255,1);color:#205493;padding:20px;height:400px;border-radius:25px;">
         <h2>&#128467;&nbsp;Upcoming Events</h2>
         <hr style="color:#ffffff;">
         {% if page.CAP-event-title %}
         <p style="font-size:1.1em;margin-bottom:0px;"><b>{{ page.CAP-event-title}}</b>, <em>{{ page.CAP-event-date}}</em></p>
         <p style="margin-top:5px;">{{ page.CAP-event-text }}</p>
-          <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:25px;" href="{{ site.baseurl }}/news">RSVP &#10095;</a></p>
+          <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:15px;" href="{{ site.baseurl }}/news">RSVP &#10095;</a></p>
         {% else %}
           <p>No upcoming events</p>
         {% endif %}

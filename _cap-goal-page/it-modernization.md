@@ -8,7 +8,7 @@ url: /CAP/it-modernization/
 
 cap-category: "Key Driver of Reform" #category text
 
-cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to title
+cap-icon: "/img/CAP_icons/Icon_Modernize_IT_gray.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Modernizing Federal IT will enhance mission effectiveness and reduce mission risks, driving sustained change in Federal technology, deployment, security, and service delivery." #appears in the gray text box
