@@ -56,6 +56,11 @@
   box-shadow: 0 1px 9px rgba(0, 0, 0, 0.4);
 }
 
+@media screen and (max-width: 769px) {
+    .cap-box {
+      display:none;
+}}
+
 
 .cap-box #top {
   background-color: #e31c3d;
@@ -109,7 +114,8 @@
 }}
 
 .quote-media {
-  background-color: #323a45;
+  /*background-color: #323a45;*/
+  background-image: url(../img/it-mod-quote.png);
   color: #ffffff;
 }
 
