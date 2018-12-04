@@ -34,7 +34,9 @@ layout: navigation_PMA
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}">Download</a>
             </div>
           <div id="bottom">
-            <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3></center>
+            <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3>
+               <h2>- {{ page.quote-author }}</h2>
+            </center>
           </div>
      </div>
    </div>
@@ -93,7 +95,7 @@ layout: navigation_PMA
   <section class="quote-media usa-section usa-graphic_list">
     <div class="usa-grid usa-graphic_list-row">
       <div class="usa-width-one-whole">
-          <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3></center>
+          <center><h3><b>&#10077;{{ page.quote }}&#10078;</b><br> - {{ page.quote-author }}</h3></center>
         </div>
       </div>
 </section>

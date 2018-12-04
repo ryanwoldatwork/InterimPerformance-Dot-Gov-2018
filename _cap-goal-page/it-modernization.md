@@ -12,6 +12,7 @@ cap-icon: "/img/CAP_icons/Icon_Modernize_IT_gray.png" #icon that appears next to
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Modernizing Federal IT will enhance mission effectiveness and reduce mission risks, driving sustained change in Federal technology, deployment, security, and service delivery." #appears in the gray text box
+quote-author: "CAP Goal Leader"
 current-action-plan: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
