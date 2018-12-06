@@ -31,7 +31,7 @@ action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf"
 #***********************END ACCORDION SECTION*****************************
 
 #***********************KPI SECTION*****************************
-cap-kpi-url:  #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the Tableau dashboard
+cap-kpi-url:  #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the KPI accordion section
 KPI: #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 

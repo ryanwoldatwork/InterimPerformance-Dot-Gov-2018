@@ -21,9 +21,9 @@ layout: navigation_PMA
          {% if page.cap-kpi-url %}
               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="#KPI" id="pulse">Key Performance Indicator</a>
          {% else %}
-             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;" href="{{ page.resource-1-url }}">{{ page.resource-1-name }}</a>
+             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;" href="{{ site.baseurl }}{{ page.resource-1-url }}">{{ page.resource-1-name }}</a>
          {% endif %}
-              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="{{ page.resource-2-url }}">{{ page.resource-2-name }}</a>
+              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="{{ site.baseurl }}{{ page.resource-2-url }}">{{ page.resource-2-name }}</a>
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
