@@ -35,8 +35,10 @@ cap-kpi-url:  #if the CAP goal has a KPI, it will appear as a button under the t
 KPI: #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name: GEAR Awards
-resource-1-url: /GEARcenter/index.html
+resource-1-name: GEAR Awards #resource 1 link name
+resource-1-url: /GEARcenter/index.html #resource 1 link
+resource-2-name: CX Resources
+resource-2-url: /cx
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
