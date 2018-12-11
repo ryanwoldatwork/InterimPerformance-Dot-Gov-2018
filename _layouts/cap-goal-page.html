@@ -13,17 +13,13 @@ layout: navigation_PMA
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}-->
         <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}</h1>
-          {% if page.CAP-event-title %}
-              <a class="usa-button pulse-button CAP-tag-text" style="background-color:#046b99;color:#ffffff;" href="#KPI">News & Events</a>
-          {% else %}
-              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="#KPI">News & Events</a>
-          {% endif %}
+        <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;" href="#KPI">News & Events</a>
          {% if page.cap-kpi-url %}
               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="#KPI" id="pulse">Key Performance Indicator</a>
          {% else %}
              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;" href="{{ site.baseurl }}{{ page.resource-1-url }}">{{ page.resource-1-name }}</a>
          {% endif %}
-              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="{{ site.baseurl }}{{ page.resource-2-url }}">{{ page.resource-2-name }}</a>
+              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="{{ site.baseurl }}{{ page.resource-2-url }}">Resource</a>
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
