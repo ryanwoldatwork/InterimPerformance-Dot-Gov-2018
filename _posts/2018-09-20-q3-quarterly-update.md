@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "New Updates Showcase Progress on Cross-Agency Priority Goals and Agency Priority Goals"
+title: "New Updates Highlight Movement on Cross-Agency and Agency Priority Goals"
 
 rating: "1"
 
