@@ -18,7 +18,7 @@ description: Cross-Agency and Agency Priority Goal teams released the December 2
 
 excerpt: Cross-Agency and Agency Priority Goal teams released the December 2018 updates on the progress of high-priority federal initiatives.
 
-image: "/img/blog/dec-2018-quarterly-update.png"
+image: "/img/blog/dec-2018-quarterly-update.PNG"
 
 authors:
 - Performance.gov Team
