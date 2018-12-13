@@ -59,6 +59,18 @@ For more information about why goal teams provide quarterly updates, please visi
 
 <img src="../img/CAP_icons/Icon_Getting_Payments_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The new [Anti-Fraud Playbook](https://cfo.gov/fraudprevention/) helps the federal government responsibly steward taxpayers’ contributions. The playbook provides <strong>best practices and fraud prevention techniques</strong> that help federal agencies prevent improper payments.
 
+#### [APG: Small Business Administration Reduce Loan Processing Time for Disaster Survivors](../SBA/APG_sba_4.html)
+
+<img src="../img/agency/Small_Business_Administration_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">In the wakes of Hurricanes Harvey, Irma, & Maria, many small businesses needed help. The SBA sped up loan application processing to help small businesses get back on their feet. In FY18, SBA approved 140,240 loans, which was more than a 400% increase from FY17.
+
+#### [APG: Department of Justice Violet Crime](../justice/APG_justice_2.html)
+
+<img src="../img/agency/Justice_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">The DOJ is combating violent crime by dismantling gangs and other criminal enterprises. In FY18, the FBI dismantled 194 gangs or criminal enterprises, exceeding their target goal by 15% and helping communities across the country live safer lives.
+
+#### [APG: Environmental Protection Agency Accelerate the Pace of Cleanups and Return Sites to Beneficial Use in Their Communities](../EPA/APG_epa_2.html)
+
+<img src="../img/agency/Environmental_Protection_Agency_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">Brownfields present risks to human health and the environment. EPA is working to clean up brownfields and make them available to communities faster. In FY18, EPA made 861 brownfield sites ready for use, exceeding their target goal by 177 sites.
+
 ### How to Find the Action Plans & Progress Reports
 
 To view Agency Priority Goal (APG) updates:
