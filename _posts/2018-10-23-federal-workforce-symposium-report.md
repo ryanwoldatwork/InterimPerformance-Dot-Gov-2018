@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "Report: Symposium on the Federal Workforce for the 21st Century"
 
-permalink: /2018-10-23-federal-workforce-symposium-report.md/
+permalink: /2018-10-23-federal-workforce-symposium-report/
 
 url: /2018-10-23-federal-workforce-symposium-report.md/
 

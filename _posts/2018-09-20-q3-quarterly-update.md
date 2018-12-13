@@ -7,7 +7,7 @@ rating: "1"
 
 agency:
 
-permalink: /2018-09-20-q3-quarterly-update.md/
+permalink: /2018-09-20-q3-quarterly-update/
 
 url: /2018-09-20-q3-quarterly-update.md/
 

@@ -3,7 +3,7 @@ layout: post
 
 title: "Op-Ed: Federal Payroll Modernization Could Advance President's Management Agenda and Cross-Agency Priority Goals"
 
-permalink: /2018-06-01-Op-Ed-Federal-Payroll-Modernization-Could-Advance-PMA.md/
+permalink: /2018-06-01-Op-Ed-Federal-Payroll-Modernization-Could-Advance-PMA/
 
 url: /2018-06-01-Op-Ed-Federal-Payroll-Modernization-Could-Advance-PMA.md
 
