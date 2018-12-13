@@ -4,6 +4,8 @@ tumblr_url:
 
 title: "New Updates Highlight Movement on Cross-Agency and Agency Priority Goals"
 
+rating: "1"
+
 permalink: /2018-12-13-december-2018-quarterly-update/
 
 url: /2018-12-13-december-2018-quarterly-update.md/
@@ -55,7 +57,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [CAP Goal: Getting Payments Right](../CAP/CAP_goal_9.html)
 
-<img src="../img/CAP_icons/Icon_Getting_Payments_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The new Anti-Fraud Playbook helps the federal government responsibly steward taxpayers’ contributions. The playbook provides <strong>best practices and fraud prevention techniques</strong> that help federal agencies prevent improper payments.
+<img src="../img/CAP_icons/Icon_Getting_Payments_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The new [Anti-Fraud Playbook](https://cfo.gov/fraudprevention/) helps the federal government responsibly steward taxpayers’ contributions. The playbook provides <strong>best practices and fraud prevention techniques</strong> that help federal agencies prevent improper payments.
 
 ### How to Find the Action Plans & Progress Reports
 
