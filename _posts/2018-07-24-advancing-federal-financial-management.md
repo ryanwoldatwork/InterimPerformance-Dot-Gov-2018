@@ -3,7 +3,7 @@ layout: post
 
 title: "Advancing Federal Financial Management"
 
-permalink: /2018-07-24-advancing-federal-financial-management.md/
+permalink: /2018-07-24-advancing-federal-financial-management/
 
 url: /2018-07-24-advancing-federal-financial-management.md
 

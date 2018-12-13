@@ -7,7 +7,7 @@ rating: "0"
 
 agency:
 
-permalink: /2018-08-15-best-in-class-Solutions.md/
+permalink: /2018-08-15-best-in-class-Solutions/
 
 url: /2018-08-15-best-in-class-Solutions.md
 
