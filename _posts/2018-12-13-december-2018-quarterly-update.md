@@ -63,7 +63,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 <img src="../img/agency/Small_Business_Administration_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">In the wakes of Hurricanes Harvey, Irma, & Maria, many small businesses needed help. The SBA sped up loan application processing to help small businesses get back on their feet. In FY18, SBA approved 140,240 loans, which was more than a 400% increase from FY17.
 
-#### [APG: Department of Justice Violet Crime](../justice/APG_justice_2.html)
+#### [APG: Department of Justice Violent Crime](../justice/APG_justice_2.html)
 
 <img src="../img/agency/Justice_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">The DOJ is combating violent crime by dismantling gangs and other criminal enterprises. In FY18, the FBI dismantled 194 gangs or criminal enterprises, exceeding their target goal by 15% and helping communities across the country live safer lives.
 
