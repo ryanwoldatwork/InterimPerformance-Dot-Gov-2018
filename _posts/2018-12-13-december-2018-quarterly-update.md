@@ -49,7 +49,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [CAP Goal: Developing a Workforce for the 21st Century](../CAP/CAP_goal_3.html)
 
-<img src="../img/CAP_icons/Icon_Workforce_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">National Science Foundation (NSF) is <strong>helping federal employees better position themselves for the 21st century workforce</strong>. NSF launched the Career Compass Challenge, a $100,000 cash prize competition for researchers, educators, developers and private sector to develop an innovative reskilling tool that prepares employees for current and future career opportunities.
+<img src="../img/CAP_icons/Icon_Workforce_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">National Science Foundation (NSF) is <strong>helping federal employees better position themselves for the 21st century workforce</strong>. NSF launched the [Career Compass Challenge](https://challenge.gov/a/buzz/challenge/86/ideas/top), a $100,000 cash prize competition for researchers, educators, developers and private sector to develop an innovative reskilling tool that prepares employees for current and future career opportunities.
 
 #### [CAP Goal: Developing a Workforce for the 21st Century](../CAP/CAP_goal_3.html)
 
