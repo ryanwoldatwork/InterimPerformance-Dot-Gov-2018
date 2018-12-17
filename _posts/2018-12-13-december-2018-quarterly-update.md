@@ -39,7 +39,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [CAP Goal: Modernize IT to Increase Productivity and Security](../CAP/CAP_goal_1.html)
 
-<img src="../img/CAP_icons/Icon_Modernize_IT_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The goal team launched the Federal Cybersecurity Reskilling Academy, which offers Federal employees the opportunity for <strong>hands-on training in cybersecurity</strong>. Through the program, existing Federal employees expand their skills to become qualified cyber defense analysts and help defend against cyber threats.
+<img src="../img/CAP_icons/Icon_Modernize_IT_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The goal team launched the [Federal Cybersecurity Reskilling Academy](https://www.cio.gov/reskilling/), which offers Federal employees the opportunity for <strong>hands-on training in cybersecurity</strong>. Through the program, existing Federal employees expand their skills to become qualified cyber defense analysts and help defend against cyber threats.
 
 #### [CAP Goal: Category Management - Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies](../CAP/CAP_goal_7.html)
 
