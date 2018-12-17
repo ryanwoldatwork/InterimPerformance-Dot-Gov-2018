@@ -14,9 +14,9 @@ summary: summary_large_image
 
 agency:
 
-description: Cross-Agency and Agency Priority Goal teams released the December 2018 updates on the progress of high-priority federal initiatives.
+description: Teams implementing the federal government’s high-priority performance initiatives released their December 2018 quarterly updates of progress.
 
-excerpt: Cross-Agency and Agency Priority Goal teams released the December 2018 updates on the progress of high-priority federal initiatives.
+excerpt: Teams implementing the federal government’s high-priority performance initiatives released their December 2018 quarterly updates of progress.
 
 image: "/img/blog/dec-2018-quarterly-update.PNG"
 
@@ -31,7 +31,7 @@ tags:
 - success story
 
 ---
-The latest progress reports are available from the teams implementing the federal government’s high-priority initiatives. Cross-Agency Priority (CAP) Goal teams, who are implementing the President’s Management Agenda, and Agency Priority Goal (APG) teams released today their December 2018 quarterly updates. The updates showcase upcoming milestones as teams continue to use these goals to advance mission, service, and stewardship on behalf of the American people.
+Teams implementing the federal government’s high-priority performance initiatives have just released their December 2018 quarterly updates of progress. Updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) showcase recently completed milestones and milestones on the horizon as teams continue to use these goals to advance mission, service, and stewardship outcomes on behalf of the American people.
 
 For more information about why goal teams provide quarterly updates, please visit the [Performance Framework](../about/framework_about.html) page, which includes an explanation of [CAP Goals](../about/CAP_about.html) and [APGs](../about/APG_about.html).
 
@@ -39,21 +39,17 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [CAP Goal: Modernize IT to Increase Productivity and Security](../CAP/CAP_goal_1.html)
 
-<img src="../img/CAP_icons/Icon_Modernize_IT_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The goal team launched the Federal Cybersecurity Reskilling Academy, which offers Federal employees the opportunity for <strong>hands-on training in cybersecurity</strong>. Through the program, Federal employees become qualified cyber defense analysts and learn to defend against cyber threats.
+<img src="../img/CAP_icons/Icon_Modernize_IT_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">The goal team launched the Federal Cybersecurity Reskilling Academy, which offers Federal employees the opportunity for <strong>hands-on training in cybersecurity</strong>. Through the program, existing Federal employees expand their skills to become qualified cyber defense analysts and help defend against cyber threats.
 
 #### [CAP Goal: Category Management - Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies](../CAP/CAP_goal_7.html)
 
-<img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Category management continues to deliver value and savings to taxpayers by allowing the government to buy commons goods and services as a single enterprise. In fiscal year (FY) 2018, category management <strong>generated $9.3 billion in cost savings<sup>1</sup></strong>.
-
-<sub>1 FY18 Data will be finalized in January due to DoD 90 day data lag.</sub>
+<img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Category management continues to deliver value and savings to taxpayers by allowing the government to buy commons goods and services as a single enterprise. In fiscal year (FY) 2018, category management <strong>generated $9.3 billion in cost savings across agencies</strong>, not yet including Department of Defense data that will be finalized in January.
 
 #### [CAP Goal: Developing a Workforce for the 21st Century](../CAP/CAP_goal_3.html)
 
 <img src="../img/CAP_icons/Icon_Workforce_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">National Science Foundation (NSF) is <strong>helping federal employees better position themselves for the 21st century workforce</strong>. NSF launched the [Career Compass Challenge](https://challenge.gov/a/buzz/challenge/86/ideas/top), a $100,000 cash prize competition for researchers, educators, developers and private sector to develop an innovative reskilling tool that prepares employees for current and future career opportunities.
 
-#### [CAP Goal: Developing a Workforce for the 21st Century](../CAP/CAP_goal_3.html)
-
-<img src="../img/CAP_icons/Icon_Workforce_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Federal agencies can now <strong>fill critical positions with qualified candidates faster</strong>. The Office of Personnel Management authorized new direct hire appointing authorities that agencies can use immediately to hire for a variety of Scientific, Technical, Engineering and Mathematics (STEM) positions, as well as Cybersecurity and related positions which have identified severe shortages of candidates and/or critical hiring needs.
+Federal agencies can now <strong>fill critical positions with qualified candidates faster</strong>. The Office of Personnel Management authorized new direct hire appointing authorities that agencies can use immediately to hire for a variety of Scientific, Technical, Engineering and Mathematics (STEM) positions, as well as Cybersecurity and related positions which have identified severe shortages of candidates and/or critical hiring needs.
 
 #### [CAP Goal: Getting Payments Right](../CAP/CAP_goal_9.html)
 
@@ -61,11 +57,11 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [APG: Small Business Administration: Reduce Loan Processing Time for Disaster Survivors](../SBA/APG_sba_4.html)
 
-<img src="../img/agency/Small_Business_Administration_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">In the wakes of Hurricanes Harvey, Irma, & Maria, many small businesses needed help. The SBA <strong>sped up loan application processing</strong> to help small businesses get back on their feet. In FY18, SBA approved 140,240 loans, which was more than a 400% increase from FY17.
+<img src="../img/agency/Small_Business_Administration_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">The SBA has been busy helping small businesses recover from 2017/2018 disasters. In FY18, SBA <strong>approved 140,240 loans in record time, without compromising on service.</strong>
 
 #### [APG: Department of Justice: Violent Crime](../justice/APG_justice_2.html)
 
-<img src="../img/agency/Justice_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">The DOJ is combating violent crime by dismantling gangs and other criminal enterprises. In FY18, the FBI <strong>dismantled 194 gangs or criminal enterprises</strong>, exceeding their target goal by 15% and helping communities across the country live safer lives.
+<img src="../img/agency/Justice_Department_Seal.png" style="width:15%;float:left;margin-right:20px;" alt="agency seal">The DOJ is <strong>combating violent crime by dismantling gangs and other criminal enterprises</strong>. In FY18, the FBI dismantled 194 gangs or criminal enterprises, exceeding their target goal by 15% and helping communities across the country live safer lives.
 
 #### [APG: Environmental Protection Agency: Accelerate the Pace of Cleanups and Return Sites to Beneficial Use in Their Communities](../EPA/APG_epa_2.html)
 
