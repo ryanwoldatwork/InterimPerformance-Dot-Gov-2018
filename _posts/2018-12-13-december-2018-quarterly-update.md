@@ -43,7 +43,7 @@ For more information about why goal teams provide quarterly updates, please visi
 
 #### [CAP Goal: Category Management - Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies](../CAP/CAP_goal_7.html)
 
-<img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Category management continues to deliver value and savings to taxpayers by allowing the government to buy commons goods and services as a single enterprise. In fiscal year (FY) 2018, category management <strong>generated $9.3 billion in cost savings across agencies</strong>, not yet including Department of Defense data that will be finalized in January.
+<img src="../img/CAP_icons/Icon_Category_Management_twitter.png" style="width:15%;float:left;margin-right:20px;" alt="CAP goal icon">Category management continues to deliver value and savings to taxpayers by allowing the government to buy commons goods and services as a single enterprise. In fiscal year (FY) 2018, category management <strong>generated $9.3 billion in cost avoidance across agencies</strong>, not yet including Department of Defense's data that will be finalized in January.
 
 #### [CAP Goal: Developing a Workforce for the 21st Century](../CAP/CAP_goal_3.html)
 
