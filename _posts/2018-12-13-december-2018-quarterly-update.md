@@ -31,7 +31,7 @@ tags:
 - success story
 
 ---
-Teams implementing the federal government’s high-priority performance initiatives have just released their December 2018 quarterly updates of progress. Updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) showcase recently completed milestones and milestones on the horizon as teams continue to use these goals to advance mission, service, and stewardship outcomes on behalf of the American people.
+Teams implementing the federal government’s high-priority performance initiatives released their December 2018 quarterly updates. Updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) showcase recently completed and upcoming milestones as teams continue to use these goals to advance mission, service, and stewardship outcomes on behalf of the American people.
 
 For more information about why goal teams provide quarterly updates, please visit the [Performance Framework](../about/framework_about.html) page, which includes an explanation of [CAP Goals](../about/CAP_about.html) and [APGs](../about/APG_about.html).
 
