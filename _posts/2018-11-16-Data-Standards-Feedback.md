@@ -8,8 +8,6 @@ rating: "1"
 
 permalink: /2018-11-16-Data-Standards-Feedback/
 
-url: /2018-11-16-Data-Standards-Feedback.md/
-
 summary: summary_large_image
 
 agency:
