@@ -6,7 +6,7 @@ title: "Register Today for the Single Audit & Risk Management Demo Days!"
 
 rating: "1"
 
-permalink: /2018-12-18-IndustryDays.md
+permalink: /2018-12-18-IndustryDays.md/
 
 url: /2018-12-18-IndustryDays.md
 
@@ -18,7 +18,7 @@ description: Single Audit and Risk Management Industry Demonstration Days begin 
 
 excerpt: Single Audit and Risk Management Industry Demonstration Days begin January 29, 2019.
 
-image: "/img/blog/Featured-Post-Industry-Days
+image: "/img/blog/Featured-Post-Industry-Day"
 
 authors:
 
@@ -37,7 +37,7 @@ For more information visit [FedBizOpps.gov](FedBizOpps.gov) and join the Virtual
 welcome to ask questions during the session or submit them to [GrantsTeam@omb.eop.gov](GrantsTeam@omb.gov).
 
 Important Links:
-Register for the Virtual Pre-Demonstration Day on January 8, 2019
+[Register](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-virtual-pre-demonstration-conference-tickets-52866219285) for the Virtual Pre-Demonstration Day on January 8, 2019
 Register for Industry Demonstration Days beginning on January 29, 2019. (Deadline: January 17, 2019 at 6pm EST)
 Vendor Registration
 Federal Employee Registration
