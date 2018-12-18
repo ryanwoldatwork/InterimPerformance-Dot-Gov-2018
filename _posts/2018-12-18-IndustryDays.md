@@ -18,7 +18,7 @@ description: Single Audit and Risk Management Industry Demonstration Days begin 
 
 excerpt: Single Audit and Risk Management Industry Demonstration Days begin January 29, 2019.
 
-image: "/img/blog/Featured-Post-Industry-Day"
+image: "/img/blog/Featured-Post-Industry-Days"
 
 authors:
 
