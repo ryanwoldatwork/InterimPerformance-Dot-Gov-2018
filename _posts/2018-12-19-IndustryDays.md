@@ -20,7 +20,8 @@ excerpt: Single Audit and Risk Management Industry Demonstration Days begin Janu
 
 image: "/img/blog/Industry-Days.png"
 
-author: Performance.gov Team
+authors:
+- Performance.gov Team
 
 
 tags:
