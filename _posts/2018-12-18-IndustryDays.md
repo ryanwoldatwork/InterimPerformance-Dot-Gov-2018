@@ -37,8 +37,9 @@ For more information visit [FedBizOpps.gov](FedBizOpps.gov) and join the Virtual
 welcome to ask questions during the session or submit them to [GrantsTeam@omb.eop.gov](GrantsTeam@omb.gov).
 
 Important Links:
-[Register](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-virtual-pre-demonstration-conference-tickets-52866219285) for the Virtual Pre-Demonstration Day on January 8, 2019
-Register for Industry Demonstration Days beginning on January 29, 2019. (Deadline: January 17, 2019 at 6pm EST)
-Vendor Registration
-Federal Employee Registration
-FedBizOpps.gov Announcement
+
+* [Register](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-virtual-pre-demonstration-conference-tickets-52866219285) for the Virtual Pre-Demonstration Day on January 8, 2019
+* Register for Industry Demonstration Days beginning on January 29, 2019. (Deadline: January 17, 2019 at 6pm EST)
+ * [Vendor Registration](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-industry-demonstration-days-vendor-signup-tickets-53749926477) 
+ * [Federal Employee Registration](https://www.eventbrite.com/e/grants-single-audit-and-risk-mgmt-industry-demonstration-days-registration-tickets-52866314570)
+ * [FedBizOpps.gov Announcement](https://www.fbo.gov/index.php?s=opportunity&mode=form&id=18e2112bca64cdd1d3b72eed5f1e4560&tab=core&_cview=0) 
