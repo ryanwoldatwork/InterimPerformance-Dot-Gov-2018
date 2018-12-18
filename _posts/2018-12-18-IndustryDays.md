@@ -20,8 +20,6 @@ excerpt: Single Audit and Risk Management Industry Demonstration Days begin Janu
 
 image: "/img/blog/Industry-Days.png"
 
-authors:
-
 
 tags:
 - CAP goal
