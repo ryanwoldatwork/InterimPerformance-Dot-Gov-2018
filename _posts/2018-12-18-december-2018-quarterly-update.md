@@ -6,9 +6,9 @@ title: "New Updates Highlight Movement on Cross-Agency and Agency Priority Goals
 
 rating: "1"
 
-permalink: /2018-12-13-december-2018-quarterly-update/
+permalink: /december-2018-quarterly-update/
 
-url: /2018-12-13-december-2018-quarterly-update.md/
+url: /december-2018-quarterly-update.md/
 
 summary: summary_large_image
 
