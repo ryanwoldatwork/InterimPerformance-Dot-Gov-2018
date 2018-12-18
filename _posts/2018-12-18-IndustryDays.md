@@ -31,8 +31,8 @@ The Results-Oriented Accountability for Grants CAP Goal Team is hosting Single A
 Days beginning on January 29, 2019 through January 31, 2019. All interested parties experienced in creating automated solutions for 
 data management are encouraged to attend.
 
-For more information visit [FedBizOpps.gov](FedBizOpps.gov) and join the Virtual Pre-Demonstration Day session on January 8, 2019. All attendees are 
-welcome to ask questions during the session or submit them to [GrantsTeam@omb.eop.gov](GrantsTeam@omb.gov).
+For more information visit [FedBizOpps.gov](https://www.fbo.gov/index.php?s=opportunity&mode=form&id=18e2112bca64cdd1d3b72eed5f1e4560&tab=core&_cview=0) and join the Virtual Pre-Demonstration Day session on January 8, 2019. All attendees are 
+welcome to ask questions during the session or submit them to GrantsTeam@omb.eop.gov.
 
 Important Links:
 
