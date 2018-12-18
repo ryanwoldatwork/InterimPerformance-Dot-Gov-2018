@@ -3,7 +3,7 @@ layout: post
 
 title: "Federal Agencies Release 2018 Quarter 2 Updates on Agency Priority Goal and Cross-Agency Priority Goal Progress"
 
-permalink: /2018-06-26-agencies-release-q2-apg-cap-plans.md/
+permalink: /2018-06-26-agencies-release-q2-apg-cap-plans/
 
 url: /2018-06-26-agencies-release-q2-apg-cap-plans.md
 

@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Department of Veterans Affairs"
 
-permalink: /2018-07-31-VEText-success-story.md/
+permalink: /2018-07-31-VEText-success-story/
 
 url: /2018-07-31-VEText-success-story.md
 
