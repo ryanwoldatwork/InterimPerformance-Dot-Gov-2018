@@ -1,7 +1,7 @@
 ---
 layout: cfo-act-agency
 
-permalink: /agriculture
+permalink: ../agriculture
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Agriculture
