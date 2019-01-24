@@ -1,7 +1,8 @@
 ---
+title: Commerce
 layout: cfo-act-agency
 
-permalink: /commerce
+permalink: ../commerce/
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Commerce
@@ -11,9 +12,6 @@ agency-seal: ../img/agency/Commerce_Department_Seal.png
 agency-site: https://www.commerce.gov/
 strategic-plan-link: https://www.commerce.gov/sites/commerce.gov/files/us_department_of_commerce_2018-2022_strategic_plan.pdf
 performance-plan-link: http://www.osec.doc.gov/bmi/budget/19APPR/Commerce_FY17-FY19_APPR_JUN2018_FINAL.pdf
-mission: To create the conditions for economic growth and opportunity.
-overview: The Department of Commerce promotes job creation and economic growth by ensuring fair and reciprocal trade, providing the data necessary to support commerce and constitutional democracy, and fostering innovation by setting standards and conducting foundational research and development. Through our bureaus and 46,608 employees (as of January 31, 2018) located in all 50 states, every U.S. territory, and more than 86 countries, we provide U.S.-based companies and entrepreneurs invaluable tools through programs such as the Decennial Census, the National Weather Service, NOAA Fisheries, and the Foreign Commercial Service. Among many other functions, the Department oversees ocean and coastal navigation, helps negotiate bilateral trade agreements, and enforces laws that ensure a level playing field for American businesses and workers.
-other-documents-link: http://www.osec.doc.gov/bmi/budget/
 
 #side navigation
 apg-1: Accelerate Patent Processing
@@ -37,3 +35,23 @@ image: "/img/agency/Commerce_Department_Seal.png"
 summary: summary
 description: To create the conditions for economic growth and opportunity by promoting job creation, fair and reciprocal trade, and supporting commerce.
 ---
+
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block agency-page-section">
+    <h2 style="color:#046b99;">Mission</h2>
+    <p>To create the conditions for economic growth and opportunity.</p>
+  </div>
+</div>
+
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block agency-page-section">
+    <h2 style="color:#046b99;">Overview</h2>
+    <p>The Department of Commerce promotes job creation and economic growth by ensuring fair and reciprocal trade, providing the data necessary to support commerce and constitutional democracy, and fostering innovation by setting standards and conducting foundational research and development. Through our bureaus and 46,608 employees (as of January 31, 2018) located in all 50 states, every U.S. territory, and more than 86 countries, we provide U.S.-based companies and entrepreneurs invaluable tools through programs such as the Decennial Census, the National Weather Service, NOAA Fisheries, and the Foreign Commercial Service. Among many other functions, the Department oversees ocean and coastal navigation, helps negotiate bilateral trade agreements, and enforces laws that ensure a level playing field for American businesses and workers.</p>
+  </div>
+</div>
+
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block">
+    <p>To access additional agency performance documents <a href="http://www.osec.doc.gov/bmi/budget/" target="_blank">visit the agency’s website</a>.</p>
+  </div>
+</div>

@@ -1,4 +1,5 @@
 ---
+title: USDA
 layout: cfo-act-agency
 
 permalink: ../agriculture/
@@ -11,9 +12,6 @@ agency-seal: ..\img\agency\Agriculture_Department_Seal.png
 agency-site: https://www.usda.gov/
 strategic-plan-link: https://www.usda.gov/our-agency/about-usda/strategic-goals
 performance-plan-link: https://www.obpa.usda.gov/perfrpt/2019perfplan2017rpt.pdf
-mission: The U.S. Department of Agriculture (USDA) provides leadership on agriculture, food, natural resources, rural infrastructure, nutrition, and related issues through fact-based, data-driven, and customer-focused decisions.
-overview: President Abraham Lincoln founded the U.S. Department of Agriculture (USDA) in 1862 with the goal of providing effective leadership to the Nation on food, agriculture, natural resources, and related issues. Since 1862, the dedicated public servants at USDA help millions of Americans every day. More information about the Department, our history, and our leaders can be found [here](https://www.usda.gov).
-other-documents-link: https://www.usda.gov/our-agency/about-usda/performance
 
 #side navigation
 apg-1: Improve the Customer Experience at USDA
@@ -37,3 +35,23 @@ image: "/img/agency/Agriculture_Department_Seal.png"
 summary: summary
 description: Provide leadership on agriculture, food, natural resources, rural infrastructure, nutrition, and related issues.
 ---
+
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block agency-page-section">
+    <h2 style="color:#046b99;">Mission</h2>
+    <p>The U.S. Department of Agriculture (USDA) provides leadership on agriculture, food, natural resources, rural infrastructure, nutrition, and related issues through fact-based, data-driven, and customer-focused decisions.</p>
+  </div>
+</div>
+
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block agency-page-section">
+    <h2 style="color:#046b99;">Overview</h2>
+    <p>President Abraham Lincoln founded the U.S. Department of Agriculture (USDA) in 1862 with the goal of providing effective leadership to the Nation on food, agriculture, natural resources, and related issues. Since 1862, the dedicated public servants at USDA help millions of Americans every day. More information about the Department, our history, and our leaders can be found <a href="https://www.usda.gov/" target="_blank">here</a>.</p>
+  </div>
+</div>
+
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block">
+    <p>To access additional agency performance documents <a href="https://www.usda.gov/our-agency/about-usda/performance" target="_blank">visit the agency’s website</a>.</p>
+  </div>
+</div>
