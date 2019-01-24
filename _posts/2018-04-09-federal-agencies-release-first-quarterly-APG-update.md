@@ -4,9 +4,9 @@ tumblr_url:
 
 title: "Federal Agencies Release First Quarterly Update on Agency Priority Goal Progress"
 
-permalink: /2018-04-09-federal-agencies-release-first-quarterly-APG-update.html/
+permalink: /2018-04-09-federal-agencies-release-first-quarterly-APG-update/
 
-url: /2018-04-09-federal-agencies-release-first-quarterly-APG-update.html
+url: /2018-04-09-federal-agencies-release-first-quarterly-APG-update.md
 
 summary: summary_large_image
 

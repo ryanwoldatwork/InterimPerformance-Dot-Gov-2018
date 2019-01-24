@@ -3,7 +3,7 @@ layout: post
 
 title: "Agencies Establish Revised Strategic Plans and Agency Priority Goals with the President's FY 2019 Budget"
 
-permalink: /2018-02-12-agencies-establish-revised-strategic-plans-and-apgs-with-FY2018-budget.md/
+permalink: /2018-02-12-agencies-establish-revised-strategic-plans-and-apgs-with-FY2018-budget/
 
 url: /2018-02-12-agencies-establish-revised-strategic-plans-and-apgs-with-FY2018-budget.md
 

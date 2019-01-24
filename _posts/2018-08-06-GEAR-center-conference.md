@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Office of Management and Budget"
 
-permalink: /2018-08-06-GEAR-center-conference.md/
+permalink: /2018-08-06-GEAR-center-conference/
 
 url:  /2018-08-06-GEAR-center-conference.md
 

@@ -5,7 +5,7 @@ title: "Gears of Government Awards Honor Contributions by Federal Employees & Te
 
 rating: "0"
 
-permalink: /2018-09-18-gears-of-government-awards.md/
+permalink: /2018-09-18-gears-of-government-awards/
 
 url: /2018-09-18-gears-of-government-awards.md
 

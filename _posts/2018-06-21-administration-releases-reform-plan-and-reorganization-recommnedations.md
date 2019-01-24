@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Office of Management and Budget"
 
-permalink: /2018-06-21-administration-releases-reform-plan-and-reorganization-recommnedations.md/
+permalink: /2018-06-21-administration-releases-reform-plan-and-reorganization-recommnedations/
 
 url: /2018-06-21-administration-releases-reform-plan-and-reorganization-recommnedations.md
 

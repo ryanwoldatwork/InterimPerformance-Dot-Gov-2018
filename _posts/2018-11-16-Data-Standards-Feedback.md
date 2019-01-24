@@ -4,11 +4,9 @@ tumblr_url:
 
 title: "Now Open for Public Comment: Federal Grants Management Draft Data Standards"
 
-rating: "1"
+rating: "0"
 
 permalink: /2018-11-16-Data-Standards-Feedback/
-
-url: /2018-11-16-Data-Standards-Feedback.md/
 
 summary: summary_large_image
 
