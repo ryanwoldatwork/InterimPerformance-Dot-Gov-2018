@@ -11,8 +11,7 @@ url: /CAP/it-modernization/
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "We strive to provide a modern, streamlined, and responsive customer experience across government,
-comparable to leading private sector organizations" #appears in the gray text box
+quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
 quote-author: "CAP Goal Leader"
 current-action-plan: "/CAP/action_plans/FY2018_Q3_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
@@ -27,6 +26,7 @@ proven by leading private-sector organizations. " #third accordion text
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Improving_Customer_Experience.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf"
+action-2018-Q3: "/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf"
 
 #***********************END ACCORDION SECTION*****************************
 

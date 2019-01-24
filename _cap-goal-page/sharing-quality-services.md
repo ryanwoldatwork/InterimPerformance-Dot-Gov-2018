@@ -12,7 +12,7 @@ cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to titl
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT_white.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "We strive to improve the efficiency and effectiveness of administrative services across government."
+quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien."
 current-action-plan: "/CAP/action_plans/FY2018_Q3_Sharing_Quality_Services.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
@@ -26,6 +26,7 @@ opportunity: "Opportunities for transformation include converging around common 
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_IT_Modernization.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_IT_Modernization.pdf"
+action-2018-Q2: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
 #***********************END ACCORDION SECTION*****************************
 
 #***********************KPI SECTION*****************************
