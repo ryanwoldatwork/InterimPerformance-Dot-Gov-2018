@@ -17,7 +17,7 @@ layout: navigation_PMA
          {% if page.cap-kpi-url %}
               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;" href="#KPI" id="pulse">Key Performance Indicator</a>
          {% else %}
-             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;" href="{{ site.baseurl }}{{ page.resource-1-url }}">{{ page.resource-1-name }}</a>
+             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;" href="{{ site.baseurl }}{{ page.resource-1-url }}">Resource</a>
          {% endif %}
               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;" href="{{ site.baseurl }}{{ page.resource-2-url }}">Resource</a>
     </div>
@@ -31,7 +31,7 @@ layout: navigation_PMA
             </div>
           <div id="bottom">
             <center><h3><b>&#10077;{{ page.quote }}&#10078;</b></h3>
-               <h2>- {{ page.quote-author }}</h2>
+               <!--<h2>- {{ page.quote-author }}</h2>-->
             </center>
           </div>
      </div>
@@ -43,19 +43,20 @@ layout: navigation_PMA
     {% if page.goal-leader-name %}
        <div class="usa-width-one-sixth " style="margin-right:50px;">
          <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-photo }}">
-          <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
+          <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-name }},</b><br>{{ page.goal-leader-title }}</p></center>
        </div>
     {% endif %}
+
     {% if page.goal-leader-2-name %}
         <div class="usa-width-one-sixth " style="margin-right:50px;">
           <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}">
-          <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
+          <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }},</b><br>{{ page.goal-leader-2-title }}</p></center>
        </div>
      {% endif %}
      {% if page.goal-leader-3-name %}
         <div class="usa-width-one-sixth" style="margin-right:50px;" >
           <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-3-photo }}">
-          <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
+          <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-3-name }},</b><br>{{ page.goal-leader-3-title }}</p></center>
        </div>
      {% endif %}
        </div>
@@ -63,23 +64,40 @@ layout: navigation_PMA
        <div class="usa-grid usa-graphic_list-row">
           <div class="usa-width-one-sixth " style="margin-right:50px;">
              <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-4-photo }}">
-            <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-4-name }},</b><br>{{ page.goal-leader-4-title }}</p></center>
+            <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-4-name }},</b><br>{{ page.goal-leader-4-title }}</p></center>
          </div>
      {% endif %}
      {% if page.goal-leader-5-name %}
             <div class="usa-width-one-sixth " style="margin-right:50px;">
               <center> <img id="cap-goal-headshot"src="{{ site.baseurl }}{{ page.goal-leader-5-photo }}">
-              <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-5-name }},</b><br>{{ page.goal-leader-5-title }}</p></center>
+              <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-5-name }},</b><br>{{ page.goal-leader-5-title }}</p></center>
            </div>
      {% endif %}
      {% if page.goal-leader-6-name %}
             <div class="usa-width-one-sixth" style="margin-right:50px;" >
               <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-6-photo }}">
-              <p style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-6-name }},</b><br>{{ page.goal-leader-6-title }}</p></center>
+              <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-6-name }},</b><br>{{ page.goal-leader-6-title }}</p></center>
            </div>
      {% endif %}
     </div>
 </section>
+<script>
+  if (document.getElementsByClassName("auto")) {
+    var autos = document.getElementsByClassName("auto");
+    for (var i=0; i<autos.length; i++) {
+      autos[i].addEventListener("mouseover", autoOver);
+      autos[i].addEventListener("mouseout", autoOut);
+    }
+  }
+
+  function autoOver() {
+    this.style.height = this.scrollHeight + "px";
+  }
+
+  function autoOut() {
+    this.style.height = "40px";
+  }
+</script>
 <section class="CAP-media usa-section usa-graphic_list">
   <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-whole">
@@ -91,7 +109,7 @@ layout: navigation_PMA
   <section class="quote-media usa-section usa-graphic_list">
     <div class="usa-grid usa-graphic_list-row">
       <div class="usa-width-one-whole">
-          <center><h3><b>&#10077;{{ page.quote }}&#10078;</b><br> - {{ page.quote-author }}</h3></center>
+          <center><h3><b>&#10077;{{ page.quote }}&#10078;</b><!--<br> - {{ page.quote-author }}</h3>--></center>
         </div>
       </div>
 </section>

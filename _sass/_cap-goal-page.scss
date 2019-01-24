@@ -31,8 +31,8 @@
 
 #cap-goal-headshot {
   border-radius:50%;
-  width:140px;
-  height:140px;
+  width:130px;
+  height:130px;
   margin:0px 0px 0px 0px;
   object-fit: cover;
 
@@ -41,7 +41,7 @@
 .cap-box {
   border-radius:15px;
   width:300px;
-  height: 620px;
+  height: 570px;
   z-index: 10;
   float:right;
   position: absolute;
@@ -64,7 +64,7 @@
 
 .cap-box #top {
   background-color: #e31c3d;
-  height: 310px;
+  height: 285px;
   padding: 35px;
   color: #ffffff;
   font-size: 2.5rem;
@@ -73,7 +73,7 @@
 
 .cap-box #top p {
   margin-top:0;
-  padding-bottom:40px;
+  padding-bottom:15px;
 }
 
 .cap-box #top:after{
@@ -91,7 +91,7 @@
 .cap-box #bottom {
   /*background-color: #323a45;*/
   background-image: url(../img/it-mod-quote.png);
-  height: 310px;
+  height: 285px;
   padding:35px;
 
 }
@@ -100,6 +100,7 @@
   color: #ffffff;
   padding:0px;
   margin:0px;
+  font-size:2rem;
 
 }
 
@@ -185,3 +186,60 @@
 @-moz-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}
 @-ms-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}
 @keyframes pulse {to {box-shadow: 0 0 0 45px rgba(2, 191, 231, 0);}}*/
+
+/*NEW CAP SECTION*/
+
+.grid-cap {
+ position: relative;
+ display: grid;
+ grid-gap: 17px;
+ grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+ margin-right: 7rem;
+ margin-left: 7rem;
+ padding: 2% 0;
+}
+
+@media screen and (min-width: 800px) {
+ .grid-cap {
+   width: 1200px;
+   margin-left: auto ;
+   margin-right: auto ;
+   padding: 0 0;
+ }
+}
+
+#transparent-grid {
+ background: none;
+ color: #ffffff;
+ font-size: 1.5rem;
+ text-align: center;
+ margin: 10px;
+ height: 125px;
+ padding: 3.5px;
+}
+
+#transparent-grid:hover {
+ color: #02bfe7;
+ transition-duration: 1s;
+
+}
+
+#transparent-grid:hover a {
+ color: #02bfe7;
+ transition-duration: 1s;
+}
+
+
+#transparent-grid a {
+ color: #ffffff;
+ text-decoration: none;
+}
+
+
+.auto {
+  display: block;
+  margin: 20px;
+  height: 40px;
+  overflow: hidden;
+  transition: all .5s ease;
+}
