@@ -10,6 +10,9 @@ collections:
   agencies:
     output: true
     permalink: /:path
+  other-agencies:
+    output: true
+    permalink: /:path
 
 defaults:
   - scope:
