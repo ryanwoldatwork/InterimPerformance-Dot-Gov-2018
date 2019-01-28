@@ -1,4 +1,5 @@
 ---
 agency-name: Overseas Private Investment Corporation
-agency-logo:
-plan-link: 
+agency-logo: ../img/agency/other/agency-placeholder.png
+plan-link:
+---

@@ -1,4 +1,5 @@
 ---
 agency-name: International Trade Administration
-agency-logo:
-plan-link: 
+agency-logo: ../img/agency/other/agency-placeholder.png
+plan-link:
+---
