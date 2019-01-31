@@ -11,7 +11,7 @@ cap-category: "Key Driver of Reform" #category text
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT_gray.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
+quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien. Aliquam eget lacinia sapien. Aliquam eget lacinia " #appears in the gray text box
 quote-author: "CAP Goal Leader"
 current-action-plan: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************

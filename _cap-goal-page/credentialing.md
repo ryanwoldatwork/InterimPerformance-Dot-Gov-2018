@@ -54,7 +54,7 @@ resource-2-url:
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
-tag: "infrastructure" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
+tag: "credentialing" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
 CAP-event-title:
 CAP-event-date:
 CAP-event-text:
