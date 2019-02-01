@@ -8,5 +8,5 @@ story: stewardship
 award: Council
 Year: 2018
 image: "/img/GoG/winners/ladue_erik.jpeg"
-banner: "/img/GoG/banners/council-banner.png"
+
 ---

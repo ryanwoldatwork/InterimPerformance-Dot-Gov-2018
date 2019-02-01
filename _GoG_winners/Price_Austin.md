@@ -1,13 +1,13 @@
 ---
 name: Austin Price
 title: Title
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: gsa
+description: Led his agency through fast-paced and rigorous workouts on a weekly basis, building camaraderie and improving collective health by 16 BMI factors.
+category: hhs
 story: cx
-agency: General Services Administration
-award: Agency
+agency: Department of Health and Human Services
+award: Council
 Year: 2018
 image: "/img/GoG/winners/price_austin.jpeg"
-banner: "/img/GoG/banners/agency-banner.png"
+
 
 ---

@@ -8,5 +8,5 @@ story: stewardship
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/golson-brad.jpeg"
-banner: "/img/GoG/banners/agency-banner.png"
+
 ---

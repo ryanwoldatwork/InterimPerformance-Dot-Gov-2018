@@ -8,6 +8,6 @@ agency: General Services Administration
 award: President's
 Year: 2018
 image: "/img/GoG/winners/mehr-amin.jpg"
-banner: "/img/GoG/banners/president-banner.png"
+
 
 ---

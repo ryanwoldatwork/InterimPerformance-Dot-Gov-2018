@@ -8,7 +8,7 @@ story: mission
 award: President's
 Year: 2018
 image: "/img/GoG/winners/crump_julie.jpeg"
-banner: "/img/GoG/banners/president-banner.png"
+
 
 
 ---

@@ -8,6 +8,5 @@ agency: Office of Personnel Management
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/rosica_nicole.jpg"
-banner: "/img/GoG/banners/agency-banner.png"
 
 ---

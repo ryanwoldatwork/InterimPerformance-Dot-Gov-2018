@@ -8,5 +8,5 @@ story: cx
 award: Agency
 Year: 2018
 image: "/img/GoG/winners/sharon_scott.jpg"
-banner: "/img/GoG/banners/agency-banner.png"
+
 ---

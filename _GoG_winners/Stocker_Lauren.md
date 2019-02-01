@@ -8,6 +8,6 @@ story: cx
 award: Council
 Year: 2018
 image: "/img/GoG/winners/stocker_lauren.jpg"
-banner: "/img/GoG/banners/council-banner.png"
+
 
 ---
