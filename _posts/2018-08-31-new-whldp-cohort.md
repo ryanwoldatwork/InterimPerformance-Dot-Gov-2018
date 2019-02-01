@@ -7,7 +7,7 @@ rating: "0"
 
 agency:
 
-permalink: /2018-08-31-new-whldp-cohort.md/
+permalink: /2018-08-31-new-whldp-cohort/
 
 url: /2018-8-31-new-whldp-cohort.md
 

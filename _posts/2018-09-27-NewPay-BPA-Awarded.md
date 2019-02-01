@@ -9,7 +9,7 @@ rating:
 
 agency:
 
-permalink: /2018-09-27-NewPay-BPA-Awarded.md/
+permalink: /2018-09-27-NewPay-BPA-Awarded/
 
 url: /2018-09-27-NewPay-BPA-Awarded.md/
 

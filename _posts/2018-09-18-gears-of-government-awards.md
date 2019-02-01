@@ -5,9 +5,9 @@ title: "Gears of Government Awards Honor Contributions by Federal Employees & Te
 
 rating: "0"
 
-permalink: /2018-09-14-gears-of-government-awards.md/
+permalink: /2018-09-18-gears-of-government-awards/
 
-url: /2018-09-14-gears-of-government-awards.md
+url: /2018-09-18-gears-of-government-awards.md
 
 description: The Gears of Government Awards recognize individuals and teams across the federal workforce whose performance and dedication deliver key outcomes for the American people, including mission results, customer service, and accountable stewardship.
 

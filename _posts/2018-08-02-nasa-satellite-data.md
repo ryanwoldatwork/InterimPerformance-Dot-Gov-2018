@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "NASA"
 
-permalink: /2018-08-02-nasa-satellite-data.md/
+permalink: /2018-08-02-nasa-satellite-data/
 
 url: /2018-08-02-nasa-satellite-data.md
 

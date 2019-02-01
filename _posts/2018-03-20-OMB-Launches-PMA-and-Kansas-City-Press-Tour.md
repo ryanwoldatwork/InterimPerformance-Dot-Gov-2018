@@ -5,7 +5,7 @@ title: "OMB Launches President’s Management Agenda and Kansas City Listening T
 
 agency: "Office of Management and Budget"
 
-permalink: /2018-03-20-OMB-Launches-PMA-and-Kansas-City-Press-Tour.md/
+permalink: /2018-03-20-OMB-Launches-PMA-and-Kansas-City-Press-Tour/
 
 url: /2018-03-20-OMB-Launches-PMA-and-Kansas-City-Press-Tour.md
 

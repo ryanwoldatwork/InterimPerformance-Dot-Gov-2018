@@ -3,7 +3,7 @@ layout: post
 
 title: "Performance.gov Launches Twitter Account"
 
-permalink: /2018-05-22-performance-gov-launches-twitter.md/
+permalink: /2018-05-22-performance-gov-launches-twitter/
 
 url: /2018-05-22-performance-gov-launches-twitter.md
 

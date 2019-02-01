@@ -3,7 +3,7 @@ layout: post
 
 title: "Help Wanted: Increase the Effectiveness of your Tax Dollar!"
 
-permalink: /2018-06-18-help wanted-increase-the-effectiveness-of-your-tax-dollar.md/
+permalink: /2018-06-18-help wanted-increase-the-effectiveness-of-your-tax-dollar/
 
 url: /2018-06-18-help wanted-increase-the-effectiveness-of-your-tax-dollar.md
 
