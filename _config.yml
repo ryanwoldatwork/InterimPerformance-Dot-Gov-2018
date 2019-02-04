@@ -9,9 +9,10 @@ title_image: "../img/homepage_images/newhero2_v2 JPG.jpg"
 collections:
   cfo-act-agencies:
     output: true
-  #agencies:
-  #  output: true
-  #  permalink: /:path
+    permalink: /:path
+  other-agencies:
+    output: true
+    permalink: /:path
 
 defaults:
   - scope:
