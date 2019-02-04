@@ -49,7 +49,7 @@ CAP-event-text:
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 1
-goal-leader-name: "Carole Banks,"
+goal-leader-name: "Carole Banks"
 goal-leader-title: "Deputy Chief Financial Officer, Department of the Treasury"
 goal-leader-2-photo: "/img/CAP-photos/main-jenni.png" #Goal leader 2
 goal-leader-2-name: "Jenni Main"
