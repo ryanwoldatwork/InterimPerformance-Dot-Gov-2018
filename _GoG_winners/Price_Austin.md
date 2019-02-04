@@ -3,7 +3,7 @@ name: Austin Price
 team: no
 single: yes
 title: Title
-description: Led his agency through fast-paced and rigorous workouts on a weekly basis, building camaraderie and improving collective health by 16 BMI factors.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 category: hhs
 story: cx
 agency: Department of Health and Human Services

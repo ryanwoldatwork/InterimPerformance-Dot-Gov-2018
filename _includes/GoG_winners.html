@@ -92,6 +92,13 @@
         <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
         <div class="text-ag-cou">
           <p style="font-size:0.8em;margin-top:0;">{{ GoG_winners.description }}</p>
+          {% if GoG_winners.award == "Agency" %}
+              <p style="font-size:.8em;color:black;" id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% elsif GoG_winners.award == "Council" %}
+              <p style="font-size:.8em;color:black;" id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% elsif GoG_winners.award == "President's" %}
+              <p style="font-size:.8em;color:black;" id="president-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% endif %}
         </div>
       </div> <!--close left div-->
       <div id="winner-right">
@@ -99,6 +106,7 @@
         src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
         style="height:75px;float:right;"><br>
       </div><!--close right div-->
+
       </div><!--close winner text-->
 
   </div><!--close container-->
@@ -114,6 +122,13 @@
         <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
         <div class="text-ag-cou">
           <p style="font-size:0.8em;margin-top:0;">{{ GoG_winners.description }}</p>
+          {% if GoG_winners.award == "Agency" %}
+              <p style="font-size:.8em;color:black;" id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% elsif GoG_winners.award == "Council" %}
+              <p style="font-size:.8em;color:black;" id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% elsif GoG_winners.award == "President's" %}
+              <p style="font-size:.8em;color:black;" id="president-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% endif %}
         </div>
       </div> <!--close left div-->
       <div id="winner-right">

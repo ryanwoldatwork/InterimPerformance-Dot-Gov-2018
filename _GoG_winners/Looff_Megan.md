@@ -3,7 +3,7 @@ name: Megan Looff
 team: no
 single: yes
 title: Title
-description: Onboarded 6,000 emergency hires to respond to the most active and costly hurricane season in U.S. history. The flexibility and dedication allowed SBA to respond quickly to national disasters.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 agency: Small Business Administration
 award: Council
 story: cx
