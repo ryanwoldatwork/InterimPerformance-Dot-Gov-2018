@@ -1,6 +1,7 @@
 ---
 name: Department of Health and Human Services
-Team: yes
+team: yes
+single: no
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 story: mission
 award: Agency
@@ -13,3 +14,5 @@ people:
  - Sarah Griswold
  - Gian Gozum
  - Megan Looff
+
+---

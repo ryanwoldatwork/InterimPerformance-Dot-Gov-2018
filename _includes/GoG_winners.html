@@ -1,7 +1,7 @@
 <div class="main-iso">
 {% for GoG_winners in site.GoG_winners %}
 
-  {% if GoG_winners.award == "President's" %}
+  {% if GoG_winners.award == "President's" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
     <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
@@ -34,7 +34,7 @@
 </div><!--close one fourth-->
 {% endif %}
 
-{% if GoG_winners.Team %}
+{% if GoG_winners.team %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
 <div class="container">
   <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
@@ -47,6 +47,7 @@
       {% endfor %}
     </ul>
   </div> <!--close left div-->
+
   <div id="winner-right">
     {% if GoG_winners.award == "Agency" %}
       <img
@@ -81,7 +82,7 @@
 </div><!--close one fourth-->
 {% endif %}
 
-{% if GoG_winners.award == "Agency" %}
+{% if GoG_winners.award == "Agency" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
     <img class="card-image-gog-agency" src="{{ site.baseurl }}/img/GoG/banners/agency-background.png" alt="Avatar" class="image">
@@ -103,7 +104,7 @@
   </div><!--close container-->
 </div><!--close one fourth-->
 {% endif %}
-{% if GoG_winners.award == "Council" %}
+{% if GoG_winners.award == "Council" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
     <img class="card-image-gog-agency" src="{{ site.baseurl }}/img/GoG/banners/council-background.png" alt="Avatar" class="image">

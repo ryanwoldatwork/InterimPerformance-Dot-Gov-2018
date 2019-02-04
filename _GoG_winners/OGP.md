@@ -1,6 +1,7 @@
 ---
 name: General Services Administration
-Team: yes
+team: yes
+single: no
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 story: mission
 agency: General Services Administration
@@ -10,7 +11,7 @@ image: "/img/agency/GSA_Seal.png" #for teams this should be the agency seal
 banner: "/img/GoG/banners/agency-banner.png"
 category: gsa
 people:
- - Nicole Rosica
+ - Lauren Anderson
  - Rachel Crew
  - Sarah Griswold
  - Gian Gozum

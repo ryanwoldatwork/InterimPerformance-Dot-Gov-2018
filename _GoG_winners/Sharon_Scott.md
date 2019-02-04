@@ -1,6 +1,7 @@
 ---
 name: Scott Sharon
 title: Title
+Team: no
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 agency: General Services Administration
 category: gsa #for the filter
