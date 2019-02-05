@@ -3,7 +3,7 @@ name: Social Security Administration #name of winner or agency name if it's a te
 title: #job title
 team: yes #mark no if an individual, NO CAPS
 single: no #mark yes if an individual NO CAPS
-description: Provided professional, compassionate service to over 160 daily customers, many of whom face mental health challenges and chronic homelessness. The team innovated to increase operational efficiency while maintaining personalized attention for customers.
+description: Provided professional, compassionate service to over 160 daily customers, many of whom face mental health challenges and chronic homelessness.  The team innovated to increase operational efficiency while maintaining personalized attention for customers.
 #description of why there winning award, in an excel spreadsheet
 category: ssa #reference list of categories
 agency: Social Security Administration #name of agency, capitalize first letter of each name
