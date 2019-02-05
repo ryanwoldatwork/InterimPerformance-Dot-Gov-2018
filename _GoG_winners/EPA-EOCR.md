@@ -12,5 +12,5 @@ image: "/img/agency/Environmental_Protection_Agency_Seal.png" #image needed for 
 people: #use this section if it's a team (variable "team" should be marked "yes" above)
  - Bamikole Ogundele
  - Eugene Chen
- - Gerardo Rios 
- ---
+ - Gerardo Rios
+---

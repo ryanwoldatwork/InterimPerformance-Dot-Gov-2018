@@ -11,5 +11,5 @@ Year: 2018 #variable to be used at later date
 image: "/img/agency/Environmental_Protection_Agency_Seal.png" #image needed for Team award (agency seal) and President's award (headshot); leave empty if and individual Agency award, IMAGE PATH: /img/agency/GSA_Seal.png
 people: #use this section if it's a team (variable "team" should be marked "yes" above)
  - Stefan Martiyan
- - Jennifer Macht 
- ---
+ - Jennifer Macht
+---

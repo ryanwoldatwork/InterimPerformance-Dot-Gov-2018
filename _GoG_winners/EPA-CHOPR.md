@@ -15,4 +15,5 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Margaret Osbourne
  - Dwayne Patrick
  - Mita Rana
- ---
+
+---

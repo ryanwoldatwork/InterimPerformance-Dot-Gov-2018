@@ -14,4 +14,4 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Michelle Ibarra
  - Ethan McMahon
  - Erica Bollerud
- ---
+---
