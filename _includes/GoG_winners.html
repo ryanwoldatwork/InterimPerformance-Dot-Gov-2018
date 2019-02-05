@@ -20,7 +20,7 @@
   <div class="text">
     <p style="margin-top:0;"><b>{{ GoG_winners.name}}, <br></b>
         <i>{{ GoG_winners.title}}</i></p>
-        <p>{{ GoG_winners.description }}</p>
+        <p style="font-size:.8em;>{{ GoG_winners.description }}</p>
         {% if GoG_winners.award == "Agency" %}
             <p id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
           {% elsif GoG_winners.award == "Council" %}
@@ -67,7 +67,7 @@
 <div class="text">
   <p style="margin-top:0;"><b>{{ GoG_winners.name}} <br></b>
       <!--<i>{{ GoG_winners.title}}</i></p>-->
-      <p>{{ GoG_winners.description }}</p>
+      <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
       {% if GoG_winners.award == "Agency" %}
           <p id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
         {% elsif GoG_winners.award == "Council" %}
