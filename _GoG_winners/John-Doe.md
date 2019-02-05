@@ -17,5 +17,5 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Gian Gozum
  - Megan Looff
 
-publish: false ####REMOVE THIS VARIABLE WHEN COPYING AND PASTING###!!!!***********
+published: false ####REMOVE THIS VARIABLE WHEN COPYING AND PASTING###!!!!***********
 ---
