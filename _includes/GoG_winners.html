@@ -65,8 +65,8 @@
 </div><!--close winner text-->
 <div class="overlay"> <!--this is the flip side of the card-->
 <div class="text">
-  <p style="margin-top:0;"><b>{{ GoG_winners.name}}, <br></b>
-      <i>{{ GoG_winners.title}}</i></p>
+  <p style="margin-top:0;"><b>{{ GoG_winners.name}} <br></b>
+      <!--<i>{{ GoG_winners.title}}</i></p>-->
       <p>{{ GoG_winners.description }}</p>
       {% if GoG_winners.award == "Agency" %}
           <p id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
@@ -91,13 +91,13 @@
         <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
         <div class="text-ag-cou">
           <p style="font-size:0.8em;margin-top:0;">{{ GoG_winners.description }}</p>
-          {% if GoG_winners.award == "Agency" %}
+        <!--  {% if GoG_winners.award == "Agency" %}
               <p style="font-size:.8em;color:black;" id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
           {% elsif GoG_winners.award == "Council" %}
               <p style="font-size:.8em;color:black;" id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
           {% elsif GoG_winners.award == "President's" %}
               <p style="font-size:.8em;color:black;" id="president-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
-          {% endif %}
+          {% endif %}-->
         </div>
       </div> <!--close left div-->
       <div id="winner-right">
@@ -120,13 +120,13 @@
         <p style="margin-top:0;" class="card-tag">{{ GoG_winners.agency }}</p>
         <div class="text-ag-cou">
           <p style="font-size:0.8em;margin-top:0;">{{ GoG_winners.description }}</p>
-          {% if GoG_winners.award == "Agency" %}
+          <!--{% if GoG_winners.award == "Agency" %}
               <p style="font-size:.8em;color:black;" id="agency-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
           {% elsif GoG_winners.award == "Council" %}
               <p style="font-size:.8em;color:black;" id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
           {% elsif GoG_winners.award == "President's" %}
               <p style="font-size:.8em;color:black;" id="president-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
-          {% endif %}
+          {% endif %}-->
         </div>
       </div> <!--close left div-->
       <div id="winner-right">
