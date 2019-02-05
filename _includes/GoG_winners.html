@@ -1,6 +1,6 @@
 <div class="main-iso">
 {% for GoG_winners in site.GoG_winners %}
-
+<!--PRESIDENT'S CARD-->
   {% if GoG_winners.award == "President's" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
@@ -33,7 +33,7 @@
   </div><!--close container-->
 </div><!--close one fourth-->
 {% endif %}
-
+<!--TEAM CARD-->
 {% if GoG_winners.team %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
 <div class="container">
@@ -47,7 +47,6 @@
       {% endfor %}
     </ul>
   </div> <!--close left div-->
-
   <div id="winner-right">
     {% if GoG_winners.award == "Agency" %}
       <img
@@ -81,7 +80,7 @@
 </div><!--close container-->
 </div><!--close one fourth-->
 {% endif %}
-
+<!--AGENCY CARD-->
 {% if GoG_winners.award == "Agency" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
@@ -106,12 +105,11 @@
         src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
         style="height:75px;float:right;"><br>
       </div><!--close right div-->
-
       </div><!--close winner text-->
-
   </div><!--close container-->
 </div><!--close one fourth-->
 {% endif %}
+<!--COUNCIL CARD-->
 {% if GoG_winners.award == "Council" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
   <div class="container">
