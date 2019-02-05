@@ -3,7 +3,7 @@ name: Environmental Protection Agency  #name of winner or agency name if it's a 
 title: #job title
 team: yes #mark no if an individual, NO CAPS
 single: no #mark yes if an individual NO CAPS
-description: Modernized and digitized the management of lab data. This reduced paper usage in the labs by 45%, reduced operating costs, and made data more publicly accessible and useful.  #description of why there winning award, in an excel spreadsheet
+description: Modernized and digitized the management of lab data. The team reduced paper usage in the labs by 45%, reduced operating costs, and made data more publicly accessible and useful. #description of why there winning award, in an excel spreadsheet
 category: epa #reference list of categories
 agency: Environmental Protection Agency #name of agency, capitalize first letter of each name
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
