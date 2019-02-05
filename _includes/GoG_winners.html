@@ -47,7 +47,7 @@
       {% endfor %}
     </ul>
   </div> <!--close left div-->
-  <div id="winner-right">
+  <div id="winner-right"> <!--pulls in the colored banner on front of card-->
     {% if GoG_winners.award == "Agency" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
@@ -63,7 +63,7 @@
     {% endif %}
   </div><!--close right div-->
 </div><!--close winner text-->
-<div class="overlay">
+<div class="overlay"> <!--this is the flip side of the card-->
 <div class="text">
   <p style="margin-top:0;"><b>{{ GoG_winners.name}}, <br></b>
       <i>{{ GoG_winners.title}}</i></p>
