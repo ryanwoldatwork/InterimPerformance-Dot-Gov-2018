@@ -14,9 +14,9 @@ performance-plan-link: https://www.va.gov/oei/docs/VA2019appr.pdf
 
 #side navigation
 apg-1: Appeals Improvement and Modernization Act Implementation
-apg-1-link: APG_va_1.html
+apg-1-link: ../veterans_affairs/APG_va_1.html
 apg-2: Community Care
-apg-2-link: APG_va_2.html
+apg-2-link: ../veterans_affairs/APG_va_2.html
 apg-3: Veteran Customer Experience
 apg-3-link: APG_va_3.html
 apg-4: Veteran Suicide Prevention
