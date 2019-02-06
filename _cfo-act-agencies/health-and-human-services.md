@@ -15,13 +15,13 @@ performance-plan-link: https://www.hhs.gov/about/budget/index.html
 
 #side navigation
 apg-1: Health Security
-apg-1-link: /health_and_human_services/APG_hhs_1.html
+apg-1-link: ../health_and_human_services/APG_hhs_1.html
 apg-2: Reducing Opioid Morbidity and Mortality
-apg-2-link: /health_and_human_services/APG_hhs_2.html
+apg-2-link: ../health_and_human_services/APG_hhs_2.html
 apg-3: Combined Data Analyses
-apg-3-link: /health_and_human_services/APG_hhs_3.html
+apg-3-link: ../health_and_human_services/APG_hhs_3.html
 apg-4: Serious Mental Illness
-apg-4-link: /health_and_human_services/APG_hhs_4.html
+apg-4-link: ../health_and_human_services/APG_hhs_4.html
 apg-5:
 apg-5-link:
 apg-6:
