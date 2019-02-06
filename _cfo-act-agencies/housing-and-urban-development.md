@@ -15,7 +15,7 @@ performance-plan-link: https://www.hud.gov/sites/dfiles/SPM/documents/FY17_APR.p
 
 #side navigation
 apg-1: Promote Economic Opportunity for HUD-Assisted Residents
-apg-1-link: APG_hud_1.html
+apg-1-link: /housing_and_urban_development/APG_hud_1.html
 apg-2: Protect Families From Lead-Based Paint and Other Health Hazards
 apg-2-link: APG_hud_2.html
 apg-3: Reduce the Average Length of Homelessness
