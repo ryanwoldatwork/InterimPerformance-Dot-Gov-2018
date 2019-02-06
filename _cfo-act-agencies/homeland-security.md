@@ -15,9 +15,9 @@ performance-plan-link: https://www.dhs.gov/publication/annual-performance-report
 
 #side navigation
 apg-1: Enhance Southern Border Security
-apg-1-link: APG_dhs_1.html
+apg-1-link: /homeland_security/APG_dhs_1.html
 apg-2: Strengthen Federal Cybersecurity
-apg-2-link: APG_dhs_2.html
+apg-2-link: /homeland_security/APG_dhs_2.html
 apg-3:
 apg-3-link:
 apg-4:
