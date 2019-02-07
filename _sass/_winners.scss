@@ -455,3 +455,22 @@ height: 50px;
   text-transform: uppercase;
   color: #ffffff;
 }
+
+.twitter {
+  color: white;
+  background-color: #1DA1F2;
+  width: 200px;
+  text-align: center;
+  font-size: 1.4rem;
+  float: right;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 8px;
+  margin: 3.5px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .twitter {
+    float: none; } }
