@@ -7,7 +7,7 @@ rating:
 
 agency: Office of Management and Budget
 
-permalink: /2018-09-26-modernizing-the-infrastructure-permitting-process
+permalink: /2018-09-26-modernizing-the-infrastructure-permitting-process/
 
 url: /2018-09-26-modernizing-the-infrastructure-permitting-process.md/
 
