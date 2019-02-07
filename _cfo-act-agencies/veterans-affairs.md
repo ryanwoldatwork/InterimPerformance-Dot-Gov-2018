@@ -18,9 +18,9 @@ apg-1-link: ../veterans_affairs/APG_va_1.html
 apg-2: Community Care
 apg-2-link: ../veterans_affairs/APG_va_2.html
 apg-3: Veteran Customer Experience
-apg-3-link: APG_va_3.html
+apg-3-link: ../veterans_affairs/APG_va_3.html
 apg-4: Veteran Suicide Prevention
-apg-4-link: APG_va_4.html
+apg-4-link: ../veterans_affairs/APG_va_4.html
 apg-5:
 apg-5-link:
 apg-6:
