@@ -19,7 +19,7 @@ excerpt: USAID is changing the way it does business to achieve greater developme
 image: "/img/blog/usaid-stock-image.PNG"
 
 authors:
-- Performance.gov Team
+- USAID
 
 tags:
 - PMA
@@ -38,11 +38,11 @@ The Bond will also improve the quality of maternal care in Rajasthan’s private
 
 Reduction in under-five mortality (UFMR) in the 25 priority countries is the performance indicator USAID uses to measure progress (see graphs below). The Agency has exceeded its targets for this metric since 2015.
 
- <b>Maternal and Child Health Agency Priority Goal Absolute Change [Reduction] in UFMR</b>
+ <b>Maternal and Child Health Agency Priority Goal Absolute Change [Reduction] in Under-Five Mortality Rate </b>
 
 <img src="{{ site.baseurl }}/img/blog/Mortality-rate-graph.png" style="padding:25px">
 
-<b>UFMR Trends in USAID Priority Countries, 1990-2017</b>
+<b> Under-Five Mortality Rate Trends in USAID Priority Countries, 1990-2017</b>
 
 <i>Each gray line shows the UN IGME estimates of under-five mortality for each USAID priority country from 1990-2017. The black line shows the weighted average UFMR of all 25 priority countries.</i>
 
