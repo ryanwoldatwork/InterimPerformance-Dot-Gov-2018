@@ -46,7 +46,7 @@ Reduction in under-five mortality (UFMR) in the 25 priority countries is the per
 
 <i>Each gray line shows the UN IGME estimates of under-five mortality for each USAID priority country from 1990-2017. The black line shows the weighted average UFMR of all 25 priority countries.</i>
 
-<a href="{{ site.baseurl }}/img/blog/Mortality-rate-line-graph.png"><img src="/img/blog/Mortality-rate-line-graph.png" style="padding:12px"></a>
+<a href="{{ site.baseurl }}/img/blog/Mortality-rate-line-graph.png"><img src="{{ site.baseurl }}/img/blog/Mortality-rate-line-graph.png" style="padding:12px"></a>
 
 *Performance.gov is the home for updates and progress on Agency Priority Goals (APGs) and Cross-Agency Priority (CAP) goals. Occasionally we invite agency experts to share their perspectives on progress and lessons learned. Have a story to share? Contact pgovsupport@gsa.gov.*
 
