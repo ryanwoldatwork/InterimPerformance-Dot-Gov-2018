@@ -17,11 +17,14 @@ current-action-plan: "/CAP/CAP/action_plans/FY2018_Q4_Getting_Payments_Right.pdf
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "This goal will:   reduce the amount of cash lost to the taxpayer through incorrect payments; clarify and streamline reporting and compliance requirements to focus on actions that make a difference; and partner with states to address improper payments in programs that they administer using Federal funds." #first accordion text
+statement: "Reduce the monetary loss to the tax payers by issuing
+payments correctly the first time and, as appropriate,
+recovering funds that were paid incorrectly." #first accordion text
 
-challenge: While all improper payments can compromise citizens’ trust in Government, only a portion stem from fraud or lead to actual loss of taxpayer dollars. In addition to the incorrect payments themselves, improper payments also impose costs associated with fixing mistakes and recovering funds. Historically, the Federal Government has focused on improper payments broadly, including process errors that do not affect money paid, rather than strategically targeting monetary loss to taxpayers." #second accordion text
+challenge: While improper payments may compromise citizens' trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. " #second accordion text
 
-opportunity: "The Federal Government will:  reduce the annual amount of cash lost to the taxpayer; reduce burden on agencies to help focus their efforts strategically; and increase collaboration with states to further reduce cash lost. " #third accordion text
+opportunity: "To improve the efficiencies of government programs by focusing on getting government payments right the first time they are made and reducing the cost associated
+with an incorrect payment. " #third accordion text
 
 action-2018-Q1: "/CAP/CAP/action_plans/FY2018_Q1_Getting_Payments_Right.pdf"
 action-2018-Q2: "/CAP/CAP/action_plans/FY2018_Q2_Getting_Payments_Right.pdf"
