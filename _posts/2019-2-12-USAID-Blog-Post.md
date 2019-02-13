@@ -16,7 +16,7 @@ description: USAID is changing the way it does business to achieve greater devel
 
 excerpt: USAID is changing the way it does business to achieve greater development outcomes and strengthen the capacity of partner countries on their journey to self-reliance.
 
-image: "/img/blog/usaid-stock-image.png"
+image: "/img/blog/usaid-stock-image.PNG"
 
 authors:
 - Performance.gov Team
@@ -39,13 +39,13 @@ Reduction in under-five mortality (UFMR) in the 25 priority countries is the per
 
  <b>Maternal and Child Health Agency Priority Goal Absolute Change [Reduction] in UFMR</b>
 
-<img src="/img/blog/mortality-rate-graph.png" style="padding:25px">
+<img src="/img/blog/Mortality-rate-graph.png" style="padding:25px">
 
 <b>UFMR Trends in USAID Priority Countries, 1990-2017</b>
 
 <i>Each gray line shows the UN IGME estimates of under-five mortality for each USAID priority country from 1990-2017. The black line shows the weighted average UFMR of all 25 priority countries.</i>
 
-<img src="/img/blog/mortality-rate-line-graph.png" style="padding:12px">
+<a href="/img/blog/Mortality-rate-line-graph.png"><img src="/img/blog/Mortality-rate-line-graph.png" style="padding:12px"></a>
 
 *Performance.gov is the home for updates and progress on Agency Priority Goals (APGs) and Cross-Agency Priority (CAP) goals. Occasionally we invite agency experts to share their perspectives on progress and lessons learned. Have a story to share? Contact pgovsupport@gsa.gov.*
 
