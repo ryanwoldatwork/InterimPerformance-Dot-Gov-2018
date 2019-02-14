@@ -44,6 +44,6 @@ For example, in the event of a water contamination event, officials can select t
 
 The tool is also incredibly useful for promoting public health messages. Agencies can import any public data set to set the geographic search parameters. For example, public health agencies can promote health tips following heat advisories issued by the National Weather Service.  In the event of emerging infectious diseases, public agencies can target the geographic region where the disease is emerging or modeled to spread and distribute information to affected populations with tips to avoid contraction.
 
-USDA has begun to partner with other agencies to provide the tool free of charge and help them meet their mission and alert the public. With more users the database of media-outlets just gets larger and more accurate, making sure critical information reaches every citizen no matter where they live or which media outlets provide them news.  
+USDA has begun to partner with other agencies to provide the tool to help them meet their mission and alert the public. With more users the database of media-outlets just gets larger and more accurate, making sure critical information reaches every citizen no matter where they live or which media outlets provide them news.  
 
 If you are a state or federal agency that would like to learn more about how to access the tool please contact Dirk.Fillpot@oc.usda.gov.
