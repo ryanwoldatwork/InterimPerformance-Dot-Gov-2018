@@ -2,8 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "New USDA Tool Helps First Responders Communicate Critical Information During Emergencies
-"
+title: "New USDA Tool Helps Agencies Communicate Critical Information During Emergencies"
 
 rating: "0"
 
