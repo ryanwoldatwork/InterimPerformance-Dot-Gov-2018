@@ -61,6 +61,9 @@
       src="{{ site.baseurl }}/img/GoG/banners/president-banner.png"
       style="height:75px;float:right;"><br>
     {% endif %}
+    {% for item in GoG_winners.people-right %}
+    <li class="team-right">{{ item }}</li>
+    {% endfor %}
   </div><!--close right div-->
 </div><!--close winner text-->
 <div class="overlay"> <!--this is the flip side of the card-->

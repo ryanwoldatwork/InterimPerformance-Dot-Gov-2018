@@ -18,6 +18,8 @@ people:
  - Mei Qian Cen
  - Karen Johnson
  - Nicholas Marino
+
+people-right:
  - Matthew Novak
  - Charlene Phelps
  - Zaida Gonzalez Roman
