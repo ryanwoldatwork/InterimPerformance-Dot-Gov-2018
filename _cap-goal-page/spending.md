@@ -35,15 +35,15 @@ cap-kpi-url: /CAP/key_performance_indicators.html/  #if the CAP goal has a KPI, 
 KPI:  #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name: "Federal Grants Management Data Standards" #resource 1 link name
-resource-1-url: https://grantsfeedback.cfo.gov/index.html #resource 1 link
-resource-2-name:
-resource-2-url:
+resource-1-name: "TBM Basics" #resource 1 link name
+resource-1-url: https://www.cio.gov/priorities/tbm/ #resource 1 link
+resource-2-name: "Community of Practice"
+resource-2-url: https://www.cio.gov/about/tbm-cop/
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "spending" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: 
+CAP-event-title:
 CAP-event-date:
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
@@ -58,9 +58,9 @@ goal-leader-2-title: "Chief Financial Officer, General Services Administration"
 goal-leader-3-photo: "/img/CAP-photos/gray-jason.jpg" #Goal leader 2
 goal-leader-3-name: "Jason Gray"
 goal-leader-3-title: "Chief Information Officer, Department of Education"
-goal-leader-4-photo: "/img/CAP-photos/webster-david.jpg" #Goal leader 2
-goal-leader-4-name: "Douglas Webster"
-goal-leader-4-title: "Chief Financial Officer, Department of Education"
+goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
+goal-leader-4-name: "Denise Carter"
+goal-leader-4-title: "cting Assistant Secretary, Office of Finance and Operations, Department of Education"
 goal-leader-5-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
 goal-leader-5-name: "Fred Nutt"
 goal-leader-5-title: "Senior Advisor, Office of Management and Budget"
