@@ -4,9 +4,9 @@ tumblr_url:
 
 title: "Transforming USAID to Improve Outcomes"
 
-permalink: /2019-2-12-USAID-blog-post/
+permalink: /2019-2-14-USAID-blog-post/
 
-url: /2019-2-12-USAID-blog-post.md
+url: /2019-2-14-USAID-blog-post.md
 
 summary: summary_large_image
 
