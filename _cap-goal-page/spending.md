@@ -11,8 +11,8 @@ url: /CAP/spending/
 cap-icon: "/img/CAP_icons/Icon_Improving_Outcomes_gray.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
-quote-author: "CAP Goal Leader"
+quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
+quote-author: "Suzette Kent, Federal CIO"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Federal_IT_Spending_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
@@ -43,7 +43,7 @@ resource-2-url:
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "spending" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title:
+CAP-event-title: 
 CAP-event-date:
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
