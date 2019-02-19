@@ -51,4 +51,167 @@ description: Provide leadership on agriculture, food, natural resources, rural i
       <p><a class="usa-external_link" target="_blank" href="#/">Sample Link 1</a>.</p>
       <p><a class="usa-external_link" target="_blank" href="#">Sample Link 2</a>.</p>
       <p><a class="usa-external_link" target="_blank" href="#">Sample Link 3</a>.</p>-->
-    </div>
+</div>
+</div>
+    <div class="usa-width-one-whole">
+    {% for GoG_winners in site.GoG_winners %}
+    <!--PRESIDENT'S CARD-->
+      {% if GoG_winners.award == "President's" and GoG_winners.single and GoG_winners.name == "Department of Agriculture" %}
+      <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+      <div class="container">
+        <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+      <div class="winner-text">
+        <div id="winner-left">
+          <p class="name-text" style="margin-bottom:9px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
+          <p style="margin-top:0;margin-bottom:0;" class="card-tag">{{ GoG_winners.agency }}</p>
+        </div> <!--close left div-->
+        <div id="winner-right">
+          <img
+          src="{{ site.baseurl }}/img/GoG/banners/president-banner.png">
+          style="height:75px;float:right;"><br>
+        </div><!--close right div-->
+      </div><!--close winner text-->
+      <div class="overlay">
+      <div class="text">
+        <p style="margin-top:0;"><b>{{ GoG_winners.name}}, <br></b>
+            <i>{{ GoG_winners.title}}</i></p>
+            <p style="font-size:.8em;>{{ GoG_winners.description }}</p>
+            {% if GoG_winners.award == "Agency" %}
+                <p id="agency-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+              {% elsif GoG_winners.award == "Council" %}
+                <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+                {% elsif GoG_winners.award == "President's" %}
+                <p id="president-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+              {% endif %}
+      </div><!--close text-->
+      </div><!--close overlay-->
+      </div><!--close container-->
+    </div><!--close one fourth-->
+    {% endif %}
+    <!--TEAM CARD-->
+    {% if GoG_winners.team and GoG_winners.name == "Department of Agriculture" %}
+    <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+    <div class="container">
+      <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+    <div class="winner-text-team">
+      <div id="winner-left">
+        <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
+        <ul style="padding-left:0;">
+          {% for item in GoG_winners.people %}
+          <li class="team">{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div> <!--close left div-->
+      <div id="winner-right"> <!--pulls in the colored banner on front of card-->
+        {% if GoG_winners.award == "Agency" %}
+          <img
+          src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
+          style="height:75px;float:right;"><br>
+        {% elsif GoG_winners.award == "Council" %}
+         <img
+          src="{{ site.baseurl }}/img/GoG/banners/council-banner.png"
+          style="height:75px;float:right;"><br>
+        {% elsif GoG_winners.award == "President's" %}
+          <img
+          src="{{ site.baseurl }}/img/GoG/banners/president-banner.png"
+          style="height:75px;float:right;"><br>
+        {% endif %}
+        {% for item in GoG_winners.people-right %}
+        <li class="team-right">{{ item }}</li>
+        {% endfor %}
+      </div><!--close right div-->
+    </div><!--close winner text-->
+    <div class="overlay"> <!--this is the flip side of the card-->
+    <div class="text">
+      <p style="margin-top:0;"><b>{{ GoG_winners.name}} <br></b>
+          <!--<i>{{ GoG_winners.title}}</i></p>-->
+          <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
+          {% if GoG_winners.award == "Agency" %}
+              <p id="agency-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+            {% elsif GoG_winners.award == "Council" %}
+              <p id="council-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+            {% elsif GoG_winners.award == "President's" %}
+              <p id="president-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+          {% endif %}
+    </div><!--close text-->
+    </div><!--close overlay-->
+    </div><!--close container-->
+    </div><!--close one fourth-->
+    {% endif %}
+    <!--AGENCY CARD-->
+    {% if GoG_winners.award == "Agency" and GoG_winners.single and GoG_winners.name == "Department of Agriculture" %}
+    <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+    <div class="container">
+      {% if GoG_winners.image %}
+      <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+      {% else %}
+      <img class="card-image-gog" src="{{ site.baseurl }}/img/GoG/banners/agency-background.png" alt="placeholder-agency-graphic" class="image">
+      {% endif %}
+    <div class="winner-text">
+      <div id="winner-left">
+        <p class="name-text" style="margin-bottom:9px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
+        <p style="margin-top:0;margin-bottom:0;" class="card-tag">{{ GoG_winners.agency }}</p>
+      </div> <!--close left div-->
+      <div id="winner-right">
+        <img
+        src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
+        style="height:75px;float:right;"><br>
+      </div><!--close right div-->
+    </div><!--close winner text-->
+    <div class="overlay">
+    <div class="text">
+      <p style="margin-top:0;"><b>{{ GoG_winners.name}} <br></b>
+          <!--<i>{{ GoG_winners.title}}</i></p>-->
+          <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
+          {% if GoG_winners.award == "Agency" %}
+              <p id="agency-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+            {% elsif GoG_winners.award == "Council" %}
+              <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+              {% elsif GoG_winners.award == "President's" %}
+              <p id="president-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+            {% endif %}
+          </div><!--close text-->
+          </div><!--close overlay-->
+          </div><!--close container-->
+          </div><!--close one fourth-->
+    {% endif %}
+    <!--COUNCIL CARD-->
+    {% if GoG_winners.award == "Council" and GoG_winners.single and GoG_winners.name == "Department of Agriculture" %}
+    <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+    <div class="container">
+      {% if GoG_winners.image %}
+      <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+      {% else %}
+      <img class="card-image-gog" src="{{ site.baseurl }}/img/GoG/banners/council-background.png" alt="placeholder-agency-graphic" class="image">
+      {% endif %}
+    <div class="winner-text">
+      <div id="winner-left">
+        <p class="name-text" style="margin-bottom:9px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
+        <p style="margin-top:0;margin-bottom:0;" class="card-tag">{{ GoG_winners.agency }}</p>
+      </div> <!--close left div-->
+      <div id="winner-right">
+        <img
+        src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
+        style="height:75px;float:right;"><br>
+      </div><!--close right div-->
+    </div><!--close winner text-->
+    <div class="overlay">
+    <div class="text">
+      <p style="margin-top:0;"><b>{{ GoG_winners.name}} <br></b>
+          <!--<i>{{ GoG_winners.title}}</i></p>-->
+          <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
+          {% if GoG_winners.award == "Agency" %}
+              <p id="agency-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+          {% elsif GoG_winners.award == "Council" %}
+              <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% elsif GoG_winners.award == "President's" %}
+              <p id="president-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+          {% endif %}
+      </div><!--close text-->
+    </div><!--close overlay-->
+    </div><!--close container-->
+    </div><!--close one fourth-->
+    {% endif %}
+
+
+    {% endfor %}
