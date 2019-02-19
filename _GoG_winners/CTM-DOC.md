@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Created partnerships with a range of minority-serving organizations to expose students to STEM fields and begin to build a pipeline of talent for NOAA.
 #description of why there winning award, in an excel spreadsheet

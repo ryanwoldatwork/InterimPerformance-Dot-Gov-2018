@@ -2,6 +2,8 @@
 name: Small Business Administration
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Led SBA's implementation of the DATA Act, which provides transparency to the public, helps identify risk, improves services, and facilitates data-driven decisions to improve how SBA serves small businesses.
 #description of why there winning award, in an excel spreadsheet

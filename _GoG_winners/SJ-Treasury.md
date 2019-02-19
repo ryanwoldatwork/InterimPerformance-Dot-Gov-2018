@@ -2,6 +2,8 @@
 name: Department of the Treasury
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Enhanced the approval process for alcohol bottle labeling approval to ensure timely and accurate information for consumers and an efficient process for suppliers.
 #description of why there winning award, in an excel spreadsheet
@@ -13,5 +15,5 @@ image: "/img/agency/Treasury_Department_Seal.png" #image needed for Team award (
 people:
  - Janet	Scalese
  - Gracie	Joy
- 
+
 ---

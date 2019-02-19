@@ -2,6 +2,8 @@
 name: Department of Housing and Urban Development
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Lead the effort to modernize HUD’s housing systems, enabled by the Technology Modernization Fund. These systems are central to how HUD manages billions of tax dollars to help ensure Americans have access to fair, affordable housing and opportunities to achieve self-sufficiency.
 #description of why there winning award, in an excel spreadsheet

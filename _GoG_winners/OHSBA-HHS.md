@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Modernized the Medicare claims processing system. This team’s innovation will lead to $7.5 million in savings over the next five years.
 #description of why there winning award, in an excel spreadsheet

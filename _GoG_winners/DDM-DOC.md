@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Radically advanced detection of harmful algal bloom toxins to ensure the delivery of safe drinking water in Lake Erie and access to safe seafood in Washington State. This team’s cutting-edge technology advances the economic and public health in U.S. coastal communities.
 #description of why there winning award, in an excel spreadsheet

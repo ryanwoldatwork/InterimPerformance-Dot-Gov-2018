@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Execute statistical models that use data from a variety of data sources and make survey and census data collection efficient and effective. The team’s work will allow workload improvements for hundreds of thousands of 2020 Census field personnel with significant cost savings.
 #description of why there winning award, in an excel spreadsheet

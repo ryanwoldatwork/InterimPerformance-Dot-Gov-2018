@@ -3,6 +3,8 @@
 name: Department of Veterans Affairs #name of winner or agency name if it's a team
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Improved the quality of life for veterans with limb loss. Jeffrey’s interdisciplinary team optimized both clinical care and process management to provide veterans with timelier and more personalized prosthetic care.
  #description of why there winning award, in an excel spreadsheet

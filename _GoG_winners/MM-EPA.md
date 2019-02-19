@@ -2,6 +2,8 @@
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Overhauled the agency’s acquisition process to increase speed and quality of incrementally-funded contracts. Their work completely eliminated the backlog of past-due requests and saved EPA and private sector partners time, effort, and resources that can be rededicated to the mission.
 category: epa #reference list of categories

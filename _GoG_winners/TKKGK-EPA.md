@@ -2,6 +2,8 @@
 name: Environmental Protection Agency  #name of winner or agency name if it's a team
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Modernized and digitized the management of lab data. The team reduced paper usage in the labs by 45%, reduced operating costs, and made data more publicly accessible and useful. #description of why there winning award, in an excel spreadsheet
 category: epa #reference list of categories

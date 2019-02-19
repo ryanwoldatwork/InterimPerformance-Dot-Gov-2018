@@ -2,6 +2,8 @@
 name: Department of Housing and Urban Development
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Created a tool to improve strategic Human Capital planning to build the workforce of the future and put key workforce information and analytics at the fingertips of decision makers. The team’s tool streamlines processes and eliminates manual and redundant work, saving tax dollars and valuable employee time.
 #description of why there winning award, in an excel spreadsheet

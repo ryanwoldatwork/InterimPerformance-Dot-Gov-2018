@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Reduced the rate of errors in Medicare transactions through the use of data-driven methods and enhanced collaboration processes. This effort saved taxpayers  $4.59 billion.
 

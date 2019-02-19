@@ -2,6 +2,8 @@
 name: Social Security Administration
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Spearheaded a new approach to cyber-security training for SSA employees. The new approach significantly increased employees’ ability to detect and report suspicious emails to protect taxpayer’s sensitive information.
 #description of why there winning award, in an excel spreadsheet

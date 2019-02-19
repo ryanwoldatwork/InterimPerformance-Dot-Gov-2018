@@ -2,6 +2,8 @@
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Modernized how the agency coordinates air permitting data between localities, states, and the public. Bamikole’s improved approach has realized more than $9 million in cost avoidance.
 category: epa #reference list of categories

@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Enhanced mission support services through state-of-the art building renovations. This resulted in an efficient use of taxpayer dollars, increased productivity, and collaboration across CDC teams.
 #description of why there winning award, in an excel spreadsheet

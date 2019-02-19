@@ -2,6 +2,8 @@
 name: Department of Veterans Affairs
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Works to detect and prevent fraud committed against Veterans. This crack team finds out what went wrong, protects the Veteran and/or beneficiary from further fraud, and helps the individual become financially `whole' again by reissuing benefits.
 category: va #reference list of categories
@@ -14,5 +16,5 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Kim Adams
  - Tonya Grant
  - Alvah Sessions
- - Michael Rasmussen 
+ - Michael Rasmussen
 ---

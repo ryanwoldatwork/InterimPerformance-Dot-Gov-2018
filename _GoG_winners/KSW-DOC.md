@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Developed and deployed a new dimensional metrology method to solve a critical challenge for the semiconductor industry. The new method, Critical Dimension Small Angle X-ray Scattering (CD-SAXS), has been actively adopted across the industry for next-generation device manufacturing.
 #description of why there winning award, in an excel spreadsheet

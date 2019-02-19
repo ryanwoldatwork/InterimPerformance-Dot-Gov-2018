@@ -2,6 +2,8 @@
 name: HHS, NASA, NSF, Ed
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Modernized and digitized grants management across government. The team’s efforts allow grant recipients to spend more time and effort on driving results in areas such as public health, science, infrastructure and economic development.
 

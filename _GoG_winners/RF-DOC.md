@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Analyzed U.S.-Produced Value in U.S. Imports from NAFTA. Their dedication, expertise, and skill in data collection and manipulation provided the analytical basis for the U.S. position in the NAFTA Rules-of-Origin negotiations.
 #description of why there winning award, in an excel spreadsheet

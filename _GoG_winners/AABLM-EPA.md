@@ -1,6 +1,7 @@
 ---
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
+length: short
 team: yes #mark no if an individual, NO CAPS
 single: no #mark yes if an individual NO CAPS
 description: Cut permitting time in half for standard air permitting applications without sacrificing quality. Their improvements save valuable time and resources for taxpayers and private employers, and continue to protect public health.

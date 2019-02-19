@@ -2,6 +2,7 @@
 name: Department of Agriculture
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
 single: no  #mark yes if an individual NO CAPS
 description: Detected and addressed immediate danger to human life and property as first responders in the wake of Hurricanes Maria and Irma. With the assistance of local employees, the team visited over 1,000 people and identified over $25 million in emergency watershed projects.
 #description of why there winning award, in an excel spreadsheet

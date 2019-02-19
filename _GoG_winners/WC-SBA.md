@@ -2,6 +2,8 @@
 name: Small Business Administration
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Shortened the process to issue surveys to small businesses by more than 100 days. Yvonne’s work will provide real-time data to improve service to small businesses and enhance SBA’s efforts to strengthen America’s economy.
 #description of why there winning award, in an excel spreadsheet

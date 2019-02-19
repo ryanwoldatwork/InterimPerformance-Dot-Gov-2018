@@ -2,6 +2,8 @@
 name: Department of the Treasury
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Saved $3 million from being sent to fraudulent actors who had stolen individual's identity.  
 #description of why there winning award, in an excel spreadsheet

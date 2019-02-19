@@ -2,6 +2,8 @@
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Supported federal employee well-being and mental health by consolidating 19 separate contracts in the Employee Assistance Program into one vehicle. Barbara’s efforts produced $180,000 in savings per year.
 category: epa #reference list of categories
@@ -12,5 +14,5 @@ image: "/img/agency/Environmental_Protection_Agency_Seal.png" #image needed for 
 people: #use this section if it's a team (variable "team" should be marked "yes" above)
  - Barbara Viney
  - Christina Hines
- - Michael Gilham 
+ - Michael Gilham
 ---

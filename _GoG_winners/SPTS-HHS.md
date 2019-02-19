@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Modernized the National Food Safety Data Exchange platform to improve the detection and surveillance of America’s food supply. This effort saves American taxpayers $750,000 annually.
 #description of why there winning award, in an excel spreadsheet

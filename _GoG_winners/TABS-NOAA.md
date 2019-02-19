@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Created a program to monitor the existence and health of shellfish along the northwest which prevents recalls for shellfish.
 #description of why there winning award, in an excel spreadsheet

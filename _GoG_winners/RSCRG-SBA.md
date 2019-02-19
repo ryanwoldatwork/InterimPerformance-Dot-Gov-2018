@@ -2,6 +2,8 @@
 name: Small Business Administration
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: In response to the worst hurricane season on record, the team re-envisioned of the loan decision process to allow SBA to break every agency record related to timeliness, productivity, and loans issued. SBA provided $5,578,644, 700 in assistance in five months.
 #description of why there winning award, in an excel spreadsheet

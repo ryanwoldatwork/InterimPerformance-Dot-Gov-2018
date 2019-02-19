@@ -2,6 +2,8 @@
 name: Social Security Administration
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Created a new training program to better equip SSA employees to prevent and prosecute Social Security fraud in the digital age. This specialized training on emerging legal issues and technology protects public resources and promotes public confidence in the SSA.
 #description of why there winning award, in an excel spreadsheet

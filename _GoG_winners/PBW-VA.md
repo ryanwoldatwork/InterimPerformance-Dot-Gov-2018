@@ -2,6 +2,8 @@
 name: Department of Veterans Affairs
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Modernized the VA’s approach to processing claims to maximize resources, improve processing timeliness, and better serve Veterans and their families.
 category: va #reference list of categories

@@ -2,6 +2,8 @@
 name: Department of the Treasury
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Launched datalab.usaspending.gov to provide American taxpayers with more transparency into $4 trillion of annual Federal spending. The team used open source code to give stakeholders access to federal data assets that show how the government is delivering results and value.
 #description of why there winning award, in an excel spreadsheet

@@ -2,6 +2,8 @@
 name: Department of Defense
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Eliminated unnecessary, costly, and burdensome regulations that impede the DoD’s mission. Their work reduced agency-wide regulations by approximately 25% and has already saved taxpayers $4.3 million.
 #description of why there winning award, in an excel spreadsheet

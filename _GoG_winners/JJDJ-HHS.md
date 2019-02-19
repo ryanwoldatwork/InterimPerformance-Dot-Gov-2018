@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Improved CDC cold storage management practice for freezers resulting in 40% energy savings. These efforts improved the energy efficiency and quality of CDC freezers.
 #description of why there winning award, in an excel spreadsheet

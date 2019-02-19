@@ -2,6 +2,8 @@
 name: Department of Housing and Urban Development
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Improved and streamlined customer service to maximize HUD’s impact on areas hardest hit by the 2018 hurricane season. The team’s work helped HUD assist over 12,000 hurricane survivors and rehouse more than 4000 families in FY18.
 #description of why there winning award, in an excel spreadsheet

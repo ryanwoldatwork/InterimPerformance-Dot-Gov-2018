@@ -2,6 +2,8 @@
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Modernized the stormwater permit system used by more than 25,000 construction sites and 2,000 industrial sites around the nation to better protect public health and the environment. The effort significantly improved customer service to permittees while also saving the agency over $60,000 a year.
 category: epa #reference list of categories
@@ -14,5 +16,5 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Joe Carioti
  - Diana Mendoza
  - Neil Handler
- - Margaret McCauley 
+ - Margaret McCauley
 ---

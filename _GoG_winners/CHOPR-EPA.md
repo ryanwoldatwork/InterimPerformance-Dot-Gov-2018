@@ -2,6 +2,8 @@
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Saved thousands of employee work hours by modernizing and automating how EPA reports activity across the country. The team improved coordination across departments and freed up employees and managers to focus on outcomes.
 category: epa #reference list of categories

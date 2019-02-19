@@ -2,6 +2,7 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
 single: no  #mark yes if an individual NO CAPS
 description: Improved how FDA responds and reacts to natural disasters. This effort enhances FDA’s ability to assess the impact of damage at facilities and ability to recover resources.
 #description of why there winning award, in an excel spreadsheet

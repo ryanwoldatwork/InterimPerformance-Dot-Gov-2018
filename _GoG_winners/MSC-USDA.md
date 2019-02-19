@@ -2,6 +2,8 @@
 name: Department of Agriculture
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Led a department-wide effort to streamline, simplify, and clarify USDA policies and improve labor relation activities. These changes have inspired senior leadership and employee confidence and strengthened the Department’s accountability to Congress and the American people.
 #description of why there winning award, in an excel spreadsheet

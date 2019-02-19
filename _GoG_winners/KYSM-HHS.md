@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Improved public health through the creation of the Fitwel® Certification. Fitwel® promotes health and wellness in government, corporate, and residential buildings.
 #description of why there winning award, in an excel spreadsheet

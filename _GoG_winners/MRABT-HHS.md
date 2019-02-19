@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Recovered $2.3 million worth of unclaimed Medicare Trust Funds from States and U.S through a partnership between Medicare, Treasury, and State Governments and Territories.
 #description of why there winning award, in an excel spreadsheet

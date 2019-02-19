@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Empowered staff to maximize their skills through a 90-day rotational program for Centers of Medicare and Medicaid Services employees. This program has  improved employee morale, maximized efficiency,  promoted developmental opportunities, and transformed the culture of staff.
 

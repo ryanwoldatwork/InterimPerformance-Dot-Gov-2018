@@ -2,6 +2,8 @@
 name: Department of the Treasury
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Reduced undue, redundant, and conflicting acquisition policies by approximately 55% during the “Acquisition Policy Diet” effort, thereby streamlining acquisitions and lowering risk.
 #description of why there winning award, in an excel spreadsheet

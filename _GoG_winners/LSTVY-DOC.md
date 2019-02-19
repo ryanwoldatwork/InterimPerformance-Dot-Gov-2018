@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Established the first primary standard to measure optical fiber-based laser power by exploiting the team’s innovative coatings, which are the most light-absorbing, or blackest, material ever made. The team’s innovation will enhance telecommunications, sensing, defense, and the development of future quantum networks.
 #description of why there winning award, in an excel spreadsheet

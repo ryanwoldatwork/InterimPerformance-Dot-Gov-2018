@@ -2,6 +2,8 @@
 name: Environmental Protection Agency
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no #mark yes if an individual NO CAPS
 description: Set the EPA's gold standard for operating an efficient lab that maximizes taxpayer resources and maintains quality testing to protect human and environmental health. Their streamlining efforts led to a 100% on-time delivery of test results and saved hundreds of thousands of tax dollars.
 category: epa #reference list of categories

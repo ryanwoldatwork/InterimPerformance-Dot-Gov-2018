@@ -2,6 +2,8 @@
 name: Department of Health and Human Services
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Modernized business processes to locate and support areas with healthcare shortages.This work has improved support in high need areas and reduce costs for the Center of Medicare and Medicaid Services.
 #description of why there winning award, in an excel spreadsheet

@@ -2,6 +2,8 @@
 name: Department of Commerce
 title: #job title
 team: yes #mark no if an individual, NO CAPS
+length: short
+
 single: no  #mark yes if an individual NO CAPS
 description: Enhanced national security by using strategic partnerships and advanced analytics to prevent the diversion of US good and technology to weapons of mass destruction and sanctioned programs.
 #description of why there winning award, in an excel spreadsheet
