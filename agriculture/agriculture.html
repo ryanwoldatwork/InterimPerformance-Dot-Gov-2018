@@ -51,9 +51,9 @@ description: Provide leadership on agriculture, food, natural resources, rural i
       <p><a class="usa-external_link" target="_blank" href="#/">Sample Link 1</a>.</p>
       <p><a class="usa-external_link" target="_blank" href="#">Sample Link 2</a>.</p>
       <p><a class="usa-external_link" target="_blank" href="#">Sample Link 3</a>.</p>-->
-</div>
-</div>
-    <div class="usa-width-one-whole">
+
+
+
     {% for GoG_winners in site.GoG_winners %}
     <!--PRESIDENT'S CARD-->
       {% if GoG_winners.award == "President's" and GoG_winners.single and GoG_winners.name == "Department of Agriculture" %}
@@ -90,7 +90,7 @@ description: Provide leadership on agriculture, food, natural resources, rural i
     {% endif %}
     <!--TEAM CARD-->
     {% if GoG_winners.team and GoG_winners.name == "Department of Agriculture" %}
-    <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+    <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
     <div class="container">
       <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
     <div class="winner-text-team">
@@ -140,7 +140,7 @@ description: Provide leadership on agriculture, food, natural resources, rural i
     {% endif %}
     <!--AGENCY CARD-->
     {% if GoG_winners.award == "Agency" and GoG_winners.single and GoG_winners.name == "Department of Agriculture" %}
-    <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+    <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
     <div class="container">
       {% if GoG_winners.image %}
       <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
@@ -177,7 +177,7 @@ description: Provide leadership on agriculture, food, natural resources, rural i
     {% endif %}
     <!--COUNCIL CARD-->
     {% if GoG_winners.award == "Council" and GoG_winners.single and GoG_winners.name == "Department of Agriculture" %}
-    <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
+    <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
     <div class="container">
       {% if GoG_winners.image %}
       <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
@@ -215,3 +215,5 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 
 
     {% endfor %}
+
+</div>
