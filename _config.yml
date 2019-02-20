@@ -7,12 +7,17 @@ url: 'https://www.performance.gov'
 title_image: "../img/homepage_images/newhero2_v2 JPG.jpg"
 
 collections:
-  - GoG_winners
-  - agencies
-
-  #agencies:
-    #  output: true
-    #  permalink: /:path
+=======
+  GoG_winners:
+    output: true
+  agencies:
+    output: true
+  cfo-act-agencies:
+    output: true
+    permalink: /:path
+  other-agencies:
+    output: true
+    permalink: /:path
 
 defaults:
   - scope:
