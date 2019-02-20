@@ -3,6 +3,7 @@ name: Department of the Treasury
 title: #job title
 team: yes #mark no if an individual, NO CAPS
 length: long
+modal: 2
 single: no  #mark yes if an individual NO CAPS
 description: Ensured that all valid, registered Financial Intermediaries met their Foreign Account Tax Compliance Act (FATCA) Reporting obligations and updated FATCA registration system to provide new functions, capabilities, and process improvements. The team’s work allows for more cost effective analysis of data.
 #description of why there winning award, in an excel spreadsheet
