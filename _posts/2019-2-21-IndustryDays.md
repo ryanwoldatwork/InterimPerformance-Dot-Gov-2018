@@ -6,9 +6,9 @@ title: "Update: Register Today for the Single Audit & Risk Management Demo Days!
 
 rating: "1"
 
-permalink: /2019-2-19-IndustryDays/
+permalink: /2019-2-21-IndustryDays/
 
-url: /2019-2-19-IndustryDays.md
+url: /2019-2-21-IndustryDays.md
 
 summary: summary_large_image
 
