@@ -34,6 +34,10 @@ image: "/img/agency/Social_Security_Administration_Seal.png"
 #twitter variables
 summary: summary
 description: Deliver quality Social Security services to the public.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">

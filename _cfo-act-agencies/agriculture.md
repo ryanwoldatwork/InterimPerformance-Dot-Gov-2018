@@ -34,6 +34,9 @@ image: "/img/agency/Agriculture_Department_Seal.png"
 #twitter variables
 summary: summary
 description: Provide leadership on agriculture, food, natural resources, rural infrastructure, nutrition, and related issues.
+
+#GoG
+GoG: yes
 ---
 
 <div class="usa-grid usa-graphic_list-row">

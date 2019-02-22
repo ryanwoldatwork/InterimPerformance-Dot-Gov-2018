@@ -34,6 +34,10 @@ image: "/img/agency/Energy_Department_Seal.png"
 #twitter variables
 summary: summary
 description: Advance U.S. national security and economic growth through scientific and technological innovation to promote affordable and reliable energy through market solutions.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">

@@ -33,6 +33,10 @@ image: "/img/agency/Treasury_Department_Seal.png"
 #twitter variables
 summary: summary
 description: Maintain a strong economy and create economic and job opportunities by promoting conditions for economic growth.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">
