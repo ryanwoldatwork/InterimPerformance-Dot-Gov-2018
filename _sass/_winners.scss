@@ -458,7 +458,7 @@ background-color: #ffffff;
 
 /*slide down*/
 
-.container {
+.container-GoG {
   position: relative;
   width: 100%;
   display: block;
@@ -489,7 +489,7 @@ background-color: #ffffff;
   transition: .5s ease;
 }
 
-.container:hover .overlay {
+.container-GoG:hover .overlay {
   bottom: 0;
   height: 100%;
 }

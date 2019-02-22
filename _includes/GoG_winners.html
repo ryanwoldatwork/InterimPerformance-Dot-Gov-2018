@@ -5,7 +5,7 @@
 <!--PRESIDENT'S CARD-->
   {% if GoG_winners.award == "President's" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-  <div class="container">
+  <div class="container-GoG">
     <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
   <div class="winner-text">
     <div id="winner-left">
@@ -32,13 +32,13 @@
         {% endif %}
   </div><!--close text-->
   </div><!--close overlay-->
-  </div><!--close container-->
+  </div><!--close container-GoG-->
 </div><!--close one fourth-->
 {% endif %}
 <!--TEAM CARD-->
 {% if GoG_winners.team and GoG_winners.length == "short" %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container">
+<div class="container-GoG">
   <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
 <div class="winner-text-team">
   <div id="winner-left">
@@ -82,14 +82,14 @@
       {% endif %}
 </div><!--close text-->
 </div><!--close overlay-->
-</div><!--close container-->
+</div><!--close container-GoG-->
 </div><!--close one fourth-->
 {% endif %}
 
 <!--TEAM CARD WITH TOO MANY NAMES - NO FLIP, MODAL BOX-->
 {% if GoG_winners.length == "long" %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container button" data-modal="modal{{ GoG_winners.modal }}">
+<div class="container-GoG button" data-modal="modal{{ GoG_winners.modal }}">
   <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
 <div class="winner-text-team">
   <div id="winner-left">
@@ -114,7 +114,7 @@
   </div><!--close right div-->
 </div><!--close winner text-->
 
-</div><!--close container-->
+</div><!--close container-GoG-->
 </div><!--close one fourth-->
 
 <div id="modal{{ GoG_winners.modal }}" class="modal">
@@ -200,7 +200,7 @@
 <!--AGENCY CARD-->
 {% if GoG_winners.award == "Agency" and GoG_winners.single %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container">
+<div class="container-GoG ">
   {% if GoG_winners.image %}
   <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
   {% else %}
@@ -231,13 +231,13 @@
         {% endif %}
       </div><!--close text-->
       </div><!--close overlay-->
-      </div><!--close container-->
+      </div><!--close container-GoG-GoG-->
       </div><!--close one fourth-->
 {% endif %}
 <!--COUNCIL CARD-->
 {% if GoG_winners.award == "Council" and GoG_winners.single %}
 <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container">
+<div class="container-GoG">
   {% if GoG_winners.image %}
   <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
   {% else %}
@@ -268,7 +268,7 @@
       {% endif %}
   </div><!--close text-->
 </div><!--close overlay-->
-</div><!--close container-->
+</div><!--close container-GoG-GoG-->
 </div><!--close one fourth-->
 {% endif %}
 
@@ -282,7 +282,7 @@
 
 <!--{% if GoG_winners.award == "Agency" and GoG_winners.single %}
   <div class="usa-width-one-fourth usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-  <div class="container">
+  <div class="container-GoG">
     <img class="card-image-gog-agency" src="{{ site.baseurl }}/img/GoG/banners/agency-background.png" alt="Avatar" class="image">
     <div class="winner-text-ag-cou">
       <div id="winner-left">
