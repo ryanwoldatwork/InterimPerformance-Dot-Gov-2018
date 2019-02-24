@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no #mark yes if an individual NO CAPS
-description: Works to detect and prevent fraud committed against Veterans. This crack team finds out what went wrong, protects the Veteran and/or beneficiary from further fraud, and helps the individual become financially `whole' again by reissuing benefits.
+description: Works to detect and prevent fraud committed against Veterans. This crack team finds out what went wrong, protects the Veteran and/or beneficiary from further fraud, and helps the individual become financially whole again by reissuing benefits.
 category: va #reference list of categories
 agency: Department of Veterans Affairs #name of agency, capitalize first letter of each name
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card

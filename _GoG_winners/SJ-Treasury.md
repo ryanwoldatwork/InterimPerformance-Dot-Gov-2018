@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Enhanced the approval process for alcohol bottle labeling approval to ensure timely and accurate information for consumers and an efficient process for suppliers.
+description: Enhanced the approval process for alcohol bottle labeling to ensure timely and accurate information for consumers and an efficient process for suppliers.
 #description of why there winning award, in an excel spreadsheet
 category: treasury #reference list of categories
 agency: Department of the Treasury #name of agency, capitalize first letter of each name

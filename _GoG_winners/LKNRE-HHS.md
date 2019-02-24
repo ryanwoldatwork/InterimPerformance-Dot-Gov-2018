@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Reduced the risk and cost of several large CMS contracts. This effort  increased accountability, transparency, and efficiency in health insurance transactions and save taxpayers $274 million.
+description: Reduced the risk and cost of several large CMS contracts. This effort increased accountability, transparency, and efficiency in health insurance transactions and saves taxpayers $274 million.
 #description of why there winning award, in an excel spreadsheet
 category: hhs #reference list of categories
 agency: Department of Health and Human Services #name of agency, capitalize first letter of each name

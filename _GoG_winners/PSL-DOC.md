@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Innovated to develop new maps of wind speeds for the U.S. Their work greatly improved the science-basis of the national standard for the design of buildings and other structures for wind loads, enabling safe, and more economical designs for buildings and infrastructure.
+description: Developed new maps of wind speeds for the U.S. Their work greatly improved the science-basis of the national standard for the design of buildings and other structures for wind loads, enabling safe and more economical designs for buildings and infrastructure.
 #description of why there winning award, in an excel spreadsheet
 category: doc #reference list of categories
 agency: Department of Commerce #name of agency, capitalize first letter of each name

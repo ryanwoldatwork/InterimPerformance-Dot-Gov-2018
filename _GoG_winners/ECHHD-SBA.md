@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Onboarded 6,000 emergency hires to respond to the most active and costly hurricane season in US history. The flexibility, resourcefulness, and tireless dedication of his team allowed SBA to respond quickly to national disasters.
+description: Onboarded 6,000 emergency hires to respond to the most active and costly hurricane season in US history. The flexibility, resourcefulness, and tireless dedication of this team allowed SBA to respond quickly to national disasters.
 #description of why there winning award, in an excel spreadsheet
 category: sba #reference list of categories
 agency: Small Business Administration #name of agency, capitalize first letter of each name

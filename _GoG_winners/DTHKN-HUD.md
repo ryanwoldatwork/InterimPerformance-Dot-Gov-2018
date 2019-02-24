@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Transformed the way HUD manages it finances. The team reduced the administrative burden for some programs by over 90% and significantly improved accountability and transparency of taxpayer funds.
+description: Transformed the way HUD manages its finances. The team reduced the administrative burden for some programs by over 90% and significantly improved accountability and transparency of taxpayer funds.
 #description of why there winning award, in an excel spreadsheet
 category: hud #reference list of categories
 agency: Department of Housing and Urban Development #name of agency, capitalize first letter of each name

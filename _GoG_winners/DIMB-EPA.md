@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no #mark yes if an individual NO CAPS
-description: Made air emissions data timelier and more accessible to better inform policy decisions. Created a tool that lets stakeholders quickly find out what proposed energy efficiency and renewable energy programs proposals will mean in terms of real air emission reductions.
+description: Made air emissions data timelier and more accessible to better inform policy decisions. Created a tool that lets stakeholders quickly find out what proposed energy efficiency and renewable energy programs will mean in terms of real air emission reductions.
 category: epa #reference list of categories
 agency: Environmental Protection Agency #name of agency, capitalize first letter of each name
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
