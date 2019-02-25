@@ -33,6 +33,10 @@ image: "/img/agency/Veterans_Affairs_Department_Seal.png"
 #twitter variables
 summary: summary
 description: To fulfill President Lincoln’s promise to care for those “who shall have borne the battle” and for their families, caregivers, and survivors.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">

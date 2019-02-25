@@ -34,6 +34,10 @@ image: "/img/agency/Defense_Department_Seal.png"
 #twitter variables
 summary: summary
 description: Provide the military forces needed to deter and win wars to protect national security and the security of our allies.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">

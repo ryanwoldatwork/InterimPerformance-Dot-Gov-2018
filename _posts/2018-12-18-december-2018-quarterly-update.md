@@ -4,7 +4,6 @@ tumblr_url:
 
 title: "New Updates Highlight Movement on Cross-Agency and Agency Priority Goals"
 
-rating: "1"
 
 permalink: /december-2018-quarterly-update/
 

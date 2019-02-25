@@ -34,6 +34,10 @@ image: "/img/agency/GSA_Seal.png"
 #twitter variables
 summary: summary
 description: Deliver value and savings in real estate, acquisition, technology, and services across the government.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">
