@@ -37,7 +37,7 @@
 {% if GoG_winners.team and GoG_winners.length == "short" %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
 <div class="container-GoG">
-  <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+  <center><img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image"></center>
 <div class="winner-text-team">
   <div id="winner-left">
     <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
@@ -88,7 +88,7 @@
 {% if GoG_winners.length == "long" %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
 <div class="container-GoG button" data-modal="modal{{ GoG_winners.modal }}">
-  <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
+  <center><img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image"></center>
 <div class="winner-text-team">
   <div id="winner-left">
     <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
