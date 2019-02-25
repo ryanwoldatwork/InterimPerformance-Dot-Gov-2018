@@ -6,9 +6,9 @@ rating: "1"
 
 title: "The Gears of Government Awards Hall of Winners is Now Live!"
 
-permalink: /2019-2-22-gears-of-gov-winners/
+permalink: /2019-2-25-gears-of-gov-winners/
 
-url: /2019-2-22-gears-of-gov-winners.md
+url: /2019-2-25-gears-of-gov-winners.md
 
 summary: summary_large_image
 

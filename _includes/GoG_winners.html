@@ -53,15 +53,15 @@
     {% if GoG_winners.award == "Agency" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "Council" %}
      <img
       src="{{ site.baseurl }}/img/GoG/banners/council-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "President's" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/president-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% endif %}
     {% for item in GoG_winners.people-right %}
     <li class="team-right">{{ item }}</li>
@@ -101,15 +101,15 @@
     {% if GoG_winners.award == "Agency" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "Council" %}
      <img
       src="{{ site.baseurl }}/img/GoG/banners/council-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "President's" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/president-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% endif %}
   </div><!--close right div-->
 </div><!--close winner text-->
@@ -151,50 +151,6 @@
 </div>
 {% endif %}
 
-<script>
-  /*jslint browser*/
-  /*global window*/
-  (function iife() {
-      "use strict";
-      function closestEl(el, selector) {
-          var doc = el.document || el.ownerDocument;
-          var matches = doc.querySelectorAll(selector);
-          var i;
-          while (el) {
-              i = matches.length - 1;
-              while (i >= 0) {
-                  if (matches.item(i) === el) {
-                      return el;
-                  }
-                  i -= 1;
-              }
-              el = el.parentElement;
-          }
-          return el;
-      }
-      var modalBtns = document.querySelectorAll(".button");
-      modalBtns.forEach(function addBtnClickEvent(btn) {
-          btn.onclick = function showModal() {
-              var modal = btn.getAttribute("data-modal");
-              document.getElementById(modal).style.display = "block";
-          };
-      });
-
-      var closeBtns = document.querySelectorAll(".close");
-      closeBtns.forEach(function addCloseClickEvent(btn) {
-          btn.onclick = function closeModal() {
-              var modal = closestEl(btn, ".modal");
-              modal.style.display = "none";
-          };
-      });
-
-      window.onclick = function closeOnClick(event) {
-          if (event.target.className === "modal") {
-              event.target.style.display = "none";
-          }
-      };
-  }());
-</script>
 
 
 <!--AGENCY CARD-->
@@ -276,6 +232,50 @@
 {% endfor %}
 </div><!--close main-iso-->
 
+<script>
+  /*jslint browser*/
+  /*global window*/
+  (function iife() {
+      "use strict";
+      function closestEl(el, selector) {
+          var doc = el.document || el.ownerDocument;
+          var matches = doc.querySelectorAll(selector);
+          var i;
+          while (el) {
+              i = matches.length - 1;
+              while (i >= 0) {
+                  if (matches.item(i) === el) {
+                      return el;
+                  }
+                  i -= 1;
+              }
+              el = el.parentElement;
+          }
+          return el;
+      }
+      var modalBtns = document.querySelectorAll(".button");
+      modalBtns.forEach(function addBtnClickEvent(btn) {
+          btn.onclick = function showModal() {
+              var modal = btn.getAttribute("data-modal");
+              document.getElementById(modal).style.display = "block";
+          };
+      });
+
+      var closeBtns = document.querySelectorAll(".close");
+      closeBtns.forEach(function addCloseClickEvent(btn) {
+          btn.onclick = function closeModal() {
+              var modal = closestEl(btn, ".modal");
+              modal.style.display = "none";
+          };
+      });
+
+      window.onclick = function closeOnClick(event) {
+          if (event.target.className === "modal") {
+              event.target.style.display = "none";
+          }
+      };
+  }());
+</script>
 
 
 <!--OLD AGENCY CODE-->
