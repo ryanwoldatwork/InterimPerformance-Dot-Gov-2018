@@ -3,7 +3,7 @@
 <!--PRESIDENT'S CARD-->
 {% if GoG_winners.category == "President's" and GoG_winners.single %}
   <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-    <div class="container">
+    <div class="container-GoG">
       <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
         <div class="winner-text">
           <div id="winner-left">
@@ -36,7 +36,7 @@
 <!--TEAM CARD-->
 {% if GoG_winners.team and GoG_winners.length == "short" %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container">
+<div class="container-GoG">
   <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
 <div class="winner-text-team">
   <div id="winner-left">
@@ -51,15 +51,15 @@
     {% if GoG_winners.award == "Agency" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "Council" %}
      <img
       src="{{ site.baseurl }}/img/GoG/banners/council-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "President's" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/president-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% endif %}
     {% for item in GoG_winners.people-right %}
     <li class="team-right">{{ item }}</li>
@@ -87,7 +87,7 @@
 <!--TEAM CARD WITH TOO MANY NAMES - NO FLIP, MODAL BOX-->
 {% if GoG_winners.length == "long" %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container button" data-modal="modal{{ GoG_winners.modal }}">
+<div class="container-GoG button" data-modal="modal{{ GoG_winners.modal }}">
   <img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
 <div class="winner-text-team">
   <div id="winner-left">
@@ -98,15 +98,15 @@
     {% if GoG_winners.award == "Agency" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/agency-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "Council" %}
      <img
       src="{{ site.baseurl }}/img/GoG/banners/council-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% elsif GoG_winners.award == "President's" %}
       <img
       src="{{ site.baseurl }}/img/GoG/banners/president-banner.png"
-      style="height:75px;float:right;"><br>
+      style="height:75px;float:right;margin-top:-2px;"><br>
     {% endif %}
   </div><!--close right div-->
 </div><!--close winner text-->
@@ -151,7 +151,7 @@
 <!--AGENCY CARD-->
 {% if GoG_winners.award == "Agency" and GoG_winners.single %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container">
+<div class="container-GoG">
   {% if GoG_winners.image %}
   <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
   {% else %}
@@ -188,7 +188,7 @@
 <!--COUNCIL CARD-->
 {% if GoG_winners.award == "Council" and GoG_winners.single %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container">
+<div class="container-GoG">
   {% if GoG_winners.image %}
   <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
   {% else %}
