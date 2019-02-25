@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Modernized the National Food Safety Data Exchange platform to improve the detection and surveillance of America’s food supply. This effort saves American taxpayers $750,000 annually.
+description: Modernized data collection processes for state health insurance exchanges. This improved the use and management of the $10 billion in federal tax dollars used for enrollment transactions.
 #description of why there winning award, in an excel spreadsheet
 category: hhs #reference list of categories
 agency: Department of Health and Human Services #name of agency, capitalize first letter of each name
