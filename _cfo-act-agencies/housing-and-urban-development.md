@@ -34,6 +34,10 @@ image: "/img/agency/HUD_Seal.png"
 #twitter variables
 summary: summary
 description: Create strong, sustainable, inclusive communities and quality affordable homes for all.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">

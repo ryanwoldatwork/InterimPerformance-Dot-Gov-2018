@@ -34,6 +34,9 @@ image: "/img/agency/Commerce_Department_Seal.png"
 #twitter variables
 summary: summary
 description: To create the conditions for economic growth and opportunity by promoting job creation, fair and reciprocal trade, and supporting commerce.
+
+#GoG
+GoG: yes
 ---
 
 <div class="usa-grid usa-graphic_list-row">

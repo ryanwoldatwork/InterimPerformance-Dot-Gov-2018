@@ -34,6 +34,10 @@ image: "/img/agency/National_Science_Foundation_Seal.png"
 #twitter variables
 summary: summary
 description: Promote the progress of science, advance national health, prosperity, and welfare, and secure the national defense.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">
