@@ -17,4 +17,6 @@ people:
  - Maria	Jimenez
  - Michael	McFarland
  - Clarence	Randall
+ - Jose Arrieta – Executive Sponsor
+ - Ali Pourghassemi
 ---
