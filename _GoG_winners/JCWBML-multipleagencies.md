@@ -1,5 +1,5 @@
 ---
-name: HHS, NASA, NSF, Ed
+name: HHS, NASA, NSF, ED
 title:  #job title, leave blank if team
 team: yes #mark no if an individual, NO CAPS
 length: short
