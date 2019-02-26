@@ -16,5 +16,6 @@ people:
  - Deanna	Jones
  - Jeff	Jarrett
  - Sina	De Leon Salazar
- - Roger	Jones
+ - Robert	Jones
+ - Reba Williams
 ---
