@@ -1,5 +1,5 @@
 ---
-name: Lisa McAdams
+name: Dr. Lisa McAdams
 title:
 team: no #mark no if an individual, NO CAPS
 single: yes #mark yes if an individual NO CAPS
