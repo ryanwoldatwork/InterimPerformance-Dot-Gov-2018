@@ -6,7 +6,7 @@ title: "New USDA Tool Helps Agencies Communicate Critical Information During Eme
 
 rating: "0"
 
-permalink: /2019-2-13-usda-blog-post/
+permalink: /2019-2-28-usda-blog-post/
 
 summary: summary_large_image
 
