@@ -87,12 +87,12 @@
 <!--TEAM CARD WITH TOO MANY NAMES - NO FLIP, MODAL BOX-->
 {% if GoG_winners.length == "long" %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-<div class="container-GoG button" data-modal="modal{{ GoG_winners.modal }}">
+<div class="container-GoG button">
   <center><img class="card-image-gog-team" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image"></center>
 <div class="winner-text-team">
   <div id="winner-left">
     <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
-      <p class="team"> Click the card to view the whole team and more information.</p>
+    <a style="text-decoration:none;" href="#openModal{{ GoG_winners.modal }}" class="team"> Click the card to view the whole team and more information.</a>
   </div> <!--close left div-->
   <div id="winner-right"> <!--pulls in the colored banner on front of card-->
     {% if GoG_winners.award == "Agency" %}
@@ -113,41 +113,8 @@
 
 </div><!--close container-->
 </div><!--close one third-->
-
-<div id="modal{{ GoG_winners.modal }}" class="modal">
-  <div class="modal-content-GoG">
-  <h3 class="name-text" style="margin-bottom:19px;line-height:1;margin-top:0px;"><b>{{ GoG_winners.name}}</b>  <img style="width:75px;float:right;margin-top: -12px;" src="{{ site.baseurl }}{{ GoG_winners.image }}">
-</h3>
-
-{% if GoG_winners.award == "Agency" %}
-  <p id="agency-winner-border-modal" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
-{% elsif GoG_winners.award == "Council" %}
-  <p id="council-winner-border-modal" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
-{% elsif GoG_winners.award == "President's" %}
-  <p id="president-winner-border-modal" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
+{% include GoG-modal.html %}
 {% endif %}
-
-<h4 class="modal-title"> Team Members</h4>
-<div style="float: left; width: 50%;">
-  <ul>
-    {% for item in GoG_winners.people %}
-    <li class="team-modal">{{ item }}</li>
-    {% endfor %}
-  </ul>
-  </div>
-<div style="float: right; width: 50%;">
-  <ul>
-    {% for item in GoG_winners.people-right %}
-    <li class="team-modal">{{ item }}</li>
-    {% endfor %}
-  </ul>
-</div>
-  <h4 class="modal-title"> Award Description </h4>
-  <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
-</div>
-</div>
-{% endif %}
-
 <!--AGENCY CARD-->
 {% if GoG_winners.award == "Agency" and GoG_winners.single %}
 <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">

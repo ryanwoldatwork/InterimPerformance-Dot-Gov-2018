@@ -15,7 +15,7 @@ image: "/img/agency/Treasury_Department_Seal.png" #image needed for Team award (
 people:
  - Donnie Vester
  - Sandra Edmondson
- - Garrett Madsen
+ - Garret Madsen
  - Brooke Pruitt
 people-right:
  - Cheryl Hemphill
