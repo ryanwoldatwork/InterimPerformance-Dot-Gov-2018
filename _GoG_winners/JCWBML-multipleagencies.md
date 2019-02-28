@@ -20,4 +20,5 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Carolyn	Beins
  - Christos	Motsiopoulos
  - Chuck	Laster
+ - Richard Brundage
 ---
