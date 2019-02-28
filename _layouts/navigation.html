@@ -157,6 +157,10 @@ layout: base
                         <li>
                           <a href="{{ site.baseurl }}/reduce/reduce_the_footprint.html">Reduce the Footprint Policy</a>
                         </li>
+                        <li>
+                          <a href="{{ site.baseurl }}/gearawards/">Gears of Government Awards</a>
+                        </li>
+
                     </ul>
                     </li>
               </ul>
@@ -329,6 +333,35 @@ layout: base
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
   }
+  $(window).load(function(){
+      var $container = $('.portfolioContainer');
+      $container.isotope({
+          filter: '*',
+          animationOptions: {
+              duration: 750,
+              easing: 'linear',
+              queue: false
+          }
+      });
+
+      $('.portfolioFilter a').click(function(){
+          $('.portfolioFilter .current').removeClass('current');
+          $(this).addClass('current');
+
+          var selector = $(this).attr('data-filter');
+          $container.isotope({
+              filter: selector,
+              animationOptions: {
+                  duration: 750,
+                  easing: 'linear',
+                  queue: false
+              }
+           });
+           return false;
+      });
+  });
+
+
   </script>
   <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
 

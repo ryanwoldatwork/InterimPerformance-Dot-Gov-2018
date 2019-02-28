@@ -34,6 +34,10 @@ image: "/img/agency/Environmental_Protection_Agency_Seal.png"
 #twitter variables
 summary: summary
 description: Protect Human Health and the Environment.
+
+#GoG
+GoG: yes
+
 ---
 
 <div class="usa-grid usa-graphic_list-row">

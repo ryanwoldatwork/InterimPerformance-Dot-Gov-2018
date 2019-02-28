@@ -1,64 +1,91 @@
-
-<button
- class="usa-button"
- id="myBtn"
- >Subscribe to Performance News & Updates</button>
-
-
-   <div id="myModal" class="modal">    <!-- The Modal-->
-     <div class="modal-content"> <!--Modal content-->
-       <span class="close">&times;</span>
-      <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
-      <input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
-      <fieldset>
-      <legend>
-        C-Suite Quarterly Newsletter
-      </legend><br>
-      <div>
-        Sign up for C-Suite Quarterly, a quarterly update on management priorities, transformation success stories, and tools to help agencies improve performance.
-      </div>
-      <ol class='form' style="padding-left:0px;">
-        <li class='email_fields' style='display: block'>
-        <label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" />Email Address</label>
-        <input type="text" name="email" id="email" class="long" />
-        </li>
-      </ol>
-      <div class='button_panel'>
-      <input type="submit" name="commit" value="Submit" class="form_button" style="background-color:#e31c3d;" />
-      </div>
-      </fieldset>
-      </form>
-    </div>
+<p>
+  <button class="button" data-modal="modalOne">
+    Subscribe to Performance News & Updates
+  </button>
+</p>
+<p>
 
 
-<script>
-        // Get the modal
-        var modal = document.getElementById('myModal');
+<div id="modalOne" class="modal">
+  <div class="modal-content">
+    <div class="contact-form">
+      <span class="close">&times;</span>
+     <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
+     <input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
+     <fieldset>
+     <legend>
+       C-Suite Quarterly Newsletter
+     </legend><br>
+     <div>
+       Sign up for C-Suite Quarterly, a quarterly update on management priorities, transformation success stories, and tools to help agencies improve performance.
+     </div>
+     <ol class='form' style="padding-left:0px;">
+       <li class='email_fields' style='display: block'>
+       <label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" />Email Address</label>
+       <input type="text" name="email" id="email" class="long" />
+       </li>
+     </ol>
+     <div class='button_panel'>
+     <input type="submit" name="commit" value="Submit" class="form_button" style="background-color:#e31c3d;" />
+     </div>
+     </fieldset>
+     </form>
+   </div>
 
-        // Get the button that opens the modal
-        var btn = document.getElementById("myBtn");
 
-        // Get the <span> element that closes the modal
-        var span = document.getElementsByClassName("close")[0];
 
-        // When the user clicks the button, open the modal
-        btn.onclick = function() {
-            modal.style.display = "block";
-        }
 
-        // When the user clicks on <span> (x), close the modal
-        span.onclick = function() {
-            modal.style.display = "none";
-        }
 
-        // When the user clicks anywhere outside of the modal, close it
-        window.onclick = function(event) {
-            if (event.target == modal) {
-                modal.style.display = "none";
-            }
-        }
-</script>
 
+
+
+
+
+
+   <script>
+     /*jslint browser*/
+     /*global window*/
+     (function iife() {
+         "use strict";
+         function closestEl(el, selector) {
+             var doc = el.document || el.ownerDocument;
+             var matches = doc.querySelectorAll(selector);
+             var i;
+             while (el) {
+                 i = matches.length - 1;
+                 while (i >= 0) {
+                     if (matches.item(i) === el) {
+                         return el;
+                     }
+                     i -= 1;
+                 }
+                 el = el.parentElement;
+             }
+             return el;
+         }
+         var modalBtns = document.querySelectorAll(".button");
+         modalBtns.forEach(function addBtnClickEvent(btn) {
+             btn.onclick = function showModal() {
+                 var modal = btn.getAttribute("data-modal");
+                 document.getElementById(modal).style.display = "block";
+             };
+         });
+
+         var closeBtns = document.querySelectorAll(".close");
+         closeBtns.forEach(function addCloseClickEvent(btn) {
+             btn.onclick = function closeModal() {
+                 var modal = closestEl(btn, ".modal");
+                 modal.style.display = "none";
+             };
+         });
+
+         window.onclick = function closeOnClick(event) {
+             if (event.target.className === "modal") {
+                 event.target.style.display = "none";
+             }
+         };
+     }());
+   </script>
 
 
 <!--Old text-->
