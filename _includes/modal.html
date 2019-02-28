@@ -1,100 +1,27 @@
-<p>
-  <button class="button" data-modal="modalOne">
-    Subscribe to Performance News & Updates
-  </button>
-</p>
-<p>
+ <a class="modal-button" href="#openModal1" style="color:white;text-decoration:none;">Subscribe to Performance News & Updates</a>
 
-
-<div id="modalOne" class="modal">
-  <div class="modal-content">
-    <div class="contact-form">
-      <span class="close">&times;</span>
-     <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
+<div id="openModal1" class="modalDialog">
+<div>
+    <a href="#close" title="Close" class="close">X</a>
+    <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
      <input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
      <fieldset>
-     <legend>
-       C-Suite Quarterly Newsletter
-     </legend><br>
-     <div>
-       Sign up for C-Suite Quarterly, a quarterly update on management priorities, transformation success stories, and tools to help agencies improve performance.
-     </div>
-     <ol class='form' style="padding-left:0px;">
-       <li class='email_fields' style='display: block'>
-       <label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" />Email Address</label>
-       <input type="text" name="email" id="email" class="long" />
-       </li>
-     </ol>
-     <div class='button_panel'>
-     <input type="submit" name="commit" value="Submit" class="form_button" style="background-color:#e31c3d;" />
-     </div>
-     </fieldset>
-     </form>
-   </div>
-
-
-
-
-
-
-
-
-
-
-
-   <script>
-     /*jslint browser*/
-     /*global window*/
-     (function iife() {
-         "use strict";
-         function closestEl(el, selector) {
-             var doc = el.document || el.ownerDocument;
-             var matches = doc.querySelectorAll(selector);
-             var i;
-             while (el) {
-                 i = matches.length - 1;
-                 while (i >= 0) {
-                     if (matches.item(i) === el) {
-                         return el;
-                     }
-                     i -= 1;
-                 }
-                 el = el.parentElement;
-             }
-             return el;
-         }
-         var modalBtns = document.querySelectorAll(".button");
-         modalBtns.forEach(function addBtnClickEvent(btn) {
-             btn.onclick = function showModal() {
-                 var modal = btn.getAttribute("data-modal");
-                 document.getElementById(modal).style.display = "block";
-             };
-         });
-
-         var closeBtns = document.querySelectorAll(".close");
-         closeBtns.forEach(function addCloseClickEvent(btn) {
-             btn.onclick = function closeModal() {
-                 var modal = closestEl(btn, ".modal");
-                 modal.style.display = "none";
-             };
-         });
-
-         window.onclick = function closeOnClick(event) {
-             if (event.target.className === "modal") {
-                 event.target.style.display = "none";
-             }
-         };
-     }());
-   </script>
-
-
-<!--Old text-->
-           <!--<h2>Join over 1,000 people in receiving performance news updates from Performance.gov!</h2>
-
-           <p>Keep up to date with Performance.gov news, features, and quarterly performance updates. You can also keep in the loop by following Performance.gov on Twitter at @PerformanceGov. </p>
-           <p>If you’re having difficulty subscribing or unsubscribing to our list, please email pgovsupport@gsa.gov with your name and email address. </p>
-           <a class="usa-button usa-button-secondary" style="align:left;color:#ffffff;" href="https://goo.gl/forms/uOMj6DcEsDvLNxMQ2" target="_blank">Subscribe Here</a>
-           <p style="font-size: 12px;color:#ffffff;"><a href="#">Unsubscribe here</a></p>
-         </div>
-
-       </div> <!--Read the latest news here</a>-->
+       <legend>
+             C-Suite Quarterly Newsletter
+           </legend><br>
+           <div>
+             Sign up for C-Suite Quarterly, a quarterly update on management priorities, transformation success stories, and tools to help agencies improve performance.
+           </div>
+    <ol class='form' style="padding-left:0px;">
+      <li class='email_fields' style='display: block'>
+      <label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" />Email Address</label>
+      <input type="text" name="email" id="email" class="long" />
+      </li>
+    </ol>
+    <div class='button_panel'>
+    <input type="submit" name="commit" value="Submit" class="form_button" style="background-color:#e31c3d;" />
+    </div>
+    </fieldset>
+    </form>
+</div>
+</div>
