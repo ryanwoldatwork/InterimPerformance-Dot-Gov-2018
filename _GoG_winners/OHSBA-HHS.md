@@ -13,7 +13,7 @@ award: Agency #type of award, either Agency, Council, or President's; this is ca
 Year: 2018 #variable to be used at later date
 image: "/img/agency/Health_and_Human_Department_Seal.png"
 people:
- - Loretta	O’Mar
+ - Loretta	O’Mara
  - Camille	Haywood
  - Ada	Sanchez
  - Leah	Bertazon

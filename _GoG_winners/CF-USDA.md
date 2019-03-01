@@ -15,5 +15,7 @@ image: "/img/agency/Agriculture_Department_Seal.png"
 people:
  - Laura	Castro
  - Janice	Fitzgerald
+ - Kathy Staley
+ - Shenique Bridges
 
 ---
