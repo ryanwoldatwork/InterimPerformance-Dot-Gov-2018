@@ -4,7 +4,7 @@ title: The Federal Real Property Profile (FRPP) Map
  #job title
 team: yes #mark no if an individual, NO CAPS
 length: long
-modal: 5 #for every card that uses "long"; this number should consecutively increase and never be the same
+modal: 8 #for every card that uses "long"; this number should consecutively increase and never be the same
 single: no  #mark yes if an individual NO CAPS
 description: Created a geographic information system enabled map of federal government’s real property inventory. This interactive map enables users to customize searches with data attributes such as distance, property type, sustainability, and significantly increases transparency.
 #description of why there winning award, in an excel spreadsheet

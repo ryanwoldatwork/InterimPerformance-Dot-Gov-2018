@@ -1,6 +1,6 @@
 ---
 name: General Services Administration
-title: The GSA VEMOS Integrated Project Team 
+title: The GSA FEDISM VEMOS Integrated Project Team 
  #job title
 team: yes #mark no if an individual, NO CAPS
 length: long
