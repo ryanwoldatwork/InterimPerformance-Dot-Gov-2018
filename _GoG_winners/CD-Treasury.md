@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Developed a bank note security sensor to detect counterfeit bank notes for Federal Reserve cash processing operations. The technology flawlessly processed over six million Federal Reserve notes and allowed for the elimination of another tool, saving an estimated $4 million per year.
+description: Developed a bank note security sensor to detect counterfeit bank notes for cash processing operations. The technology flawlessly processed over six million U.S. currency notes and allowed for the elimination of another tool, saving an estimated $4 million per year.
 #description of why there winning award, in an excel spreadsheet
 category: treasury #reference list of categories
 agency: Department of the Treasury #name of agency, capitalize first letter of each name

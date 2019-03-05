@@ -1,9 +1,9 @@
 ---
-name: Chi Tran
+name: Truc-Chi Huynh Tran
 title: #job title
 team: no #mark no if an individual, NO CAPS
 single: yes  #mark yes if an individual NO CAPS
-description: Led Project Casino, providing Federal Reserve Notes with strong security features which enabled the US Currency program to scale back other less effective currency security efforts, saving $2 million to date.
+description: Led the development of a new, highly-innovative security feature for future banknotes. This has enabled the United States Currency Program to scale back other projects, saving $6 million.
 #description of why there winning award, in an excel spreadsheet
 category: treasury #reference list of categories
 agency: Department of the Treasury #name of agency, capitalize first letter of each name
