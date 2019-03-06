@@ -16,9 +16,9 @@ image: "/img/agency/GSA_Seal.png" #image needed for Team award (agency seal) and
 people:
  - Todd Coleman
  - Stephanie Anderson
- - Charles Christ
+ - Scott Christ
  - Aaron	Eisenbarth
- - Charles McAllister
+ - Scott McAllister
 
 people-right:
  - Donnita Mennealy
