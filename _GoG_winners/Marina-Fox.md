@@ -1,10 +1,10 @@
 ---
 name: General Services Administration
-title: 
+title:
 team: yes #mark no if an individual, NO CAPS
 length: short
 single: no  #mark yes if an individual NO CAPS
-description: Puts U.S. Government agencies on the internet by leading the dotgov domain. Marina’s team is critical to make sure bona-fide U.S. government organizations can provide trusted, digital information and services to the American public.
+description: The DotGov team manages the .gov top-level domain. Their work is critical to make sure bona-fide U.S. government organizations can provide trusted, digital information and services to the American public.
 #description of why there winning award, in an excel spreadsheet
 category: gsa #reference list of categories
 agency: General Services Administration #name of agency, capitalize first letter of each name
@@ -15,5 +15,6 @@ image: "/img/agency/GSA_Seal.png"
 people:
  - Marina Fox
  - Lee Ellis
- - Cameron Dixon
+ - Julius Bradshaw (contract officer representative)
+ - Cameron Dixon (DHS)
 ---
