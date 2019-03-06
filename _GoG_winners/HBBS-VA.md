@@ -16,7 +16,7 @@ image: "/img/agency/Veterans_Affairs_Department_Seal.png"  #image needed for Tea
 people: #use this section if it's a team (variable "team" should be marked "yes" above)
  - Jeffrey Heckman #follow this formatting exactly
  - Wayne Biggs
- - Jeffrey Bold
+ - Jeffrey Bolt
  - Brian Stevenson
 
 ---
