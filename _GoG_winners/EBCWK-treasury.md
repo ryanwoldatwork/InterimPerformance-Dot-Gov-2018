@@ -17,6 +17,6 @@ people:
  - Michael	Beebe
  - Mark	Cottrell
  - Kirsten	Witter
- - Ed	Killen
+ - Edward	Killen
 
 ---
