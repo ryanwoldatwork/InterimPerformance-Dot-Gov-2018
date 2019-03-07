@@ -14,8 +14,8 @@ Year: 2018 #variable to be used at later date
 image: "/img/agency/Treasury_Department_Seal.png" #image needed for Team award (agency seal) and President's award (headshot); leave empty if and individual Agency award
 people:
  - Trevon Singh
- - Todd Allen
- - Awo-Mansah Archampong-Gary
+ - Allen Todd
+ - Awo Mansah Archamgong-Gray
  - Alexander Ferrer
  - Mei Qian Cen
  - Karen Johnson
@@ -23,9 +23,9 @@ people:
 
 people-right:
  - Matthew Novak
- - Charlene Phelps
- - Zaida Gonzalez Roman
+ - Cathryn Charlene Phelps
+ - Zaida Imar Roman Gonzalez
  - Robert Simmons
- - Tisun Wang
+ - Tisun Wing
  - Cherrie Mayberry-Jones
 ---
