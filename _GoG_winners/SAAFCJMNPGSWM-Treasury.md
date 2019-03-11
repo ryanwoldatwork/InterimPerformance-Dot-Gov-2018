@@ -1,6 +1,6 @@
 ---
 name: Department of the Treasury
-title: Planning and Analysis Team #job title
+title: Foreign Payments Practice Team #job title
 team: yes #mark no if an individual, NO CAPS
 length: long
 modal: 2 #for every card that uses "long"; this number should consecutively increase and never be the same
