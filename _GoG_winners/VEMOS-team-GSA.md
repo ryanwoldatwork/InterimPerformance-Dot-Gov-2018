@@ -1,6 +1,6 @@
 ---
 name: General Services Administration
-title: The GSA FEDISM VEMOS Integrated Project Team 
+title: The GSA FEDSIM VEMOS Integrated Project Team
  #job title
 team: yes #mark no if an individual, NO CAPS
 length: long
@@ -17,7 +17,7 @@ people:
  - Carolyn Harvey
  - Imani Higginson
  - Wesley Dewalt
- - Jakeenberg Almuete
+ - Jake Almuete
  - Michael Marquez
  - Sterling Whitehead
 
