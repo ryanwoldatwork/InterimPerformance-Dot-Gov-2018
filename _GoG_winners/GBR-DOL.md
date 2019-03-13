@@ -13,8 +13,8 @@ Year: 2018 #variable to be used at later date
 image: /img/agency/Labor_Department_Seal.png
 people:
  - Scott Gibbons
- - Ryan Butler
- - Sean Rowe
+ - Ryan Sutter
+ - Sam Rowe
 
 
 
