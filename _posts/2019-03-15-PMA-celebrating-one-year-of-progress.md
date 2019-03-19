@@ -12,10 +12,10 @@ summary: summary_large_image
 
 agency:
 
-description: One year ago, the President’s Management Agenda (PMA) was released as a long-term vision for modernizing the Federal government.
+description: One year ago, the President’s Management Agenda was released as a long-term vision for modernizing the Federal government.
 
 
-excerpt: One year ago, the President’s Management Agenda (PMA) was released as a long-term vision for modernizing the Federal government.
+excerpt: One year ago, the President’s Management Agenda was released as a long-term vision for modernizing the Federal government.
 
 
 image: /img/blog/PMA-1-year-logo.png
