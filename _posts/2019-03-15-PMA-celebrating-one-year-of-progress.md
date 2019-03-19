@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "Celebrating One Year of Progress: the President’s Management Agenda One-Year Anniversary Update Is Here!"
+title: "Celebrating One Year of Progress: The President's Management Agenda Anniversary Report"
 
 rating: "1"
 
