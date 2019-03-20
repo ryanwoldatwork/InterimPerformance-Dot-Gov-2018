@@ -28,6 +28,9 @@ apg-6:
 apg-6-link:
 twitter-feed: https://twitter.com/DHSgov?ref_src=twsrc%5Etfw
 
+#GoG
+GoG: yes
+
 #twitter and blog image
 image: "/img/agency/Homeland_Security_Department_Seal.png"
 

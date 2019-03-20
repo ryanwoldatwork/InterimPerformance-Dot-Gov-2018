@@ -17,4 +17,5 @@ people:
  - Marilynn	Wolff
  - Lauren	Green
  - Kevin	Dancy
+ - Jackie Edmundson
 ---
