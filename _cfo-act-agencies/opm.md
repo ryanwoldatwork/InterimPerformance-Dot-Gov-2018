@@ -11,7 +11,7 @@ agency-name: Office of Personnel Management
 agency-seal: ../img/agency/Personnel_Management_Seal.png
 agency-site: https://www.opm.gov/
 strategic-plan-link: https://www.opm.gov/about-us/budget-performance/strategic-plans/2018-2022-strategic-plan.pdf
-performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/2017-annual-performance-report.pdf
+performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/
 
 #side navigation
 apg-1: Enable Federal Employees to Seamlessly Transfer Agencies

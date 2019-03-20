@@ -11,7 +11,7 @@ agency-name: Department of Education
 agency-seal: ../img/agency/Education_Department_Seal.png
 agency-site: https://www.ed.gov/
 strategic-plan-link: https://www2.ed.gov/about/reports/strat/plan2018-22/strategic-plan.pdf
-performance-plan-link: https://www2.ed.gov/about/reports/annual/2019plan/fy17apr-fy19app.pdf
+performance-plan-link: https://www2.ed.gov/about/reports/annual/index.html
 
 #side navigation
 apg-1: Improve Access to Quality and Transparency of School Choice Options
