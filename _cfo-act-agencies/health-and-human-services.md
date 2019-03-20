@@ -11,7 +11,7 @@ agency-name: Department of Health and Human Services
 agency-seal: ../img/agency/Health_and_Human_Department_Seal.png
 agency-site: https://www.hhs.gov/
 strategic-plan-link: https://www.hhs.gov/about/strategic-plan/index.html
-performance-plan-link: https://www.hhs.gov/about/budget/index.html
+performance-plan-link: https://www.hhs.gov/about/budget/fy2020/performance/index.html
 
 #side navigation
 apg-1: Health Security

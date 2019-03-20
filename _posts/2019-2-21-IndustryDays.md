@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "Update: Register Today for the Single Audit & Risk Management Demo Days!"
 
-rating: "1"
+rating: "0"
 
 permalink: /2019-2-21-IndustryDays/
 
