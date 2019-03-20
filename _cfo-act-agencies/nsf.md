@@ -10,8 +10,8 @@ agency-name: National Science Foundation
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/National_Science_Foundation_Seal.png
 agency-site: https://www.nsf.gov/
-strategic-plan-link: https://www.nsf.gov/pubs/2018/nsf18045/nsf18045.pdf
-performance-plan-link: https://nsf.gov/about/budget/fy2019/toc.jsp
+strategic-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/66_fy2020.pdf
+performance-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/67_fy2020.pdf
 
 #side navigation
 apg-1: Expand Public and Private Partnerships
