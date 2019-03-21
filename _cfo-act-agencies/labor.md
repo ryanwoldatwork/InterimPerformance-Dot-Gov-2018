@@ -11,7 +11,7 @@ agency-name: Department of Labor
 agency-seal: ../img/agency/Labor_Department_Seal.png
 agency-site: https://www.dol.gov/
 strategic-plan-link: https://www.dol.gov/sites/default/files/budget/2019/FY2018-2022StrategicPlan.pdf
-performance-plan-link: https://www.dol.gov/sites/default/files/budget/2019/CBJ-2019-V1-01.pdf
+performance-plan-link: https://www.dol.gov/sites/dolgov/files/general/budget/2020/CBJ-2020-V1-01.pdf
 
 #side navigation
 apg-1: Administration - Implement an Enterprise-Wide Shared Services Model

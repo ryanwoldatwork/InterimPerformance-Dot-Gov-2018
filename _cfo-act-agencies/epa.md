@@ -11,7 +11,7 @@ agency-name: Environmental Protection Agency
 agency-seal: ../img/agency/Environmental_Protection_Agency_Seal.png
 agency-site: https://www.epa.gov/
 strategic-plan-link: https://www.epa.gov/sites/production/files/2018-02/documents/fy-2018-2022-epa-strategic-plan.pdf
-performance-plan-link: https://www.epa.gov/planandbudget/fy-2019-justification-appropriation-estimates-committee-appropriations
+performance-plan-link: https://www.epa.gov/planandbudget
 
 #side navigation
 apg-1: Accelerate Permitting-Related Decisions
