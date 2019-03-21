@@ -15,7 +15,8 @@ image: "/img/agency/Agriculture_Department_Seal.png"
 people:
  - Celia	Hooks
  - Emily	Doxtator
- - Shani	Langfor
+ - Shani	Langford
  - Sarah	Nechamen
+ - Stuart Bender
 
 ---
