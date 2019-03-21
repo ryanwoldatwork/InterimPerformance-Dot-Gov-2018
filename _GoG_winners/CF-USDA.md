@@ -17,5 +17,6 @@ people:
  - Janice	Fitzgerald
  - Kathy Staley
  - Shenique Bridges
+ - LaTisha Savoy
 
 ---

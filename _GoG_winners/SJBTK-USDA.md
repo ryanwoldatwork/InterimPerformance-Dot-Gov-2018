@@ -15,7 +15,7 @@ image: "/img/agency/Agriculture_Department_Seal.png"
 people:
  - Heather Self
  - Elisa Jones
- - Steven Bramer
+ - Steven Brammer
  - Tami Trost
  - Dan Kline
 ---
