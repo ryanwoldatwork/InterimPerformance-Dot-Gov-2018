@@ -13,7 +13,7 @@ award: Agency #type of award, either Agency, Council, or President's; this is ca
 Year: 2018 #variable to be used at later date
 image: "/img/agency/Social_Security_Administration_Seal.png" #image needed for Team award (agency seal) and President's award (headshot); leave empty if and individual Agency award
 people: #use this section if it's a team (variable "team" will be marked "yes"; each name should be prefaced with space dash space)
- - Janell Pergues
+ - Janell Pegues
  - Bla Fang
  - Desirae Morton
  - Olivia Mondragon

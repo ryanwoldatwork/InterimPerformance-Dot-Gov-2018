@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Distributed approximately 60,000 currency readers to blind or visually-impaired individuals and promoted smartphone currency identifier apps to assist with daily cash transactions. The team’s efforts resulted in approximately 66,000 downloads.
+description: Distributed approximately 70,000 currency readers to blind or visually-impaired individuals and promoted smartphone currency identifier apps to assist with daily cash transactions. The team’s efforts resulted in approximately 85,000 downloads.
 #description of why there winning award, in an excel spreadsheet
 category: treasury #reference list of categories
 agency: Department of the Treasury #name of agency, capitalize first letter of each name
