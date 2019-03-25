@@ -14,7 +14,7 @@ image: /img/agency/Homeland_Security_Department_Seal.png
 people:
  - James Piouffe
  - Sarah Fahden
- - Eric Jeanmarie
+ - Eric Jeanmaire
  - Fred Rednor
  - Scott Purnell-Saunders
 
