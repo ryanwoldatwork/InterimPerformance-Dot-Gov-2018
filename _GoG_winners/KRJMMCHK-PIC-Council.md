@@ -1,5 +1,5 @@
 ---
-name: DOL Process Improvement Team
+name: Process Improvement Team
 title: #job title
 team: yes #mark no if an individual, NO CAPS
 length: short
