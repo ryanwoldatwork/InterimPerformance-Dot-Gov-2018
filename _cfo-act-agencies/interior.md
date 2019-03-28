@@ -11,7 +11,7 @@ agency-name: Department of the Interior
 agency-seal: ../img/agency/Interior_Department_Seal.png
 agency-site: https://www.doi.gov/
 strategic-plan-link: https://www.doi.gov/sites/doi.gov/files/uploads/fy2018-2022-strategic-plan.pdf
-performance-plan-link: doi_appr_-_final.pdf
+performance-plan-link: https://www.doi.gov/sites/doi.gov/files/uploads/doi_final_appr_2019-2020.pdf
 
 #side navigation
 apg-1: Ensure Clear Criteria for Threatened and Endangered Species Recovery Plans
