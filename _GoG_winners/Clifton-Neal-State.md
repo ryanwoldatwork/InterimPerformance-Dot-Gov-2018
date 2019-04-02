@@ -3,7 +3,7 @@ name: Clifton Neal
 title: #job title
 team: no #mark no if an individual, NO CAPS
 single: yes  #mark yes if an individual NO CAPS
-description: Improved the efficiency of General Services operations at the U.S. Embassy in Tokyo through the implementation of innovative solutions. These efforts resulted in reduced stockpiles of unused supplies and increased customer satisfaction, new partnerships, and a culture of continuous improvement.
+description: Saved the U.S. Mission to Japan hundreds of thousands of dollars by modernizing supply-chain and procurement practices, taking advantage of the economies of scale afforded by nearby US military bases.
 #description of why there winning award, in an excel spreadsheet
 category: state #reference list of categories
 agency: Department of State #name of agency, capitalize first letter of each name
