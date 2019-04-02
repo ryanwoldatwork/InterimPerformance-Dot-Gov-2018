@@ -4,7 +4,7 @@ title: #job title
 team: yes #mark no if an individual, NO CAPS
 length: short
 single: no  #mark yes if an individual NO CAPS
-description: Improved perceptions of U.S.-Korea relations by developing relationships with local South Korean organizations and communities. The team achieved this through the design and implementation of initiatives such as Next-Gen, a data-driven platform that surveys Korean students’ perspectives on U.S.-Korea relations and generates follow-up discussions to connect Americans with Korean student leaders.  
+description: The Seoul Public Diplomacy Team leveraged relationships with North Korean defector students to provide them with English-speaking and media skills to counter anti-US propaganda. They also reached out to top South Korean universities and high schools to highlight American education.
 #description of why there winning award, in an excel spreadsheet
 category: state #reference list of categories
 agency: Department of State #name of agency, capitalize first letter of each name
