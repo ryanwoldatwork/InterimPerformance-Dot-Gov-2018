@@ -6,7 +6,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no #mark yes if an individual NO CAPS
-description: Increased response time for Congressional and White House inquiries by 65% through the implementation of technology-driven operational improvements.
+description: Decreased response time for Congressional and White House inquiries by 65% through the implementation of technology-driven operational improvements.
 
  #description of why there winning award, in an excel spreadsheet
 category: va #reference list of categories
@@ -17,9 +17,13 @@ image: "/img/agency/Veterans_Affairs_Department_Seal.png"  #image needed for Tea
 people: #use this section if it's a team (variable "team" should be marked "yes" above)
  - Charles Broshous
  - Preston Bryant
- - Delmar Gillespie
+ - Delmer (Steve) Gillespie
  - Camille Heaney
  - Timothy Miller
+ - Brian Mullowney
+ - Jordan Prinster
+ - Jason Strickland
+
 
 
 
