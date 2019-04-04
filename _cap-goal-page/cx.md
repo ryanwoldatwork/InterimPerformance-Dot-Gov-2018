@@ -6,10 +6,19 @@ title: "Improving Customer Experience with Federal Services" #page title
 permalink: ../CAP/cx/
 url: /CAP/cx/
 
-cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png"##### #icon that appears next to title
+cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
+
+resource-1-name: Gears of Government Awards
+resource-1-url: https://www.performance.gov/gearawards/
+
+resource-2-name: A-11, part 6, section 280 guidance
+resource-2-url:  https://tmf.cio.gov/projects/
+
+resource-3-name: US Forms System
+resource-3-url: https://code.gov/
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien. " #appears in the gray text box
+quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "CAP Goal Leader"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************

@@ -11,6 +11,9 @@ cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to titl
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT_white.png" #icon that appears next to title
 
+resource-2-name: USSM.gov
+resource-2-url:  https://www.ussm.gov/
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien."
 current-action-plan: "/CAP/action_plans/FY2018_Q3_Sharing_Quality_Services.pdf"

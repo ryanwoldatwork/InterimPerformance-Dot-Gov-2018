@@ -1,7 +1,8 @@
 ---
 layout: cap-goal-page
 
-title: "Category Management - Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies" #page title
+title: "Category Management:"
+sub-title: "Leveraging Common Contracts and Best Practices to Drive Savings and Efficiencies" #page title
 
 permalink: ../CAP/category-management/
 url: /CAP/category-management/
@@ -9,6 +10,18 @@ url: /CAP/category-management/
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Category_Management_gray.png" #icon that appears next to title
+
+resource-1-name: #n/a because there's a KPI
+resource-1-url:
+
+resource-2-name: Acquisition Gateway
+resource-2-url:  https://hallways.cap.gsa.gov
+
+resource-3-name: Best-in-Class (BIC) Resource Hub
+resource-3-url: https://hallways.cap.gsa.gov/app/#/data-visualizer/best-class-research-tool
+
+resource-4-name: Category Management Plans and Progress Hub
+resource-4-url:
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
@@ -36,10 +49,6 @@ cap-kpi-url: /CAP/key_performance_indicators.html/  #if the CAP goal has a KPI, 
 KPI: "Category Management" #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name:  #resource 1 link name
-resource-1-url:  #resource 1 link
-resource-2-name:
-resource-2-url:
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************

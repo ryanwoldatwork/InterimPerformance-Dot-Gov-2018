@@ -10,6 +10,16 @@ cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT_gray.png" #icon that appears next to title
 
+resource-1-name:
+resource-1-url:
+
+resource-2-name: Technology Modernization Fund
+resource-2-url:  https://tmf.cio.gov/projects/
+
+resource-3-name: M-19-02
+resource-3-url:
+
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien. Aliquam eget lacinia sapien. Aliquam eget lacinia " #appears in the gray text box
 quote-author: "CAP Goal Leader"

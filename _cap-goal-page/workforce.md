@@ -8,9 +8,18 @@ url: /CAP/workforce/
 
 cap-icon: "/img/CAP_icons/Icon_Workforce_gray.png" #icon that appears next to title
 
+resource-1-name:
+resource-1-url:
+
+resource-2-name: Unlocking Federal Talent
+resource-2-url:  https://unlocktalent.gov/
+
+resource-3-name: Support for DoD Supervisors in Addressing Poor Employee Performance
+resource-3-url: https://www.rand.org/pubs/research_reports/RR2665.html
+
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien. " #appears in the gray text box
-quote-author: "CAP Goal Leader"
+quote: "The mission demands require a personnel system flexible and resilient enough to accommodate the ever-changing nature of work. And it must bring out the best in civil servants." #appears in the gray text box
+quote-author: "Peter Warren"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_People_Workforce_for_the_21st_Century.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

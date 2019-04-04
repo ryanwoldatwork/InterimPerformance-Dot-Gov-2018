@@ -10,6 +10,10 @@ url: /CAP/shifting-low-value-to-high-value-work/
 
 cap-icon: "/img/CAP_icons/Icon_Shifting_From_gray.png" #icon that appears next to title
 
+resource-1-name: M-18-23, Shifting From Low-Value to High-Value Work
+resource-1-url:
+
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
 quote-author: "CAP Goal Leader"
@@ -34,10 +38,7 @@ cap-kpi-url:  #if the CAP goal has a KPI, it will appear as a button under the t
 KPI: #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name:  #resource 1 link name
-resource-1-url:  #resource 1 link
-resource-2-name:
-resource-2-url:
+
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************

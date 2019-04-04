@@ -9,8 +9,17 @@ cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Federal_Data_gray.png" #icon that appears next to title
 
+resource-1-name: Federal Data Strategy
+resource-1-url: https://strategy.data.gov/
+
+resource-2-name: Subscribe to Federal Data Strategy News!
+resource-2-url:  https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
+
+
+
+
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien."
+quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 
 current-action-plan: "/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
