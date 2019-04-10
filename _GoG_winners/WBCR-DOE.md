@@ -14,6 +14,5 @@ people: #use this section if it's a team (variable "team" should be marked "yes"
  - Teresa	Waugh
  - Justin	Borsheim
  - Tony	Camp
- - Michael Langman
  - Amber	Rodriguez
 ---
