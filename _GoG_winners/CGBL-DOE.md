@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Developed a power source to support deep space travel that outlasts existing fuel sources. Using stirling technology, this team tested a fuel source that paves the way for future manned missions to Mars and ensures that astronauts have adequate electrical power for long-term missions.
+description: Developed a power source to support deep space travel that outlasts existing fuel sources. Using Stirling-engine  technology, this team tested a fuel source that paves the way for future manned missions to Mars and ensures that astronauts have adequate electrical power for long-term missions.
 #description of why there winning award, in an excel spreadsheet
 category: doe #reference list of categories
 agency: Department of Energy #name of agency, capitalize first letter of each name
