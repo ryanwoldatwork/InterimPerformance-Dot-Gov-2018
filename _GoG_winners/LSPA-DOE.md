@@ -5,7 +5,7 @@ team: yes #mark no if an individual, NO CAPS
 length: short
 
 single: no  #mark yes if an individual NO CAPS
-description: Prevented health care providers convicted of opioid-related offenses, sexual assault, rape, and manslaughter from participating in Federal healthcare programs to protect taxpayer-funded healthcare programs (e.g., Medicare) and vulnerable beneficiaries from abuse.
+description: Developed a system to discourage birds from roosting in a 500-kilovolt electrical substation, saving taxpayers $5.7 million from power disruptions caused by the birds. This system has enabled electricians to focus on maintaining the facility’s power generation, as opposed to cleaning up biowaste from the birds.
 #description of why there winning award, in an excel spreadsheet
 category: doe #reference list of categories
 agency: Department of Health and Human Services #name of agency, capitalize first letter of each name
