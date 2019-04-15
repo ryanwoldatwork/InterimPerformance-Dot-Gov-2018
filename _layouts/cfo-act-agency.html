@@ -188,6 +188,10 @@ layout: navigation
   {% if GoG_winners.agency == page.agency-name %}
     {% include GoG-agency.html %}
   {% endif %}
+
+  {% if GoG_winners.agency == 'Department of State' %}
+    {% include GoG-agency.html %}
+  {% endif %}
   {% endfor %}
 
   </div>

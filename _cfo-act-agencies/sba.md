@@ -11,7 +11,7 @@ agency-name: Small Business Administration
 agency-seal: ../img/agency/Small_Business_Administration_Seal.png
 agency-site: https://www.sba.gov/
 strategic-plan-link: https://www.sba.gov/sites/default/files/aboutsbaarticle/SBA_FY_2018-2022_Strategic_Plan.pdf
-performance-plan-link: https://www.sba.gov/sites/default/files/aboutsbaarticle/SBA_FY_2019_CBJ_APR_2_12_post.pdf
+performance-plan-link: https://www.sba.gov/document/report--congressional-budget-justification-annual-performance-report
 
 #side navigation
 apg-1: Expand Capital to Small Businesses in Disadvantaged Areas

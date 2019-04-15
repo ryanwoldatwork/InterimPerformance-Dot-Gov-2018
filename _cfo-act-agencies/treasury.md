@@ -10,7 +10,7 @@ agency-name: Department of the Treasury
 agency-seal: ../img/agency/Treasury_Department_Seal.png
 agency-site: https://www.treasury.gov/
 strategic-plan-link: https://www.treasury.gov/about/budget-performance/strategic-plan/Documents/2018-2022_Treasury_Strategic_Plan_web.pdf
-performance-plan-link: https://www.treasury.gov/about/budget-performance/Pages/index.aspx
+performance-plan-link: https://www.treasury.gov/about/budget-performance/Pages/cj-index.aspx
 
 #side navigation
 apg-1: Fraud Prevention
