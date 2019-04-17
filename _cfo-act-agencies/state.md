@@ -26,8 +26,7 @@ twitter-feed: https://twitter.com/StateDept?ref_src=twsrc%5Etfw
 #twitter and blog image
 image: "/img/agency/State_Department_Seal.png"
 
-#GoG
-GoG: yes
+
 
 #twitter variables
 summary: summary
