@@ -186,12 +186,13 @@ layout: navigation
 {% endif %}
 
   {% for GoG_winners in site.GoG_winners %}
-  {% if GoG_winners.agency == page.agency-name %}
-    {% include GoG-agency.html %}
-  {% endif %}
 
-  
+    {% if GoG_winners.agency == page.agency-name %}
+      {% include GoG-agency.html %}
+    {% endif %}
+
   {% endfor %}
+
 
   </div>
 </div>
