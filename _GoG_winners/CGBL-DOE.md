@@ -14,10 +14,10 @@ Year: 2018 #variable to be used at later date
 image: /img/GoG/doe-nasa.png
 people:
 
- - Angela Chambers (NNSA)
- - William Pulse (NNSA)
- - Marc Gibson (NASA)
- - Lee Mason (NASA)
+ - Angela Chambers
+ - William Pulse
+ - Marc Gibson
+ - Lee Mason 
 
 
 
