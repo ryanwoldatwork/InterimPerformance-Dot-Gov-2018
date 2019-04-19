@@ -14,6 +14,7 @@ image: "/img/agency/Health_and_Human_Department_Seal.png"
 people:
  - Frank Domizio
  - Aaron Burnett
+ - Thomas Schankweiler
 
 
 
