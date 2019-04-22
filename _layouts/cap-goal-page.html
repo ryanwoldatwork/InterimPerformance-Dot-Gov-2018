@@ -20,15 +20,8 @@ layout: navigation_PMA
          {% else %}
              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#000000;;margin-top:0px;" href="{{ site.baseurl }}{{ page.resource-1-url }}">{{ page.resource-1-name}}</a>
          {% endif %}
-         {% if page.resource-2-name %}
-              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#000000;;margin-top:0px;" href="{{ site.baseurl }}{{ page.resource-2-url }}">{{ page.resource-2-name}}</a>
-        {% endif %}
-        {% if page.resource-3-name %}
-            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#e1f3f8;color:#000000;margin-top:0px;" href="{{ site.baseurl }}{{ page.resource-3-url }}">{{ page.resource-3-name}}</a>
-        {% endif %}
-        {% if page.resource-4-name %}
-            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#e1f3f8;color:#000000;margin-top:0px;" href="{{ site.baseurl }}{{ page.resource-4-url }}">{{ page.resource-4-name}}</a>
-        {% endif %}
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:#ffffff;" href="#KPI">Resources</a>
+
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
@@ -191,6 +184,26 @@ layout: navigation_PMA
                 {% include kpi--cap-page.html title=page.KPI-2 %}
               {% endif %}
               </div>
+          </div>
+        </li>
+        <li>
+          <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+            aria-expanded="false"
+            aria-controls="a6">
+            <img class="usa-media_block-img" src="{{ site.baseurl }}/img/action-plan-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Resources
+          </button>
+          <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+               <p>insert resources</p>
+
+           {% if page.resource-2-name%}
+                 <p><a href="{{ site.baseurl }}{{ page.resource-2-url }}">{{ page.resource-2-name}}</a></p>
+           {% endif %}
+           {% if page.resource-3-name %}
+               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#e1f3f8;color:#000000;margin-top:0px;" href="{{ site.baseurl }}{{ page.resource-3-url }}">{{ page.resource-3-name}}</a>
+           {% endif %}
+           {% if page.resource-4-name %}
+               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#e1f3f8;color:#000000;margin-top:0px;" href="{{ site.baseurl }}{{ page.resource-4-url }}">{{ page.resource-4-name}}</a>
+           {% endif %}
           </div>
         </li>
         {% endif %}
