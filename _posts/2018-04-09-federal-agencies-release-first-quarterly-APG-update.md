@@ -22,9 +22,6 @@ authors:
 tags:
 - APG
 - quarterly update
-- IT
-- sharing
-- data
 
 ---
 

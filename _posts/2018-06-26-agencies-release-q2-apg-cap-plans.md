@@ -22,9 +22,6 @@ tags:
 - APG
 - CAP goal
 - quarterly update
-- IT
-- sharing
-- data
 
 ---
 
