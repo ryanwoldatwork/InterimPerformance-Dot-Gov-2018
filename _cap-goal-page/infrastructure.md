@@ -11,8 +11,8 @@ url: /CAP/infrastructure/
 cap-icon: "/img/CAP_icons/Icon_Modernize_Infrastructure_gray.png" #icon that appears next to title
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
-quote-author: "CAP Goal Leader"
+quote: "The Permitting Council is actively working to make a cultural change in the permitting process, by applying predictability, accountability, and transparency to what has been an impenetrable black box." #appears in the gray text box
+quote-author: "Alex Herrgott, Executive Director, FPISC"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Modernize_Infrastructure_Permitting.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
@@ -38,8 +38,8 @@ cap-kpi-url: /CAP/key_performance_indicators.html/  #if the CAP goal has a KPI, 
 KPI: #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name:  #resource 1 link name
-resource-1-url:  #resource 1 link
+resource-1-name:  Permitting Dashboard
+resource-1-url: https://www.permits.performance.gov/ #resource 1 link
 resource-2-name:
 resource-2-url:
 #***********************END KPI SECTION*****************************

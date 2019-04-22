@@ -10,6 +10,15 @@ url: /CAP/grants/
 
 cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears next to title
 
+resource-1-name: #n/a because there's a KPI
+resource-1-url:
+
+resource-2-name: Community of Practice Listserv
+resource-2-url:  https://digital.gov/communities/results-oriented-accountability-for-grants/
+
+resource-3-name:
+resource-3-url:
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
 quote-author: "CAP Goal Leader"
@@ -29,17 +38,14 @@ action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Results-Oriented_Accountability_for
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Results-Oriented_Accountability_for_Grants.pdf"
 action-2018-Q3: "/CAP/action_plans/FY2018_Q3_Results-Oriented_Accountability_for_Grants.pdf"
 
+
 #***********************END ACCORDION SECTION*****************************
 
 #***********************KPI SECTION*****************************
-cap-kpi-url: /CAP/key_performance_indicators.html/  #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the KPI accordion section
+cap-kpi-url: #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the KPI accordion section
 KPI:  #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name: "Draft Federal Grants Management Data Standards for Feedback" #resource 1 link name
-resource-1-url: https://grantsfeedback.cfo.gov/index.html #resource 1 link
-resource-2-name:
-resource-2-url:
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************

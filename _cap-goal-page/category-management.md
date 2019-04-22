@@ -24,8 +24,8 @@ resource-4-name: Category Management Plans and Progress Hub
 resource-4-url:
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
-quote-author: "CAP Goal Leader"
+quote:  "Increasing spend under management, improving usage of proven solutions, reducing unnecessary contract duplication and maintaining our small business commitments are the key objectives of this management priority -- and already there is tremendous momentum underway! Category management is a real game-changer for government acquisition, and it's an exciting time to be a part of this effort." #appears in the gray text box
+quote-author: "Lesley Field, CAP Goal Leader"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Category_Management.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

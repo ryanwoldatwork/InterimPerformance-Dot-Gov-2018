@@ -10,6 +10,18 @@ url: /CAP/payments/
 
 cap-icon: "/img/CAP_icons/Icon_Getting_Payments_gray.png" #icon that appears next to title
 
+resource-1-name: #n/a because there's a KPI
+resource-1-url:
+
+resource-2-name: Paymentaccuracy.gov
+resource-2-url:  https://paymentaccuracy.gov/
+
+resource-3-name: Antifraud Playbook
+resource-3-url: https://cfo.gov/fraudprevention/
+
+resource-4-name: Appendix C guidance for Payment Integrity Improvement
+resource-4-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/M-18-20.pdf
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien." #appears in the gray text box
 quote-author: "CAP Goal Leader"

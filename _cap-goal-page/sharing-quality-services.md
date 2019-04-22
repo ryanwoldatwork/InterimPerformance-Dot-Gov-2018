@@ -11,8 +11,14 @@ cap-icon: "/img/CAP_icons/Icon_Modernize_IT.png" #icon that appears next to titl
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT_white.png" #icon that appears next to title
 
+resource-1-name:
+resource-1-url:
+
 resource-2-name: USSM.gov
-resource-2-url:  https://www.ussm.gov/
+resource-2-url:  https://www.ussm.gov
+
+resource-3-name:
+resource-3-url:
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien."

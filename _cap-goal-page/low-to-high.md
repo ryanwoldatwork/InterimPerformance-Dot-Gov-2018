@@ -8,10 +8,14 @@ url: /CAP/shifting-low-value-to-high-value-work/
 
 #cap-category: "Key Driver of Reform" #category text
 
+
 cap-icon: "/img/CAP_icons/Icon_Shifting_From_gray.png" #icon that appears next to title
 
-resource-1-name: M-18-23, Shifting From Low-Value to High-Value Work
+resource-1-name: #n/a because there's a KPI
 resource-1-url:
+
+resource-2-name: M-18-23
+resource-2-url: https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf
 
 
 #***********************FLOATING BOX SECTION*****************************
