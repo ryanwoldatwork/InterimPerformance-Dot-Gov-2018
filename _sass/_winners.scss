@@ -144,6 +144,21 @@ background-color: #ffffff;
 
 }
 
+.winner-text-president {
+background-color: #ffffff;
+ flex: 1 0 auto;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  float: left;
+  height:142px;
+  padding: 0rem 2rem 1rem 2rem;
+  width: 100%;
+  margin-top: -7px;
+  z-index: 1;
+
+}
+
 .winner-text-ag-cou {
 background-color: #ffffff;
  flex: 1 0 auto;
@@ -199,6 +214,15 @@ background-color: #ffffff;
     padding: 0;
     width: 100%;
    }
+
+
+ .card-image-gog-presidents {
+   object-fit:cover;
+   height: 250px;
+   margin: 0;
+   padding: 0;
+   width: 100%;
+  }
 
  .card-image-gog-agency {
    object-fit:cover;
