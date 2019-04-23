@@ -16,5 +16,5 @@ people:
  - Vera	Trainer
  - Nicolaus	Adams
  - Brian	Bill
- - Brenden	Sylbander
+ - Brendan Sylvander
 ---
