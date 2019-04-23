@@ -23,7 +23,8 @@ authors:
 
 tags:
 - PMA
-- CAP goal
+- CAP Goal
+- sharing
 
 ---
 
