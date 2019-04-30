@@ -9,7 +9,7 @@ layout: navigation_PMA
 </section>
 <section class="usa-section usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
-      <div class="usa-width-one-whole usa-media_block">
+      <div class="usa-width-one-whole usa-media_block" style="margin-bottom:15px;">
         <a href="{{ site.baseurl }}/gearawards/winners" style="text-decoration:none;margin-bottom:20px;color:black">
           <b>&#10094; &nbsp; Back to Hall of Winners</b></a>
         <div class="usa-media_block-body">
@@ -19,19 +19,15 @@ layout: navigation_PMA
             <h2>{{ page.office }}</h2>
             {% endif %}
             {% if page.image%}
-            <img src="{{ site.baseurl }}{{ page.image }}" style="width:200px;height:200px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:50%;">
+            <img src="{{ site.baseurl }}{{ page.image }}" style="width:200px;height:200px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:10%;">
             {% endif %}
             {% if page.image-1%}
-            <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:50%;">
+            <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:10%;">
             {{ page.image-1-name }}
             {% endif %}
-
-
           </div>
         </div>
-      </section>
-      <section class="usa-section usa-graphic_list">
-         <div class="usa-grid usa-graphic_list-row">
+        <br>
 
           <div class="usa-width-one-whole usa-media_block">
             <div class="usa-media_block-body">
