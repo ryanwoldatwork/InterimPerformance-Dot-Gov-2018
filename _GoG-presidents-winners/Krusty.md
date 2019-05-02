@@ -19,6 +19,7 @@ mission-photo-2: "/img/GoG/krusty-mission-2.jpg"
 mission-photo-3: "/img/GoG/krusty-mission-3.jpg"
 
 location: "/img/GoG/location/OH.png"
+location-2: "/img/GoG/location/TX.png"
 
 ---
 
