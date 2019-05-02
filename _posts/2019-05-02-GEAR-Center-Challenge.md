@@ -7,6 +7,8 @@ rating: "0"
 
 permalink: /gear-center-challenge-now-open/
 
+published: false
+
 summary: summary_large_image
 
 agency:
