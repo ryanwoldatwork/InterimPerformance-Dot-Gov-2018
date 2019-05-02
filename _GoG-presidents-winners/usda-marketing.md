@@ -1,4 +1,5 @@
 ---
+title: Marketing Service
 layout: GoG-presidents-winners
 permalink: /gearawards/usda-marketing-team/
 
@@ -13,8 +14,12 @@ image-3-name: Roger	Cryan
 image-4: "/img/agency/Agriculture_Department_Seal.png"
 image-4-name: Robert Wintersteen
 
-mission-photo-1: "/img/GoG/#"
-mission-photo-2: "/img/GoG/#"
+mission-photo-1: "/img/GoG/usda-mission-1.jpg"
+mission-photo-2: "/img/GoG/usda-mission-2.jpg"
+mission-photo-3: "/img/GoG/usda-mission-3.jpg"
+
+location: "/img/GoG/location/DC.png"
+
 
 ---
 

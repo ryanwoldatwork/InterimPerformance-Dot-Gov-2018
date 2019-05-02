@@ -1,4 +1,5 @@
 ---
+title: Barbara Morton
 layout: GoG-presidents-winners
 permalink: /gearawards/va-morton/
 
@@ -6,9 +7,11 @@ name: Barbara Morton
 agency: Department of Veterans Affairs
 image: "/img/GoG/headshots/Barbara-Morton.png"
 
-mission-photo-1: "/img/GoG/#"
-mission-photo-2: "/img/GoG/#"
+mission-photo-1: "/img/GoG/va-mission-1.jpg"
+mission-photo-2: "/img/GoG/va-mission-2.jpg"
+mission-photo-3: "/img/GoG/va-mission-3.jpg"
 
+location: "/img/GoG/location/DC.png"
 
 ---
 

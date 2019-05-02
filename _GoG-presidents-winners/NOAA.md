@@ -1,4 +1,5 @@
 ---
+title: NOAA Team
 layout: GoG-presidents-winners
 permalink: /gearawards/DOC-NOAA/
 
@@ -13,6 +14,9 @@ image-3-name: Stephanie	Moore
 
 mission-photo-1: "/img/GoG/noaa-mission-1.jpg"
 mission-photo-2: "/img/GoG/noaa-mission-2.jpg"
+mission-photo-3: "/img/GoG/noaa-mission-2.jpg"
+
+location: "/img/GoG/location/WA.png"
 
 ---
 

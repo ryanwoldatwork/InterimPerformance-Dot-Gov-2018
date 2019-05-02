@@ -1,4 +1,5 @@
 ---
+title: KRUSTY Team
 layout: GoG-presidents-winners
 permalink: /gearawards/KRUSTY-Team/
 
@@ -13,8 +14,11 @@ image-3-name: Marc Gibson
 image-4: "/img/GoG/headshots/mason-l.JPG"
 image-4-name: Lee Mason
 
-mission-photo-1: "/img/GoG/#"
-mission-photo-2: "/img/GoG/#"
+mission-photo-1: "/img/GoG/krusty-mission-1.JPG"
+mission-photo-2: "/img/GoG/krusty-mission-2.jpg"
+mission-photo-3: "/img/GoG/krusty-mission-3.jpg"
+
+location: "/img/GoG/location/OH.png"
 
 ---
 

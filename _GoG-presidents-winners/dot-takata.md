@@ -1,4 +1,5 @@
 ---
+title: TAKATA Team
 layout: GoG-presidents-winners
 permalink: /gearawards/dot-takata/
 
@@ -14,6 +15,8 @@ image-4: "/img/agency/Transportation_Department_Seal.png"
 image-4-name: Lucia Sanchez
 image-5: "/img/agency/Transportation_Department_Seal.png"
 image-5-name: Nicholas LaBruna
+
+location: "/img/GoG/location/DC.png"
 
 mission-photo-1: "/img/GoG/#"
 mission-photo-2: "/img/GoG/#"
