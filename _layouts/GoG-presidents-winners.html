@@ -12,29 +12,103 @@ layout: navigation_PMA
       <div class="usa-width-one-whole usa-media_block" style="margin-bottom:15px;">
         <a href="{{ site.baseurl }}/gearawards/winners" style="text-decoration:none;margin-bottom:20px;color:black">
           <b>&#10094; &nbsp; Back to Hall of Winners</b></a>
-        <div class="usa-media_block-body">
-            <h2 style="margin-top:45px;">{{ page.name }}<br>
-            <span class="card-tag" style="font-size:1.7rem;">{{ page.agency }}</span></h2>
-            {% if page.office%}
-            <h2>{{ page.office }}</h2>
+            <div class="usa-media_block-body">
+              <center><h2 style="margin-top:45px;">{{ page.name }}<br>
+              <span class="card-tag" style="font-size:1.7rem;">{{ page.agency }}</span></h2>
+              {% if page.office%}
+              <h2>{{ page.office }}</h2>
+              {% endif %}
+            </div>
+      </div>
+    </div>
+
+
+    <div class="usa-grid usa-graphic_list-row" style="text-align:center;">
+      {% if page.image%} <!--checks for single winner-->
+        <img src="{{ site.baseurl }}{{ page.image }}" style="width:200px;height:200px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+      {% endif %}
+      {% if page.image-1 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+        <br<b>{{ page.image-1-name }}</b>
+        </div>
+      {% endif %}
+      {% if page.image-2 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-2 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+        <b>{{ page.image-2-name }}</b>
+      </div>
+      {% endif %}
+      {% if page.image-3 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-3 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;">
+      <b>{{ page.image-3-name }}</b>
+    </div>
+      {% endif %}
+      {% if page.image-4 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-4 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+        <b>{{ page.image-4-name }}</b>
+      </div>
+      {% endif %}
+      {% if page.image-5 %}
+      <div  style="display:inline-block; width:17%">
+        <img src="{{ site.baseurl }}{{ page.image-5 }}" style="width:150px;height:150px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+      <b>{{ page.image-5-name }}</b>
+      </div>
+      {% endif %}
+
+  </div>
+
+
+</section>
+
+              <!--
+            {% if page.image-1 %}
+
+                  <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+                  <center><b>{{ page.image-1-name }}</b></center>
             {% endif %}
-            {% if page.image%}
-            <img src="{{ site.baseurl }}{{ page.image }}" style="width:200px;height:200px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:10%;">
+            {% if page.image-2 %}
+              <img src="{{ site.baseurl }}{{ page.image-2 }}" style="width:150px;height:150px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+                <center><b>{{ page.image-2-name }}</b></center>
             {% endif %}
-            {% if page.image-1%}
-            <img src="{{ site.baseurl }}{{ page.image-1 }}" style="width:150px;height:150px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:10%;">
-            {{ page.image-1-name }}
+            {% if page.image-3 %}
+              <img src="{{ site.baseurl }}{{ page.image-3 }}" style="width:150px;height:150px;object-fit:cover;float:left;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+                <center><b>{{ page.image-3-name }}</b></center>
+            {% endif %}
+            {% if page.image-4 %}
+              <img src="{{ site.baseurl }}{{ page.image-4 }}" style="width:150px;height:150px;object-fit:cover;float:right;margin-right:10px;margin-top:10px;border-radius:50%;display:inline-block">
+                <center><b>{{ page.image-4-name }}</b></center>
             {% endif %}
           </div>
         </div>
-        <br>
-
+        </div>
+      </div>
+    </section></center>-->
+    <section class="usa-section usa-graphic_list">
+       <div class="usa-grid usa-graphic_list-row">
           <div class="usa-width-one-whole usa-media_block">
+            <hr>
             <div class="usa-media_block-body">
-
               {{ content }}
         </div>
       </div>
+    </div>
+    <div class="usa-grid usa-graphic_list-row">
+      <div class="usa-width-one-whole usa-media_block">
+        <div class="usa-media_block-body" style="text-align:center">
+          {% if page.mission-photo-1 %}
+          <img src="{{ site.baseurl }}{{ page.mission-photo-1 }}" style="width:300px;height:300px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:8%;display:inline-block">
+          {% endif %}
+          {% if page.mission-photo-2 %}
+          <img src="{{ site.baseurl }}{{ page.mission-photo-2 }}" style="width:300px;height:300px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:8%;display:inline-block">
+          {% endif %}
+          {% if page.mission-photo-3 %}
+          <img src="{{ site.baseurl }}{{ page.mission-photo-3 }}" style="width:300px;height:300px;object-fit:cover;margin-right:10px;margin-top:10px;border-radius:8%;display:inline-block">
+          {% endif %}
+      </div>
+    </div>
     </div>
   </section>
 <br />
