@@ -1,7 +1,7 @@
 ---
 title: Dr. Emily Haas
 layout: GoG-presidents-winners
-permalink: /gearawards/hhs-haas/
+permalink: /gearawards/emily-haas/
 
 name: Dr. Emily Haas
 agency: Department of Health and Human Services
@@ -11,6 +11,12 @@ location: "/img/GoG/location/PA.png"
 
 mission-photo-1: "/img/GoG/hhs-mission-1.jpg"
 mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
+
+previous-title: The NOAA Team
+previous-url: /gearawards/NOAA-Team/
+next-title: TAKATA Recall Team
+next-url:  /gearawards/takata-recall-team/
+
 
 ---
 

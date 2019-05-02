@@ -133,28 +133,27 @@ layout: navigation_PMA
     </div>
   </section>
 <br />
-      <!--{% if page.previous or page.next %}
+
         <section class="post-pagination usa-grid">
           <div class="usa-width-one-half">
-            {% if page.previous %}
-              <b><a href="{{ site.baseurl }}{{ page.previous.url }}" style="text-decoration:none;">
+            {% if page.previous-title %}
+              <b><a href="{{ site.baseurl }}{{ page.previous-url }}" style="text-decoration:none;">
                 <span class="link-arrow-left">
                 &#10094;  Previous Winner
                 </span>
-                <h5>&ldquo;{{ page.previous.title }}&rdquo;</h5>
+                <h4>&ldquo;{{ page.previous-title }}&rdquo;</h4>
               </a></b>
             {% endif %}
           </div>
-          <div class="usa-width-one-half">
-            {% if page.next %}
-                <b><a href="{{ site.baseurl }}{{ page.next.url }}" style="text-decoration:none;">
+          <div class="usa-width-one-half" style="text-align:right;"">
+            {% if page.next-title %}
+                <b><a href="{{ site.baseurl }}{{ page.next-url }}" style="text-decoration:none;">
                   <span class="link-arrow-right">
                     Next Winner &#10095;
                                     </span>
-                  <h5>&ldquo;{{ page.next.title }}&rdquo;</h5>
+                  <h4>&ldquo;{{ page.next-title }}&rdquo;</h4>
                 </a></b>
             {% endif %}
           </div>
         </section>
-      {% endif %}
-  </section>-->
+  </section>

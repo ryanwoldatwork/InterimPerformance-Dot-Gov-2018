@@ -1,7 +1,7 @@
 ---
 title: NOAA Team
 layout: GoG-presidents-winners
-permalink: /gearawards/DOC-NOAA/
+permalink: /gearawards/NOAA-Team/
 
 name: National Oceanic and Atmospheric Administration Team
 agency: Department of Commerce
@@ -17,6 +17,12 @@ mission-photo-2: "/img/GoG/noaa-mission-2.jpg"
 mission-photo-3: "/img/GoG/noaa-mission-3.jpg"
 
 location: "/img/GoG/location/WA.png"
+
+previous-title: The KRUSTY Team
+previous-url: /gearawards/KRUSTY-Team/
+next-title: Dr. Emily Haas
+next-url: /gearawards/emily-haas/
+
 
 ---
 

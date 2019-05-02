@@ -9,5 +9,5 @@ agency: Department of Veterans Affairs #name of agency, capitalize first letter 
 award: President's #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 Year: 2018 #variable to be used at later date
 image: "/img/GoG/headshots/morton-b.png"
-permalink: /gearawards/va-morton/
+permalink: /gearawards/barbara-morton/
 ---

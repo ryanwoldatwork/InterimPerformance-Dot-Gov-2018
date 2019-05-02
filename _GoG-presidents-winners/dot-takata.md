@@ -1,7 +1,7 @@
 ---
-title: TAKATA Team
+title: TAKATA Recall Team
 layout: GoG-presidents-winners
-permalink: /gearawards/dot-takata/
+permalink: /gearawards/takata-recall-team/
 
 name: Takata Recall Team
 agency: Department of Transportation
@@ -21,6 +21,12 @@ location: "/img/GoG/location/DC.png"
 mission-photo-1: "/img/GoG/dot-mission-1.jpg"
 mission-photo-2: "/img/GoG/dot-mission-2.jpg"
 mission-photo-3: "/img/GoG/dot-mission-3.jpg"
+
+previous-title: Dr. Emily Haas
+previous-url: /gearawards/emily-haas/
+next-title: HHS Office of Inspector General
+next-url:  /gearawards/hhs-OIG/
+
 
 
 ---

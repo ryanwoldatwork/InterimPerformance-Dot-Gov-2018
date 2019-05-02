@@ -20,6 +20,9 @@ mission-photo-3: "/img/GoG/usda-mission-3.jpg"
 
 location: "/img/GoG/location/DC.png"
 
+previous-title: Dr. Kathleen Uhl
+previous-url: /gearawards/kathleen-uhl/
+
 
 ---
 

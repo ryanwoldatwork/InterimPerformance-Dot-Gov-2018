@@ -22,5 +22,14 @@ mission-photo-3: "/img/GoG/hhs-mission-3.jpg"
 
 location: "/img/GoG/location/DC.png"
 
+
+previous-title: TAKATA Recall Team
+previous-url: /gearawards/takata-recall-team/
+next-title: Dr. Kathleen Uhl
+next-url:  /gearawards/kathleen-uhl/
+
+
+
+
 ---
 Prevented health care providers convicted of opioid-related offenses, sexual assault, rape, and manslaughter from participating in Federal healthcare programs to protect taxpayer-funded healthcare programs (e.g., Medicare) and vulnerable beneficiaries from abuse.

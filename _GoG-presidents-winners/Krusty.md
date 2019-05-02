@@ -21,6 +21,11 @@ mission-photo-3: "/img/GoG/krusty-mission-3.jpg"
 location: "/img/GoG/location/OH.png"
 location-2: "/img/GoG/location/TX.png"
 
+previous-title: Barbara Morton
+previous-url: /gearawards/barbara-morton/
+next-title: The NOAA Team
+next-url: /gearawards/NOAA-Team/
+
 ---
 
 Developed a power source to support deep space travel that outlasts existing fuel sources. Using Stirling-engine  technology, this team tested a fuel source that paves the way for future manned missions to Mars and ensures that astronauts have adequate electrical power for long-term missions.

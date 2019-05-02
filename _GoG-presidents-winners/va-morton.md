@@ -1,7 +1,7 @@
 ---
 title: Barbara Morton
 layout: GoG-presidents-winners
-permalink: /gearawards/va-morton/
+permalink: /gearawards/barbara-morton/
 
 name: Barbara Morton
 agency: Department of Veterans Affairs
@@ -12,6 +12,11 @@ mission-photo-2: "/img/GoG/va-mission-2.jpg"
 mission-photo-3: "/img/GoG/va-mission-3.jpg"
 
 location: "/img/GoG/location/DC.png"
+
+previous-title: Back to Hall of Winners
+previous-url: /gearawards/winners
+next-title: The KRUSTY Team
+next-url: /gearawards/KRUSTY-Team/
 
 ---
 

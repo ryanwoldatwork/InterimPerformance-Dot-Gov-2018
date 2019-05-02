@@ -9,7 +9,7 @@ award: President's #type of award, either Agency, Council, or President's; this 
 Year: 2018 #variable to be used at later date
 image: "/img/GoG/headshots/takata.png" #image needed for Team award (agency seal) and President's award (headshot); leave empty if and individual Agency award
 
-permalink: /gearawards/dot-takata/
+permalink:  /gearawards/takata-recall-team/
 people:
  - Kerry Kolodziej
  - Kara Fischer
