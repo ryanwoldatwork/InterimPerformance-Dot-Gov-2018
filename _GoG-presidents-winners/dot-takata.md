@@ -18,6 +18,11 @@ image-5-name: Nicholas LaBruna
 
 location: "/img/GoG/location/DC.png"
 
+mission-photo-1: "/img/GoG/dot-mission-1.jpg"
+mission-photo-2: "/img/GoG/dot-mission-2.jpg"
+mission-photo-3: "/img/GoG/dot-mission-3.jpg"
+
+
 ---
 
 
