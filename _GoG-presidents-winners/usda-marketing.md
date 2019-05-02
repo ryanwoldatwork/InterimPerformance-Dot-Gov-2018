@@ -11,7 +11,7 @@ image-2: "/img/GoG/headshots/sheats-m.jpg"
 image-2-name: Michael	Sheats
 image-3: "/img/GoG/headshots/cryan-r.jpg"
 image-3-name: Roger	Cryan
-image-4: "/img/agency/Agriculture_Department_Seal.png"
+image-4: "/img/GoG/GoG-presidents.png"
 image-4-name: Robert Wintersteen
 
 mission-photo-1: "/img/GoG/usda-mission-1.jpg"

@@ -5,15 +5,15 @@ permalink: /gearawards/dot-takata/
 
 name: Takata Recall Team
 agency: Department of Transportation
-image-1:  "/img/agency/Transportation_Department_Seal.png"
+image-1:  "/img/GoG/GoG-presidents.png"
 image-1-name: Kerry Kolodziej
 image-2: "/img/GoG/headshots/fischer-k.jpg"
 image-2-name: Kara Fischer
 image-3: "/img/GoG/headshots/hench-s.jpg"
 image-3-name: Stephen Hench
-image-4: "/img/agency/Transportation_Department_Seal.png"
+image-4: "/img/GoG/GoG-presidents.png"
 image-4-name: Lucia Sanchez
-image-5: "/img/agency/Transportation_Department_Seal.png"
+image-5: "/img/GoG/GoG-presidents.png"
 image-5-name: Nicholas LaBruna
 
 location: "/img/GoG/location/DC.png"

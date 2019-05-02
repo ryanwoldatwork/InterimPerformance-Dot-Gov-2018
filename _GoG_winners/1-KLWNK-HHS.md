@@ -2,6 +2,8 @@
 name: Office of the Inspector General
 title: #job title
 
+permalink: /gearawards/hhs-OIG/
+
 description: Prevented health care providers convicted of opioid-related offenses, sexual assault, rape, and manslaughter from participating in Federal healthcare programs to protect taxpayer-funded healthcare programs (e.g., Medicare) and vulnerable beneficiaries from abuse.
 #description of why there winning award, in an excel spreadsheet
 category: hhs #reference list of categories
