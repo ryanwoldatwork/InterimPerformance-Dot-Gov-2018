@@ -1,5 +1,5 @@
 ---
-name: Department of Health and Human Services
+name: Office of the Inspector General
 title: #job title
 
 description: Prevented health care providers convicted of opioid-related offenses, sexual assault, rape, and manslaughter from participating in Federal healthcare programs to protect taxpayer-funded healthcare programs (e.g., Medicare) and vulnerable beneficiaries from abuse.

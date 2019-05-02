@@ -1,6 +1,6 @@
 ---
 layout: GoG-presidents-winners
-permalink: /gearawards/doe-nasa/
+permalink: /gearawards/KRUSTY-Team/
 
 name: The KRUSTY Team
 agency: Department of Energy and National Aeronautics and Space Administration
