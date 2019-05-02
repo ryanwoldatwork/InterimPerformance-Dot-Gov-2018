@@ -1,5 +1,5 @@
 ---
-name: Emily Haas
+name: Dr. Emily Haas
 
 description: Improved health and safety standards for mineworkers across the country. Ms. Haas’ research resulted in the creation of industry-wide strategies to improve the health and safety management methods.
 #description of why there winning award, in an excel spreadsheet

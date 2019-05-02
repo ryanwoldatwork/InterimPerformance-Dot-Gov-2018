@@ -1,9 +1,9 @@
 ---
-title: Emily Haas
+title: Dr. Emily Haas
 layout: GoG-presidents-winners
 permalink: /gearawards/hhs-haas/
 
-name: Emily Haas
+name: Dr. Emily Haas
 agency: Department of Health and Human Services
 image: "/img/GoG/headshots/haas-emily.jpg"
 
