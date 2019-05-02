@@ -28,4 +28,4 @@ next-url: /gearawards/NOAA-Team/
 
 ---
 
-Developed a power source to support deep space travel that outlasts existing fuel sources. Using Stirling-engine  technology, this team tested a fuel source that paves the way for future manned missions to Mars and ensures that astronauts have adequate electrical power for long-term missions.
+For demonstrating a technology that could be used as a power system to enable long-duration stays on planetary surfaces. Using Stirling technology, this team’s May 2018 ground test could pave the way for future systems that power astronaut outposts on the Moon and Mars.
