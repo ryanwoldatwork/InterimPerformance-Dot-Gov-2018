@@ -9,8 +9,6 @@ image: "/img/GoG/headshots/Kathleen-Uhl.jpg"
 
 location: "/img/GoG/location/MD.png"
 
-mission-photo-1: "/img/GoG/noaa-mission-1.jpg"
-mission-photo-2: "/img/GoG/noaa-mission-2.jpg"
 
 ---
 

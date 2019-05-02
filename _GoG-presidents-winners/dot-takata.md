@@ -18,9 +18,6 @@ image-5-name: Nicholas LaBruna
 
 location: "/img/GoG/location/DC.png"
 
-mission-photo-1: "/img/GoG/#"
-mission-photo-2: "/img/GoG/#"
-
 ---
 
 
