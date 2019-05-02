@@ -11,7 +11,7 @@ category: multiple  #reference list of categories
 agency: DoE and NASA #name of agency, capitalize first letter of each name
 award: President's #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 Year: 2018 #variable to be used at later date
-image: /img/GoG/winners/DOE-NASA.PNG
+image: /img/GoG/headshots/KRUSTY-Team.png
 permalink: /gearawards/doe-nasa/
 
 people:

@@ -4,13 +4,13 @@ permalink: /gearawards/usda-marketing-team/
 
 name: Agricultural Marketing Service
 agency: Department of Agriculture
-image-1:  "/img/GoG/headshots/doucette-g.jpg"
-image-1-name: Marc	McFetridge
-image-2: "/img/GoG/headshots/davis-t.jpg"
+image-1:  "/img/GoG/headshots/mc-m.jpg"
+image-1-name: MarcMcFetridge
+image-2: "/img/GoG/headshots/sheats-m.jpg"
 image-2-name: Michael	Sheats
-image-3: "/img/GoG/headshots/moore-s.jpg"
+image-3: "/img/GoG/headshots/cryan-r.jpg"
 image-3-name: Roger	Cryan
-image-4: "/img/GoG/headshots/moore-s.jpg"
+image-4: "/img/GoG/headshots/###.jpg"
 image-4-name: Robert Wintersteen
 
 mission-photo-1: "/img/GoG/#"
