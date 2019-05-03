@@ -1,7 +1,7 @@
 ---
 title: Marketing Service
 layout: GoG-presidents-winners
-permalink: /gearawards/usda-marketing-team/
+permalink: /gearawards/usda-team/
 
 name: Agricultural Marketing Service
 agency: Department of Agriculture

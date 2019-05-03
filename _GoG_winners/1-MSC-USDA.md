@@ -11,7 +11,7 @@ award: President's #type of award, either Agency, Council, or President's; this 
 Year: 2018 #variable to be used at later date
 image: "/img/GoG/winners/USDA-marketin.png"
 
-permalink: /gearawards/usda-marketing-team/
+permalink: /gearawards/usda-team/
 
 people:
  - Marc	McFetridge

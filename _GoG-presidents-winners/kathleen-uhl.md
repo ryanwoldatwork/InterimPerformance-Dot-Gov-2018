@@ -15,7 +15,7 @@ mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
 previous-title: HHS Office of the Inspector General
 previous-url: /gearawards/hhs-OIG/
 next-title: Agricultural Marketing Service
-next-url:  /gearawards/usda-marketing-team/
+next-url:  /gearawards/usda-team/
 
 
 
