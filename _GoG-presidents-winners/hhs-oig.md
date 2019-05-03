@@ -13,7 +13,7 @@ image-3: "/img/GoG/headshots/weit-j.jpg"
 image-3-name: Jess Weisz
 image-4: "/img/GoG/headshots/new-c.jpg"
 image-4-name: Cassandra Newsome
-image-5: "/img/GoG/GoG-presidents.png"
+image-5: "/img/GoG/headshots/kul-roman.jpg"
 image-5-name: Roman Kulbashny
 
 mission-photo-1: "/img/GoG/hhs-mission-1.jpg"
