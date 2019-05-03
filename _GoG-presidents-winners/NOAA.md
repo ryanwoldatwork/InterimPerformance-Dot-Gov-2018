@@ -26,5 +26,7 @@ next-url: /gearawards/emily-haas/
 
 ---
 
-
-Radically advanced detection of harmful algal bloom toxins to ensure the delivery of safe drinking water in Lake Erie and access to safe seafood in Washington State. This team’s cutting-edge technology advances the economic and public health in U.S. coastal communities.
+For radically advancing detection of harmful algal bloom toxins to
+ensure the delivery of safe drinking water in Lake Erie and access to safe
+seafood in Washington State. This team’s cutting-edge technology
+advances the economic and public health in U.S. coastal communities.

@@ -3,7 +3,7 @@ title: Office of Inspector General
 layout: GoG-presidents-winners
 permalink: /gearawards/hhs-OIG/
 
-name: Office of the Inspector General
+name: Office of Inspector General
 agency: Department of Health and Human Services
 image-1:  "/img/GoG/headshots/kraft-k.jpg"
 image-1-name: Kenneth Kraft
@@ -32,4 +32,7 @@ next-url:  /gearawards/kathleen-uhl/
 
 
 ---
-Prevented health care providers convicted of opioid-related offenses, sexual assault, rape, and manslaughter from participating in Federal healthcare programs to protect taxpayer-funded healthcare programs (e.g., Medicare) and vulnerable beneficiaries from abuse.
+For preventing health care providers convicted of opioid-related offenses, sexual
+assault, rape, and manslaughter from participating in Federal healthcare programs
+to protect taxpayer-funded programs like Medicare and vulnerable beneficiaries from
+abuse

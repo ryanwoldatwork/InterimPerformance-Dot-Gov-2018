@@ -21,5 +21,9 @@ next-url:  /gearawards/usda-team/
 
 ---
 
-
- Transformed generic drug regulation using cutting-edge science and expert leadership. Dr. Uhl’s work has expanded access to generic drugs, making it possible for millions of Americans to access essential medications.  
+For transforming generic drug regulation
+using cutting-edge science and expert
+leadership. Dr. Uhl’s work has expanded
+access to generic drugs, making it possible
+for millions of Americans to access essential
+medications.

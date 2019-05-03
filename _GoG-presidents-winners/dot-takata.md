@@ -31,5 +31,8 @@ next-url:  /gearawards/hhs-OIG/
 
 ---
 
-
-Increased awareness of nationwide airbag recalls through the creation of a remedy campaign. This team reinvented the way vehicle recalls are carried out, including providing manufacturers with a communication toolbox and developing innovative ways to lessen the impact on vehicle owners. Their efforts led to the replacement of 7.2M+ defective airbag parts in 2018, saving lives across the country.
+For increasing awareness of nationwide airbag recalls through the creation of a
+remedy campaign. This team reinvented the way vehicle recalls are carried out,
+including providing manufacturers with a communication toolbox and developing
+innovative ways to lessen the impact on vehicle owners. Their efforts led to the
+replacement of 7.2M+ defective airbag parts in 2018, saving lives across the country.

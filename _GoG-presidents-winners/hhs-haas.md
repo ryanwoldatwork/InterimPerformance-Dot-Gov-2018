@@ -20,4 +20,8 @@ next-url:  /gearawards/takata-recall-team/
 
 ---
 
-Improved health and safety standards for mineworkers across the country. Ms. Haas’ research resulted in the creation of industry-wide strategies to improve the health and safety management methods.
+For improving health and safety
+standards for mineworkers across
+the country. Ms. Haas’ research
+resulted in the creation of industrywide strategies to improve health
+and safety management methods.

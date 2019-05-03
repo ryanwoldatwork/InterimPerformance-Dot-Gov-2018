@@ -1,5 +1,5 @@
 ---
-name: Office of the Inspector General
+name: Office of Inspector General
 title: #job title
 
 permalink: /gearawards/hhs-OIG/

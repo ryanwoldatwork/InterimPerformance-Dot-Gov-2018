@@ -28,4 +28,9 @@ next-url: /gearawards/NOAA-Team/
 
 ---
 
-For demonstrating a technology that could be used as a power system to enable long-duration stays on planetary surfaces. Using Stirling technology, this team’s May 2018 ground test could pave the way for future systems that power astronaut outposts on the Moon and Mars.
+For demonstrating a technology that could be used
+as a power system to enable long-duration stays on
+planetary surfaces. Using Stirling technology, this
+team’s 2018 ground test could pave the way for
+future systems that power astronaut outposts on the
+Moon and Mars.
