@@ -22,6 +22,9 @@ location: "/img/GoG/location/DC.png"
 
 previous-title: Dr. Kathleen Uhl
 previous-url: /gearawards/kathleen-uhl/
+next-title: Back to Hall of Winners
+next-url: /gearawards/winners
+
 
 
 ---

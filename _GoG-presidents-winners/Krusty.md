@@ -3,7 +3,7 @@ title: KRUSTY Team
 layout: GoG-presidents-winners
 permalink: /gearawards/KRUSTY-Team/
 
-name: The KRUSTY Team
+name: KRUSTY Team
 agency: Department of Energy and National Aeronautics and Space Administration
 image-1:  "/img/GoG/winners/chambers-angela.jpg"
 image-1-name: Angela Chambers

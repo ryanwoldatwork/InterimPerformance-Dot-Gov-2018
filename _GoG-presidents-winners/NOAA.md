@@ -18,7 +18,7 @@ mission-photo-3: "/img/GoG/noaa-mission-3.jpg"
 
 location: "/img/GoG/location/WA.png"
 
-previous-title: The KRUSTY Team
+previous-title: KRUSTY Team
 previous-url: /gearawards/KRUSTY-Team/
 next-title: Dr. Emily Haas
 next-url: /gearawards/emily-haas/

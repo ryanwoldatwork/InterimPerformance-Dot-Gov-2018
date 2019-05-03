@@ -15,7 +15,7 @@ location: "/img/GoG/location/DC.png"
 
 previous-title: Back to Hall of Winners
 previous-url: /gearawards/winners
-next-title: The KRUSTY Team
+next-title: KRUSTY Team
 next-url: /gearawards/KRUSTY-Team/
 
 ---
