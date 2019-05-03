@@ -3,7 +3,7 @@ title: Barbara C. Morton
 layout: GoG-presidents-winners
 permalink: /gearawards/barbara-morton/
 
-name: Barbara Morton
+name: Barbara C. Morton
 agency: Department of Veterans Affairs
 image: "/img/GoG/headshots/Barbara-Morton.png"
 
