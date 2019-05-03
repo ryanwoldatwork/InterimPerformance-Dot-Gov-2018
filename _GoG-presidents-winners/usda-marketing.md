@@ -6,7 +6,7 @@ permalink: /gearawards/usda-team/
 name: Agricultural Marketing Service
 agency: Department of Agriculture
 image-1:  "/img/GoG/headshots/mc-m.jpg"
-image-1-name: MarcMcFetridge
+image-1-name: Marc McFetridge
 image-2: "/img/GoG/headshots/sheats-m.jpg"
 image-2-name: Michael	Sheats
 image-3: "/img/GoG/headshots/cryan-r.jpg"
