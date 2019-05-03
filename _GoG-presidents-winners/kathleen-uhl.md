@@ -12,7 +12,7 @@ location: "/img/GoG/location/MD.png"
 mission-photo-1: "/img/GoG/hhs-mission-1.jpg"
 mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
 
-previous-title: HHS Office of the Inspector General
+previous-title: HHS Office of Inspector General
 previous-url: /gearawards/hhs-OIG/
 next-title: Agricultural Marketing Service
 next-url:  /gearawards/usda-team/
