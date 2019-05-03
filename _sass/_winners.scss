@@ -660,3 +660,15 @@ background-color: #ffffff;
   margin-bottom: 1px;
   float:left;
   }
+
+  @media screen and (max-width: 900px) {
+    #desktop-pres {
+      display: none; }
+
+    }
+
+  @media screen and (min-width: 899px) {
+    #mobile-pres {
+      display: none; }
+
+    }
