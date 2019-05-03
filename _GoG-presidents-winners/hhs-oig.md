@@ -35,4 +35,4 @@ next-url:  /gearawards/kathleen-uhl/
 For preventing health care providers convicted of opioid-related offenses, sexual
 assault, rape, and manslaughter from participating in Federal healthcare programs
 to protect taxpayer-funded programs like Medicare and vulnerable beneficiaries from
-abuse
+abuse.
