@@ -27,7 +27,6 @@ twitter-feed: https://twitter.com/StateDept?ref_src=twsrc%5Etfw
 image: "/img/agency/State_Department_Seal.png"
 
 
-
 #twitter variables
 summary: summary
 description: Lead the United States’ foreign policy through diplomacy, advocacy, and assistance to advance the interests of the American people.
