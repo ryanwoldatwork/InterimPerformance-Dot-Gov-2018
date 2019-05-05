@@ -7,8 +7,6 @@ rating: "0"
 
 permalink: /gear-center-challenge-now-open/
 
-published: false
-
 summary: summary_large_image
 
 agency:
@@ -32,7 +30,7 @@ tags:
 
 The U.S. General Services Administration and the Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge.
 
-Read the press release
+<a href="https://www.gsa.gov/about-us/newsroom/news-releases/gsa-and-omb-announce-government-effectiveness-advanced-research-center-challenge">Read the press release</a>
 
 ----------------------------------------------------------------------------------------
 
