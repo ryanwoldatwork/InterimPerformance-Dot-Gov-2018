@@ -9,7 +9,7 @@ image-1:  "/img/GoG/winners/chambers-angela.jpg"
 image-1-name: Angela Chambers
 image-2: "/img/GoG/headshots/pulse-m.png"
 image-2-name: William Pulse
-image-3: "/img/GoG/headshots/gibson-m.JPG"
+image-3: "/img/GoG/headshots/gibson-m.jpeg"
 image-3-name: Marc Gibson
 image-4: "/img/GoG/headshots/mason-l.JPG"
 image-4-name: Lee Mason
