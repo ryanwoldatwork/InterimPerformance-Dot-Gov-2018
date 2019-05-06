@@ -7,7 +7,7 @@ rating: "0"
 
 permalink: /presidents-winners-press-release/
 
-Published: false 
+published: false 
 
 summary: summary_large_image
 
