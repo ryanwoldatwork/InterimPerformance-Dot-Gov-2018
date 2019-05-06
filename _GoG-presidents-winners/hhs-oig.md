@@ -23,7 +23,7 @@ mission-photo-3: "/img/GoG/hhs-mission-3.jpg"
 location: "/img/GoG/location/DC.png"
 
 
-previous-title: TAKATA Recall Team
+previous-title: Takata Recall Team
 previous-url: /gearawards/takata-recall-team/
 next-title: Dr. Kathleen Uhl
 next-url:  /gearawards/kathleen-uhl/

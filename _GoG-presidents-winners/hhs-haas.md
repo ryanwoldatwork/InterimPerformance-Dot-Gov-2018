@@ -14,7 +14,7 @@ mission-photo-2: "/img/GoG/hhs-mission-4.jpg"
 
 previous-title: The NOAA Team
 previous-url: /gearawards/NOAA-Team/
-next-title: TAKATA Recall Team
+next-title: Takata Recall Team
 next-url:  /gearawards/takata-recall-team/
 
 
