@@ -1,37 +1,17 @@
 
 
 <!--PRESIDENT'S CARD-->
-{% if GoG_winners.category == "President's" and GoG_winners.single %}
+  {% if GoG_winners.award == "President's" %}
   <div class="usa-width-one-third usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:0;margin-bottom:15px;margin-left:10px;">
-    <div class="container-GoG">
-      <img class="card-image-gog" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image">
-        <div class="winner-text">
-          <div id="winner-left">
-            <p class="name-text" style="margin-bottom:9px;line-height:1;"><b>{{ GoG_winners.name}}</b></p>
-            <p style="margin-top:0;margin-bottom:0;" class="card-tag">{{ GoG_winners.agency }}</p>
-        </div> <!--close left div-->
-        <div id="winner-right">
-        <img
-        src="{{ site.baseurl }}/img/GoG/banners/president-banner.png">
-        style="height:75px;float:right;"><br>
-      </div><!--close right div-->
-  </div><!--close winner text-->
-  <div class="overlay">
-  <div class="text">
-    <p style="margin-top:0;"><b>{{ GoG_winners.name}}, <br></b>
-        <i>{{ GoG_winners.title}}</i></p>
-        <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
-        {% if GoG_winners.award == "Agency" %}
-            <p id="agency-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
-        {% elsif GoG_winners.award == "Council" %}
-            <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
-        {% elsif GoG_winners.award == "President's" %}
-            <p id="president-winner-border" class="card-tag"><b>{{ GoG_winners.award }} Award</b></p>
-        {% endif %}
-  </div><!--close text-->
-  </div><!--close overlay-->
-  </div><!--close container-->
-</div><!--close one third-->
+    <a style="color:black;" href="{{ site.baseurl }}{{ GoG_winners.permalink }}">
+    <div class="container-GoG-pres">
+       <center><img class="card-image-gog-presidents gray" src="{{ site.baseurl }}{{ GoG_winners.image }}" alt="Avatar" class="image"></center>
+       <div class="winner-text-president">
+         <center><p class="name-text" style="margin-bottom:9px;line-height:1;font-size:16px;"><b>{{ GoG_winners.name}}</b></p>
+         <p style="margin-top:0;margin-bottom:0;font-size:12px;" class="card-tag">{{ GoG_winners.agency }}</p></center>
+       </div><!--close winner text--></a>
+     </div><!--close container-GoG-->
+</div><!--close container-GoG-->
 {% endif %}
 <!--TEAM CARD-->
 {% if GoG_winners.team and GoG_winners.length == "short" %}
