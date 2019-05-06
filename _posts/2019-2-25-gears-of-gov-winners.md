@@ -2,8 +2,6 @@
 layout: post
 tumblr_url:
 
-rating: "1"
-
 title: "The Gears of Government Awards Hall of Winners is Now Live!"
 
 permalink: /2019-2-25-gears-of-gov-winners/
