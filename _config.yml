@@ -18,6 +18,9 @@ collections:
   other-agencies:
     output: true
     permalink: /:path
+  GoG-presidents-winners:
+    output: true
+
 
 defaults:
   - scope:
