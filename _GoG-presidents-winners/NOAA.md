@@ -6,11 +6,11 @@ permalink: /gearawards/NOAA-Team/
 name: National Oceanic and Atmospheric Administration Team
 agency: Department of Commerce
 image-1:  "/img/GoG/headshots/doucette-g.jpg"
-image-1-name: Gregory	Doucette
+image-1-name: Dr. Gregory	Doucette
 image-2: "/img/GoG/headshots/davis-t.jpg"
-image-2-name: Timothy	Davis
+image-2-name: Dr. Timothy	Davis
 image-3: "/img/GoG/headshots/moore-s.jpg"
-image-3-name: Stephanie	Moore
+image-3-name: Dr. Stephanie	Moore
 
 mission-photo-1: "/img/GoG/noaa-mission-1.jpg"
 mission-photo-2: "/img/GoG/noaa-mission-2.jpg"
