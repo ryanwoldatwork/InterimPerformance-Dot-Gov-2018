@@ -16,6 +16,6 @@ people:
  - Philip Johnson
  - Joseph Cristofaro
  - Adam Roth
- - Markia Phillips
+ - Markita Phillips
  - Daniel Maloney
 ---
