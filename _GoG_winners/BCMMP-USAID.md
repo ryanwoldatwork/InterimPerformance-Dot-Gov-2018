@@ -3,7 +3,7 @@ name: United States Agency for International Development
 title: Enterprise Risk Management Team
  #job title
 team: yes #mark no if an individual, NO CAPS
-length: short
+length: long
 single: no  #mark yes if an individual NO CAPS
 description: Developed and implemented an Agency-wide approach to navigating and managing complex risks. USAID’s mission requires staff to work in high-threat environments, with risks ranging from state failure and armed conflict, to corruption, natural disaster and macroeconomic instability. The team’s work helps the Agency make informed and strategic financial, policy, and program decisions.
 #description of why there winning award, in an excel spreadsheet
