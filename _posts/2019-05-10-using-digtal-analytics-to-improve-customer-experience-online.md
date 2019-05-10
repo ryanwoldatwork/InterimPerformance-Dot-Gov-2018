@@ -53,13 +53,14 @@ Interested in learning more about DAP? Visit [analytics.usa.gov](https://analyti
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dhs-fema-disaster.png">Department of Homeland Security | Federal Emergency Management Authority | Disaster </a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dhs-tsa.png">Department of Homeland Security | Transportation Security Administration</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-national-wildlife.png">Department of Interior | National Wildlife Refuge System</a></li>
+    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-american-indian.png">Department of Interior | Office of the Special Trustee for the American Indian</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dol-illness-compensation.png">Department of Labor | Division of Energy Employees Occupational Illness Compensation</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dol-osha-protection-programs.png">Department of Labor | OSHA | Voluntary Protection Programs</a></li>
-    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/ed-student-aid.png">Department of Education | Federal Student Aid</a></li>
   </ul>
 </div>
 <div class="usa-width-one-third usa-media_block">
   <ul style="list-style:none;padding-left:0px;">
+  <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/ed-student-aid.png">Department of Education | Federal Student Aid</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/hhs-healthcare.gov.png">Department of Health and Human Services | Healthcare.gov</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/hhs-medicare.png">Department of Health and Human Services | Centers for Medicare & Medicaid Services | Medicare</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/hud-single-family-loans.png">Department of Housing and Urban Development | FHA Single Family Loans and Resource Center</a></li>
@@ -67,7 +68,6 @@ Interested in learning more about DAP? Visit [analytics.usa.gov](https://analyti
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/opm-retirement-services.png">Office of Personnel Management | Retirement Services</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/opm-usajobs.png">Office of Personnel Management |  Federal Employment Services | USAJOBS.gov</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/pto-patents.png">Patent and Trademark Office | Patents</a></li>
-    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-american-indian.png">Department of Interior | Office of the Special Trustee for the American Indian</a></li>
   </ul>
 </div>
 <div class="usa-width-one-third usa-media_block">
