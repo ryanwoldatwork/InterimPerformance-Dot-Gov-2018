@@ -67,7 +67,7 @@ Interested in learning more about DAP? Visit [analytics.usa.gov](https://analyti
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/opm-retirement-services.png">Office of Personnel Management | Retirement Services</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/opm-usajobs.png">Office of Personnel Management |  Federal Employment Services | USAJOBS.gov</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/pto-patents.png">Patent and Trademark Office | Patents</a></li>
-    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/pto-trademarks.png">Patent and Trademark Office | Trademarks</a></li>
+    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-american-indian.png">Department of Interior | Office of the Special Trustee for the American Indian</a></li>
   </ul>
 </div>
 <div class="usa-width-one-third usa-media_block">
@@ -80,5 +80,7 @@ Interested in learning more about DAP? Visit [analytics.usa.gov](https://analyti
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/usda-natural-resources-coservation-service.png">Department of Agriculture | Natural Resources Conservation Service</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/va-benefits-admin.png">Department of Veterans Affairs | Veterans Benefits Administration</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/va-health-admin.png">Department of Veterans Affairs | Veterans Health Administration</a></li>
+    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/va-health-admin.png">Department of Veterans Affairs | Veterans Health Administration</a></li>
+
   </ul>
 </div>
