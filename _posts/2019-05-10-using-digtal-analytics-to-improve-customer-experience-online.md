@@ -53,7 +53,7 @@ Interested in learning more about DAP? Visit [analytics.usa.gov](https://analyti
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dhs-fema-disaster.png">Department of Homeland Security | Federal Emergency Management Authority | Disaster </a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dhs-tsa.png">Department of Homeland Security | Transportation Security Administration</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-national-wildlife.png">Department of Interior | National Wildlife Refuge System</a></li>
-    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-american-indian.png">Department of Interior | Office of the Special Trustee for the American Indian</a></li>
+    <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/doi-american-indian.png">Department of Interior | Office of the Special Trustee for American Indians</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dol-illness-compensation.png">Department of Labor | Division of Energy Employees Occupational Illness Compensation</a></li>
     <li id="hisp"><a id="hisp-list" target="_blank" href="{{ site.baseurl }}/img/blog/DAP/dol-osha-protection-programs.png">Department of Labor | OSHA | Voluntary Protection Programs</a></li>
   </ul>
