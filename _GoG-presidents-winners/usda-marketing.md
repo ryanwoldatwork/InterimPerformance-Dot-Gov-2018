@@ -29,7 +29,10 @@ next-url: /gearawards/winners
 
 ---
 
-For transforming an 80-year-old approach to better support distressed agricultural
-industries and provide safe, nutritious food to low-income communities. Their
-efforts enabled USDA to help industries in a matter of weeks instead of months and
-provide food banks with more fresh fruit, vegetables, dairy, and meat.
+The U.S. Department of Agriculture (USDA) team from the Agricultural Marketing Service (AMS) in Washington, D.C. epitomizes Secretary Perdue’s vision to make USDA the most efficient, most effective, most customer focused department in the Federal Government.
+
+<div class="testimonial-blockquote">
+<p>Robert, Marc, Michael, and Roger have demonstrated what it means to provide the best possible service to our customers – the farmers, ranchers, foresters, and producers of American agriculture and “do right and feed everyone.”</p>
+</div>
+
+This AMS team ensures USDA programs are delivered efficiently, effectively, and with integrity and a focus on customer service.This team is comprised of Robert Wintersteen, Marc McFetridge, Michael Sheats, and Roger Cryan, who worked to streamline the process of reviewing Section 32 purchases to reduce the processing time, and better enable the Department to provide wholesome food to all Americans. In the second half of last year alone, AMS was able to cost-effectively, purchase on a timely basis, 15 types of fruits, vegetables, dairy, and meat products worth over $300 million to feed hungry Americans. The ability of AMS to help industries in a more timely and efficient manner allows the Section 32 purchases to increase domestic consumption and benefit low-income families. Robert, Marc, Michael, and Roger have demonstrated what it means to provide the best possible service to our customers – the farmers, ranchers, foresters, and producers of American agriculture and “do right and feed everyone.”
