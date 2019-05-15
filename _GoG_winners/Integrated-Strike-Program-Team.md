@@ -1,8 +1,9 @@
 ---
-name: Department of Defense
-title: #job title
+name: Chief Acquisition Officers Council
+title: Integrated Strike Program Team
 team: yes #mark no if an individual, NO CAPS
 length: long
+modal: 9 #
 single: no  #mark yes if an individual NO CAPS
 description: Sped the fielding of improved capabilities for AC-130J gunship, AC-130W aircraft, and Small Glide Munition, while saving $551M through implementation of a tailored and collaborative acquisition strategy.
 #description of why there winning award, in an excel spreadsheet
@@ -28,7 +29,7 @@ people:
 - Brendon Reedy
 - Robert Matthews
 - Russell Sinclair
-- Scott McAndrew
+people-right:
 - Debbie Morrow
 - Ronald Peak
 - Willi Hooks
