@@ -16,6 +16,8 @@ people:
  - Daniel	Dixon
  - Ryan	Colman
  - Rex Hays
+ - Tina White
+ - MaryBeth LeFevre
 
 
 
