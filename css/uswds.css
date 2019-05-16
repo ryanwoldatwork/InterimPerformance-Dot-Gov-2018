@@ -3811,7 +3811,30 @@ input.usa-input-medium {
   position: relative;
   background-position: center;
   background-size: cover;
+
 }
+
+
+  .usa-hero-4 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    /*background-image: url("../img/homepage_images/newhero2_blue_overlay.png"); /*blue overlay image*/
+    background-image: url("../img/homepage_images/background-graph.png");
+    /*background-image: url("../img/homepage_images/newhero3_gradient.png"); /*red to blue gradient image*/
+    /*background-image: url("../img/homepage_images/newhero2_v2.JPG.jpg"); /*original banner image*/
+    /*background: linear-gradient(to bottom right,#112E51,#e59393) ; /*activate linear gradient and opacity and comment out background images for no banner image on homepage
+    opacity: 1; /*activate opactiy witih background: linear gradient for no banner image on homepage*/
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    /* Set rules to fill background */
+min-height: 100%;
+min-width: 1024px;
+
+/* Set up proportionate scaling */
+width: 100%;
+height: auto;
+  }
 
 /*.usa-hero:after {    activate this field with backgroun: linear gradient above for no banner on homepage
   content: " ";
