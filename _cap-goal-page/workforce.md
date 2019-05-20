@@ -19,7 +19,7 @@ resource-4-url: https://community.max.gov/pages/viewpage.action?spaceKey=HHS&tit
 
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "The mission demands require a personnel system flexible and resilient enough to accommodate the ever-changing nature of work. And it must bring out the best in civil servants." #appears in the gray text box
+quote: "The mission demands a federal workforce that's flexible and resilient enough to accommodate the ever-changing nature of work. And it must bring out the best in civil servants." #appears in the gray text box
 quote-author: "Peter Warren"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_People_Workforce_for_the_21st_Century.pdf"
 #***********************FLOATING BOX SECTION*****************************

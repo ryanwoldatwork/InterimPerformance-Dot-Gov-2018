@@ -12,11 +12,14 @@ cap-icon: "/img/CAP_icons/Icon_Federal_Data_gray.png" #icon that appears next to
 resource-2-name: Federal Data Strategy
 resource-2-url: https://strategy.data.gov/
 
-resource-3-name: Federal Data Strategy Newsletter
-resource-3-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
+resource-3-name: Federal Data Strategy Proof Points
+resource-3-url: https://strategy.data.gov/proof-points/
 
+resource-4-name: Federal Data Strategy Newsletter
+resource-4-url: https://strategy.data.gov/news/
 
-
+resource-5-name: Sign up for the Newsletter
+resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
@@ -40,21 +43,21 @@ action-2018-Q2: "/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pd
 tag: "data"
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/pradeep-belur.jpg"
-goal-leader-name: "Pradeep Belur"
-goal-leader-title: "Chief of Staff, Small Business Administration"
+goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-name: "Maria Roat"
+goal-leader-title: "Chief Information Officer, Small Business Administration"
 goal-leader-2-photo: "/img/CAP-photos/kelley-karen.jpg"
 goal-leader-2-name: "Karen Dunn Kelley"
-goal-leader-2-title: "Under Secretary of Economic Affairs and Acting Deputy Secretary, Department of Commerce"
-goal-leader-3-photo: "/img/CAP-photos/wilmer-jack.jpeg"
-goal-leader-3-name:  "Jack Wilmer"
+goal-leader-2-title: "Deputy Secretary, Department of Commerce"
+goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-3-name:  "Kelvin Droegemeier"
 goal-leader-3-title: "Senior Advisor for Cybersecurity and IT Modernization, Office of Science and Technology Policy"
 goal-leader-4-photo: "/img/CAP-photos/kent-suzette.jpeg"
 goal-leader-4-name: "Suzette Kent"
 goal-leader-4-title: "Federal Chief Information Officer, Office of Management and Budget"
 goal-leader-5-photo: "/img/CAP-photos/potok-nancy.jpg"
 goal-leader-5-name:   "Nancy Potok"
-goal-leader-5-title: "Chief Statistician of the United Sates, Office of Management and Budget"
+goal-leader-5-title: "Chief Statistician, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "IT Modernization"
