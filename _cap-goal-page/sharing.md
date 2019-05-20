@@ -8,9 +8,19 @@ url: /CAP/sharing/
 
 cap-icon: "/img/CAP_icons/Icon_Sharing_Quality_gray.png"##### #icon that appears next to title
 
+resource-3-name: OMB Memo 19-16
+resource-3-url: https://ussm.gsa.gov/qsmo/
+
+resource-4-name: Modernization and Migration Management (M3) Framework
+resource-4-url: https://ussm.gsa.gov/m3/
+
+resource-5-name: Federal Integrated Business Framework
+resource-5-url: https://ussm.gsa.gov/fibf/
+
+
 #***********************FLOATING BOX SECTION*****************************
-quote: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac velit et neque tincidunt sagittis. Aliquam eget lacinia sapien. " #appears in the gray text box
-quote-author: "CAP Goal Leader"
+quote: "Shared services will create efficiencies in government and optimize the workforce "by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
+quote-author: "OMB M-19-16 Centralized Mission Support Capabilities for the Federal Government"
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Sharing_Quality_Services.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
