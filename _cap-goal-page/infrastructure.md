@@ -53,7 +53,7 @@ CAP-event-text:
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/CAP-photos/neumayr-mary.jpg" #Goal leader 1
 goal-leader-name: "Mary Neumayr"
-goal-leader-title: "Chief of Staff, Council on Environmental Quality"
+goal-leader-title: "Chairman, Council on Environmental Quality"
 goal-leader-2-photo: "/img/CAP-photos/hergott-alex.jpg" #Goal leader 2
 goal-leader-2-name: "Alex Herrgott"
 goal-leader-2-title: "Executive Director, Federal Permitting Improvement Steering Council"
