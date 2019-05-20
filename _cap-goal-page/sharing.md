@@ -19,17 +19,23 @@ resource-5-url: https://ussm.gsa.gov/fibf/
 
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Shared services will create efficiencies in government and optimize the workforce "by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
-quote-author: "OMB M-19-16 Centralized Mission Support Capabilities for the Federal Government"
+quote: "Shared services will create efficiencies in government and optimize the workforce by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
+quote-author: OMB M-19-16 Centralized Mission Support Capabilities for the Federal Government
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Sharing_Quality_Services.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "This goal will:   deliver technology and process improvements that will improve citizen services, such as faster hiring so more border security officers can be hired and in place faster and expedited payments to small businesses so the economy can continue to grow and thrive; and simpler grants application processes so more grant resources are directed to results rather than duplicative compliance actions; reduce taxpayer costs by closing the gap between the Federal Government’s performance in administrative services and industry best in class; and shift time, effort, and funding currently spent on administrative services to core missions in support of American citizens." #first accordion text
+statement: "To create a mission-driven government with modern technology and services that enable the workforce to better serve the American taxpayer." #first accordion text
 
-challenge: "Families economize by buying in volume or taking advantage of the sharing economy such as car or vacation rental sharing. Businesses, non-profits, and state governments have reduced costs and workload by streamlining administrative activities such as human resource transactions, financial management, grants management, contracts, and information technology support to reduce costs and increase efficiency. The Federal Government needs to do the same. For example, the Federal Government outspends the private sector when creating tax-filing paperwork (W-2s). Industry has used technology and innovation to reduce the cost to around $80 while Government still spends an average of $120. We need to close this gap." #second accordion text
+challenge: "- Outdated processes and technology, coupled with a culture of compliance, have created an inflexible mission-support environment.
 
-opportunity: "Agencies will:   use benchmarks from high-performing private sector models to assess overall performance; increase use of targeted solutions; and measure satisfaction with those solutions to make sure they meet needs." #third accordion text
+- Common mission support services such as processing hiring transactions, managing finances, closing contracts, and processing payroll more than $25B annually.
+
+- Rather than economizing by sharing across the Federal government, we duplicate contracts, people, and technology across hundreds of locations. Thirty eight percent of Federal leaders report low satisfaction with mission support." #second accordion text
+
+opportunity: "Improve the efficiency and effectiveness of the Federal
+government’s mission support services in the short and long term, leading
+to improved performance, customer experience, and operational costs. " #third accordion text
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Sharing_Quality_Services.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Sharing_Quality_Services.pdf"
