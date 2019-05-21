@@ -21,6 +21,7 @@ layout: navigation_PMA
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;" href="#KPI">Resources</a>
         {% if page.listserv-title %}
           <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;" href="#openModal{{ page.listserv-url}}">{{ page.listserv-title }}</a>
+            {% include {{ page.listserv-include }}.html %}
         {% endif %}
     </div>
     <div class="usa-width-one-third usa-media_block">
@@ -147,6 +148,9 @@ layout: navigation_PMA
         </button>
         <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;border-top:">
           {% if page.challenge-bullets %}
+            {% if page.challenge-bullets-text %}
+          <p>{{ page.challenge-bullets-text }}</p>
+            {% endif %}
             <ul>
               <li>{{ page.challenge-bullet-1 }}</li>
               <li>{{ page.challenge-bullet-2 }}</li>

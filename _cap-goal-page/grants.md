@@ -19,6 +19,7 @@ resource-3-url:  https://blog.grants.gov/
 
 listserv-title: Join Community
 listserv-url: 13
+listserv-include: grants-community
 
 innovation: yes
 innovation-title: TBD
@@ -33,9 +34,13 @@ current-action-plan: "/CAP/action_plans/FY2018_Q4_Results-Oriented_Accountabilit
 #***********************ACCORDION SECTION*****************************
 statement: "This goal will:   rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results." #first accordion text
 
-challenge: "Approximately $700 billion is invested annually through more than 1,800 diverse Federal grant programs listed on CFDA.gov.1 These funds support activities that touch every American, such as medical research, education, transportation infrastructure, workforce initiatives, economic development, and services for veterans.
+challenge-bullets: yes
 
-However, grant managers—including those that administer funds from inside the Federal Government and those from external organizations that receive Federal funds—report spending 40% of their time using antiquated processes to monitor compliance instead of data and analytics to monitor results.2 The organizations that receive Federal grant funds—from states, localities, and tribes to schools to non-profits—report that this current management framework is overly burdensome and takes away from the missions they are working to deliver. For instance principal investigators of research grants estimate that they spend, on average, 42% of their time meeting requirements 3 —including those associated with pre-and post-award administration and preparation of proposals and reports—rather than conducting active research." #second accordion text
+challenge-bullets-text: "Approximately $700 billion is invested annually through more than 1,800 diverse Federal grant programs listed on CFDA.gov."
+
+challenge-bullet-1: "These funds support activities that touch every American, such as medical research, education, transportation infrastructure, workforce initiatives, economic development, and services for veterans. However, grant managers—including those that administer funds from inside the Federal Government and those from external organizations that receive Federal funds—report spending 40% of their time using antiquated processes to monitor compliance instead of data and analytics to monitor results."
+
+challenge-bullet-2: "The organizations that receive Federal grant funds—from states, localities, and tribes to schools to non-profits—report that this current management framework is overly burdensome and takes away from the missions they are working to deliver. For instance principal investigators of research grants estimate that they spend, on average, 42% of their time meeting requirements, including those associated with pre-and post-award administration and preparation of proposals and reports—rather than conducting active research." #second accordion text
 
 opportunity: "Agencies will be able to articulate clearly the goals of grant programs and the results of Federal investments. Recipients and agencies spend less time on administrative compliance and more effort is put into achieving and reporting program results. " #third accordion text
 
@@ -68,7 +73,7 @@ goal-leader-2-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 2
 goal-leader-2-name: "Tim Soltis"
 goal-leader-2-title: "Deputy Controller, Office of Management and Budget"
 goal-leader-3-photo: "/img/CAP-photos/conley-sheila.png" #Goal leader 2
-goal-leader-3-name: "Sheila Conley,"
+goal-leader-3-name: "Sheila Conley"
 goal-leader-3-title: "Deputy Chief Financial Officer, Department of Health and Human Services"
 
 #***********************END GOAL LEADER SECTION*****************************8
