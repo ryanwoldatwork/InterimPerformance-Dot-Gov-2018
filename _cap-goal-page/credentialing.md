@@ -17,15 +17,15 @@ current-action-plan: "/CAP/action_plans/FY2018_Q4_Security_Suitability.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "The Federal Government will advance this goal through four work streams:
+statement-bullets: "The Federal Government will advance this goal through four work streams:"
 
-Trusted workforce. Instill a sense of shared responsibility by enabling a trusted workforce through consistent reporting requirements, awareness, and strengthened partnerships with other mission areas and industry;
+bullet-1: "Trusted workforce. Instill a sense of shared responsibility by enabling a trusted workforce through consistent reporting requirements, awareness, and strengthened partnerships with other mission areas and industry;"
 
-Modern clearance process. Transform the Government’s approach at a fundamental level, revamping the policy framework and process to a more effective and efficient model that leverages the latest innovative technologies;
+bullet-2: "Modern clearance process. Transform the Government’s approach at a fundamental level, revamping the policy framework and process to a more effective and efficient model that leverages the latest innovative technologies;"
 
-Secure, modern, and mission-capable information technology. Rebuild the end-to-end information technology to accelerate the implementation of new policies and processes and to improve the cyber security posture of the enterprise; and
+bullet-3: "Secure, modern, and mission-capable information technology. Rebuild the end-to-end information technology to accelerate the implementation of new policies and processes and to improve the cyber security posture of the enterprise; and"
 
-Continuous performance improvement. Use outcome-based metrics, research and innovation, and an institutionalized Executive branch-wide model to continuously evaluate and improve policies and processes." #first accordion text
+bullet-4: "Continuous performance improvement. Use outcome-based metrics, research and innovation, and an institutionalized Executive branch-wide model to continuously evaluate and improve policies and processes." #first accordion text
 
 challenge: "The Government’s existing framework for establishing trust in the Federal civilian, military, and contracted workforce has struggled to onboard needed personnel efficiently and effectively, and to determine whether those workers can be consistently trusted to perform their duties and not to cause harm to people, property, systems, and information." #second accordion text
 
@@ -61,10 +61,10 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/coats-dan.jpeg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/coats-dan.jpg" #Goal leader 1
 goal-leader-name: "Daniel Coats"
 goal-leader-title: "Director of National Intelligence, Office of the Director of National Intelligence"
-goal-leader-2-photo: "/img/CAP-photos/kernan-joseph.jpeg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/kernan-joseph.jpg" #Goal leader 2
 goal-leader-2-name: "Joseph Kernan"
 goal-leader-2-title: "Under Secretary of Defense for Intelligence, Department of Defense"
 goal-leader-3-photo: "/img/CAP-photos/weichert-margaret.jpeg" #Goal leader 2

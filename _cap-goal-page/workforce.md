@@ -45,9 +45,9 @@ KPI-2:  #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "workforce" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title:
-CAP-event-date:
-CAP-event-text:
+CAP-event-title: Industry Day
+CAP-event-date: May 14-15, 2019
+CAP-event-text: Interagency event of IT vendors who provide human capital solutions to the Federal Government.
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************

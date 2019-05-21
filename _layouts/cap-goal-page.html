@@ -19,7 +19,9 @@ layout: navigation_PMA
               <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;;margin-top:0px;font-weight:600;" href="#KPI" id="pulse">Key Performance Indicator</a>
          {% endif %}
          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;" href="#KPI">Resources</a>
-
+        {% if page.listserv-title %}
+          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;" href="#openModal{{ page.listserv-url}}">{{ page.listserv-title }}</a>
+        {% endif %}
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
@@ -124,7 +126,18 @@ layout: navigation_PMA
           	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/goal-statement-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Goal Statement
         </button>
         <div id="a1" class="usa-accordion-content " style="background-color:#f1f1f1;padding-left:0;">
+          {% if page.statement-bullets %}
+          {{ page.statement-bullets }} <br>
+            <ul>
+              <li>{{ page.bullet-1 }}</li>
+              <li>{{ page.bullet-2 }}</li>
+              <li>{{ page.bullet-3 }}</li>
+              <li>{{ page.bullet-4 }}</li>
+            </ul>
+          {% else %}
           {{ page.statement }}
+          {% endif %}
+
         </div>
       </li><li>
         <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
@@ -133,7 +146,15 @@ layout: navigation_PMA
         	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/challenge_icon_blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;The Challenge
         </button>
         <div id="a2" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;border-top:">
-           {{ page.challenge }}
+          {% if page.challenge-bullets %}
+            <ul>
+              <li>{{ page.challenge-bullet-1 }}</li>
+              <li>{{ page.challenge-bullet-2 }}</li>
+              <li>{{ page.challenge-bullet-3 }}</li>
+            </ul>
+          {% else %}
+          {{ page.challenge }}
+          {% endif %}
         </div>
       </li><li>
         <li>
@@ -185,13 +206,29 @@ layout: navigation_PMA
           </div>
         </li>
         {% endif %}
+        {% if page.innovation %}
+        <li>
+
+          <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+            aria-expanded="false"
+            aria-controls="a6">
+              <img class="usa-media_block-img" src="{{ site.baseurl }}/img/innovation.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Innovation Exchange Sessions
+          </button>
+            <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+            <div class="usa-grid usa-graphic_list-row">
+              <div class="usa-width-one-whole usa-media_block">
+                {{ page.innovation-title}}
+              </div>
+          </div>
+        </li>
+        {% endif %}
         <li>
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
-            aria-controls="a6">
+            aria-controls="a7">
             <img class="usa-media_block-img" src="{{ site.baseurl }}/img/resources.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Resources
           </button>
-          <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+          <div id="a7" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
            {% if page.resource-2-name %}
                  <p><a target="_blank" href="{{ page.resource-2-url }}">{{ page.resource-2-name }}</a></p>
            {% endif %}

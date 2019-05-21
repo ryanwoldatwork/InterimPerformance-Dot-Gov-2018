@@ -17,6 +17,12 @@ resource-2-url:  https://digital.gov/communities/results-oriented-accountability
 resource-3-name: Grants.gov Community Blog
 resource-3-url:  https://blog.grants.gov/
 
+listserv-title: Join Community
+listserv-url: 13
+
+innovation: yes
+innovation-title: TBD
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal Grant Programs support activities that touch every American, such
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
