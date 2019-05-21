@@ -63,8 +63,7 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 1
-goal-leader-name: "Fred Nutt"
+
 goal-leader-title: "Senior Advisor, Office of Management and Budget"
 goal-leader-2-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 2
 goal-leader-2-name: "Tim Soltis"
