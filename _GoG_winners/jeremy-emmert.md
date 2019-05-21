@@ -1,5 +1,5 @@
 ---
-name: Jeremy Immert
+name: Jeremy Emmert
 title: #job title
 team: no #mark no if an individual, NO CAPS
 single: yes  #mark yes if an individual NO CAPS
