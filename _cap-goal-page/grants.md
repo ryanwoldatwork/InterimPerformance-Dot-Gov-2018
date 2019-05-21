@@ -11,18 +11,22 @@ url: /CAP/grants/
 cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears next to title
 
 
-resource-2-name: Community of Practice Listserv
-resource-2-url:  https://digital.gov/communities/results-oriented-accountability-for-grants/
+resource-2-name: Grants 101 Training Modules
+resource-2-url:  https://cfo.gov/grants/training/
 
-resource-3-name: Grants.gov Community Blog
-resource-3-url:  https://blog.grants.gov/
+resource-3-name: Chief Financial Officers Council Grant Resources
+resource-3-url:  https://cfo.gov//grants/
+
+resource-4-name: Search and Apply for Grants
+resource-4-url: https://www.grants.gov/
+
 
 listserv-title: Join Community
 listserv-url: 13
 listserv-include: grants-community
 
 innovation: yes
-innovation-title: TBD
+innovation-title: Coming Soon!
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal Grant Programs support activities that touch every American, such
@@ -32,7 +36,7 @@ current-action-plan: "/CAP/action_plans/FY2018_Q4_Results-Oriented_Accountabilit
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "This goal will:   rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results." #first accordion text
+statement: "This goal will: rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results." #first accordion text
 
 challenge-bullets: yes
 
@@ -66,8 +70,7 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 1
-goal-leader-name: "Fred Nutt"
+
 goal-leader-title: "Senior Advisor, Office of Management and Budget"
 goal-leader-2-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 2
 goal-leader-2-name: "Tim Soltis"
