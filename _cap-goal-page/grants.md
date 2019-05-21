@@ -11,17 +11,21 @@ url: /CAP/grants/
 cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears next to title
 
 
-resource-2-name: Community of Practice Listserv
-resource-2-url:  https://digital.gov/communities/results-oriented-accountability-for-grants/
+resource-2-name: Grants 101 Training Modules
+resource-2-url:  https://cfo.gov/grants/training/
 
-resource-3-name: Grants.gov Community Blog
-resource-3-url:  https://blog.grants.gov/
+resource-3-name: Chief Financial Officers Council Grant Resources
+resource-3-url:  https://cfo.gov//grants/
+
+resource-4-name: Search and Apply for Grants
+resource-4-url: https://www.grants.gov/
+
 
 listserv-title: Join Community
 listserv-url: 13
 
 innovation: yes
-innovation-title: TBD
+innovation-title: Coming Soon!
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal Grant Programs support activities that touch every American, such
@@ -31,11 +35,9 @@ current-action-plan: "/CAP/action_plans/FY2018_Q4_Results-Oriented_Accountabilit
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "This goal will:   rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results." #first accordion text
+statement: "This goal will: rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results." #first accordion text
 
-challenge: "Approximately $700 billion is invested annually through more than 1,800 diverse Federal grant programs listed on CFDA.gov.1 These funds support activities that touch every American, such as medical research, education, transportation infrastructure, workforce initiatives, economic development, and services for veterans.
-
-However, grant managers—including those that administer funds from inside the Federal Government and those from external organizations that receive Federal funds—report spending 40% of their time using antiquated processes to monitor compliance instead of data and analytics to monitor results.2 The organizations that receive Federal grant funds—from states, localities, and tribes to schools to non-profits—report that this current management framework is overly burdensome and takes away from the missions they are working to deliver. For instance principal investigators of research grants estimate that they spend, on average, 42% of their time meeting requirements 3 —including those associated with pre-and post-award administration and preparation of proposals and reports—rather than conducting active research." #second accordion text
+challenge: "Approximately $700 billion is invested annually through more than 1,800 diverse Federal grant programs. listed on CFDA.gov. Grant managers — including those that administer funds from inside the Federal Government and those from external organizations that receive Federal funds—report spending 40% of their time using antiquated processes to monitor compliance instead of data and analytics to monitor results."  #second accordion text
 
 opportunity: "Agencies will be able to articulate clearly the goals of grant programs and the results of Federal investments. Recipients and agencies spend less time on administrative compliance and more effort is put into achieving and reporting program results. " #third accordion text
 
