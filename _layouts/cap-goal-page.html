@@ -14,13 +14,13 @@ layout: navigation_PMA
           {% endif %}-->
         <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}<br><span style="font-size:15px;">{{ page.sub-title }}</span></h1>
 
-        <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;" href="#KPI">News & Events</a>
+        <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">News & Events</a>
          {% if page.KPI %}
-              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;;margin-top:0px;font-weight:600;" href="#KPI" id="pulse">Key Performance Indicator</a>
+              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;;margin-top:0px;font-weight:600;font-size: 14px;height: 36px;" href="#KPI" id="pulse">Key Performance Indicator</a>
          {% endif %}
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;" href="#KPI">Resources</a>
+         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">Resources</a>
         {% if page.listserv-title %}
-          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;" href="#openModal{{ page.listserv-url}}">{{ page.listserv-title }}</a>
+          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#openModal{{ page.listserv-url}}">{{ page.listserv-title }}</a>
             {% include {{ page.listserv-include }}.html %}
         {% endif %}
     </div>
