@@ -17,6 +17,12 @@ resource-1-url:
 resource-2-name: M-18-23, Shifting From Low-Value to High-Value Work
 resource-2-url: https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf
 
+resource-3-name: M-17-26, Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda
+resource-3-url: https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf
+
+resource-4-name: Elimination of Unnecessary Agency Reports
+resource-4-url: https://www.performance.gov/elimination/elimination_of_unnecessary_agency_reports.html
+
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "The Ofice of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
@@ -59,6 +65,9 @@ goal-leader-title: "Associate Director for Performance and Personnel Management,
 goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
 goal-leader-2-name: "Dustin Brown"
 goal-leader-2-title: "Deputy Assistant Director for Management, Office of Management and Budget"
+goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"  #Goal leader 2
+goal-leader-3-name: "Ralph H. Gaines"
+goal-leader-3-title: "Chief Operations Officer, Housing and Urban Development"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
