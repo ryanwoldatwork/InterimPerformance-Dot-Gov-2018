@@ -13,8 +13,11 @@ cap-icon: "/img/CAP_icons/Icon_Modernize_IT_gray.png" #icon that appears next to
 resource-2-name: Technology Modernization Fund
 resource-2-url:  https://tmf.cio.gov/projects/
 
-resource-3-name: M-19-02, Fiscal Year 2018-2019 Guidance on Federal Information Security and Privacy
-resource-3-url:  https://www.whitehouse.gov/wp-content/uploads/2018/10/M-19-02.pdf
+resource-3-name: Cloud Smart Policy
+resource-3-url:  https://cloud.cio.gov/
+
+resource-4-name: Federal Cyber Reskilling Academy
+resource-4-url:  https://www.cio.gov/reskilling/
 
 
 #***********************FLOATING BOX SECTION*****************************
@@ -46,7 +49,7 @@ KPI-2: "Cloud Email Adoption" #2nd KPI title that pulls in CAP-KPI include
 tag: "IT" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
 CAP-event-title:
 CAP-event-date:
-CAP-event-text: 
+CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
