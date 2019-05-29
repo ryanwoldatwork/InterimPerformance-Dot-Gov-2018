@@ -18,4 +18,5 @@ people:
  - Mitchell	Fiedler
  - Robyn	Nelson
  - Michael	Conlin
+ - Nicholas Lanham
 ---
