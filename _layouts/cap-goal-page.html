@@ -33,9 +33,54 @@ layout: navigation_PMA
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}">Download</a>
             </div>
           <div id="bottom">
-            <center><h3 style="font-size:17px;"><b>&#10077;{{ page.quote }}&#10078;</b></h3>
+            <blockquote-CAP>
+              {{ page.quote }}
+              <cite>{{ page.quote-author }}</cite>
+
+            </blockquote-CAP>
+            <style>
+              blockquote-CAP {
+                font-family: Georgia, serif;
+                font-size: 18px;
+                font-style: italic;
+                width: auto;
+                margin: 0.25em 0;
+                padding-top: 0;
+                padding-left: 1.2em;
+                padding-right: 0;
+                padding-bottom: 0;
+                line-height: 1.45;
+                position: relative;
+                color: #ffffff;
+                align: center;
+                display: block;
+                }
+
+                blockquote-CAP:before {
+                  display: block;
+                  padding-left: 10px;
+                  content: "\201C";
+                  font-size: 60px;
+                  position: absolute;
+                  left: -20px;
+                  top: -30px;
+                  color: #F5F5F5;
+                  }
+                  blockquote-CAP cite {
+                    color: #F5F5F5;
+                    font-size: 14px;
+                    display: block;
+                    margin-top: 5px;
+                    }
+
+                    blockquote-CAP cite:before {
+                    content: "\2014 \2009";
+                    }
+
+              </style>
+            <!--<center><h3 style="font-size:19px;"><b>&#10077;{{ page.quote }}&#10078;</b></h3>
             <h2 style="padding-top:5px;font-size:15px">- {{ page.quote-author }}</h2>
-            </center>
+            </center>-->
           </div>
      </div>
    </div>
