@@ -13,6 +13,7 @@ award: Council #type of award, either Agency, Council, or President's; this is c
 Year: 2018 #variable to be used at later date
 image: "/img/GoG/winners/cao_logo-1.jpg"
 people:
+- Jim Smith
 - Matthew Burniston
 - Caroline Hawkins
 - Rachel Owen
