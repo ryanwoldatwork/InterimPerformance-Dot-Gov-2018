@@ -32,6 +32,7 @@ innovation-title: Coming Soon!
 quote: "Federal Grant Programs support activities that touch every American, such
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
 quote-author: "President's Management Agenda"
+font-size: 17.5px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Results-Oriented_Accountability_for_Grants.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

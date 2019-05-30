@@ -20,6 +20,7 @@ resource-3-url: https://www.cio.gov/about/tbm-cop/
 #***********************FLOATING BOX SECTION*****************************
 quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
+font-size: 19px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Federal_IT_Spending_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

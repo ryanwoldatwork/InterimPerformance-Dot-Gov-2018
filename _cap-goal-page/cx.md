@@ -20,6 +20,7 @@ resource-4-url: https://www.performance.gov/cx/?
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "President's Management Agenda"
+font-size: 20px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

@@ -25,9 +25,11 @@ resource-4-url: https://www.performance.gov/elimination/elimination_of_unnecessa
 
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "The Ofice of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
+quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
 quote-author: "President's Management Agenda"
+font-size: 16.5px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Shifting_From_Low-Value_to_High-Value_Work.pdf"
+
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

@@ -22,6 +22,7 @@ resource-5-url: https://paymentaccuracy.gov/
 #***********************FLOATING BOX SECTION*****************************
 quote: "Historically, the Federal Government has focused on improper payments broadly, including process errors that do not affect money paid, rather than strategically targeting monetary loss to taxpayers." #appears in the gray text box
 quote-author: "President's Management Agenda"
+font-size: 16px
 current-action-plan: "/CAP/CAP/action_plans/FY2018_Q4_Getting_Payments_Right.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

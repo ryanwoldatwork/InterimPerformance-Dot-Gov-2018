@@ -12,7 +12,7 @@ layout: navigation_PMA
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}-->
-        <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}<br><span style="font-size:15px;">{{ page.sub-title }}</span></h1>
+        <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}<br><span style="font-size:27px;">{{ page.sub-title }}</span></h1>
 
         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">News & Events</a>
          {% if page.KPI %}
@@ -41,7 +41,7 @@ layout: navigation_PMA
             <style>
               blockquote-CAP {
                 font-family: Georgia, serif;
-                font-size: 18px;
+                font-size: {{ page.font-size }};
                 font-style: italic;
                 width: auto;
                 margin: 0.25em 0;
@@ -63,7 +63,7 @@ layout: navigation_PMA
                   font-size: 60px;
                   position: absolute;
                   left: -20px;
-                  top: -30px;
+                  top: -20px;
                   color: #F5F5F5;
                   }
                   blockquote-CAP cite {

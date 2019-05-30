@@ -23,6 +23,7 @@ resource-4-url: https://www.sbir.gov/
 #***********************FLOATING BOX SECTION*****************************
 quote: "The drive for excellence, advancement, and innovation in the United States has brought forth significant discoveries, developed life-saving research, and improved the quality of life for millions of Americans." #appears in the gray text box
 quote-author: "President Trump, World Intellectual Property Day proclamation"
+font-size: 14.5px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Lab_to_Market.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

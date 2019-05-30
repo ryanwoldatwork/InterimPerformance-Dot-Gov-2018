@@ -20,7 +20,8 @@ resource-5-url: https://ussm.gsa.gov/fibf/
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Shared services will create efficiencies in government and optimize the workforce by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
-quote-author: OMB M-19-16 Centralized Mission Support Capabilities for the Federal Government
+quote-author: OMB Memo-19-16
+font-size: 17px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Sharing_Quality_Services.pdf"
 #***********************FLOATING BOX SECTION*****************************
 

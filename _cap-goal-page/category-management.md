@@ -26,6 +26,7 @@ resource-4-url: https://hallways.cap.gsa.gov/app/#/gateway/category-management/6
 #***********************FLOATING BOX SECTION*****************************
 quote:  "Category Management is a real game-changer for government acquisition, and it's an exciting time to be a part of this effort." #appears in the gray text box
 quote-author: "Lesley Field, CAP Goal Leader"
+font-size: 19px
 current-action-plan: "/CAP/action_plans/FY2018_Q4_Category_Management.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
