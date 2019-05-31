@@ -1,9 +1,9 @@
 ---
-name: Department of Defense
-title: #job title
+name: Defense Repository for Enterprise Wide Data (ADVANTA)
+title: Department of Defense
 team: yes #mark no if an individual, NO CAPS
-length: short
-
+length: long
+modal: 13 #
 single: no  #mark yes if an individual NO CAPS
 description: Made it easier and faster for DOD to use data to achieve mission outcomes. The team standardized data across 60 systems and improved data security, governance, and compliance.
 #description of why there winning award, in an excel spreadsheet
@@ -13,9 +13,16 @@ award: Agency #type of award, either Agency, Council, or President's; this is ca
 Year: 2018 #variable to be used at later date
 image: "/img/agency/Defense_Department_Seal.png"
 people:
- - Gregory	Little
- - Cynthia	Hufty
- - Mitchell	Fiedler
- - Robyn	Nelson
- - Michael	Conlin
+ - Mr. Gregory Little, (OUSD(C)/CFO) (Lead)
+ - Mr. Victor Buadu, (OUSD(C)/CFO)
+ - Mr. Mitchell Fiedler, (OUSD(C)/CFO)
+ - Ms. Brenna Klein, (OUSD(C)/CFO)
+ - Mr. Scott Young, (OUSD(C)/CFO)
+ - Mr. Ray Bombac, (OCMO)
+ - Mr. Michael Conlin, (DOD CDO)
+ - Ms. Jessica Chao, (OUSD(C)/CFO)
+ - Ms. Cynthia Hufty, (OUSD(C)/CFO)
+ - Mr. Nick Lanham, (OUSD(C)/CFO)
+ - Ms. Robyn Nelson, (DFAS)
+ - Mr. Gamal Salem, (OCMO)
 ---
