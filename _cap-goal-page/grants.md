@@ -37,17 +37,11 @@ current-action-plan: "/CAP/action_plans/FY2018_Q4_Results-Oriented_Accountabilit
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "This goal will: rebalance compliance efforts with a focus on results for the American taxpayer; standardize grant reporting data and improve data collection in ways that will increase efficiency, promote evaluation, reduce reporting burden, and benefit the American taxpayer; measure progress and share lessons learned and best practices to inform future efforts, and support innovation to achieve results." #first accordion text
+statement: "Maximize the value of grant funding by applying a risk-based, data-driven framework that balances compliance requirements with demonstrating successful results for the American taxpayer. " #first accordion text
 
-challenge-bullets: yes
+challenge: "The Federal government uses grants to invest approximately $700 billion each year in mission-critical needs for American taxpayers, but managers report spending 40% of their time using antiquated processes to monitor compliance instead of analyzing data to improve results. "
 
-challenge-bullets-text: "Approximately $700 billion is invested annually through more than 1,800 diverse Federal grant programs listed on CFDA.gov."
-
-challenge-bullet-1: "These funds support activities that touch every American, such as medical research, education, transportation infrastructure, workforce initiatives, economic development, and services for veterans. However, grant managers—including those that administer funds from inside the Federal Government and those from external organizations that receive Federal funds—report spending 40% of their time using antiquated processes to monitor compliance instead of data and analytics to monitor results."
-
-challenge-bullet-2: "The organizations that receive Federal grant funds—from states, localities, and tribes to schools to non-profits—report that this current management framework is overly burdensome and takes away from the missions they are working to deliver. For instance principal investigators of research grants estimate that they spend, on average, 42% of their time meeting requirements, including those associated with pre-and post-award administration and preparation of proposals and reports—rather than conducting active research." #second accordion text
-
-opportunity: "Agencies will be able to articulate clearly the goals of grant programs and the results of Federal investments. Recipients and agencies spend less time on administrative compliance and more effort is put into achieving and reporting program results. " #third accordion text
+opportunity: "Standardize the grants management business process and identify, open, standardize, and link data. Use standard business process and data to identify opportunities to build shared solutions that reduce burden and improve the user experience. Leverage data, including data produced by annual audits, to assess and manage recipient risk. Hold recipients accountable for good performance practices that supports achievement of program goals and objectives and streamline burdensome compliance requirements for those that demonstrate results. " #third accordion text
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Results-Oriented_Accountability_for_Grants.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Results-Oriented_Accountability_for_Grants.pdf"
@@ -71,14 +65,29 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
+goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-name: "Dale Bell"
+goal-leader-title: "Division Director, Institution and Award Support, National Science Foundation"
 
-goal-leader-title: "Senior Advisor, Office of Management and Budget"
-goal-leader-2-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 2
-goal-leader-2-name: "Tim Soltis"
-goal-leader-2-title: "Deputy Controller, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/conley-sheila.png" #Goal leader 2
-goal-leader-3-name: "Sheila Conley"
-goal-leader-3-title: "Deputy Chief Financial Officer, Department of Health and Human Services"
+goal-leader-2-photo: "/img/CAP-photos/conley-sheila.png" #Goal leader 2
+goal-leader-2-name: "Sheila Conley"
+goal-leader-2-title: "Deputy Chief Financial Officer, Department of Health and Human Services"
+
+goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 3
+goal-leader-3-name: "Robin Funston"
+goal-leader-3-title: "Director, Strategic Planning and Performance, Justice Management Division, Department of Justice"
+
+goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 4
+goal-leader-4-title: "Assistance Chief Financial Officer for Systems"
+goal-leader-4-name: "Joseph Hungate III"
+
+goal-leader-5-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 5
+goal-leader-5-name: "Tim Soltis"
+goal-leader-5-title: "Deputy Controller, Office of Management and Budget"
+
+goal-leader-6-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 6
+goal-leader-6-name: "Laura Watson"
+goal-leader-6-title: "Chief Grant Officer, Department of Labor"
 
 #***********************END GOAL LEADER SECTION*****************************8
 
