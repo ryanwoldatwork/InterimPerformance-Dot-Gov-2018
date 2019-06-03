@@ -17,6 +17,9 @@ resource-2-url: https://www.cio.gov/priorities/tbm/
 resource-3-name: "TBM Community of Practice"
 resource-3-url: https://www.cio.gov/about/tbm-cop/
 
+resource-4-name: "TBM Playbook"
+resource-4-url: https://tech.gsa.gov/playbooks/tbm/
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
