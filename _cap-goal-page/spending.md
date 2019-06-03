@@ -74,7 +74,7 @@ goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
 goal-leader-4-name: "Denise Carter"
 goal-leader-4-title: "Acting Assistant Secretary for Finance and Operations, Department of Education"
 
-goal-leader-5-photo: "/img/CAP-photos/kent-suzette.jpeg" #Goal leader 2
+goal-leader-5-photo: "/img/CAP-photos/kent-suzette.jpg" #Goal leader 2
 goal-leader-5-name: "Suzette Kent"
 goal-leader-5-title: "Federal Chief Information Officer, Office of Management and Budget"
 

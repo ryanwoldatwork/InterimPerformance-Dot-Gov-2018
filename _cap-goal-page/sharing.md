@@ -64,7 +64,7 @@ goal-leader-title: "Administrator, General Services Administration"
 goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg" #Goal leader 2
 goal-leader-2-name: "Lesley Field"
 goal-leader-2-title: "Deputy Administrator for Federal Procurement Policy and Shared Services Policy Officer, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/kent-suzette.jpeg" #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/kent-suzette.jpg" #Goal leader 2
 goal-leader-3-name: "Suzette Kent"
 goal-leader-3-title: "Federal Chief Information Officer, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
