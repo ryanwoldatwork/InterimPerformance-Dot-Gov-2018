@@ -57,19 +57,24 @@ CAP-event-text:
 goal-leader-photo: "/img/CAP-photos/shive-david.jpg" #Goal leader 1
 goal-leader-name: "David Shive"
 goal-leader-title: "Chief Information Officer, General Services Administration"
+
 goal-leader-2-photo: "/img/CAP-photos/badorrek-gerard.png" #Goal leader 2
 goal-leader-2-name: "Gerard Badorrek"
 goal-leader-2-title: "Chief Financial Officer, General Services Administration"
+
 goal-leader-3-photo: "/img/CAP-photos/gray-jason.jpg" #Goal leader 2
 goal-leader-3-name: "Jason Gray"
 goal-leader-3-title: "Chief Information Officer, Department of Education"
+
 goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
 goal-leader-4-name: "Denise Carter"
-goal-leader-4-title: "cting Assistant Secretary, Office of Finance and Operations, Department of Education"
-goal-leader-5-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
-goal-leader-6-photo: "/img/CAP-photos/kent-suzette.jpeg" #Goal leader 2
-goal-leader-6-name: "Suzette Kent"
-goal-leader-6-title: "Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-4-title: "Acting Assistant Secretary for Finance and Operations, Department of Education"
+
+goal-leader-5-photo: "/img/CAP-photos/kent-suzette.jpeg" #Goal leader 2
+goal-leader-5-name: "Suzette Kent"
+goal-leader-5-title: "Federal Chief Information Officer, Office of Management and Budget"
+
+
 
 #***********************END GOAL LEADER SECTION*****************************8
 

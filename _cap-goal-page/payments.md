@@ -27,14 +27,15 @@ current-action-plan: "/CAP/CAP/action_plans/FY2018_Q4_Getting_Payments_Right.pdf
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "Reduce the monetary loss to the tax payers by issuing
-payments correctly the first time and, as appropriate,
-recovering funds that were paid incorrectly." #first accordion text
+statement: "Demonstrate stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time." #first accordion text
 
-challenge: While improper payments may compromise citizens' trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. " #second accordion text
+challenge: While improper payments may compromise citizens’ trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. Having the right information and the capacity to address root causes are critical components. " #second accordion text
 
-opportunity: "To improve the efficiencies of government programs by focusing on getting government payments right the first time they are made and reducing the cost associated
-with an incorrect payment. " #third accordion text
+opportunity-bullets: yes
+
+opportunity-bullet-1: "To improve the efficiencies of government programs by focusing on getting government payments right the first time they are made and reducing the cost associated with an incorrect payment." #third accordion text
+
+opportunity-bullet-2: "Build trust in government by better understanding the nature of improper payments and their relationship to payment integrity."
 
 action-2018-Q1: "/CAP/CAP/action_plans/FY2018_Q1_Getting_Payments_Right.pdf"
 action-2018-Q2: "/CAP/CAP/action_plans/FY2018_Q2_Getting_Payments_Right.pdf"
@@ -62,14 +63,14 @@ CAP-event-text:
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 1
-goal-leader-name: "Kristie Conrath"
-goal-leader-title: "Deputy Assistant Secretary for Fiscal Operations And Policy, Department of Treasury"
+goal-leader-name: "Gay Gilbert"
+goal-leader-title: "Administrator, Office of Unemployment Insurance, U.S. Department of Labor"
 goal-leader-2-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
-goal-leader-2-name: "Gay Gilbert"
-goal-leader-2-title: "Administrator, Office of Unemployment Insurance, U.S. Department of Labor"
+goal-leader-2-name: "Jeff Schramek"
+goal-leader-2-title: "Deputy Commissioner, Financial Services and Operations, Bureau of the Fiscal Service"
 goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
-goal-leader-3-name: "Jeff Schramek"
-goal-leader-3-title: "Deputy Commissioner, Financial Services and Operations, Bureau of the Fiscal Service"
+goal-leader-3-name: "Megan Worstell"
+goal-leader-3-title: " Acting Director of the Office of Financial Management and Chief Financial Officer, Centers for Medicare and Medicaid Services"
 goal-leader-4-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 2
 goal-leader-4-name: "Tim Soltis"
 goal-leader-4-title: "Deputy Controller, Office of Management and Budget"

@@ -215,7 +215,14 @@ layout: navigation_PMA
           </button>
         </a>
           <div id="a3" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
-            {{ page.opportunity }}
+            {% if page.opportunity-bullets %}
+            <ul>
+              <li>{{ page.opportunity-bullet-1 }}</li>
+              <li>{{ page.opportunity-bullet-2 }}</li>
+            </ul>
+            {% else %}
+              {{ page.opportunity }}
+            {% endif %}
           </div>
         </li>
         <li>
@@ -319,7 +326,9 @@ layout: navigation_PMA
         <hr style="color:#ffffff;">
         <p style="font-size:1.1em;margin-bottom:0px;"><b>{{ page.CAP-event-title}}</b>, <em>{{ page.CAP-event-date}}</em></p>
         <p style="margin-top:5px;">{{ page.CAP-event-text }}</p>
+        {% if page.CAP-event-button %}
           <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:15px;" href="{{ site.baseurl }}/news">{{ page.CAP-event-button }} &#10095;</a></p>
+        {% endif %}
   {% else %}
   <div class="usa-width-one-whole usa-media_block">
    <h2>News</h2>

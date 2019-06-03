@@ -23,6 +23,10 @@ resource-3-url: https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pd
 resource-4-name: Elimination of Unnecessary Agency Reports
 resource-4-url: https://www.performance.gov/elimination/elimination_of_unnecessary_agency_reports.html
 
+resource-5-name: HUD.gov
+resource-5-url: https://www.hud.gov/
+
+
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
@@ -55,9 +59,9 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "low-to-high" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title:
-CAP-event-date:
-CAP-event-text:
+CAP-event-title: President's Management Council Meeting
+CAP-event-date: July 11, 2019
+CAP-event-text: This PMC meeting will focus on burden reduction.
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
