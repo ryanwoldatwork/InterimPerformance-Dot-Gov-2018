@@ -15,7 +15,7 @@ resource-2-url: https://strategy.data.gov/
 resource-3-name: Federal Data Strategy Proof Points
 resource-3-url: https://strategy.data.gov/proof-points/
 
-resource-4-name: Federal Data Strategy Newsletter
+resource-4-name: Federal Data Strategy News
 resource-4-url: https://strategy.data.gov/news/
 
 resource-5-name: Sign up for the Newsletter
