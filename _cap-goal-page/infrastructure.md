@@ -33,6 +33,7 @@ A public dashboard tracks individual projects at www.permits.performance.gov. " 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Modernize_Infrastructure_Permitting.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Modernize_Infrastructure_Permitting.pdf"
 action-2018-Q3: "/CAP/action_plans/FY2018_Q3_Modernize_Infrastructure_Permitting.pdf"
+action-2018-Q4: "/CAP/action_plans/FY2018_Q4_Modernize_Infrastructure_Permitting.pdf"
 
 #***********************END ACCORDION SECTION*****************************
 

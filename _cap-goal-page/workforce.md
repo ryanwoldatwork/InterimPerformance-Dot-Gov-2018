@@ -35,6 +35,7 @@ opportunity: "To achieve a state where Federal agencies and managers can hire th
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_People_Workforce_for_the_21st_Century.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_People_Workforce_for_the_21st_Century.pdf"
 action-2018-Q3: "/CAP/action_plans/FY2018_Q3_People_Workforce_for_the_21st_Century.pdf"
+action-2018-Q4: "/CAP/action_plans/FY2018_Q4_People_Workforce_for_the_21st_Century.pdf"
 
 #***********************END ACCORDION SECTION*****************************
 
