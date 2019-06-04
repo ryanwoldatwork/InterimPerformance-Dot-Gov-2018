@@ -75,7 +75,7 @@ goal-leader-title: "Associate Director for Performance and Personnel Management,
 goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
 goal-leader-2-name: "Dustin Brown"
 goal-leader-2-title: "Deputy Assistant Director for Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"  #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/r_gaines.jpg"  #Goal leader 2
 goal-leader-3-name: "Ralph H. Gaines"
 goal-leader-3-title: "Chief Operations Officer, Housing and Urban Development"
 #***********************END GOAL LEADER SECTION*****************************8
