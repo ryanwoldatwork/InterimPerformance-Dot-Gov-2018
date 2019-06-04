@@ -10,6 +10,7 @@ url: /CAP/grants/
 
 cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears next to title
 
+resources:
 
 resource-2-name: Grants 101 Training Modules
 resource-2-url:  https://cfo.gov/grants/training/
