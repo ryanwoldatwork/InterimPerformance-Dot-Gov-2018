@@ -63,7 +63,7 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/Gay-Gilbert.jpg" #Goal leader 1
 goal-leader-name: "Gay Gilbert"
 goal-leader-title: "Administrator, Office of Unemployment Insurance, U.S. Department of Labor"
 goal-leader-2-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
