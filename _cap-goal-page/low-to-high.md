@@ -26,6 +26,9 @@ resource-4-url: https://www.performance.gov/elimination/elimination_of_unnecessa
 resource-5-name: HUD.gov
 resource-5-url: https://www.hud.gov/
 
+resource-6-name: PMA One Year of Progress
+resource-6-url: https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf
+
 
 
 #***********************FLOATING BOX SECTION*****************************

@@ -45,7 +45,7 @@ action-2018-Q4: "/CAP/action_plans/FY2018_Q4_Data_Accountability_Transparency.pd
 tag: "data"
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-photo: "/img/CAP-photos/Roat_Head_Shot.jpg"
 goal-leader-name: "Maria Roat"
 goal-leader-title: "Chief Information Officer, Small Business Administration"
 goal-leader-2-photo: "/img/CAP-photos/kelley-karen.jpg"
