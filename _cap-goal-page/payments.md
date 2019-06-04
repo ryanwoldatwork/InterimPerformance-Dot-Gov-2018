@@ -19,6 +19,15 @@ resource-4-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/M-18-20.pd
 resource-5-name: Paymentaccuracy.gov
 resource-5-url: https://paymentaccuracy.gov/
 
+resource-6-name: Podcast with the Association of Government Accountants - Episode 11 - OMB Circular A-123 Appendix C
+resource-6-url:  https://soundcloud.com/user-478171638/episode-11-omb-circular-a-123-appendix-c
+
+resource-7-name: The President’s 2020 Budget - Analytical Perspectives - Payment Integrity Chapter
+resource-7-url:  https://www.whitehouse.gov/wp-content/uploads/2019/03/ap_9_integrity-fy2020.pdf
+
+
+
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Historically, the Federal Government has focused on improper payments broadly, including process errors that do not affect money paid, rather than strategically targeting monetary loss to taxpayers." #appears in the gray text box
 quote-author: "President's Management Agenda"
@@ -49,10 +58,6 @@ cap-kpi-url: /CAP/key_performance_indicators.html/  #if the CAP goal has a KPI, 
 KPI: "Cash Loss to the Government" #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
-resource-1-name:  #resource 1 link name
-resource-1-url:  #resource 1 link
-resource-2-name:
-resource-2-url:
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
