@@ -70,7 +70,7 @@ goal-leader-3-photo: "/img/CAP-photos/gray-jason.jpg" #Goal leader 2
 goal-leader-3-name: "Jason Gray"
 goal-leader-3-title: "Chief Information Officer, Department of Education"
 
-goal-leader-4-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
+goal-leader-4-photo: "/img/CAP-photos/carter-denise.jpg" #Goal leader 2
 goal-leader-4-name: "Denise Carter"
 goal-leader-4-title: "Acting Assistant Secretary for Finance and Operations, Department of Education"
 
