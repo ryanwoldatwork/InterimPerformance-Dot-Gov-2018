@@ -48,11 +48,6 @@ action-2018-Q4: "/CAP/action_plans/FY2018_Q4_Security_Suitability.pdf"
 cap-kpi-url: /CAP/key_performance_indicators.html/  #if the CAP goal has a KPI, it will appear as a button under the title. The button links to the KPI accordion section
 KPI: #KPI title that pulls in CAP-KPI include
 KPI-2: #2nd KPI title that pulls in CAP-KPI include
-
-resource-1-name:  #resource 1 link name
-resource-1-url:  #resource 1 link
-resource-2-name:
-resource-2-url:
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
