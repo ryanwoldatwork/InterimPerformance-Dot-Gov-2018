@@ -60,7 +60,7 @@ goal-leader-title: "Deputy Chief Management Officer, Department of Defense"
 goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg" #Goal leader 2
 goal-leader-2-name: "Peter Warren"
 goal-leader-2-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
 goal-leader-3-name: "Michael Rigas"
 goal-leader-3-title: "Deputy Director, Office of Personnel Management"
 #***********************END GOAL LEADER SECTION*****************************8
