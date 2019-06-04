@@ -58,7 +58,7 @@ CAP-event-text:
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/CAP-photos/copan-walter.jpg" #Goal leader 1
-goal-leader-name: "Walter G. Copan, Ph.D"
+goal-leader-name: "Walter Copan, Ph.D"
 goal-leader-title: "Under Secretary of Commerce for Standards and Technology,
 Director, National Institute of Standards and Technology, U.S. Department of Commerce"
 goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpeg" #Goal leader 2
