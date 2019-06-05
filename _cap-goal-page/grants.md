@@ -27,7 +27,7 @@ listserv-url: 13
 listserv-include: grants-community
 
 innovation: yes
-innovation-title: You're the experts! Join us for monthly innovation sessions to learn about exciting new ideas and approaches to grants management from fellow practitioners.Have an innovation you would like to share? Please email GrantsTeam@omb.eop.gov.
+innovation-title:
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal Grant Programs support activities that touch every American, such
