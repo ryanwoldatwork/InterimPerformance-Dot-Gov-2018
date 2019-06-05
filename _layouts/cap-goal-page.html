@@ -12,17 +12,21 @@ layout: navigation_PMA
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Cross-Cutting Priority Area</a></p>
           {% endif %}-->
-        <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}<br><span style="font-size:27px;">{{ page.sub-title }}</span></h1>
+      <img src="{{ site.baseurl }}{{ page.cap-icon }}" alt="CAP Goal Icon" align="left" id="cap-icon">{{ page.title }}<br><span style="font-size:27px;">{{ page.sub-title }}</span></h1>
 
-        <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">News & Events</a>
-         {% if page.KPI %}
-              <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00a6d2;color:#ffffff;;margin-top:0px;font-weight:600;font-size: 14px;height: 36px;" href="#KPI" id="pulse">Key Performance Indicators</a>
-         {% endif %}
-         <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">Resources</a>
-        {% if page.listserv-title %}
-          <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#openModal{{ page.listserv-url}}">{{ page.listserv-title }}</a>
-            {% include {{ page.listserv-include }}.html %}
-        {% endif %}
+      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">News & Events</a>
+
+   {% if page.KPI %}
+        <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text" style="background-color:#00a6d2;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI" id="pulse">Key Performance Indicators</a>
+   {% endif %}
+
+       <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">Resources</a>
+
+    {% if page.listserv-title %}
+      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#openModal{{ page.listserv-url}}">{{ page.listserv-title }}</a>
+        {% include {{ page.listserv-include }}.html %}
+    {% endif %}
+
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
@@ -343,7 +347,7 @@ blockquote-CAP cite {
         <p style="font-size:1.1em;margin-bottom:0px;"><b>{{ page.CAP-event-title}}</b>, <em>{{ page.CAP-event-date}}</em></p>
         <p style="margin-top:5px;">{{ page.CAP-event-text }}</p>
         {% if page.CAP-event-button %}
-          <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:15px;" href="{{ site.baseurl }}/news">{{ page.CAP-event-button }} &#10095;</a></p>
+          <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:15px;" href="{{ page.event-link }}">{{ page.CAP-event-button }} &#10095;</a></p>
         {% endif %}
   {% else %}
   <div class="usa-width-one-whole usa-media_block">
