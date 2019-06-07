@@ -24,7 +24,7 @@ resource-4-url:  https://www.cio.gov/reskilling/
 quote: "2019 is going to be a great year for citizen and mission results delivered through enabling technology advances." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
+current-action-plan: "/CAP/action_plans/FY2018_Q4_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -37,7 +37,7 @@ opportunity: "There are opportunities to: expand the use of modern commercial te
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_IT_Modernization.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_IT_Modernization.pdf"
 action-2018-Q3: "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
-action-2018-Q4:  "/CAP/action_plans/FY2018_Q3_IT_Modernization.pdf"
+action-2018-Q4:  "/CAP/action_plans/FY2018_Q4_IT_Modernization.pdf"
 
 #***********************END ACCORDION SECTION*****************************
 

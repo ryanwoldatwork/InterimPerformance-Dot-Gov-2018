@@ -21,6 +21,11 @@ resource-3-url:  https://cfo.gov//grants/
 resource-4-name: Search and Apply for Grants
 resource-4-url: https://www.grants.gov/
 
+resource-5-name: Grants Single Audit and Risk Management Industry Demonstration Days
+resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
+
+resource-6-name: Draft Federal Grants Management Data Standards for Feedback
+resource-6-url: https://grantsfeedback.cfo.gov/index.html
 
 listserv-title: Join Community
 listserv-url: 13
