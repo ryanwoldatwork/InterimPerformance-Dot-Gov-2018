@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Improve Management of Major Acquisitions" #page title
 
-permalink: ../CAP/acquisitions/
-url: /CAP/acquisitions/
+permalink: ../CAP/major-acquisitions/
+url: /CAP/major-acquisitions/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -67,7 +67,7 @@ goal-leader-2-title: "Associate Administrator Office of Federal Procurement Poli
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

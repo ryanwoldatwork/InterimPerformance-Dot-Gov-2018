@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Modernize IT to Increase Productivity and Security" #page title
 
-permalink: ../CAP/it-modernization/
-url: /CAP/it-modernization/
+permalink: ../CAP/it-mod/
+url: /CAP/it-mod/
 
 cap-category: "Key Driver of Reform" #category text
 
@@ -69,7 +69,7 @@ goal-leader-2-title: "Federal Chief Information Officer, Office of Management an
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

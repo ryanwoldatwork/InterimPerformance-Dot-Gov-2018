@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Sharing Quality Services" #page title
 
-permalink: ../CAP/sharing/
-url: /CAP/sharing/
+permalink: ../CAP/sharing-quality-services/
+url: /CAP/sharing-quality-services/
 
 cap-icon: "/img/CAP_icons/Icon_Sharing_Quality_gray.png"##### #icon that appears next to title
 
@@ -73,7 +73,7 @@ goal-leader-3-title: "Federal Chief Information Officer, Office of Management an
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

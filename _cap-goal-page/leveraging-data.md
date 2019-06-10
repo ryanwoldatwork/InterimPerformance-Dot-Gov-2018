@@ -3,7 +3,8 @@ layout: cap-goal-page
 
 title: "Leveraging Data as a Strategic Asset" #page title
 
-permalink: /CAP/leveraging-data/
+permalink: ../CAP/leveragingdata/
+url: /CAP/levergingdata/
 
 cap-category: "Key Driver of Reform" #category text
 
@@ -63,7 +64,7 @@ goal-leader-5-title: "Chief Statistician, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "IT Modernization"
-previous-page-url: /CAP/it-modernization
+previous-page-url: /CAP/it-mod
 next-cap-goal-name: "Sharing Quality Services"
 next-page-url: /CAP/sharing-quality-services
 

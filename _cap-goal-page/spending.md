@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Improving Outcomes Through Federal IT Spending Transparency" #page title
 
-permalink: ../CAP/spending/
-url: /CAP/spending/
+permalink: ../CAP/tbm/
+url: /CAP/tbm/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -88,7 +88,7 @@ goal-leader-5-title: "Federal Chief Information Officer, Office of Management an
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Getting Payments Right" #page title
 
-permalink: /CAP/payments/
-url: /CAP/payments/
+permalink: /CAP/getting-payments-right/
+url: /CAP/getting-payments-right/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -87,7 +87,7 @@ goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

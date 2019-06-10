@@ -75,7 +75,7 @@ goal-leader-2-title: "Deputy Administrator for Federal Procurement Policy and Sh
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

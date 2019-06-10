@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Shifting From Low-Value to High-Value Work" #page title
 
-permalink: ../CAP/shifting-low-value-to-high-value-work/
-url: /CAP/shifting-low-value-to-high-value-work/
+permalink: ../CAP/low-value-to-high-value-work/
+url: /CAP/low-value-to-high-value-work/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -84,7 +84,7 @@ goal-leader-3-title: "Chief Operations Officer, Housing and Urban Development"
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

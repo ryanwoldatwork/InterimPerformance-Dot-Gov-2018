@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Improve Transfer of Federally-Funded Technologies from Lab-to-Market" #page title
 
-permalink: ../CAP/lab/
-url: /CAP/lab/
+permalink: ../CAP/labto-market/
+url: /CAP/labto-market/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -70,7 +70,7 @@ goal-leader-2-title: "Deputy Assistant to the President for Technology Policy, O
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

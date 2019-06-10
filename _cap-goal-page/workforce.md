@@ -70,7 +70,7 @@ goal-leader-3-title: "Deputy Director, Office of Personnel Management"
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

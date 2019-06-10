@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Security Clearance, Suitability, and Credentialing Reform" #page title
 
-permalink: ../CAP/credentialing/
-url: /CAP/credentialing/
+permalink: ../CAP/security-clearance-reform/
+url: /CAP/security-clearance-reform/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -74,7 +74,7 @@ goal-leader-3-title: "Deputy Director of Management, Office of Management and Bu
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  

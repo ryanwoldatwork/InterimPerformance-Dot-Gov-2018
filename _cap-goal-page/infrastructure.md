@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Modernizing the Infrastructure Permitting Process" #page title
 
-permalink: ../CAP/infrastructure/
-url: /CAP/infrastructure/
+permalink: ../CAP/permitting/
+url: /CAP/permitting/
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -67,7 +67,7 @@ goal-leader-3-title: "Deputy Assistant Director for Management, Office of Manage
 previous-cap-goal-name: "Overview"
 previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
-next-page-url: /CAP/leveraging-data
+next-page-url: /CAP/leveragingdata
 
 
 ---  
