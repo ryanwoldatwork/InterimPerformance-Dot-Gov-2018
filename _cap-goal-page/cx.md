@@ -21,7 +21,7 @@ resource-4-url: https://www.performance.gov/cx/?
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_Improving_Customer_Experience.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -38,6 +38,8 @@ bullet-4: "Leverage technology to break down barriers and increase communication
 challenge: "Whether seeking a loan, Social Security benefits, veterans benefits, or other services provided by the Federal Government, individuals and businesses expect Government customer services to be efficient and intuitive, just like services from leading private-sector organizations. Yet the 2016 American Consumer Satisfaction Index and the 2017 Forrester Federal Customer Experience Index show that, on average, Government services lag nine percentage points behind the private sector." #second accordion text
 
 opportunity: "A modern, streamlined and responsive customer experience means:  raising government-wide customer experience to the average of the private sector service industry, as measured by external organizations; developing indicators for high-impact Federal programs to monitor progress towards excellent customer experience and mature digital services; providing the structure and resources to ensure customer experience is a focal point for agency leadership; and examples of programs where improved customer service will impact millions of Americans include Federal Student Aid, Airport Security Screening, National Parks, Veterans Health Care, Passport Services, Emergency and Disaster Relief, and Medicare." #third accordion text
+
+action-2019-june: "/CAP/action_plans/june_2019_Improving_Customer_Experience.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Improving_Customer_Experience.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf"

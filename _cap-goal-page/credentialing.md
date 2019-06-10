@@ -14,7 +14,7 @@ cap-icon: "/img/CAP_icons/Icon_Personnel_Vetting_gray.png" #icon that appears ne
 quote: "Now is the time for transformational change in how we vet our workforce. We are committed to reducing the investigation inventory and fundamentally overhauling the process." #appears in the gray text box
 quote-author: "Margaret Weichert, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_Security_Suitability.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -36,6 +36,8 @@ Improved early detection, enabled by an informed, aware, and responsible Federal
 Quality decisions, enabled by improved investigative and adjudicative capabilities;
 Optimized government-wide capabilities through enterprise approaches; and
 Strong partnership with Federal Insider Threat programs to identify, deter, and mitigate problems before they negatively impact the workforce or national security. " #third accordion text
+
+action-2019-june: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Security_Suitability.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Security_Suitability.pdf"
