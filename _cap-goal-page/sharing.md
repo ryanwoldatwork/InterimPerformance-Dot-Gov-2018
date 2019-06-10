@@ -30,7 +30,7 @@ statement: "To create a mission-driven government with modern technology and ser
 
 challenge-bullets: yes
 challenge-bullet-1: "Outdated processes and technology, coupled with a culture of compliance, have created an inflexible mission-support environment."
-challenge-bullet-2: "Common mission support services such as processing hiring transactions, managing finances, closing contracts, and processing payroll more than $25B annually."
+challenge-bullet-2: "Common mission support services, such as processing hiring transactions, managing finances, closing contracts, and processing payroll more than $25B annually."
 challenge-bullet-3: "Rather than economizing by sharing across the Federal government, we duplicate contracts, people, and technology across hundreds of locations. Thirty eight percent of Federal leaders report low satisfaction with mission support." #second accordion text
 
 opportunity: "Improve the efficiency and effectiveness of the Federal

@@ -18,7 +18,7 @@ resource-2-name: M-18-23, Shifting From Low-Value to High-Value Work
 resource-2-url: https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf
 
 resource-3-name: M-17-26, Reducing Burden for Federal Agencies by Rescinding and Modifying OMB Memoranda
-resource-3-url: https://www.whitehouse.gov/wp-content/uploads/2018/08/M-18-23.pdf
+resource-3-url: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/M-17-26.pdf
 
 resource-4-name: Elimination of Unnecessary Agency Reports
 resource-4-url: https://www.performance.gov/elimination/elimination_of_unnecessary_agency_reports.html
