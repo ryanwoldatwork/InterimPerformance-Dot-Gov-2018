@@ -24,7 +24,7 @@ resource-4-url: https://tech.gsa.gov/playbooks/tbm/
 quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 19px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_Federal_IT_Spending_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Federal_IT_Spending_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -36,6 +36,8 @@ challenge: "The Federal Government spends at least $90 billion annually on IT, a
 The FY 2018 President’s Budget reported 84% of the total Federal IT budget categorized as “other,” as opposed to being clearly tied to a specific IT category of spend. This lack of granularity makes it difficult to baseline Federal investments and show the public whether Government is spending taxpayer dollars effectively in order to drive the large scale change needed to improve business transformation and citizen services. In the spring of 2017, Office of Management and Budget guidance called on agencies to begin adopting elements of the Technology Business Management framework - an open source standard for IT costs. This will provide more granularity in IT spend based upon a taxonomy broadly accepted across both private and public sector organizations." #second accordion text
 
 opportunity: "The Technology Business Management (TBM) Framework will enable the Federal Government to:   run IT like a business; drive innovation and business transformation; improve services to citizens; add cost transparency; and increase accountability to taxpayers. " #third accordion text
+
+action-2019-june: "/CAP/action_plans/june_2019_Federal_IT_Spending_Transparency.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Federal_IT_Spending_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Federal_IT_Spending_Transparency.pdf"

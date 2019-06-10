@@ -24,7 +24,7 @@ resource-4-url: https://www.sbir.gov/
 quote: "The drive for excellence, advancement, and innovation in the United States has brought forth significant discoveries, developed life-saving research, and improved the quality of life for millions of Americans." #appears in the gray text box
 quote-author: "President Trump, World Intellectual Property Day proclamation"
 font-size: 14.5px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_Lab_to_Market.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Lab_to_Market.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -33,6 +33,8 @@ statement: "This goal will:   improve the transition of federally funded innovat
 challenge: "The Federal Government invests approximately $150 billion annually in research and development conducted at Federal laboratories, universities, and other research organizations. For America to maintain its position as the leader in global innovation, bring products to market more quickly, grow the economy, and maintain a strong national security innovation base, it is essential to optimize technology transfer and support programs to increase the return on investment (ROI) from federally funded R&D." #second accordion text
 
 opportunity: "Agencies will develop and implement stakeholder- informed action plans, which may include improved Federal practices and policies, regulatory reform, and legislative proposals; increase interactions with private sector experts; identify, share, and adopt best practices for technology transfer; and increase the transfer of federally funded innovations from lab to market." #third accordion text
+
+action-2019-june: "/CAP/action_plans/june_2019_Lab_to_Market.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Lab_to_Market.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Lab_to_Market.pdf"

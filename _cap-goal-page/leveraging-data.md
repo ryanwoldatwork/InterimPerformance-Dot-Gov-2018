@@ -26,7 +26,7 @@ resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 quote-author: "Pradeep Belur, SBA Official"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_Data_Accountability_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -37,6 +37,9 @@ challenge: "The use of data is transforming society, business, and the economy. 
 #third accordion text
 opportunity: "There are opportunities to: develop a long-term, enterprise-wide Federal Data Strategy to better govern and leverage the Federal Government’s data; enable government data to be accessible and useful for the American public, businesses, and researchers; improve the use of data for decision-making and accountability for the Federal Government, including for policy-making, innovation, oversight, and learning."
 #action plan links
+
+action-2019-june: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
+
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Data_Accountability_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Data_Accountability_Transparency.pdf"
 action-2018-Q3: "/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pdf"

@@ -22,7 +22,7 @@ resource-4-url: https://community.max.gov/pages/viewpage.action?spaceKey=HHS&tit
 quote: "The mission demands a federal workforce that's flexible and resilient enough to accommodate the ever-changing nature of work. And it must bring out the best in civil servants." #appears in the gray text box
 quote-author: "Peter Warren"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_People_Workforce_for_the_21st_Century.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -31,6 +31,8 @@ statement: "Effective and efficient mission achievement and improved service to 
 challenge: "The challenges include: parts of today’s personnel system are a relic of an earlier era that ill-serves Federal managers and employees; the Federal personnel system is unduly complex leading to a focus on compliance and transaction management rather than results and customer service; instead of agencies determining the best way to accomplish the mission, they map jobs in a fixed manner with outdated processes and functions; not aligning the workforce to mission requirements means the workforce is not being leveraged to meet emerging needs; HR IT systems are antiquated and not interoperable." #second accordion text
 
 opportunity: "To achieve a state where Federal agencies and managers can hire the best employees, remove the worst employees, and engage employees at all levels of the organization. The Government must put a framework in place that drives and encourages strategic human capital management." #third accordion text
+
+action-2019-june: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_People_Workforce_for_the_21st_Century.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_People_Workforce_for_the_21st_Century.pdf"
