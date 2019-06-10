@@ -38,7 +38,7 @@ current-action-plan: "/CAP/CAP/action_plans/FY2018_Q4_Getting_Payments_Right.pdf
 #***********************ACCORDION SECTION*****************************
 statement: "Demonstrate stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time." #first accordion text
 
-challenge: While improper payments may compromise citizens’ trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. Having the right information and the capacity to address root causes are critical components. " #second accordion text
+challenge: While improper payments may compromise citizens’ trust in government, they are not always indicative of fraud, nor do they necessarily represent payments that should not have been made. Having the right information and the capacity to address root causes are critical components. #second accordion text
 
 opportunity-bullets: yes
 
