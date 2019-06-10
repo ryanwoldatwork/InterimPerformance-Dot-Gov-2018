@@ -34,7 +34,7 @@ layout: navigation_PMA
         <div class="cap-box" style="margin-top:30px;">
           <div id="top">
             <p>Download the latest Action Plan and Progress Update</p>
-            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}" target="_blank"><p>Download</p></a>
+            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}" target="_blank"><b>Download</b></a>
             </div>
           <div id="bottom">
             <blockquote-CAP>
@@ -236,6 +236,12 @@ blockquote-CAP cite {
             <img class="usa-media_block-img" src="{{ site.baseurl }}/img/action-plan-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Action Plans and Updates
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+      <div class="usa-grid usa-graphic_list-row">
+        <div class="usa-width-one-half usa-media_block">
+            <p><a href="{{ site.baseurl }}{{ page.action-2019-june }}" target="_blank"><b>Download the June 2019 Action Plan</b></a>
+            </p>
+         </div>
+        <div class="usa-width-one-half usa-media_block">
             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q4 }}" target="_blank"><b>Download the December 2018 Action Plan</b></a>
             </p>
             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q3 }}" target="_blank"><b>Download the September 2018 Action Plan</b></a>
@@ -244,6 +250,8 @@ blockquote-CAP cite {
             </p>
              <p><a href="{{ site.baseurl }}{{ page.action-2018-Q1 }}" target="_blank"><b>Download the March 2018 Action Plan</b></a>
              </p>
+         </div>
+         </div>
           </div>
         </li>
         {% if page.KPI %}
