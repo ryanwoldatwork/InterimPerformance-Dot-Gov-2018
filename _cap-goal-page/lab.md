@@ -3,8 +3,8 @@ layout: cap-goal-page
 
 title: "Improve Transfer of Federally-Funded Technologies from Lab-to-Market" #page title
 
-permalink: ../CAP/labto-market/
-url: /CAP/labto-market/
+permalink: ../CAP/lab-to-market/
+url: /CAP/lab-to-market/
 
 #cap-category: "Key Driver of Reform" #category text
 
