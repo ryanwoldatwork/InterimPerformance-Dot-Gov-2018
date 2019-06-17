@@ -42,14 +42,14 @@
 
 
 - title: Cash Loss to the Government
-  updated: (Updated February 2019)
+  updated: (Updated June 2019)
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7867
   pdf_url: /CAP/Improper_Payments.pdf
-  img: /CAP/Improper_payments.JPG
+  img: /CAP/Cash_Loss_capture.PNG
   url: /CAP/CAP_goal_9.html
   name: Getting Payments Right
   CAP-url: /CAP/CAP_goal_9.html
-  data_url: /CAP/KPI/Cash Loss to the Government_KPI Data_FY19Q1
+  data_url: /CAP/KPI/Cash_Loss_Government_KPI Data_June2019.xlsx
 
 
 - title: Cloud Email Adoption
