@@ -20,9 +20,25 @@ authors:
 - Performance.gov Team
 
 tags:
-- APG
 - quarterly update
-
+- CAP goal
+- APG
+- PMA
+- success story
+- IT
+- sharing
+- data
+- workforce
+- cx
+- low-to-high
+- cm
+- grants
+- payments
+- spending
+- acquisition
+- infrastructure
+- credentialing
+- lab
 ---
 
 

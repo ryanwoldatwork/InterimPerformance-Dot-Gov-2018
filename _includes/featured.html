@@ -35,10 +35,12 @@
     <div id="right">
       <span class="card-tag-text" style="color:#ffffff;">Tags:</span>
     {% for tag in include.tags %}
-      <span class="usa-label" >
-        <a style="color:#ffffff;" href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}
-        </a>
-      </span>
+      {% unless tag == 'sharing' or tag == 'IT' or tag == 'data' %}
+        <span class="usa-label" >
+          <a style="color:#ffffff;" href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}
+          </a>
+        </span>
+      {% endunless %}
       {% endfor %}
     </div>
       <!--<p style="color:#ffffff;" class="card-description">{{ include.description }}</p>-->
