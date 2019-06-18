@@ -14,18 +14,18 @@
   kpi_url:
   pdf_url: /CAP/KPI_Category_Management_FY2018_Q4.pdf
   img: /CAP/Spend_Under_Management.JPG
-  url: /CAP/category-management.html
+  url: /CAP/category-management/
   name: Category Management
-  CAP-url: /CAP/category-management.html
+  CAP-url: /CAP/category-management/
 
 - title: Federal Employee Viewpoint Survey
   updated: (Updated December 2018)
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7865
   pdf_url: /CAP/EVS_Final_Round.pdf
   img: /CAP/EVS_Final_Round-1.JPG
-  url: /CAP/workforce.html
+  url: /CAP/workforc/
   name: Workforce for the 21st Century
-  CAP-url: /CAP/workforce.html
+  CAP-url: /CAP/workforce/
   data_url: /CAP/KPI/Federal Employee Viewpoint Survey_KPI Data_FY18Q4.xlsx
 
 
