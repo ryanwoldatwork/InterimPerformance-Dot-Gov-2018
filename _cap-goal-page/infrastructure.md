@@ -62,7 +62,7 @@ goal-leader-2-name: "Alex Herrgott"
 goal-leader-2-title: "Executive Director, Federal Permitting Improvement Steering Council"
 goal-leader-3-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
 goal-leader-3-name: "Dustin Brown"
-goal-leader-3-title: "Deputy Assistant Director for Management, Office of Management & Budget"
+goal-leader-3-title: "Deputy Assistant Director for Management, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
