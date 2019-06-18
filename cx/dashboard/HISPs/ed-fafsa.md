@@ -8,7 +8,7 @@ permalink: /cx/dashboard/ed/fafsa/
 <div class="cx-profile-heading usa-grid-full" markdown="1">
 
 <div class="usa-width-one-fourth cx-agency-logo">
-	<img src="/img/agency/Education_Department_Seal.png" alt="Department of Education seal">
+	<img src="{{ site.baseurl }}/img/agency/Education_Department_Seal.png" alt="Department of Education seal">
 </div>
 
 <div class="cx-hisp-intro usa-width-three-fourths" markdown="1">
