@@ -45,11 +45,13 @@
   updated: (Updated June 2019)
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7867
   pdf_url: /CAP/Improper_Payments.pdf
+
   img: /CAP/Improper_payments.JPG
-  url: /CAP/getting-payments-right.html
+  url: /CAP/getting-payments-right/
   name: Getting Payments Right
-  CAP-url: /CAP/getting-payments-right.html
+  CAP-url: /CAP/getting-payments-right/
   data_url: /CAP/KPI/Cash-Loss-Workbook-FY2019Q2.xlsx
+
 
 
 - title: Cloud Email Adoption
