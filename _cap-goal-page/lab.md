@@ -26,7 +26,8 @@ resource-4-url: https://www.sbir.gov/
 quote: "The drive for excellence, advancement, and innovation in the United States has brought forth significant discoveries, developed life-saving research, and improved the quality of life for millions of Americans." #appears in the gray text box
 quote-author: "President Trump, World Intellectual Property Day proclamation"
 font-size: 14.5px
-current-action-plan: "/CAP/action_plans/FY2018_Q4_Lab_to_Market.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Lab_to_Market.pdf"
+
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -36,7 +37,7 @@ challenge: "The Federal Government invests approximately $150 billion annually i
 
 opportunity: "Agencies will develop and implement stakeholder- informed action plans, which may include improved Federal practices and policies, regulatory reform, and legislative proposals; increase interactions with private sector experts; identify, share, and adopt best practices for technology transfer; and increase the transfer of federally funded innovations from lab to market." #third accordion text
 
-action-2019-june: 
+action-2019-june: /CAP/action_plans/june_2019_Lab_to_Market.pdf
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Lab_to_Market.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Lab_to_Market.pdf"
