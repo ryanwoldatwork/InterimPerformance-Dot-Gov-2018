@@ -52,7 +52,7 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
-tag: "acquisitions" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
+tag: "acquisition" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
 CAP-event-title:
 CAP-event-date:
 CAP-event-text:
