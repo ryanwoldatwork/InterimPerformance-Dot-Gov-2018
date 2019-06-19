@@ -10,7 +10,7 @@ permalink: /Summer-Updates-Show-Progress/
 
 summary: summary_large_image
 
-agency: 
+agency:
 
 description: Today, teams tasked with implementing the Federal government’s high-priority initiatives released their June 2019 progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs).
 
@@ -29,5 +29,19 @@ tags:
 - APG
 - PMA
 - success story
+- IT
+- sharing
+- data
+- workforce
+- cx
+- low-to-high
+- cm
+- grants
+- payments
+- spending
+- acquisition
+- infrastructure
+- credentialing
+- lab
 
 ---

@@ -28,6 +28,8 @@ tags:
 - CAP goal
 - event
 - OMB
+- sharing
+- payments
 ---
 
 <div class="usa-width-one-whole">

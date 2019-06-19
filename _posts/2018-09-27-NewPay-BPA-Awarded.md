@@ -27,6 +27,7 @@ tags:
 - PMA
 - GSA
 - CAP goal
+- acquisition
 
 ---
 
