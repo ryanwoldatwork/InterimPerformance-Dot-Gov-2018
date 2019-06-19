@@ -15,6 +15,7 @@ cap-icon: "/img/CAP_icons/Icon_Personnel_Vetting_gray.png" #icon that appears ne
 redirect_from: "/CAP/CAP_goal_7.html"
 
 resource-2-name: Coming soon!
+resource-2-url:  ##
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Now is the time for transformational change in how we vet our workforce. We are committed to reducing the investigation inventory and fundamentally overhauling the process." #appears in the gray text box
