@@ -36,7 +36,6 @@ challenge: "The Federal Government invests approximately $150 billion annually i
 
 opportunity: "Agencies will develop and implement stakeholder- informed action plans, which may include improved Federal practices and policies, regulatory reform, and legislative proposals; increase interactions with private sector experts; identify, share, and adopt best practices for technology transfer; and increase the transfer of federally funded innovations from lab to market." #third accordion text
 
-action-2019-june: "/CAP/action_plans/june_2019_Lab_to_Market.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Lab_to_Market.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Lab_to_Market.pdf"
