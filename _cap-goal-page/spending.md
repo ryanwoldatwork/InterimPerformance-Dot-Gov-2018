@@ -6,7 +6,7 @@ title: "Improving Outcomes Through Federal IT Spending Transparency" #page title
 permalink: ../CAP/tbm/
 url: /CAP/tbm/
 
-redirect_from: "/CAP/CAP_goal_3.html"
+redirect_from: "/CAP/CAP_goal_10.html"
 
 #cap-category: "Key Driver of Reform" #category text
 
