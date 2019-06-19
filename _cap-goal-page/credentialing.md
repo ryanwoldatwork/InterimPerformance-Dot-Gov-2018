@@ -11,9 +11,6 @@ redirect_from: "/CAP/CAP_goal_13.html"
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Personnel_Vetting_gray.png" #icon that appears next to title
-
-redirect_from: "/CAP/CAP_goal_7.html"
-
 resource-2-name: Coming soon!
 resource-2-url:  ##
 
