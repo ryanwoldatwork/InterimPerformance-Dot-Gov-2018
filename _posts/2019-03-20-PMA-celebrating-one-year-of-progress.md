@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "Celebrating One Year of Progress: The President's Management Agenda Anniversary Report"
 
-rating: "1"
+rating: "0"
 
 permalink: /PMA-celebrating-one-year-of-progress/
 

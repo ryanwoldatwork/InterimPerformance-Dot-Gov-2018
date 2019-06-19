@@ -20,6 +20,7 @@ authors:
 tags:
 - OMB
 - CAP goal
+- spending
 
 ---
 

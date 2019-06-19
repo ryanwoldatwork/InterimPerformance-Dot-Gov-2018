@@ -21,6 +21,22 @@ authors:
 tags:
 - strategic objectives
 - APG
+- IT
+- sharing
+- data
+- workforce
+- cx
+- low-to-high
+- cm
+- grants
+- payments
+- spending
+- acquisition
+- infrastructure
+- credentialing
+- lab
+
+
 
 ---
 
