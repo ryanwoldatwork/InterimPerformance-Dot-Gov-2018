@@ -6,6 +6,8 @@ title: "Improve Management of Major Acquisitions" #page title
 permalink: ../CAP/major-acquisitions/
 url: /CAP/major-acquisitions/
 
+redirect_from: "/CAP/CAP_goal_11.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Achieve_Transformative_gray.png" #icon that appears next to title
