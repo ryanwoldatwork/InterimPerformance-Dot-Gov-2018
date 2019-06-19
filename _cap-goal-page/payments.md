@@ -6,6 +6,8 @@ title: "Getting Payments Right" #page title
 permalink: /CAP/getting-payments-right/
 url: /CAP/getting-payments-right/
 
+redirect_from: "/CAP/CAP_goal_9.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Getting_Payments_gray.png" #icon that appears next to title

@@ -6,6 +6,8 @@ title: "Leveraging Data as a Strategic Asset" #page title
 permalink: ../CAP/leveragingdata/
 url: /CAP/levergingdata/
 
+redirect_from: "/CAP/CAP_goal_2.html"
+
 cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Federal_Data_gray.png" #icon that appears next to title

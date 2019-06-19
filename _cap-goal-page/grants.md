@@ -6,6 +6,9 @@ title: "Results-Oriented Accountability for Grants" #page title
 permalink: ../CAP/grants/
 url: /CAP/grants/
 
+redirect_from: "/CAP/CAP_goal_8.html"
+
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears next to title

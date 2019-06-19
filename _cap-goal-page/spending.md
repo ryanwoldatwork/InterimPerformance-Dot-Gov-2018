@@ -6,6 +6,8 @@ title: "Improving Outcomes Through Federal IT Spending Transparency" #page title
 permalink: ../CAP/tbm/
 url: /CAP/tbm/
 
+redirect_from: "/CAP/CAP_goal_3.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Improving_Outcomes_gray.png" #icon that appears next to title

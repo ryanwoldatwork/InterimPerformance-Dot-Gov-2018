@@ -6,6 +6,8 @@ title: "Shifting From Low-Value to High-Value Work" #page title
 permalink: ../CAP/low-value-to-high-value-work/
 url: /CAP/low-value-to-high-value-work/
 
+redirect_from: "/CAP/CAP_goal_6.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 

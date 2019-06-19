@@ -6,6 +6,8 @@ title: "Modernize IT to Increase Productivity and Security" #page title
 permalink: ../CAP/it-mod/
 url: /CAP/it-mod/
 
+redirect_from: "/CAP/CAP_goal_1.html"
+
 cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_IT_gray.png" #icon that appears next to title

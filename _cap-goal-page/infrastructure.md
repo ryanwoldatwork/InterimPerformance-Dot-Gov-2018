@@ -6,6 +6,8 @@ title: "Modernizing the Infrastructure Permitting Process" #page title
 permalink: ../CAP/permitting/
 url: /CAP/permitting/
 
+redirect_from: "/CAP/CAP_goal_12.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Modernize_Infrastructure_gray.png" #icon that appears next to title

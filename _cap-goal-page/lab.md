@@ -6,6 +6,8 @@ title: "Improve Transfer of Federally-Funded Technologies from Lab-to-Market" #p
 permalink: ../CAP/lab-to-market/
 url: /CAP/lab-to-market/
 
+redirect_from: "/CAP/CAP_goal_14.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Enhance_Technology_gray.png" #icon that appears next to title

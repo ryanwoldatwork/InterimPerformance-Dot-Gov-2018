@@ -6,6 +6,8 @@ title: "Improving Customer Experience with Federal Services" #page title
 permalink: ../CAP/cx/
 url: /CAP/cx/
 
+redirect_from: "/CAP/CAP_goal_4.html"
+
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
 
 resource-2-name: GPRA Modernization Act, OMB Circular A-11, Part 6A-11, part 6, section 280 guidance

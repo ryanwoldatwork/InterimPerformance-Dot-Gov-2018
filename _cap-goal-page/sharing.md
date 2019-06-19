@@ -6,6 +6,9 @@ title: "Sharing Quality Services" #page title
 permalink: ../CAP/sharing-quality-services/
 url: /CAP/sharing-quality-services/
 
+redirect_from: "/CAP/CAP_goal_5.html"
+
+
 cap-icon: "/img/CAP_icons/Icon_Sharing_Quality_gray.png"##### #icon that appears next to title
 
 resource-3-name: OMB Memo 19-16

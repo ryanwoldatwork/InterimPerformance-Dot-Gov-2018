@@ -7,6 +7,8 @@ sub-title: "Leveraging Common Contracts and Best Practices to Drive Savings and 
 permalink: ../CAP/category-management/
 url: /CAP/category-management/
 
+redirect_from: "/CAP/CAP_goal_7.html"
+
 #cap-category: "Key Driver of Reform" #category text
 
 cap-icon: "/img/CAP_icons/Icon_Category_Management_gray.png" #icon that appears next to title
