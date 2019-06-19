@@ -28,6 +28,7 @@ tags:
 - CAP goal
 - APG
 - PMA
+- grants
 
 ---
 The Results-Oriented Accountability for Grants CAP Goal Team is hosting Single Audit and Risk Management Industry Demonstration

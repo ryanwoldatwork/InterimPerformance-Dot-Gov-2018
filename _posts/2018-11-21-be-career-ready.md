@@ -25,7 +25,7 @@ tags:
 - PMA
 - CAP goal
 - success story
-
+- workforce
 ---
 
 November is National Career Development Month and there’s no better time to share what the Administration is doing to help reskill and retrain our Federal workforce to better serve the American people for the 21st century.
