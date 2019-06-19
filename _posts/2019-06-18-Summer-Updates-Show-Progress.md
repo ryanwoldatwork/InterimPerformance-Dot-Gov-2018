@@ -45,7 +45,7 @@ tags:
 - lab
 
 ---
-June 20, 2019 - Today, teams tasked with implementing the Federal government’s high-priority initiatives released their June 2019 progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs).
+**June 20, 2019** - Today, teams tasked with implementing the Federal government’s high-priority initiatives released their June 2019 progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs).
 
 These updates reflect progress made since our last update in December 2018, showcasing recently completed and upcoming milestones and performance accomplishments achieved as teams continue to use these goals to advance mission, service, and stewardship outcomes on behalf of the American people.
 
