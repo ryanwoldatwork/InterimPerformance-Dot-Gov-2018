@@ -6,6 +6,8 @@ title: "Developing a Workforce for the 21st Century" #page title
 permalink: ../CAP/workforce/
 url: /CAP/workforce/
 
+redirect_from: "/CAP/CAP_goal_1.html"
+
 cap-icon: "/img/CAP_icons/Icon_Workforce_gray.png" #icon that appears next to title
 
 resource-2-name: Website - Unlocking Federal Talent
