@@ -70,7 +70,7 @@ goal-leader-title: "Acting Deputy Secretary, Department of Veterans Affairs"
 goal-leader-2-photo: "/img/CAP-photos/cutts-matt.jpg" #Goal leader 2
 goal-leader-2-name: "Matt Cutts"
 goal-leader-2-title: "Acting Administrator, U.S. Digital Service"
-goal-leader-3-photo: "/img/CAP-photos/bussow-mark.jpg" #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
 goal-leader-3-name: "Dustin Brown"
 goal-leader-3-title: "Deputy Assistant Director for Management, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
