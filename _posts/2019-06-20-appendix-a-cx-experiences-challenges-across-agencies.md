@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Customer Experience Challenges across Agencies (Appendix A)"
+title: "Customer Experience Challenges across Agencies"
 
 rating: "0"
 
