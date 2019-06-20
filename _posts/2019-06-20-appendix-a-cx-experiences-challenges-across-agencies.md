@@ -17,7 +17,7 @@ description: Reflections from High-Impact Program CX Maturity Assessments
 excerpt: Improving the public’s trust in government happens interaction by interaction, and must act to improve every moment that we can. 
 
 
-image: "/img/blog/cx-appendix.jpg"
+image: "/img/blog/cx-blog-1.jpg"
 alt-text: "CX appendix a graphic"
 
 authors:
