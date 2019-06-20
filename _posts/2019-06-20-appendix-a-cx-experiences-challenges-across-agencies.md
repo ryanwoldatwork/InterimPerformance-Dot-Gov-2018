@@ -14,7 +14,7 @@ agency:
 
 description: Reflections from High-Impact Program CX Maturity Assessments 
 
-excerpt: Improving the public’s trust in government happens interaction by interaction, and must act to improve every moment that we can. 
+excerpt: Improving the public’s trust in government happens interaction by interaction, and we must act to improve every moment that we can. 
 
 
 image: "/img/blog/cx-blog-1.jpg"
