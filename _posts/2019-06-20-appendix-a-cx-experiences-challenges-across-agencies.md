@@ -5,16 +5,16 @@ title: "Customer Experience Challenges across Agencies (Appendix A)"
 
 rating: "0"
 
-permalink: /cx-appendix-a/
+permalink: /cx-challenges-across-agencies/
 
 
 summary: summary_large_image
 
 agency:
 
-description: Customer Experience Challenges across Agencies (Appendix A)
+description: Customer Experience Challenges across Agencies
 
-excerpt: Customer Experience Challenges across Agencies (Appendix A)
+excerpt: Customer Experience Challenges across Agencies
 
 
 image: "/img/blog/cx-appendix.jpg"
