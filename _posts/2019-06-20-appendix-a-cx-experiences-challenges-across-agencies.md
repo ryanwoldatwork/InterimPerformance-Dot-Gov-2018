@@ -1,27 +1,27 @@
 ---
 layout: post
 
-title: "Customer Experience Challenges across Agencies"
+title: "Improving the Customer Experience Government-wide"
 
 rating: "0"
 
-permalink: /cx-challenges-across-agencies/
+permalink: /improving-cx-governmentwide/
 
 
 summary: summary_large_image
 
 agency:
 
-description: Customer Experience Challenges across Agencies
+description: Improving the Customer Experience Government-wide
 
-excerpt: Customer Experience Challenges across Agencies
+excerpt: Improving the Customer Experience Government-wide
 
 
 image: "/img/blog/cx-appendix.jpg"
 alt-text: "CX appendix a graphic"
 
 authors:
-- CX Team
+- CX CAP Goal Team
 
 tags:
 - quarterly update
@@ -29,7 +29,7 @@ tags:
 - PMA
 - cx
 ---
-From small businesses seeking loans, to families receiving disaster support, to someone passing through an airport security line - every interaction between the Federal government and the public is an opportunity to demonstrate the government understands and is working to meet their needs.  For an individual, this can mean less time in a government office or on the phone with a help desk. Collectively, these interactions are a powerful opportunity to demonstrate to citizens that their government is working for them. According to recent research, as much as 67% of trust in government can be explained by customer service.[^1]   This means that improving the public’s trust in government happens interaction by interaction, and that we must act to improve every interaction we can.  In addition to increasing trust, improving customer experience has also been demonstrated to improve outcomes such as saving costs, reducing risk, and more effectively achieving stated missions.[^2]
+From small businesses seeking loans, to families receiving disaster support, to someone passing through an airport security line - every interaction between the Federal government and the public is an opportunity to demonstrate the government understands and is working to meet their needs.  For an individual, this can mean less time in a government office or on the phone with a help desk. Collectively, these interactions are a powerful opportunity to demonstrate to citizens that their government is working for them. According to recent research, as much as 67% of trust in government can be explained by customer experience.[^1]   This means that improving the public’s trust in government happens interaction by interaction, and that we must act to improve every moment that we can.  In addition to increasing trust, improving customer experience has also been demonstrated to improve outcomes such as saving costs, reducing risk, and more effectively achieving stated missions.[^2]
 
 The 2018 update of the Federal Performance Framework (OMB Circular A-11, Section 280) provides first-of-its-kind guidance aimed at embedding customer experience management as a critical component of agency operations. The primary focus is on 25 High Impact Service Providers (HISPs) across 14 agencies, identified because of the scale and impact their customer facing services have on the American public. With just these 25 programs, the Federal government touches nearly every American.  This makes the HISP customer interactions an incredible opportunity to rebuild trust in our government.
 
@@ -39,7 +39,7 @@ These service providers are advancing their organization’s CX maturity and gat
 2.	Facilitate intra-agency conversations across functions that execute Federal programs; and,
 3.	Identify CX challenges and opportunities government-wide to focus service delivery improvement efforts.
 
-This winter, the CX CAP Goal Team discussed the results of these assessments with each HISP. We were inspired by the impressive public servants across government who are deeply connected to their mission and the people that they serve. A number of themes emerged across programs from these discussions.  These include:
+This past winter, the CX CAP Goal Team discussed the results of these assessments with each HISP. We were inspired by the impressive public servants across government who are deeply connected to their mission and the people that they serve. A number of themes emerged across programs from these discussions.  These include:
 
 - **Customers experience life events, not Federal agencies.** Traveling out of the country requires getting a passport from the Department of State, going through a Transportation Safety Administration security line, and declaring goods to Customs and Border Protection. Exporting your first shipment from your small business could require interacting with no fewer than five Federal entities. Completing research across multiple Federal websites, varying eligibility criteria, definition of terms and more are not setup for actual experiences, but along appropriation language, statute, and individual agency policies. Oftentimes individuals hit the limits of support based on an agency mandate rather than a customer need, or the fact that another agency or program might meet that need somewhere else. Interactions with one agency could even have unintended consequences or impacts later with another entity of government.
 
@@ -61,5 +61,5 @@ While each program faces a unique set of challenges, the CX CAP Goal Team also i
 
 We’re using these findings to prioritize the development of centralized resources and support to help improve the customer experience government-wide.
 
-[^1]: 2018 Public Sector Journey Benchmark research conducted by McKinsey (link forthcoming)
-[^2]: 2018 Public Sector Journey Benchmark research conducted by McKinsey (link forthcoming)
+[^1]: <a href="https://www.mckinsey.com/industries/public-sector/our-insights/improving-the-customer-experience-to-achieve-government-agency-goals">2018 Public Sector Journey Benchmark research conducted by McKinsey</a> 
+[^2]: <a href="https://www.mckinsey.com/industries/public-sector/our-insights/improving-the-customer-experience-to-achieve-government-agency-goals">2018 Public Sector Journey Benchmark research conducted by McKinsey</a> 
