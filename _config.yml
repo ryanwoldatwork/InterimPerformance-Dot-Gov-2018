@@ -20,6 +20,8 @@ collections:
     permalink: /:path
   GoG-presidents-winners:
     output: true
+  cap-goal-page:
+    output: true
 
 
 defaults:
