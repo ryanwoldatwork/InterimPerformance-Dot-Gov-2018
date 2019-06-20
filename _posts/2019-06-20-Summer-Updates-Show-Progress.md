@@ -79,3 +79,16 @@ The VA is using predictive analytics to identify people at risk for suicide, ove
 **[Small Business Administration (SBA) - Increase 8(a) Awards](https://www.performance.gov/SBA/APG_sba_2.html):** The SBA increased the number of federal contracts awarded to disadvantaged small businesses (8(a)-certified firms) by 10% since 2017.
 
 **[Department of Commerce (DOC) - Remove Foreign Trade Barriers](https://www.performance.gov/commerce/APG_commerce_4.html):** In the first half of FY19, DOC successfully resolved 66 trade barrier cases, facilitating fair competition in international trade for U.S. businesses. Preliminary estimates show this work has ensured continued access to overseas markets for more than $5 billion in U.S. exports.
+
+### How to Find the Action Plans & Progress Reports
+
+To view APG updates:
+1. Click on “Agencies” on the menu at the top of the page
+2. Click on the name of the Agency that you'd like to view
+3. Select the title of the APG from the menu on the left side of the page
+4. Find the June 2019 Action Plan under “Goal Action Plans & Progress Updates”
+
+To view CAP Goal updates:
+1. Click on "Management Priorities" on the menu at the top of the page
+2. Select the goal you'd like to view
+3. Under "Download the latest action plan and progress update" click "download"
