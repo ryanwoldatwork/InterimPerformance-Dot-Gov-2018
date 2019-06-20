@@ -65,7 +65,7 @@ Agencies have been making progress toward improving the complex permitting and e
 
 **[Workforce for the 21st Century](https://www.performance.gov/CAP/CAP_goal_3.html)**
 
-In March 2019, the CAP Goal team collaborated with several agencies to launch a pilot program to enhance the quality of applicant pool. The program leverages a partnership between agency hiring managers, human resources specialists, and subject matter experts during the assessment phase of the hiring process.
+In March 2019, the CAP Goal team collaborated with several agencies to launch a pilot program to enhance the quality of the applicant pool. The program leverages a partnership between agency hiring managers, human resources specialists, and subject matter experts during the assessment phase of the hiring process.
 
 **[Results-Oriented Accountability for Grants](https://www.performance.gov/CAP/CAP_goal_8.html)**
 
