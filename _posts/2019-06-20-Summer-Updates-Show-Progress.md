@@ -47,7 +47,7 @@ tags:
 ---
 **June 20, 2019** - Today, teams tasked with implementing the Federal government’s high-priority initiatives released their June 2019 progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs).
 
-These updates reflect progress made since our last update in December 2018, showcasing recently completed and upcoming milestones and performance accomplishments achieved as teams continue to use these goals to advance mission, service, and stewardship outcomes on behalf of the American people.
+These updates reflect progress made since our last update in December 2018, showcasing recently completed and upcoming milestones and performance accomplishments achieved as teams continue to advance mission, service, and stewardship outcomes on behalf of the American people.
 
 ## Highlights: CAP Goal Updates ##
 
@@ -57,11 +57,11 @@ Government-wide shared services continue to demonstrate value across agencies. T
 
 **[Leveraging Data as a Strategic Asset](https://www.performance.gov/CAP/CAP_goal_2.html)**
 
-This month, the Federal Data Strategy team released the [Draft 2019-2020 Federal Data Strategy Action Plan](https://strategy.data.gov/action-plan/#federal-data-strategy-action-plan). The plan outlines necessary actions for Year 1 to keep the strategy implementation on track and on time. The plan sets the foundation for tools, processes, and the capacity needed to effectively leverage data in support of mission, service, and stewardship. The draft is available for [public comment](https://strategy.data.gov/action-plan/) until July 5, 2019 and feedback will be incorporated into a revised version to be released in late 2019.
+This month, the Federal Data Strategy team released the [Draft 2019-2020 Federal Data Strategy Action Plan](https://strategy.data.gov/action-plan/#federal-data-strategy-action-plan). The plan outlines necessary actions for Year 1 to keep the strategy implementation on track and on time. The plan sets a foundation for tools, processes, and the capacity needed to effectively leverage data in support of mission, service, and stewardship. The draft is available for [public comment](https://strategy.data.gov/action-plan/) until July 5, 2019 and feedback will be incorporated into a revised version to be released in late 2019.
 
 **[Modernizing the Infrastructure Permitting Process](https://www.performance.gov/CAP/CAP_goal_12.html)**
 
-Agencies have been making progress toward improving the complex permitting and environmental review processes for major infrastructure projects. This month, the CAP Goal team released scorecards to track agency progress across three key performance indicators:  whether projects have published complete permitting timetables, whether agencies are jointly and cooperatively processing environmental reviews using the One Federal Decision framework, and whether they establish and use a process to elevate schedule delay issues to senior agency officials. As more data are collected, these scorecards will expand to track additional performance metrics, including whether major milestone achievements are on schedule and the time and money spent to complete reviews. To learn more, visit the [Permitting Dashboard](https://www.permits.performance.gov/about/news/accountability-scorecard-major-infrastructure-projects).
+Agencies have been making progress toward improving the complex permitting and environmental review processes for major infrastructure projects. This month, the CAP Goal team released scorecards to track agency progress across three key performance indicators:  whether projects have published complete permitting timetables, whether agencies are jointly and cooperatively processing environmental reviews using the One Federal Decision framework, and whether they establish and use a process to elevate schedule delay issues to senior agency officials. As more data are collected, these scorecards will expand to track additional performance metrics, including the time and money spent to complete reviews and whether major milestone achievements are on schedule. To learn more, visit the [Permitting Dashboard](https://www.permits.performance.gov/about/news/accountability-scorecard-major-infrastructure-projects).
 
 **[Workforce for the 21st Century](https://www.performance.gov/CAP/CAP_goal_3.html)**
 
