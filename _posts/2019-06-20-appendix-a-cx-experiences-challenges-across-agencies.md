@@ -12,9 +12,9 @@ summary: summary_large_image
 
 agency:
 
-description: Reflections from High-Impact Program CX Maturity Assessments 
+description: Reflections from High-Impact Program CX Maturity Assessments
 
-excerpt: Improving the public’s trust in government happens interaction by interaction, and we must act to improve every moment that we can. 
+excerpt: Improving the public’s trust in government happens interaction by interaction, and we must act to improve every moment that we can.
 
 
 image: "/img/blog/cx-blog-1.jpg"
@@ -61,5 +61,5 @@ While each program faces a unique set of challenges, the CX CAP Goal Team also i
 
 We’re using these findings to prioritize the development of centralized resources and support to help improve the customer experience government-wide.
 
-[^1]: <a href="https://www.mckinsey.com/industries/public-sector/our-insights/improving-the-customer-experience-to-achieve-government-agency-goals">2018 Public Sector Journey Benchmark research conducted by McKinsey</a> 
-[^2]: <a href="https://www.mckinsey.com/industries/public-sector/our-insights/improving-the-customer-experience-to-achieve-government-agency-goals">2018 Public Sector Journey Benchmark research conducted by McKinsey</a> 
+[^1]: <a href="https://www.mckinsey.com/industries/public-sector/our-insights/Customer-Experience-in-the-Public-Sector">2018 Public Sector Journey Benchmark research conducted by McKinsey</a>
+[^2]: <a href="https://www.mckinsey.com/industries/public-sector/our-insights/Customer-Experience-in-the-Public-Sector">2018 Public Sector Journey Benchmark research conducted by McKinsey</a>
