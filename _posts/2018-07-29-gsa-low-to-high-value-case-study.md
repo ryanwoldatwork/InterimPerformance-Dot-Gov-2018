@@ -42,6 +42,6 @@ The Office of the Chief Financial Officer (OCFO) in the General Services Adminis
 
 GSA OCFO prepared a case study of to explain how the team achieved this milestone and how other agencies can learn from and replicate their success.
 
-<a class="usa-button" href="https://www.gsa.gov/cdnstatic/CAPGoal6GSACFOCaseStudyFINAL_rev.pdf" target="_blank">Read the Case Study</a>
+<a class="usa-button" href="{{ site.baseurl }}/CAP/CAP_Goal_6_Case_Study_5-20-19.pdf" target="_blank">Read the Case Study</a>
 
 *updated from 50,000 annualized hours on March 28, 2019
