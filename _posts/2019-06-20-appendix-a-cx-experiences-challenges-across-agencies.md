@@ -29,6 +29,10 @@ tags:
 - PMA
 - cx
 ---
+
+<a class="usa-button " href="{{ site.baseurl }}/CAP/cx/">View the CX Cap Goal</a> <!--Read the latest news here-->
+
+
 From small businesses seeking loans, to families receiving disaster support, to someone passing through an airport security line - every interaction between the Federal government and the public is an opportunity to demonstrate the government understands and is working to meet their needs.  For an individual, this can mean less time in a government office or on the phone with a help desk. Collectively, these interactions are a powerful opportunity to demonstrate to citizens that their government is working for them. According to recent research, as much as 67% of trust in government can be explained by customer experience.[^1]   This means that improving the public’s trust in government happens interaction by interaction, and we must act to improve every moment that we can.  In addition to increasing trust, improving customer experience has also been demonstrated to improve outcomes such as saving costs, reducing risk, and more effectively achieving stated missions.[^2]
 
 The 2018 update of the Federal Performance Framework (<a href="https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf">OMB Circular A-11, Section 280</a>) provides first-of-its-kind guidance aimed at embedding customer experience management as a critical component of agency operations. The primary focus is on 25 High Impact Service Providers (HISPs) across 14 agencies, identified because of the scale and impact their customer facing services have on the American public. With just these 25 programs, the Federal government touches nearly every American.  This makes the HISP customer interactions an incredible opportunity to rebuild trust in our government.
