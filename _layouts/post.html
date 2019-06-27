@@ -11,8 +11,10 @@ layout: navigation_PMA
            <b>&#10094; &nbsp; Back to News</a></b>
 
            <p class="card-tag-post"> {{ page.agency }}</p>
-              <h1-post>{{ page.title }}
-              </h1>
+              <h1-post>{{ page.title }}</h1-post><br>
+                {% if page.byline %}
+                  <p style="font-size:18px;">{{ page.byline }}</p>
+                {% endif %}
               <h3 style="color:#ffffff;"><i> {{ page.subtitle }}</i></h3>
               {% include post-author.html context="page" %}
 

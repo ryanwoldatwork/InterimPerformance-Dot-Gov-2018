@@ -12,10 +12,11 @@ summary: summary_large_image
 
 agency:
 
-description: Reflections from High-Impact Program CX Maturity Assessments
+description: Challenges and opportunities to improving cx in our largest citizen facing programs
 
-excerpt: Improving the public’s trust in government happens interaction by interaction, and we must act to improve every moment that we can.
+excerpt: Challenges and opportunities to improving cx in our largest citizen facing programs
 
+byline: We held conversations with 24 High-Impact Service Providers, identified because of the scale and impact their customer facing services have on the American public. With just these 25 programs, the Federal government touches nearly every American. Here is what we learned.  
 
 image: "/img/blog/cx-blog-1.jpg"
 alt-text: "CX appendix a graphic"
