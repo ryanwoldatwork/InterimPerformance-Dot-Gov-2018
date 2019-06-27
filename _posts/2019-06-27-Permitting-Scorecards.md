@@ -3,7 +3,7 @@ layout: post
 
 title: "Accountability Scorecard for Major Infrastructure Projects"
 
-rating: "1"
+rating: "0"
 
 permalink: /permitting-infrastructure-scorecards/
 
@@ -17,8 +17,8 @@ description: Agencies Show Transparency, Progress Toward Modernizing Infrastruct
 excerpt: Agencies Show Transparency, Progress Toward Modernizing Infrastructure Permitting With Release of Scorecards.
 
 
-image: "/img/blog/june-quarterly-update.jpg"
-alt-text: "DAP title with navy blue backround"
+image: "/img/blog/infrastructure-image.jpg"
+alt-text: "winding road pic"
 
 authors:
 - Performance.gov Team
