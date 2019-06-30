@@ -8,10 +8,6 @@
   <figure>
     <a href="{{ figure_url | relative_url }}" target="_blank"><img src="{{ include.img | relative_url }}" alt="{{ include.title }}" width="{{ width }}px" height="205px;"></a>
   </figure>
-  {% if cap_goal.title == "Category Management" %}
-  <a class="kpi-popout-link" href="{{ figure_url | relative_url }}" target="_blank">View the PDF </a>
-  {% else %}
   <a class="kpi-popout-link" href="{{ figure_url | relative_url }}" target="_blank">View Dashboard </a> |
   <a class="kpi-popout-link" href="{{ include.data_url | relative_url }}">Download Data </a>
-  {% endif %}
 </div>

@@ -16,7 +16,7 @@ description: Challenges and opportunities to improving cx in our largest citizen
 
 excerpt: Challenges and opportunities to improving cx in our largest citizen facing programs
 
-byline: We held conversations with 24 High-Impact Service Providers, identified because of the scale and impact their customer facing services have on the American public. With just these 25 programs, the Federal government touches nearly every American. Here is what we learned.  
+byline: We held conversations with 25 High-Impact Service Providers, identified because of the scale and impact their customer facing services have on the American public. With just these 25 programs, the Federal government touches nearly every American. Here is what we learned.  
 
 image: "/img/blog/cx-blog-1.jpg"
 alt-text: "CX appendix a graphic"
