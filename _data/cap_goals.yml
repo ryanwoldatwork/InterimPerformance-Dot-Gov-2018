@@ -11,12 +11,14 @@
 
 - title: Category Management
   updated: (Updated June 2019)
-  kpi_url:
+  kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/8221
   pdf_url: /CAP/KPI_Category_Management_FY2019_Q2.pdf
-  img: /CAP/Spend_Under_Management.JPG
+  img: /CAP/KPI/category-management-image.JPG
   url: /CAP/category-management/
   name: Category Management
   CAP-url: /CAP/category-management/
+  data_url: /CAP/KPI/CM_sample_data.csv
+
 
 - title: Federal Employee Viewpoint Survey
   updated: (Updated December 2018)
