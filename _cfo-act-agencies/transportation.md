@@ -10,7 +10,7 @@ agency-name: Department of Transportation
 agency-seal: ../img/agency/Transportation_Logo.png
 agency-site: https://www.transportation.gov/
 strategic-plan-link: https://www.transportation.gov/sites/dot.gov/files/docs/mission/administrations/office-policy/304866/dot-strategic-plan-fy2018-2022.pdf
-performance-plan-link: https://www.transportation.gov/mission/budget/dot-fy-2018-2019-annual-performance-plan-and-fy-2017-annual-performance-report
+performance-plan-link: https://www.transportation.gov/mission/budget/combined-fy-2018-performance-report-and-fy-2020-performance-plan
 
 #side navigation
 apg-1: Improve Conditions of America's Transportation Related Infrastructure
