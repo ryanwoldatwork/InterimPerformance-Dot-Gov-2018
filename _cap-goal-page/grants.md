@@ -31,7 +31,7 @@ resource-6-name: Draft Federal Grants Management Data Standards for Feedback
 resource-6-url: https://grantsfeedback.cfo.gov/index.html
 
 resource-7-name: 2019 Compliance Supplement Success Story
-resource-7-url:  "/img/CAP-photos/Compliance_Supplement_Success_Story.pdf"
+resource-7-url:  "../img/CAP-photos/Compliance_Supplement_Success_Story.pdf"
 
 listserv-title: Join Community
 listserv-url: 13
