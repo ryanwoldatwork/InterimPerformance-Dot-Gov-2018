@@ -30,6 +30,9 @@ resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6
 resource-6-name: Draft Federal Grants Management Data Standards for Feedback
 resource-6-url: https://grantsfeedback.cfo.gov/index.html
 
+resource-7-name: 2019 Compliance Supplement Success Story
+resource-7-url:  "/img/CAP-photos/Compliance_Supplement_Success_Story.pdf"
+
 listserv-title: Join Community
 listserv-url: 13
 listserv-include: grants-community
