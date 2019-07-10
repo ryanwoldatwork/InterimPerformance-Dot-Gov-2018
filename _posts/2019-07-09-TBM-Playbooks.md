@@ -17,7 +17,7 @@ description: Each play here is a plan of action or strategy used to move toward 
 excerpt: Each play here is a plan of action or strategy used to move toward a goal or objective. The 7 plays in this book will improve your chances of beginning a successful TBM implementation.
 
 
-image: "/img/blog/playbooks.PNG"
+image: "/img/blog/TBM.jpeg"
 alt-text: "Man holding computer"
 
 authors:
