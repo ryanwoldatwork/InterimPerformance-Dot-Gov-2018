@@ -18,7 +18,7 @@ excerpt: Each play here is a plan of action or strategy used to move toward a go
 
 
 image: "/img/blog/TBM.jpeg"
-alt-text: "Man holding computer"
+alt-text: "Man holding computer in tech environment"
 
 authors:
 - Performance.gov Team
@@ -27,6 +27,7 @@ tags:
 - CAP goal
 - PMA
 - TBM
+
 
 
 ---
