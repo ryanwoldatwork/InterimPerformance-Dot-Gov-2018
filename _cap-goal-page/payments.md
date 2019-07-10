@@ -78,12 +78,15 @@ goal-leader-title: "Administrator, Office of Unemployment Insurance, U.S. Depart
 goal-leader-2-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
 goal-leader-2-name: "Jeff Schramek"
 goal-leader-2-title: "Deputy Commissioner, Financial Services and Operations, Bureau of the Fiscal Service"
-goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
+goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"
 goal-leader-3-name: "Megan Worstell"
 goal-leader-3-title: " Acting Director of the Office of Financial Management and Chief Financial Officer, Centers for Medicare and Medicaid Services"
-goal-leader-4-photo: "/img/CAP-photos/soltis-tim.jpeg" #Goal leader 2
+goal-leader-4-photo: "/img/CAP-photos/soltis-tim.jpeg"
 goal-leader-4-name: "Tim Soltis"
 goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
+goal-leader-5-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-5-name: "Greg Till"
+goal-leader-5-title: "Deputy Assistant Secretary, Fiscal Operations and Policy, Department of the Treasury"
 
 #***********************END GOAL LEADER SECTION*****************************8
 
