@@ -17,7 +17,7 @@ description: Each play here is a plan of action or strategy used to move toward 
 excerpt: Each play here is a plan of action or strategy used to move toward a goal or objective. The 7 plays in this book will improve your chances of beginning a successful TBM implementation.
 
 
-image: "/img/blog/playbooks.PNG"
+image: "/img/blog/playbooks.png"
 alt-text: "Man holding computer"
 
 authors:
@@ -30,7 +30,7 @@ tags:
 
 
 ---
-Recently, the **U.S. General Services Administration** and the **U.S. Department of Education** teamed up to shared lessons learned through the creation of the [Technology Business Management (TBM) Playbook](https://tech.gsa.gov/playbooks/tbm/). The playbook, which supports progress towards the [TBM Cross-Agency Priority Goal](https://www.performance.gov/CAP/tbm/) was built to assist federal agencies as they start TBM implementation. While each agency will tailor its TBM plan to their organization’s current state and desired outcomes, this is a great starting point based on real life experience from some of the Federal Government’s early adopters.
+Recently, the **U.S. General Services Administration** and the **U.S. Department of Education** teamed up to share lessons learned through the creation of the [Technology Business Management (TBM) Playbook](https://tech.gsa.gov/playbooks/tbm/). The playbook, which supports progress towards the [TBM Cross-Agency Priority Goal](https://www.performance.gov/CAP/tbm/) was built to assist federal agencies as they start TBM implementation. While each agency will tailor its TBM plan to their organization’s current state and desired outcomes, this is a great starting point based on real life experience from some of the Federal Government’s early adopters.
 
 Each play includes a plan of action or strategy used to move toward a goal or objective. The 7 plays in this book will improve your chances of beginning a successful TBM implementation. They include:
 1. Identify key players and stakeholders: An effective TBM program consists of business stakeholders, financial analysts, and IT and acquisition professionals. Together, this team drives change through collection, analysis, reporting, and informed review of IT data.
