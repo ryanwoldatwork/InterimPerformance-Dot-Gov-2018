@@ -10,7 +10,7 @@ agency-name: Department of Homeland Security
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Homeland_Security_Department_Seal.png
 agency-site: https://www.dhs.gov/
-strategic-plan-link: https://www.dhs.gov/strategic-plan-fiscal-years-fy-2014-2018
+strategic-plan-link: https://www.dhs.gov/publication/department-homeland-securitys-strategic-plan-fiscal-years-2020-2024?collection=policy%2C-strategy-and-doctrinal-products
 performance-plan-link: https://www.dhs.gov/publication/annual-performance-report-fiscal-years-2018-2020
 
 #side navigation
