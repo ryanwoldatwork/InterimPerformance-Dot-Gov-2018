@@ -73,6 +73,9 @@ goal-leader-title: "Acting Chief Management Officer, Department of Defense"
 goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg" #Goal leader 2
 goal-leader-2-name: "Lesley Field"
 goal-leader-2-title: "Deputy Administrator for Federal Procurement Policy and Shared Services Policy Officer, Office of Management and Budget"
+goal-leader-3-photo: "/img/CAP-photos/Thomas_Alan.jpg"
+goal-leader-3-name: "Alan Thomas"
+goal-leader-3-title: "Commissioner, Federal Acquisition Service, General Services Administration"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
