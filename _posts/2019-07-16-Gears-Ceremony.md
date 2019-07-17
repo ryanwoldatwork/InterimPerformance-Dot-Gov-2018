@@ -31,7 +31,7 @@ tags:
 
 
 ---
-Last month, the Office of Management and Budget (OMB) hosted the Gears of Government President’s Award Ceremony to honor the inaugural class of presidential-level award winners. Recipients of the President’s Award are comprised of both individuals and teams across the Federal workforce who have made a profound difference for Americans through public service.
+On May 22, 2019, the Office of Management and Budget (OMB) hosted the Gears of Government President’s Award Ceremony to honor the inaugural class of presidential-level award winners. Recipients of the President’s Award are comprised of both individuals and teams across the Federal workforce who have made a profound difference for Americans through public service.
 
 <a href="{{ site.baseurl }}/img/blog/gear-ceremony-photo-3"><img src="{{ site.baseurl }}/img/blog/gear-ceremony-photo-3.jpg"></a>
 <center><i>The NOAA Team receiving their medallions.</i></center>
