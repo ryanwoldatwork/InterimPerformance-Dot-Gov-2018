@@ -1,0 +1,36 @@
+---
+layout: base
+---
+
+{% for hisp in site.data.hisps %}
+{% if hisp.service_id == page.hisp_service_id %}
+  {% assign this_hisp = hisp %}  
+{% endif %}
+{% endfor %}
+
+
+{% include main_header.html %}
+
+<main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
+
+  <div class="cx-profile-heading usa-grid-full" markdown="1">
+
+    <div class="usa-width-one-fourth cx-agency-logo">
+      <img src="{{ site.baseurl }}/img/cx/agencies/{{ this_hisp.department_abbreviation }}-{{ page.logo_type }}.png" alt="{{ this_hisp.department }} {{ page.logo_type }}">
+    </div>
+
+    <div class="cx-hisp-intro usa-width-three-fourths" markdown="1">
+      <h2 class="cx-profile-headline cx-agency-heading">{{ this_hisp.department }} - {{ this_hisp.service }}</h2>
+
+      <p>
+        {{ this_hisp.blurb }}
+      </p>
+    </div>
+
+  </div>
+
+  {{ content }}
+
+</main>
+
+{% include main_footer.html %}

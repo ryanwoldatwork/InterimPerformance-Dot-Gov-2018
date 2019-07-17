@@ -1,0 +1,34 @@
+---
+layout: base
+---
+
+
+{% include main_header.html %}
+
+<main class="usa-grid usa-section usa-content usa-layout-docs cx-dashboard" id="main-content">
+
+  {{ content }}
+
+{% for hisp in site.data.hisps %}
+
+  <div class="cx-profile-heading usa-grid-full" markdown="1">
+
+    <div class="usa-width-one-fourth cx-agency-logo">
+      <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal">
+    </div>
+
+    <div class="cx-hisp-intro usa-width-three-fourths" markdown="1">
+      <h2 class="cx-profile-headline cx-agency-heading"><a href="/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.department }} - {{ hisp.service }}</a></h2>
+
+      <p>
+        {{ hisp.blurb }}
+      </p>
+    </div>
+
+  </div>
+
+{% endfor %}
+
+</main>
+
+{% include main_footer.html %}
