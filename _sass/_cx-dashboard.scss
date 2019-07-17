@@ -42,3 +42,18 @@ height : 150px;
 	border-left : 10px solid #F0F0F0; 
 	padding-left : 1rem;
 }
+
+.cx-hisp-profile table {
+	display : block;
+	clear : both;
+	margin-bottom : 2em;
+}
+
+.cx-hisp-profile p {
+	clear : both;	
+}
+
+.cx-hisp-profile table th, .cx-hisp-profile table td {
+	padding : .5em;
+	border : 1px solid black;
+}
