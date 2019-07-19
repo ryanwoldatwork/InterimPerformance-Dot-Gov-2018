@@ -75,7 +75,7 @@ CAP-event-text:
 goal-leader-photo: "/img/CAP-photos/Gay-Gilbert.jpg" #Goal leader 1
 goal-leader-name: "Gay Gilbert"
 goal-leader-title: "Administrator, Office of Unemployment Insurance, U.S. Department of Labor"
-goal-leader-2-photo: "/img/agr/Circle-icons-profle.svg.png" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/schramek-j.JPG" #Goal leader 2
 goal-leader-2-name: "Jeff Schramek"
 goal-leader-2-title: "Deputy Commissioner, Financial Services and Operations, Bureau of the Fiscal Service"
 goal-leader-3-photo: "/img/CAP-photos/Worstell_Megan.png"
