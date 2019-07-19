@@ -24,11 +24,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
       <p>The President’s Management Agenda identifies cross-agency priority (CAP) goals to target those areas where multiple agencies must collaborate to effect change and report progress in a manner the public can easily track. Below are some of the key indicators that will be used to measure how different goals are performing.</p>
       <section class="usa-section usa-graphic_list">
         <div class="usa-grid usa-graphic_list-row">
-          <!--<div class="usa-width-one-half usa-media_block">
-          <h4>Data Center Consolidation</h4>
-            <a href="../CAP/Data_Center_Consolidation.pdf" target="_blank"><img src="../CAP/Data_Center_Consolidation.jpg" alt="Data_Center_Consolidation" width="300px"></a>
-            <a class="usa-button" href="../CAP/CAP_goal_1.html">See the CAP Goal</a>
-          </div>-->
+<!--  *********************************FOUR DASHBOARDS EMBEDDED *************************************************-->
           <div class="usa-width-one-fourth usa-media_block">
             <iframe style="height:100%; width: 100%;overflow: hidden; " src="https://d2d.gsa.gov/tableau-report-for-embed/7861"></iframe>
           </div>
@@ -43,17 +39,43 @@ description: KPIs measure the performance of cross-agency priority goals in effe
           </div>
         </div>
       </section>
-      <section class="usa-section usa-graphic_list">
-        <div class="usa-grid usa-graphic_list-row">
+<!--  *********************************ACCORDION EMBEDDED *************************************************-->
+      <ul class="usa-accordion">
+        <li>
+          <button class="usa-accordion-button"
+            aria-expanded="true"
+            aria-controls="a1">
+            Dashboard 1
+          </button>
+          <div id="a1" class="usa-accordion-content">
+            <iframe style="height:1000px; width: 100%; " src="https://d2d.gsa.gov/tableau-report-for-embed/7861"></iframe>
+          </div>
+        </li>
 
-          <div class="usa-width-one-half usa-media_block">
-           {% include kpi--kpi-page.html title="Cash Loss to the Government" %}
-            </div>
+        <li>
+          <button class="usa-accordion-button"
+            aria-expanded="true"
+            aria-controls="a2">
+            Dashboard 2
+          </button>
+          <div id="a2" class="usa-accordion-content">
+            <iframe style="height:1000px; width: 100%; " src="https://d2d.gsa.gov/tableau-report-for-embed/7865"></iframe>
+          </div>
+        </li>
+      </ul>
 
-
-          <div class="usa-width-one-half usa-media_block">
-            {% include kpi--kpi-page.html title="Cloud Email Adoption" %}
+      <!--  *********************************DASHBOARDS STACKED *************************************************-->
+      <section class="usa-section usa-graphic_list" >
+        <div class="usa-grid">
+         <div class="usa-width-one-whole usa-media_block">
+            <h2>Dashboard 1</h2>
+            <p>This is dashboard 1</p>
+              <iframe style="height:1000px; width: 100%; " src="https://d2d.gsa.gov/tableau-report-for-embed/7861"></iframe>
+          </div>
+          <div class="usa-width-one-whole usa-media_block">
+            <h2>Dashboard 2</h2>
+            <p>This is dashboard 2</p>
+            <iframe style="height:1000px; width: 100%; " src="https://d2d.gsa.gov/tableau-report-for-embed/7865"></iframe>
           </div>
         </div>
       </section>
-  </div>
