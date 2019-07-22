@@ -25,7 +25,7 @@ authors:
 - Performance.gov Team
 
 tags:
-- Grants
+- grants
 - CAP goal
 
 
