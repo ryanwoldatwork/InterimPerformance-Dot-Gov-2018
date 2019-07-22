@@ -1,5 +1,5 @@
 ---
-title:  - Department of Homeland Security - CX CAP Goal Dashboard
+title: FEMA - Department of Homeland Security - CX CAP Goal Dashboard
 permalink: /cx/dashboard/dhs/fema/
 hisp_service_id: dhs-fema
 layout: hisp
