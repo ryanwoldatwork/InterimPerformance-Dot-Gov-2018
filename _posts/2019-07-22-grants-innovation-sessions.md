@@ -41,4 +41,4 @@ The second session focused on the Grants Impact Story Tool (GIST), an integrated
 
 The Innovation Exchange Sessions are held each month and focus on topics relevant to the Grants CAP Goal strategies for reducing burden and increasing program results. The team invites experts from in and outside of the government to participate and share their own innovative ideas and practices. [Register today](https://www.eventbrite.com/e/july-grants-innovation-exchange-session-tickets-65172021270) for the next session on July 25, 2019.To register for the upcoming Innovation Exchange Session on Thursday, July 25, visit the Grants CAP Goal page here.
 
-*Learn more about the Grants CAP Goal and sign up to Join our Community on Performance.gov. Have an innovation you want to share? Email [GrantsTeam@omb.eop.gov](GrantsTeam@omb.eop.gov)*
+*Have an innovation you want to share? Email [GrantsTeam@omb.eop.gov](GrantsTeam@omb.eop.gov)*
