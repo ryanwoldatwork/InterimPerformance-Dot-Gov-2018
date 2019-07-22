@@ -36,6 +36,13 @@ Passport Services exceeded its published service commitment of 4-6 weeks for rou
 |-----------------------------------------------|----------------------------------------------------|
 | Average number of days for expedited service: | 3.15 business days or 1 1/2 - 2 weeks door-to-door |
 
+### Contact Centers
+
+ Call answer rate of 99.2% within 2 minutes.
+
+### Website Page Views
+
+Website - 44,247,574 unique page views on Passport Services web pages
 
 {:.cx-section-heading}
 ## Supporting Documents
