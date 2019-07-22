@@ -7,14 +7,14 @@ logo_type: seal
 ---
 
 {:.cx-profile-headline}
-## Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation 
+## Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation
 
 {:.cx-section-heading}
 ## Q1 Operational Metrics
 
 ### Patents Main Website
 
-Site volume www.uspto.gov on browsers. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.	
+Site volume www.uspto.gov on browsers. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
 
 |                | January   | February  | Subtotal  |
 |----------------|-----------|-----------|-----------|
@@ -32,7 +32,7 @@ Total new applications filed by patent type:
 
 ### Patents Mobile Website
 
-Site volume www.uspto.gov on mobile devices. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.	
+Site volume www.uspto.gov on mobile devices. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
 
 |                | January | February | Subtotal |
 |----------------|---------|----------|----------|
@@ -61,5 +61,3 @@ Patents customer support via phone.  Total calls answered
 
 {:.cx-section-heading}
 ## Supporting Documents
-
-
