@@ -7,10 +7,13 @@ logo_type: seal
 ---
 
 {:.cx-profile-headline}
-## Field Operations Lent $30 billion + to small businesses, supporting 600 thousand jobs 
+## Field Operations Lent $30 billion + to small businesses, supporting 600 thousand jobs
 
 {:.cx-section-heading}
+
 ## Q2 Operational Metrics
+
+There is no available data to share at this time. Please stay tuned for updates in the near future.
 
 {:.cx-section-heading}
 ## Supporting Documents
