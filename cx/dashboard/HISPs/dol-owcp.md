@@ -20,7 +20,6 @@ logo_type: seal
 | Required a return call                   | 20,350          | 951                       |
 | Returned within one day                  | 96%             | 90%                       |
 | Returned within two days                 | 99%             | 97%                       |
-|                                          |                 |                           |
 | Opted in for the survey                  | 229             | n/a                       |
 | Completed the survey                     | 46              | n/a                       |
 | % Completing the survey                  | 0.2             | n/a                       |
@@ -35,7 +34,6 @@ logo_type: seal
 | Required a return call                   | 20,350          | 951                       |
 | Returned within one day                  | 96%             | 90%                       |
 | Returned within two days                 | 99%             | 97%                       |
-|                                          |                 |                           |
 | Opted in for the survey                  | 229             | n/a                       |
 | Completed the survey                     | 46              | n/a                       |
 | % Completing the survey                  | 0.2             | n/a                       |

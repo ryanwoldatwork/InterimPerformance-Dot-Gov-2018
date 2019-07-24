@@ -26,6 +26,7 @@ Contact Centers - Call answer rate of 98.9% within 2 minutes.
 ### Website Page Views
 Website - 26,723,616 unique page views on Passport Services web pages
 
+{:.cx-section-heading}
 ## Q2 Operational Metrics
 
 ### App Processing Times

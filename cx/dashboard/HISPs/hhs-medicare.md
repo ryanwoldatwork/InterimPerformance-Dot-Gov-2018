@@ -22,8 +22,6 @@ Q1 FY19 (Oct 1-Dec 31, 2018)
 | Handle Time | 9:27    |
 | Wait Time   | 4:57    |
 
-{:.cx-section-heading}
-
 ### Website
 
 Q1 FY19 (Oct 1-Dec 31, 2018) 
@@ -32,6 +30,8 @@ Q1 FY19 (Oct 1-Dec 31, 2018)
 |-----------|-----------|
 | Pageviews | 207652056 |
 
+
+{:.cx-section-heading}
 ## Q2 Operational Metrics
 
 ### Call Center
@@ -42,10 +42,6 @@ Q1 FY19 October 1-Dec 31 2018
 |-------------|---------|
 | Handle Time | 9:13    |
 | Wait Time   | 5:04    |
-
-{:.cx-section-heading}
-
-## Q2 Operational Metrics
 
 ### Website
 

@@ -1,5 +1,5 @@
 ---
-title: Trust Beneficiary Call Center *? - Department of Interior - CX CAP Goal Dashboard
+title: Trust Beneficiary Call Center - Department of Interior - CX CAP Goal Dashboard
 permalink: /cx/dashboard/doi/ost/
 hisp_service_id: doi-ost
 layout: hisp
