@@ -10,11 +10,6 @@ logo_type: seal
 ## Supports the safety of 130 million workers employed across 8 million worksites.
 
 {:.cx-section-heading}
-## Q1 Operational Metrics
-
-There is no available data to share at this time. Please stay tuned for updates in the near future.
-
-{:.cx-section-heading}
 ## Q2 Operational Metrics
 
 Website use statistics, call center service levels, application processing times, etc.
