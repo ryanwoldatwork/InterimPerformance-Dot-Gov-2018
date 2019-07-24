@@ -13,18 +13,17 @@ logo_type: seal
 ## Q2 Survey Results
 
 
-<div class="survey-result-box">
+<div class="survey-result-box survey-no-data">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
-		<span class="survey-trend-arrow">⇧</span>
+		<span class="survey-avg-score"> ⃠ No Data</span>
 		<span class="survey-question">Satisfaction</span>
 	</div>
-	<div class="survey-question-description">Agreed "I am satisfied with the service I received"</div>
+	<div class="survey-question-description">No results were provided for this survey question</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
+		<span class="survey-avg-score">4.67</span>
 		<span class="survey-trend-arrow">⇧</span>
 		<span class="survey-question">Trust / Confidence</span>
 	</div>
@@ -33,7 +32,7 @@ logo_type: seal
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
+		<span class="survey-avg-score">4.76</span>
 		<span class="survey-trend-arrow">⇧</span>
 		<span class="survey-question">Service Effectiveness</span>
 	</div>
@@ -42,7 +41,7 @@ logo_type: seal
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
+		<span class="survey-avg-score">4.72</span>
 		<span class="survey-trend-arrow">⇧</span>
 		<span class="survey-question">Process / Ease</span>
 	</div>
@@ -51,7 +50,7 @@ logo_type: seal
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
+		<span class="survey-avg-score">4.66</span>
 		<span class="survey-trend-arrow">⇧</span>
 		<span class="survey-question">Efficiency</span>
 	</div>
@@ -60,7 +59,7 @@ logo_type: seal
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
+		<span class="survey-avg-score">4.84</span>
 		<span class="survey-trend-arrow">⇧</span>
 		<span class="survey-question">Process Transparency</span>
 	</div>
@@ -70,7 +69,7 @@ logo_type: seal
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">xx</span>
+		<span class="survey-avg-score">4.81</span>
 		<span class="survey-trend-arrow">⇧</span>
 		<span class="survey-question">Helpful Employees</span>
 	</div>

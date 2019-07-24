@@ -67,12 +67,16 @@ height : 150px;
   width: 30%;
   background-color: #F0F0F0;
   border-left: 1rem solid #AAAEB1;
-  padding: 1rem; 
-  display : inline-block;
-  margin : 0 3% 2% 0;
-  min-height : 130px;
-}
+  padding: 1rem;
+  display: inline-block;
+  margin: 0 3% 2% 0;
+  min-height: 130px; }
 
+.survey-result-box.survey-no-data {
+  background-color : #fff;
+  border : .25rem solid #DCDEE0;
+  border-left: 1rem solid #DCDEE0;
+}
 
 .survey-result-stats {
   margin-bottom: .5rem;
@@ -85,7 +89,14 @@ height : 150px;
 .survey-trend-arrow {
   color: #479F68; }
 
+.survey-no-data .survey-avg-score {
+  color: #924C23;
+  font-size: 2rem; }
+
+.survey-no-data .survey-question {
+  color: #7F7F7F;
+  padding-left: 1rem; }
+
 .cx-hisp-profile table {
-  width : 100%;
-}
-  
+  width: 100%; }
+
