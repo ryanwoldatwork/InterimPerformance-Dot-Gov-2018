@@ -79,9 +79,12 @@ goal-leader-title: "Associate Director for Performance and Personnel Management,
 goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
 goal-leader-2-name: "Dustin Brown"
 goal-leader-2-title: "Deputy Assistant Director for Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/r_gaines.jpg"  #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/r_gaines.jpg"  
 goal-leader-3-name: "Ralph H. Gaines"
-goal-leader-3-title: "Chief Operations Officer, Housing and Urban Development"
+goal-leader-3-title: "Chief Operations Officer, Department of Housing and Urban Development"
+goal-leader-4-photo: "/img/CAP-photos/montgomery-brian.jpg"  
+goal-leader-4-name: "Brian Montgomery"
+goal-leader-4-title: "Acting Deputy Secretary, Department of Housing and Urban Development"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
