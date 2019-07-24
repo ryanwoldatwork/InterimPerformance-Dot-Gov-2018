@@ -78,14 +78,20 @@ logo_type: seal
 
 
 {:.cx-section-heading}
-## Q1 Operational Metrics
+## Operational Metrics
 
-There is no available data to share at this time. Please stay tuned for updates in the near future.
+**Calls per year**: VHA’s Outpatient Services Contact Centers answered more than 41 million calls in FY18 (i.e., calls for appointment scheduling, pharmacy services, etc.). The average speed of answer was 56 seconds.
+ 
+**Online visits per year**:  280.11 million site visits to VA.gov
+ 
+**Website Visits by Device to VA.gov**:
 
-{:.cx-section-heading}
-## Q2 Operational Metrics
+- Desktop: 62%
+- Mobile: 31%
+- Tablet:  7%
+ 
+**Patients to facilities per year**:  There were 85.95 million Outpatient Visits in FY18
 
-There is no available data to share at this time. Please stay tuned for updates in the near future.
 
 {:.cx-section-heading}
 ## Supporting Documents

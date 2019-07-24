@@ -10,7 +10,7 @@ logo_type: seal
 ## Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation
 
 {:.cx-section-heading}
-## Q1 Operational Metrics
+## Operational Metrics
 
 ### Patents Main Website
 
