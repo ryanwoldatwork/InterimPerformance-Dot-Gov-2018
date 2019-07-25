@@ -10,7 +10,7 @@ redirect_from: "/CAP/CAP_goal_4.html"
 
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
 
-resource-2-name: GPRA Modernization Act, OMB Circular A-11, Part 6A-11, part 6, section 280 guidance
+resource-2-name: OMB Circular A-11
 resource-2-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf
 
 resource-3-name: US Forms System Library
