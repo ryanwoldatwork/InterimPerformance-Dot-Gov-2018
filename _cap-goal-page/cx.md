@@ -10,8 +10,8 @@ redirect_from: "/CAP/CAP_goal_4.html"
 
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
 
-resource-2-name: OMB Circular A-11
-resource-2-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf
+resource-2-name: OMB Circular A-11, Section 280
+resource-2-url: /cx/a11-280.pdf
 
 resource-3-name: US Forms System Library
 resource-3-url: https://github.com/usds/us-forms-system
