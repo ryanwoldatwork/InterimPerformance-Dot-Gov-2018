@@ -4,6 +4,32 @@
 	font-family : Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
 }
 
+.cx-dashboard-heading,
+.cx-dashboard-heading-metric {
+	  font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif; 
+}
+
+.cx-heading-metrics .cx-dashboard-heading-metric {
+  display : inline-block;
+  width : 30%;
+  font-size : 1.5em;
+}
+
+.cx-hisp-tile {
+  display : inline-block; 
+  clear : both;
+  width : 100%;
+  margin-bottom : 2em;
+}
+
+.cx-hisp-tile .cx-agency-logo {
+
+}
+
+.cx-hisp-tile .cx-hisp-intro {
+
+}
+
 .cx-agency-heading {
 	font-size : 1.8em;
 	font-weight : bold;

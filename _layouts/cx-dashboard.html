@@ -19,10 +19,10 @@ layout: base
 
   {{ content }}
 
+<div class="cx-profile-heading usa-grid-full" markdown="1">
 {% for hisp in site.data.hisps %}
 
-  <div class="cx-profile-heading usa-grid-full" markdown="1">
-
+<div class="cx-hisp-tile">
     <div class="usa-width-one-fourth cx-agency-logo {{ hisp.department_abbreviation }}-logo">
       <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal">
     </div>
@@ -34,14 +34,12 @@ layout: base
       </h2>
       <h3 class="cx-agency-subheading">{{ hisp.bureau }}, {{ hisp.department }}</h3>
 
-      <p>
-        {{ hisp.blurb }}
-      </p>
     </div>
 
   </div>
 
 {% endfor %}
+  </div>
 
 </main>
 
