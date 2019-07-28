@@ -18,7 +18,7 @@ description: The Reform Plan proposed bold reforms to address structural and org
 excerpt: The Reform Plan proposed bold reforms to address structural and organizational barriers to mission, service, and stewardship objectives.
 
 
-image: /img/blog/PMA-1-year-logo.png
+image: /GovReform/reorg-update.PNG
 alt-text: "PMA One-Year Logo"
 
 authors:
