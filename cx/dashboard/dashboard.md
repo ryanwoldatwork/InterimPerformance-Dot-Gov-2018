@@ -20,9 +20,6 @@ Transform the customer experience by improving the usability and reliability of 
 {:.cx-dashboard-heading-metric}
 ### 25 Services
 
-{:.cx-dashboard-heading-metric}
-### xx,xxxx Interactions
-
 </div>
 
 {:.cx-section-heading}
