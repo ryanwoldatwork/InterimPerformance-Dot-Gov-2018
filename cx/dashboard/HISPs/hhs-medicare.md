@@ -4,10 +4,8 @@ permalink: /cx/dashboard/hhs/medicare/
 hisp_service_id: hhs-medicare
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "Improve access to healthcare with 11.4 million marketplace enrollments and 34.4 million Medicare members"
 ---
-
-{:.cx-profile-headline}
-## Improve access to healthcare with 11.4 million marketplace enrollments and 34.4 million Medicare members
 
 {:.cx-section-heading}
 
@@ -50,6 +48,3 @@ Q2 FY19 (Jan 1-March 31, 2019)
 | Users     | 15,156,733 |
 |-----------|------------|
 | Pageviews | 80,181,940 |
-
-{:.cx-section-heading}
-## Supporting Documents

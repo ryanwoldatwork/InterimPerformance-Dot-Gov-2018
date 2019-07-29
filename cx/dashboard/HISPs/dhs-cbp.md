@@ -4,13 +4,11 @@ permalink: /cx/dashboard/dhs/cbp/
 hisp_service_id: dhs-cbp
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "Safeguard 7,000 miles of land border with 328 ports of entry"
 ---
 
-{:.cx-profile-headline}
-## Safeguard 7,000 miles of land border with 328 ports of entry
-
 {:.cx-section-heading}
-## Q1 Operational Metrics
+## Operational Metrics
 
 Call center service levels
 
@@ -36,6 +34,3 @@ Call center service levels
 | Mar-19                        | 3274   | 580   | 10,225 | 6221   | 120   | 2652  | 6779      | 14899 | 754             | 45,504  |
 | Totals by Channel per Program | 9054   | 1891  | 26,758 | 19,606 | 371   | 8412  | 14830     | 39874 | 2012            | 122,808 |
 | Totals by Program             | 10,945 |       | 46,364 |        | 8783  |       | 54,704    |       | 2012            |         |
-
-{:.cx-section-heading}
-## Supporting Documents

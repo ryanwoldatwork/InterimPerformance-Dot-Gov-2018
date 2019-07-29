@@ -4,13 +4,10 @@ permalink: /cx/dashboard/treas/irs/
 hisp_service_id: treas-irs
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected in FY 2015."
 ---
 
-{:.cx-profile-headline}
-## The IRS spent just 35 cents for each $100 it collected in FY 2015.
-
 {:.cx-section-heading}
-
 ## Q1 Operational Metrics
 
 ### Appointment Line
@@ -60,6 +57,3 @@ logo_type: seal
 |--------------------------------------------------|-----|
 | Toll-Free Tax Law Accuracy                       | 91% |
 | Toll-Free Accounts Accuracy                      | 95% |
-
-{:.cx-section-heading}
-## Supporting Documents

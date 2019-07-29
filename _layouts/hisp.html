@@ -8,6 +8,12 @@ layout: base
 {% endif %}
 {% endfor %}
 
+{% for hisp_data in site.data.hisp-data %}
+{% if hisp_data.service_id == page.hisp_service_id %}
+  {% assign this_hisp_data = hisp_data %}  
+{% endif %}
+{% endfor %}
+
 
 {% include main_header.html %}
 
@@ -41,8 +47,23 @@ layout: base
 
   </div>
 
+  <h2 class="cx-profile-headline">{{ page.hisp_profile_headline }}</h2>
+
+  <h2 class="cx-section-heading">Q2 Survey Results</h2>
+
+  {% if this_hisp_data.data_available == 'TRUE' %}
+    {% if this_hisp_data.data_public == 'FALSE' %}
+      Survey data could not be displayed because it has not yet been cleared for release through the <acronym title="Paperwork Reduction Act">PRA</acronym> clearance. 
+    {% endif %}
+  {% endif %}
+
+  {% if this_hisp_data.data_available == 'FALSE' %}
+    Survey data was not submitted for this quarter.
+  {% endif %}
+
   {{ content }}
 
+  <h2 class="cx-section-heading">Supporting Documents</h2>
 <ul>
   <li>Action Plan</li>
   <li><a href="{{ site.baseurl }}/cx/dashboard/dap-reports/cx-hisp-dap-{{ this_hisp.service_id }}.pdf">Website Analytics Data</a></li>

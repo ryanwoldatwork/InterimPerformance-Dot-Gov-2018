@@ -4,10 +4,8 @@ permalink: /cx/dashboard/doc/patents/
 hisp_service_id: doc-patents
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation"
 ---
-
-{:.cx-profile-headline}
-## Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation
 
 {:.cx-section-heading}
 ## Operational Metrics
@@ -58,6 +56,3 @@ Patents customer support via phone.  Total calls answered
 | January  | 3,267 | 284 | 336  | 1,889 | 7,408  | 1,227 | 7,294    | 21,705        | 56,649      |
 | February | 2,528 | 338 | 405  | 1,724 | 7,896  | 1,131 | 6,888    | 20,910        | 57,129      |
 | Subtotal | 5,795 | 622 | 741  | 3,613 | 15,304 | 2,358 | 14,182   | 42,615        | 113,778     |
-
-{:.cx-section-heading}
-## Supporting Documents

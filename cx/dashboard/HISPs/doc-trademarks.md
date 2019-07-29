@@ -4,13 +4,11 @@ permalink: /cx/dashboard/doc/trademarks/
 hisp_service_id: doc-trademarks
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation"
 ---
 
-{:.cx-profile-headline}
-## Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation
-
 {:.cx-section-heading}
-## Q1 Operational Metrics
+## Operational Metrics
 
 ### Site volume www.uspto.gov on desktop browsers
 Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
@@ -37,6 +35,3 @@ Note: The population of customers surveyed for the web and mobile sites is broad
 | Service level: % of calls answered within a defined timeframe: | 91%        |
 | Abandonment rate average:                                      | 0.37%      |
 | Average speed to answer:                                       | 20 seconds |
-
-{:.cx-section-heading}
-## Supporting Documents

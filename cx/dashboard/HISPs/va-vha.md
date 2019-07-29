@@ -4,13 +4,8 @@ permalink: /cx/dashboard/va/vha/
 hisp_service_id: va-vha
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "Schedules 91% of appointments within 30 days, giving Veterans more timely access to healthcare"
 ---
-
-{:.cx-profile-headline}
-## Schedules 91% of appointments within 30 days, giving Veterans more timely access to healthcare
-
-{:.cx-section-heading}
-## Q2 Survey Results
 
 
 <div class="survey-result-box survey-no-data">
@@ -91,7 +86,3 @@ logo_type: seal
 - Tablet:  7%
  
 **Patients to facilities per year**:  There were 85.95 million Outpatient Visits in FY18
-
-
-{:.cx-section-heading}
-## Supporting Documents

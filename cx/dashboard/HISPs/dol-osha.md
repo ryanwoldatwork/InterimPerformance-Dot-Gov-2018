@@ -4,13 +4,11 @@ permalink: /cx/dashboard/dol/osha/
 hisp_service_id: dol-osha
 layout: hisp
 logo_type: seal
+hisp_profile_headline: "Supports the safety of 130 million workers employed across 8 million worksites."
 ---
 
-{:.cx-profile-headline}
-## Supports the safety of 130 million workers employed across 8 million worksites.
-
 {:.cx-section-heading}
-## Q2 Operational Metrics
+## Operational Metrics
 
 Website use statistics, call center service levels, application processing times, etc.
 
@@ -18,6 +16,3 @@ Website use statistics, call center service levels, application processing times
 |--------------------------------------|------|
 | Number of re-approvalsÂ (Q2)         | 34   |
 | Website usage (Q2) unique page views | 8005 |
-
-{:.cx-section-heading}
-## Supporting Documents
