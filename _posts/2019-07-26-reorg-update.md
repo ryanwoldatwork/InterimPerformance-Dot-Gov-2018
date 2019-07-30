@@ -40,4 +40,4 @@ or staff, hearings, or legislation.
 - The President’s Fiscal Year (FY) 2020 Budget included 18 of the reorganization proposals, either in whole or in part.
 - Agencies are using existing authorities to implement more than 20 of the proposals.
 
-[**Read the Full Update**](https://www.performance.gov/GovReform/index.html)
+[**Read the One Year Update**](https://www.performance.gov/GovReform/index.html)
