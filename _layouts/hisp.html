@@ -4,13 +4,13 @@ layout: base
 
 {% for hisp in site.data.hisps %}
 {% if hisp.service_id == page.hisp_service_id %}
-  {% assign this_hisp = hisp %}  
+  {% assign this_hisp = hisp %}
 {% endif %}
 {% endfor %}
 
 {% for hisp_data in site.data.hisp-data %}
 {% if hisp_data.service_id == page.hisp_service_id %}
-  {% assign this_hisp_data = hisp_data %}  
+  {% assign this_hisp_data = hisp_data %}
 {% endif %}
 {% endfor %}
 
@@ -53,7 +53,7 @@ layout: base
 
   {% if this_hisp_data.data_available == 'TRUE' %}
     {% if this_hisp_data.data_public == 'FALSE' %}
-      Survey data could not be displayed because it has not yet been cleared for release through the <acronym title="Paperwork Reduction Act">PRA</acronym> clearance. 
+      Survey data could not be displayed because it has not yet been cleared for release through the <acronym title="Paperwork Reduction Act">PRA</acronym> clearance process.
     {% endif %}
   {% endif %}
 
@@ -65,8 +65,12 @@ layout: base
 
   <h2 class="cx-section-heading">Supporting Documents</h2>
 <ul>
-  <li>Action Plan</li>
-  <li><a href="{{ site.baseurl }}/cx/dashboard/dap-reports/cx-hisp-dap-{{ this_hisp.service_id }}.pdf">Website Analytics Data</a></li>
+  <li>
+    <a href="{{ site.baseurl }}/cx/dashboard/action-plans/cx-hisp-action-plan-{{ this_hisp.service_id }}.pdf">Action Plan</a>
+  </li>
+  <li>
+    <a href="{{ site.baseurl }}/cx/dashboard/dap-reports/cx-hisp-dap-{{ this_hisp.service_id }}.pdf">Website Analytics Data</a>
+  </li>
 </ul>
 
 </main>
