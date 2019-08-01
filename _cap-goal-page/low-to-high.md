@@ -37,7 +37,7 @@ resource-6-url: https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf
 quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work.pdf"
+current-action-plan: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
@@ -48,7 +48,7 @@ challenge: "Too often, requirements persist over time despite changes to the cir
 
 opportunity: "A Federal Government that shifts time, effort, and funding from burdensome requirements to high value work will:   improve the return on investment of central-management guidance to Federal agencies; reduce compliance requirements for Federal agencies; work with Congress to eliminate outdated legislative reporting requirements for Federal agencies; and reduce unnecessary costs and compliance requirements within individual agencies. " #third accordion text
 
-action-2019-june: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work.pdf"
+action-2019-june: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Shifting_From_Low-Value_to_High-Value_Work.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Shifting_From_Low-Value_to_High-Value_Work.pdf"
@@ -79,12 +79,13 @@ goal-leader-title: "Associate Director for Performance and Personnel Management,
 goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
 goal-leader-2-name: "Dustin Brown"
 goal-leader-2-title: "Deputy Assistant Director for Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/r_gaines.jpg"  
-goal-leader-3-name: "Ralph H. Gaines"
-goal-leader-3-title: "Chief Operations Officer, Department of Housing and Urban Development"
-goal-leader-4-photo: "/img/CAP-photos/montgomery-brian.jpg"  
-goal-leader-4-name: "Brian Montgomery"
-goal-leader-4-title: "Acting Deputy Secretary, Department of Housing and Urban Development"
+goal-leader-3-photo: "/img/CAP-photos/montgomery-brian.jpg"  
+goal-leader-3-name: "Brian Montgomery"
+goal-leader-3-title: "Acting Deputy Secretary, Department of Housing and Urban Development"
+goal-leader-4-photo: "/img/CAP-photos/r_gaines.jpg"  
+goal-leader-4-name: "Ralph H. Gaines"
+goal-leader-4-title: "Chief Operations Officer, Department of Housing and Urban Development"
+
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
