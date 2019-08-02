@@ -9,7 +9,6 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 ---
 <style>
 
-
   line {
     stroke: red;
   }
@@ -17,15 +16,17 @@ description: KPIs measure the performance of cross-agency priority goals in effe
   path.Target {
     stroke: orange;
     fill: none;
-    stroke-width: 2px;
+    stroke-width: 3px;
   }
 
   path.Actual {
     stroke: blue;
     fill: none;
-    stroke-width: 2px;
+    stroke-width: 3px;
   }
-
+  div.lable {
+    opacity: 0;
+  }
   g.circle {
     fill: none;
   }
@@ -49,6 +50,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
     fill: black;
   }
 
+
 </style>
 
 <section class="usa-section usa-section-dark usa-graphic_list">
@@ -69,19 +71,34 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
   <!--  *********************************FOUR DASHBOARDS EMBEDDED *************************************************-->
-      <section class="usa-section">
-        <div class="usa-grid usa-graphic_list-row">
-          <h2>Iframes embedded in 1/4th containers</h2>
-          <p>We need to resize the dashboards to around 500px for the scroll bars to dissappear</p>
+  <section class="usa-section">
+    <div class="usa-grid usa-graphic_list-row">
+      <h2>Iframes embedded in 1/4th containers</h2>
+      <p>We need to resize the dashboards to around 500px for the scroll bars to dissappear</p>
 
-          <div class="dashboard" style="height:400px;width:300px;">
-            <script type="text/javascript" src="VacantSpaceLineT2.js"></script>
+          <div class="usa-width-one-half usa-media_block" style="height:500px;" id = "chart">
+            <body onresize="callFunction()" onpageshow="callFunction()" >
+          		<script type="text/javascript" src="VacantSpaceLineT2.js">
+
+          		callFunction();
+          		// Redraw based on the new size whenever the browser window is resized.
+                window.addEventListener("resize",callFunction);
+          		</script>
+            </body>
           </div>
 
-          <div class="usa-width-one-half usa-media_block dashboard">
-        		<script type="text/javascript" src="VacantSpaceLineT2.js"></script>
+          <div class="usa-width-one-half usa-media_block" style="height:500px;" id = "chart1">
+            <body onresize="callFunction1()" onpageshow="callFunction1()" >
+          		<script type="text/javascript" src="VacantSpaceLineT3.js">
+
+          		callFunction1();
+          		// Redraw based on the new size whenever the browser window is resized.
+                window.addEventListener("resize",callFunction1);
+          		</script>
+            </body>
           </div>
 
-        </div>
-      </section>
+
+    </div>
+  </section>
 <!--  *********************************ACCORDION EMBEDDED *************************************************-->

@@ -1,16 +1,16 @@
-var chartDiv = document.getElementById("chart");
-var svg = d3.select(chartDiv).append("svg");
+var chartDiv1 = document.getElementById("chart1");
+var svg = d3.select(chartDiv1).append("svg");
 
 
-function callFunction(){
+function callFunction1(){
 
-  var svgtest = d3.select(chartDiv).select('svg');
-  var labelT = d3.select(chartDiv).select("div.label");
+  //var svgtest = d3.select(chartDiv1).select('svg');
+  //var labelT = d3.select(chartDiv1).select("div.label");
 
-  if (!svgtest.empty()) {
-    svgtest.remove()
-    labelT.remove()
-    }
+  // if (!svgtest.empty()) {
+    // svgtest.remove()
+    // labelT.remove()
+    // }
 
     // var tooltip = d3.select("svg").append("div").style("opacity",'0').style("position","absolute");
 
@@ -22,8 +22,8 @@ function callFunction(){
 
                   // var h = (window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight);
                   // var w = (window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth);
-                  var width = ((chartDiv.clientWidth)/2);
-                  var height = ((chartDiv.clientHeight)/2);
+                  var width = ((chartDiv1.clientWidth)/2);
+                  var height = ((chartDiv1.clientHeight)/2);
                   console.log(width);
                   console.log(height);
 
@@ -52,11 +52,11 @@ function callFunction(){
                   var yAxis = d3.axisLeft(y);
                   var xAxis = d3.axisBottom(x);
 
-                  var svg = d3.select(chartDiv).append('svg')
+                  var svg = d3.select(chartDiv1).append('svg')
                               .attr('height', '100%')
                               .attr('width', '100%');
 
-                  var tooltip = d3.select(chartDiv).append("div").style("opacity",'0').style("position","absolute");
+                  var tooltip = d3.select(chartDiv1).append("div").style("opacity",'0').style("position","absolute");
 
                   var margin = {left:50,right:50,top:40,bottom:0};
 
