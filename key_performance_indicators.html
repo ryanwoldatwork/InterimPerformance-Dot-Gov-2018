@@ -50,6 +50,9 @@ description: KPIs measure the performance of cross-agency priority goals in effe
     fill: black;
   }
 
+#no-frame-border {
+  border:0;
+}
 
 </style>
 
@@ -87,16 +90,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
             </body>
           </div>
 
-          <div class="usa-width-one-half usa-media_block" style="height:500px;" id = "chart1">
-            <body onresize="callFunction1()" onpageshow="callFunction1()" >
-          		<script type="text/javascript" src="VacantSpaceLineT3.js">
-
-          		callFunction1();
-          		// Redraw based on the new size whenever the browser window is resized.
-                window.addEventListener("resize",callFunction1);
-          		</script>
-            </body>
-          </div>
+        <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10283" id="no-frame-border" style="height:1000px;width:700px;"></iframe>
 
 
     </div>
