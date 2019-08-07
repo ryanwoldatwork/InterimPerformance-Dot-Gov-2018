@@ -51,7 +51,8 @@ description: KPIs measure the performance of cross-agency priority goals in effe
   }
 
 #no-frame-border {
-  border:0;
+  width: 100%;
+  height: 300px;
 }
 
 </style>
@@ -76,23 +77,69 @@ description: KPIs measure the performance of cross-agency priority goals in effe
   <!--  *********************************FOUR DASHBOARDS EMBEDDED *************************************************-->
   <section class="usa-section">
     <div class="usa-grid usa-graphic_list-row">
-      <h2>Iframes embedded in 1/4th containers</h2>
-      <p>We need to resize the dashboards to around 500px for the scroll bars to dissappear</p>
 
-          <div class="usa-width-one-half usa-media_block" style="height:500px;" id = "chart">
-            <body onresize="callFunction()" onpageshow="callFunction()" >
-          		<script type="text/javascript" src="VacantSpaceLineT2.js">
+    <h2>Sample Data Landing Page</h2>
+    <p>Dashboards of data.</p>
 
-          		callFunction();
-          		// Redraw based on the new size whenever the browser window is resized.
-                window.addEventListener("resize",callFunction);
-          		</script>
-            </body>
-          </div>
+     <div class="usa-width-one-fourth usa-media_block">
+       <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+     </div>
 
-        <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10283" id="no-frame-border" style="height:1000px;width:700px;"></iframe>
+     <div class="usa-width-one-fourth usa-media_block">
+       <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0" style="margin-right:10px;"></iframe>
+     </div>
+
+     <div class="usa-width-one-fourth usa-media_block">
+       <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+     </div>
+
+     <div class="usa-width-one-fourth usa-media_block">
+       <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+     </div>
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+</div>
+
+  <div class="usa-grid usa-graphic_list-row">
+
+  <h2>Iframes embedded in 1/4th containers</h2>
+  <p>We need to resize the dashboards to around 500px for the scroll bars to dissappear</p>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
+
+   <div class="usa-width-one-fourth usa-media_block">
+     <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10281" id="no-frame-border" frameborder="0"></iframe>
+   </div>
 
 
-    </div>
+</div>
   </section>
+
+
 <!--  *********************************ACCORDION EMBEDDED *************************************************-->
