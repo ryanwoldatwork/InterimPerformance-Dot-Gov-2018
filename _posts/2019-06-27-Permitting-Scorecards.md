@@ -18,7 +18,7 @@ excerpt: Agencies Show Transparency, Progress Toward Modernizing Infrastructure 
 
 
 image: "/img/blog/infrastructure-image.jpg"
-alt-text: "winding road pic"
+image_accessibility: A photo of a winding road.
 
 authors:
 - Performance.gov Team

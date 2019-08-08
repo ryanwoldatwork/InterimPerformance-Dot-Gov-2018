@@ -19,7 +19,7 @@ excerpt: This blog post showcases the Gears of Government President’s Award Ce
 
 
 image: "/img/blog/gears-ceremony-photo.jpg"
-alt-text: "Mick Mulvaney, Acting Chief of Staff to the President of the United States, thanks winners for their passionate work."
+image_accessibility: Mick Mulvaney, Acting Chief of Staff to the President of the United States, thanks winners for their passionate work.
 
 authors:
 - Margaret Weichert
