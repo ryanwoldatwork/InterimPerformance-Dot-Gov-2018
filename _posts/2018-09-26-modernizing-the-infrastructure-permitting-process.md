@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: White House announces the appointment of a new Executive Director for the Federal Permitting Improvement Steering Council (Permitting Council).  
 
 image: "/img/blog/reform-smaller.png"
+image_accessibility: Picture of highway interchanges at night. 
 authors:
 - Performance.gov Team
 

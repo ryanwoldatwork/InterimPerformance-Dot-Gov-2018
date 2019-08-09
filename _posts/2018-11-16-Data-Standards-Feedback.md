@@ -17,6 +17,7 @@ description: Federal Grants Management Draft Data Standards Open for Feedback
 excerpt: Federal Grants Management Draft Data Standards Open for Feedback
 
 image: /img/blog/Data-Elements-Live.png
+image_accessibility: Data Standards Feedback Live against a blue background. 
 
 authors:
 - Performance.gov Team
