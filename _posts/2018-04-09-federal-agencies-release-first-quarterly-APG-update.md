@@ -15,6 +15,7 @@ description: Federal agencies released today their implementation action plans a
 excerpt: Federal agencies released today their implementation action plans and first progress updates on their fiscal year (FY) 2018-19 Agency Priority Goals.
 
 image: "/img/blog/farm.jpeg"
+image_accessibility: Photo of a man inspecting plants on a farm. 
 
 authors:
 - Performance.gov Team

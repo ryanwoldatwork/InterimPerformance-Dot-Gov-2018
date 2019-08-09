@@ -17,6 +17,7 @@ description: USAID is changing the way it does business to achieve greater devel
 excerpt: USAID is changing the way it does business to achieve greater development outcomes and strengthen the capacity of partner countries on their journey to self-reliance.
 
 image: "/img/blog/usaid-stock-image.PNG"
+image_accessibility: A USAID staff member walking into a a relief shelter. 
 
 authors:
 - USAID

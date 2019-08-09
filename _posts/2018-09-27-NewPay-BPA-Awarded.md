@@ -20,6 +20,7 @@ summary: summary_large_image
 excerpt: 10-year, $2.5 billion BPA provides agencies with technology and services to modernize and improve payroll processing across government
 
 image: "/img/blog/newpay-blog.jpg"
+image_accessibility: Picture of a dollar sign against a grey background. 
 authors:
 - Performance.gov Team
 

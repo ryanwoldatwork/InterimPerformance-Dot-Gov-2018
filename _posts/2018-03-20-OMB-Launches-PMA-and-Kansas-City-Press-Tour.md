@@ -15,6 +15,7 @@ summary: summary_large_image
 
 excerpt: Today, the White House Office of Management and Budget (OMB) kicked off a two-day listening tour to engage federal workers and citizens in discussions about improving government services.
 image: "/img/homepage_images/newhero2_v2 JPG.jpg"
+image_accessibility: Photo of the White House. 
 authors:
 - Office of Management and Budget
 

@@ -19,6 +19,7 @@ description: The rescheduled Single Audit and Risk Management Industry Demonstra
 excerpt: The rescheduled Single Audit and Risk Management Industry Demonstration Days  begin April 3, 2019.
 
 image: "/img/blog/Industry-Days.png"
+image_accessibility: Post-It note that reads Register Today. 
 
 authors:
 - Performance.gov Team

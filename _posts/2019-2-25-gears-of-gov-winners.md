@@ -15,6 +15,7 @@ description: We’re excited to share that the 2019 Gears of Government Award re
 excerpt: We’re excited to share that the 2019 Gears of Government Award recipients can now be viewed on our Hall of Winners page.
 
 image: "/img/blog/gears-of-gov-awards-logo.png"
+image_accessibility: Gears of Government Awards Logo against gold background. 
 
 authors:
 - Performance.gov Team

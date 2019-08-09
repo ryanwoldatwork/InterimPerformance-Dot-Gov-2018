@@ -17,6 +17,7 @@ description: November is National Career Development Month and there’s no bett
 excerpt: November is National Career Development Month and there’s no better time to share what the Administration is doing to help reskill and retrain our Federal workforce to better serve the American people for the 21st century.
 
 image: "/img/blog/be-career-ready.jpg"
+image_accessibility: A person pressing a computer button. 
 
 authors:
 - Margaret M. Weichert, Acting Director, Office of Personnel Management and Deputy Director for Management, Office of Management and Budget

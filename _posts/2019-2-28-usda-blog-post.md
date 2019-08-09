@@ -19,6 +19,7 @@ excerpt: The US Department of Agriculture created a tool that uses public datase
 
 
 image: /img/blog/usda-first-responders-image.PNG
+image_accessibility: First responders meeting ahead of a rescue mission.
 
 authors:
 - Performance.gov Team
