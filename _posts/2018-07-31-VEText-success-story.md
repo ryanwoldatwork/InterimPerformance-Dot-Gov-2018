@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: VA's VEText, a text messaging appointment-reminder system that allows veterans to easily confirm or cancel an appointment, has helped VA reduce no-show medical visits by more than 100,000.
 
 image: "/img/blog/va-vetext.jpg"
+image_accessibility: A person using a smartphone. 
 authors:
 - Department of Veterans Affairs
 
