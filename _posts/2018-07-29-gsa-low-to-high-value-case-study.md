@@ -23,7 +23,7 @@ twitter-description: GSA's CFO Office Targets 200,000 Hours of Workload Redeploy
 
 
 image: "/img/blog/gsa-case-study.png"
-image_accessibility: Case Study Cover Page that reads Organizational Transformation: Low-Value to High-Value Services against a blue background. 
+image_accessibility: Photo of case study cover page. 
 authors:
 - Performance.gov Team
 
