@@ -19,7 +19,7 @@ excerpt: The Results-Oriented Accountability for Grants CAP Goal team recently l
 
 
 image: "/img/blog/innovation-pic.jpg"
-alt-text: "Grants Innovation Exchange Session Logo."
+image_accessibility: A person pressing a button that says the word innovation.
 
 authors:
 - Performance.gov Team

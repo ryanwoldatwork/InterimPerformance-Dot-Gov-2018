@@ -17,6 +17,7 @@ description: On September 12, 2018, OMB, together with The MITRE Corporation, co
 excerpt: On September 12, 2018, OMB, together with The MITRE Corporation, convened more than 150 experts and leaders from across the country for a full-day symposium on strategies for improving the federal workforce in support of the PMA on modernizing the federal government.
 
 image: /img/blog/20181022-fed-workforce-report.png
+image_accessibility: Cover of Workforce Report against a blue background. 
 
 authors:
 - Performance.gov Team

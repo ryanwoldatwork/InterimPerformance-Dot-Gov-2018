@@ -18,7 +18,7 @@ excerpt: Today, teams tasked with implementing the Federal government’s high-p
 
 
 image: "/img/blog/june-quarterly-update.jpg"
-alt-text: "DAP title with navy blue backround"
+image_accessibility: Photo of cars driving over a bridge. 
 
 authors:
 - Performance.gov Team

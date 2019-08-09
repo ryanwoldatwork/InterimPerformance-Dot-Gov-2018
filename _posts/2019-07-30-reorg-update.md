@@ -19,7 +19,7 @@ excerpt: The Reform Plan proposed bold reforms to address structural and organiz
 
 
 image: /GovReform/reorg-update-post.png
-alt-text: "PMA One-Year Logo"
+image_accessibility: President's Management Agenda One Year Update Logo
 
 authors:
 - Performance.gov Team

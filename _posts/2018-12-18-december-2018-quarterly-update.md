@@ -18,6 +18,7 @@ description: Teams implementing the federal government’s high-priority perform
 excerpt: Teams implementing the federal government’s high-priority performance initiatives released their December 2018 quarterly updates of progress.
 
 image: "/img/blog/dec-2018-quarterly-update.PNG"
+image_accessibility: Photo of electrical towers during sunet. 
 
 authors:
 - Performance.gov Team

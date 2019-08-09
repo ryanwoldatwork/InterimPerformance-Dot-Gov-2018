@@ -16,7 +16,7 @@ description: The U.S. General Services Administration and Office of Management a
 excerpt: The U.S. General Services Administration and Office of Management and Budget are excited to launch the Government Effectiveness Advanced Research (GEAR) Center Challenge!
 
 image: "/img/blog/gear-center-challenge.png"
-alt-text: "GEAR Center Challenge Logo"
+image_accessibility: GEAR Center Challenge Logo against blue background.
 
 authors:
 - Performance.gov Team

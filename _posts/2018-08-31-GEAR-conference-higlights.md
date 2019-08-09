@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: Read highlights from the GEAR conference and watch a full recording of the live stream.
 
 image: "/img/blog/gear-blog-recap.png"
+image_accessibility: GEAR Center Conference against blue background. 
 authors:
 - Performance.gov Team
 
