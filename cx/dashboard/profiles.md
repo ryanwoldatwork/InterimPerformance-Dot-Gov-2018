@@ -1,12 +1,12 @@
 ---
-title: "CX CAP Goal Dashboard"
+title: "Customer Experience Profiles"
 layout: cx-dashboard
 agency_dir: cx
-permalink: /cx/dashboard/
+permalink: /cx/profiles/
 ---
 
 {:.cx-dashboard-heading}
-## CX Dashboard
+## CX Profiles
 
 {:.cx-dashboard-intro}
 Transform the customer experience by improving the usability and reliability of our Federal Government’s most critical digital services; create measurable improvements in customer satisfaction by using the principles and practices proven by leading private sector organizations
