@@ -49,29 +49,35 @@ layout: base
 
   <h2 class="cx-profile-headline">{{ page.hisp_profile_headline }}</h2>
 
-  <h2 class="cx-section-heading">Q2 Survey Results</h2>
+  <h2 class="cx-section-heading">CX Feedback Data</h2>
 
   {% if this_hisp_data.data_available == 'TRUE' %}
     {% if this_hisp_data.data_public == 'FALSE' %}
-      Survey data could not be displayed because it has not yet been cleared for release through the <acronym title="Paperwork Reduction Act">PRA</acronym> clearance process.
+      This HISP is collecting customer feedback data under the Fast Track clearance process of the <acronym title="Paperwork Reduction Act">PRA</acronym> and so it can not be shared publicly at this time.
     {% endif %}
   {% endif %}
 
   {% if this_hisp_data.data_available == 'FALSE' %}
-    Survey data was not submitted for this quarter.
+    This HISP did not submit customer feedback data for this quarter.
   {% endif %}
 
   {{ content }}
+
+ <h2 class="cx-section-heading">Digital Analytics Program Data</h2>
+<ul>
+  <li>
+    <a href="{{ site.baseurl }}/cx/dashboard/dap-reports/cx-hisp-dap-{{ this_hisp.service_id }}.pdf">Website Analytics Data</a>
+  </li>
+</ul>
+
+</main>
 
   <h2 class="cx-section-heading">Supporting Documents</h2>
 <ul>
   <li>
     <a href="{{ site.baseurl }}/cx/dashboard/action-plans/cx-hisp-action-plan-{{ this_hisp.service_id }}.pdf">Action Plan</a>
   </li>
-  <li>
-    <a href="{{ site.baseurl }}/cx/dashboard/dap-reports/cx-hisp-dap-{{ this_hisp.service_id }}.pdf">Website Analytics Data</a>
-  </li>
-</ul>
+ </ul>
 
 </main>
 
