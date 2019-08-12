@@ -86,7 +86,7 @@ alt_text_3: Photo of Brian Montgomery
 goal-leader-3-name: "Brian Montgomery"
 goal-leader-3-title: "Acting Deputy Secretary, Department of Housing and Urban Development"
 goal-leader-4-photo: "/img/CAP-photos/r_gaines.jpg"  
-alt_text_2: Photo of Ralph H. Gaines
+alt_text_4: Photo of Ralph H. Gaines
 goal-leader-4-name: "Ralph H. Gaines"
 goal-leader-4-title: "Chief Operations Officer, Department of Housing and Urban Development"
 
