@@ -67,13 +67,16 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG"
+alt_text_1: Photo of Lisa Hershman #Goal leader 1
 goal-leader-name: "Lisa Hershman"
 goal-leader-title: "Acting Chief Management Officer, Department of Defense"
-goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg"
+alt_text_2: Photo of Lisa Lesley Field  #Goal leader 2
 goal-leader-2-name: "Lesley Field"
 goal-leader-2-title: "Deputy Administrator for Federal Procurement Policy and Shared Services Policy Officer, Office of Management and Budget"
 goal-leader-3-photo: "/img/CAP-photos/Thomas_Alan.jpg"
+alt_text_3: Photo of Alan Thomas
 goal-leader-3-name: "Alan Thomas"
 goal-leader-3-title: "Commissioner, Federal Acquisition Service, General Services Administration"
 #***********************END GOAL LEADER SECTION*****************************8

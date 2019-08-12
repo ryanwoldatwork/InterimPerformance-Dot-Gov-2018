@@ -63,12 +63,14 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/murphy-emily.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/murphy-emily.jpg"
+alt_text_1: Photo of Emily Murphy   #Goal leader 1
 goal-leader-name: "Emily Murphy"
 goal-leader-title: "Administrator, General Services Administration"
-goal-leader-3-photo: "/img/CAP-photos/kent-suzette.jpg" #Goal leader 2
-goal-leader-3-name: "Suzette Kent"
-goal-leader-3-title: "Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpg"
+alt_text_2: Photo of Suzette Kent   #Goal leader 2
+goal-leader-2-name: "Suzette Kent"
+goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8

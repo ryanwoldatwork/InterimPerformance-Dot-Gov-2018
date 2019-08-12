@@ -73,16 +73,20 @@ CAP-event-text: This PMC meeting will focus on burden reduction.
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/warren-peter.jpeg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/warren-peter.jpeg"
+alt_text_1: Photo of Peter Warren   #Goal leader 1
 goal-leader-name: "Peter Warren"
 goal-leader-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
-goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg"
+alt_text_2: Photo of Dustin Brown   #Goal leader 2
 goal-leader-2-name: "Dustin Brown"
 goal-leader-2-title: "Deputy Assistant Director for Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/montgomery-brian.jpg"  
+goal-leader-3-photo: "/img/CAP-photos/montgomery-brian.jpg"
+alt_text_3: Photo of Brian Montgomery
 goal-leader-3-name: "Brian Montgomery"
 goal-leader-3-title: "Acting Deputy Secretary, Department of Housing and Urban Development"
 goal-leader-4-photo: "/img/CAP-photos/r_gaines.jpg"  
+alt_text_2: Photo of Ralph H. Gaines
 goal-leader-4-name: "Ralph H. Gaines"
 goal-leader-4-title: "Chief Operations Officer, Department of Housing and Urban Development"
 
