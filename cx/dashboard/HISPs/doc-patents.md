@@ -8,13 +8,13 @@ hisp_profile_headline: "Handled over 800,000 calls issuing over 707,000 trademar
 ---
 
 {:.cx-section-heading}
-## Operational Metrics
+## Q2 Operational Data
 
 ### Patents Main Website
 
 Site volume www.uspto.gov on browsers. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
 
-|                | January   | February  | Subtotal  |
+|                | January | February  | Subtotal  |
 |----------------|-----------|-----------|-----------|
 | Website volume | 1,600,935 | 1,184,625 | 2,785,560 |
 | New users      | 1,348,888 | 915,836   | 2,264,724 |
