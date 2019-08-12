@@ -59,10 +59,12 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/berkowitz-barry.PNG" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/berkowitz-barry.PNG"
+alt_text_1: Photo of Barry Berkowitz
 goal-leader-name: "Barry Berkowitz"
 goal-leader-title: "Senior Procurement Executive Department of Commerce, Department of Commerce"
 goal-leader-2-photo: "/img/CAP-photos/blum-matthew.jpg" #Goal leader 2
+alt_text_2: Photo of Mathew Blum
 goal-leader-2-name: "Mathew Blum"
 goal-leader-2-title: "Associate Administrator Office of Federal Procurement Policy, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8

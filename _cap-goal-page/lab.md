@@ -62,11 +62,13 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/copan-walter.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/copan-walter.jpg"
+alt_text_1: Photo of Walter Copan #Goal leader 1
 goal-leader-name: "Walter Copan, Ph.D"
 goal-leader-title: "Under Secretary of Commerce for Standards and Technology,
 Director, National Institute of Standards and Technology, U.S. Department of Commerce"
-goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg"
+alt_text_2: Photo of Michael Kratsios  #Goal leader 2
 goal-leader-2-name: "Michael Kratsios"
 goal-leader-2-title: "Deputy Assistant to the President for Technology Policy, Office of Science and Technology Policy The White House"
 #***********************END GOAL LEADER SECTION*****************************8
