@@ -56,13 +56,16 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/neumayr-mary.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/neumayr-mary.jpg"
+alt_text_1: Photo of Mary Neumayr #Goal leader 1
 goal-leader-name: "Mary Neumayr"
 goal-leader-title: "Chairman, Council on Environmental Quality"
-goal-leader-2-photo: "/img/CAP-photos/hergott-alex.jpg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/hergott-alex.jpg"
+alt_text_2: Photo of Alex Herrgott #Goal leader 2
 goal-leader-2-name: "Alex Herrgott"
 goal-leader-2-title: "Executive Director, Federal Permitting Improvement Steering Council"
-goal-leader-3-photo: "/img/CAP-photos/warren-peter.jpeg" #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/warren-peter.jpeg"
+alt_text_3: Photo of Peter Warren  #Goal leader 2
 goal-leader-3-name: "Peter Warren"
 goal-leader-3-title: "Associate Director, Office of Management & Budget"
 #***********************END GOAL LEADER SECTION*****************************8

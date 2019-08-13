@@ -59,13 +59,16 @@ event-link: https://challenge.gov/a/buzz/challenge/86/ideas/top
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG"
+alt_text_1: Photo of Lisa Hershmann   #Goal leader 1
 goal-leader-name: "Lisa Hershmann"
 goal-leader-title: "Deputy Chief Management Officer, Department of Defense"
-goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg"
+alt_text_2: Photo of Peter Warren   #Goal leader 2
 goal-leader-2-name: "Peter Warren"
 goal-leader-2-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
 goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
+alt_text_3: Photo of Michael Rigas 
 goal-leader-3-name: "Michael Rigas"
 goal-leader-3-title: "Deputy Director, Office of Personnel Management"
 #***********************END GOAL LEADER SECTION*****************************8

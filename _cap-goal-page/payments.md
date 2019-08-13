@@ -72,19 +72,24 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/Gay-Gilbert.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/Gay-Gilbert.jpg"
+alt_text_1: Photo of Gay Gilbert   #Goal leader 1
 goal-leader-name: "Gay Gilbert"
 goal-leader-title: "Administrator, Office of Unemployment Insurance, U.S. Department of Labor"
-goal-leader-2-photo: "/img/CAP-photos/schramek-j.jpg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/schramek-j.jpg"
+alt_text_2: Photo of Jeff Schramek   #Goal leader 2
 goal-leader-2-name: "Jeff Schramek"
 goal-leader-2-title: "Deputy Commissioner, Financial Services and Operations, Bureau of the Fiscal Service"
 goal-leader-3-photo: "/img/CAP-photos/Worstell_Megan.png"
+alt_text_3: Photo of Megan Worstell
 goal-leader-3-name: "Megan Worstell"
 goal-leader-3-title: " Acting Director of the Office of Financial Management and Chief Financial Officer, Centers for Medicare and Medicaid Services"
 goal-leader-4-photo: "/img/CAP-photos/soltis-tim.jpeg"
+alt_text_4: Photo of Tim Soltis
 goal-leader-4-name: "Tim Soltis"
 goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
 goal-leader-5-photo: "/img/CAP-photos/Till_Greg.png"
+alt_text_5: Photo of Greg Till
 goal-leader-5-name: "Greg Till"
 goal-leader-5-title: "Deputy Assistant Secretary, Fiscal Operations and Policy, Department of the Treasury"
 

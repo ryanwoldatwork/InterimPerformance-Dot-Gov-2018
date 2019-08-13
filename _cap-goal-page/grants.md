@@ -84,26 +84,32 @@ CAP-event-text:
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/CAP-photos/bell-dale.jpg"
+alt_text_1: Photo of Dale Bell
 goal-leader-name: "Dale Bell"
 goal-leader-title: "Division Director, Institution and Award Support, National Science Foundation"
 
-goal-leader-2-photo: "/img/CAP-photos/conley-sheila.png" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/conley-sheila.png"
+alt_text_2: Photo of Sheila Conley #Goal leader 2
 goal-leader-2-name: "Sheila Conley"
 goal-leader-2-title: "Deputy Chief Financial Officer, Department of Health and Human Services"
 
-goal-leader-3-photo: "/img/CAP-photos/funston-robin.jpg" #Goal leader 3
+goal-leader-3-photo: "/img/CAP-photos/funston-robin.jpg"
+alt_text_3: Photo of Robin Funston  #Goal leader 3
 goal-leader-3-name: "Robin Funston"
 goal-leader-3-title: "Director, Strategic Planning and Performance, Justice Management Division, Department of Justice"
 
-goal-leader-4-photo: "/img/CAP-photos/hungate-joeseph.jpg" #Goal leader 4
+goal-leader-4-photo: "/img/CAP-photos/hungate-joeseph.jpg"
+alt_text_4: Photo of Joseph Hungate III  #Goal leader 4
 goal-leader-4-title: "Assistance Chief Financial Officer for Systems"
 goal-leader-4-name: "Joseph Hungate III"
 
-goal-leader-5-photo: "/img/CAP-photos/soltis-tim-cropped.jpg" #Goal leader 5
+goal-leader-5-photo: "/img/CAP-photos/soltis-tim-cropped.jpg"
+alt_text_5: Photo of Tim Soltis #Goal leader 5
 goal-leader-5-name: "Tim Soltis"
 goal-leader-5-title: "Deputy Controller, Office of Management and Budget"
 
-goal-leader-6-photo: "/img/CAP-photos/watson-laura.jpg" #Goal leader 6
+goal-leader-6-photo: "/img/CAP-photos/watson-laura.jpg"
+alt_text_6: Photo of Laura Watson  #Goal leader 6
 goal-leader-6-name: "Laura Watson"
 goal-leader-6-title: "Chief Grant Officer, Department of Labor"
 
