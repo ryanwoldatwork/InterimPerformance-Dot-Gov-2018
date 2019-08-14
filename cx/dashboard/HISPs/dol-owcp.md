@@ -9,7 +9,7 @@ hisp_profile_headline: "Supports 227,000 beneficiaries who became ill or injured
 
 
 {:.cx-section-heading}
-## Operational Metrics
+## Q2 Operational Metrics
 
 | Call Volume and IVR Survey Participation | District Office | Final Adjudication Branch |
 |------------------------------------------|-----------------|---------------------------|
