@@ -6,8 +6,8 @@ layout: hisp
 logo_type: seal
 hisp_profile_headline: "83.9% of respondents agreed that the FAFSA application was easy to complete and over 78.6% strongly agreed that they trusted the process."
 ---
-{:.cx-section-heading}
 
+{:.cx-section-heading}
 ## Q1 Operational Data
 
 | FAFSA applications submitted | 6.3 million |
@@ -17,7 +17,6 @@ hisp_profile_headline: "83.9% of respondents agreed that the FAFSA application w
 
 
 {:.cx-section-heading}
-
 ## Q2 Operational Data
 
 | FAFSA applications submitted | 5.2 million  |
