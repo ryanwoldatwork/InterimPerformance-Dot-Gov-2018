@@ -115,6 +115,10 @@ height : 150px;
 .survey-trend-arrow {
   color: #479F68; }
 
+.survey-trend-arrow.survey-no-arrow {
+	display : none;
+}
+
 .survey-no-data .survey-avg-score {
   color: #924C23;
   font-size: 2rem; }
