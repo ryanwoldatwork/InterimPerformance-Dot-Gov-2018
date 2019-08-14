@@ -73,7 +73,7 @@ hisp_profile_headline: "Schedules 91% of appointments within 30 days, giving Vet
 
 
 {:.cx-section-heading}
-## Operational Metrics
+## Operational Data
 
 **Calls per year**: VHA’s Outpatient Services Contact Centers answered more than 41 million calls in FY18 (i.e., calls for appointment scheduling, pharmacy services, etc.). The average speed of answer was 56 seconds.
  
