@@ -8,7 +8,7 @@ hisp_profile_headline: "Handled over 800,000 calls issuing over 707,000 trademar
 ---
 
 {:.cx-section-heading}
-## Operational Metrics
+## Q2 Operational Metrics
 
 ### Site volume www.uspto.gov on desktop browsers
 Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
