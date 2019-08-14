@@ -8,7 +8,7 @@ hisp_profile_headline: "83.9% of respondents agreed that the FAFSA application w
 ---
 {:.cx-section-heading}
 
-## Q1 Operational Metrics
+## Q1 Operational Data
 
 | FAFSA applications submitted | 6.3 million |
 |------------------------------|-------------|
@@ -18,7 +18,7 @@ hisp_profile_headline: "83.9% of respondents agreed that the FAFSA application w
 
 {:.cx-section-heading}
 
-## Q2 Operational Metrics
+## Q2 Operational Data
 
 | FAFSA applications submitted | 5.2 million  |
 |------------------------------|--------------|
