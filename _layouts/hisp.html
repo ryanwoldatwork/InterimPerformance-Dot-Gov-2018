@@ -52,8 +52,9 @@ layout: base
   <h2 class="cx-section-heading">CX Feedback Data</h2>
 
   {% if this_hisp_data.data_available == 'TRUE' %}
+      {% endif %}
     {% if this_hisp_data.data_public == 'FALSE' %}
-      This HISP is collecting customer feedback data under the Fast Track clearance process of the <acronym title="Paperwork Reduction Act">PRA</acronym> and so it can not be shared publicly at this time.
+      This HISP is collecting customer feedback data under the Fast Track clearance process of the <acronym title="Paperwork Reduction Act">PRA</acronym> and so it cannot be shared publicly at this time.
     {% endif %}
   {% endif %}
 
