@@ -23,7 +23,7 @@ authors:
 - Performance.gov Team
 
 tags:
-- lab
+- cm
 - CAP goal
 - PMA
 
