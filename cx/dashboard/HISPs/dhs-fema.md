@@ -8,6 +8,6 @@ hisp_profile_headline: "Provided over $100 billion in financial assistance to he
 ---
 
 {:.cx-section-heading}
-## Operational Data
+## Q2 Operational Data
 
 There is no available data to share at this time. 
