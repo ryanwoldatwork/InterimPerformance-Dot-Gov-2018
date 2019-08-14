@@ -8,11 +8,11 @@ hisp_profile_headline: "Supports the safety of 130 million workers employed acro
 ---
 
 {:.cx-section-heading}
-## Operational Metrics
+## Q2 Operational Metrics
 
 Website use statistics, call center service levels, application processing times, etc.
 
-| Number of new approvals (Q2)         | 32   |
+| Number of new approvals         | 32   |
 |--------------------------------------|------|
-| Number of re-approvalsÂ (Q2)         | 34   |
-| Website usage (Q2) unique page views | 8005 |
+| Number of re-approvals         | 34   |
+| Website usage unique page views | 8005 |
