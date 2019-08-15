@@ -4,8 +4,14 @@ permalink: /cx/dashboard/va/vha/
 hisp_service_id: va-vha
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Schedules 91% of appointments within 30 days, giving Veterans more timely access to healthcare"
+hisp_profile_headline: "Over 85% of outpatient customers trust the VA to fulfill the country's commitment to Veterans."
 ---
+
+The Veterans Health Administration outpatient customer experience survey data is presented below for Fiscal Year 2019 quarters 1 and 2. 
+
+Mapping of the VHA-adapted questions relating the the government-wide CX measures can be found here. 
+
+Conversion of the VHA submitted data to an overall score out of 5 on each of the CX measures can be found here.
 
 #### Q2 Survey Results
 
