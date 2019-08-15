@@ -10,8 +10,6 @@ hisp_profile_headline: "Supports the safety of 130 million workers employed acro
 {:.cx-section-heading}
 ## Q2 Operational Data
 
-Website use statistics, call center service levels, application processing times, etc.
-
 | Number of new approvals         | 32   |
 |--------------------------------------|------|
 | Number of re-approvals         | 34   |
