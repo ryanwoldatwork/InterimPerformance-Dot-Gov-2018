@@ -8,7 +8,7 @@ hisp_profile_headline: "Issues more than 20 million passports annually and enabl
 ---
 
 {:.cx-section-heading}
-## Q1 Operational Metrics
+## Q1 Operational Data
 
 ### App Processing Times
 
@@ -25,7 +25,7 @@ Contact Centers - Call answer rate of 98.9% within 2 minutes.
 Website - 26,723,616 unique page views on Passport Services web pages
 
 {:.cx-section-heading}
-## Q2 Operational Metrics
+## Q2 Operational Data
 
 ### App Processing Times
 
