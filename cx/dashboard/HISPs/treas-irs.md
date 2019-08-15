@@ -8,7 +8,7 @@ hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected i
 ---
 
 {:.cx-section-heading}
-## Q1 Operational Metrics
+## Q1 Operational Data
 
 ### Appointment Line
 
@@ -34,7 +34,7 @@ hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected i
 
 {:.cx-section-heading}
 
-## Q2 Operational Metrics
+## Q2 Operational Data
 
 ### Appointment Line
 
