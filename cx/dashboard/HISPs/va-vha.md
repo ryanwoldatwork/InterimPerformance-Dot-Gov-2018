@@ -9,7 +9,7 @@ hisp_profile_headline: "Over 85% of outpatient customers trust the VA to fulfill
 
 The Veterans Health Administration outpatient customer experience survey data is presented below for Fiscal Year 2019 quarters 1 and 2. 
 
-Mapping of the VHA-adapted questions relating the the government-wide CX measures and the conversion of the VHA submitted data to an overall score out of 5 on each of the CX measures can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/VHA-FY19-DataDetail.xlsx">be found here</a>.
+Mapping of the VHA-adapted questions to the government-wide CX measures and the conversion of the VHA submitted data to an overall score out of 5 on each of the CX measures can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/VHA-FY19-DataDetail.xlsx">be found here</a>.
 
 #### Q2 Survey Results
 
