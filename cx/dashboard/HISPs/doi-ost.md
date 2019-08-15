@@ -8,7 +8,7 @@ hisp_profile_headline: "Appraised 717,062 acres of land for Land Buy-Back Progra
 ---
 
 {:.cx-section-heading}
-## Q2 Operational Metrics
+## Q2 Operational Data
 
 TBCC call center services are contracted. Contractor continues to meet or exceed the following monthly Performance Metrics:
 
