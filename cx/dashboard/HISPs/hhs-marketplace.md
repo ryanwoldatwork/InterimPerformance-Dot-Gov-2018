@@ -4,12 +4,12 @@ permalink: /cx/dashboard/hhs/marketplace/
 hisp_service_id: hhs-marketplace
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Improve access to healthcare with 11.4 million marketplace enrollments and 34.4 million Medicare members"
+hisp_profile_headline: "Improving access to healthcare with 11.4 million marketplace enrollments and 34.4 million Medicare members."
 ---
 
 {:.cx-section-heading}
 
-## Q1 Operational Metrics
+## Q1 Operational Data
 
 ### Call Center
 
@@ -18,20 +18,26 @@ hisp_profile_headline: "Improve access to healthcare with 11.4 million marketpla
 | Handle Time for Q1 FY19 (Oct 1-Dec 31, 2018) | 15:32     |
 | Wait Time for Q1 FY19 (Oct 1-Dec 31, 2018)   | 3:21      |
 
+### Website 
+
+| Users for Q1 FY19 (Oct 1-Dec 31, 2018)    | 18,668,968 (Users)      |
+|----------------------------------------------|-------------------------|
+| Pageviews Q1 FY19 (Oct 1-Dec 31, 2018) | 1,233,553,458 (Pageviews) |
+
 {:.cx-section-heading}
 
-## Q2 Operational Metrics
+## Q2 Operational Data
 
 ### Call Center
 
 
-| Call Volume for Q1 FY19 (Oct 1-Dec 31, 2018) | 5,262,265 |
+| Call Volume for Q2 FY19 (Jan 1-March 31, 2019) | 5,262,265 |
 |----------------------------------------------|-----------|
-| Handle Time for Q1 FY19 (Oct 1-Dec 31, 2018) | 12:43     |
-| Wait Time for Q1 FY19 (Oct 1-Dec 31, 2018)   | 3:21      |
+| Handle Time for Q2 FY19 (Jan 1-March 31, 2019) | 12:43     |
+| Wait Time for Q2 FY19 (Jan 1-March 31, 2019)   | 3:21      |
 
 ### Website 
 
-| Users  for Q2 FY19 (Jan 1-March 31, 2019)    | 11,382,085 (Users)      |
+| Users for Q2 FY19 (Jan 1-March 31, 2019)    | 11,382,085 (Users)      |
 |----------------------------------------------|-------------------------|
 | Pageviews for Q2 FY19 (Jan 1-March 31, 2019) | 418,034,283 (Pageviews) |
