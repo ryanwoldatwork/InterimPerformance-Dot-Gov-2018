@@ -8,9 +8,9 @@ hisp_profile_headline: "Handled over 800,000 calls issuing over 707,000 trademar
 ---
 
 {:.cx-section-heading}
-## Q2 Operational Data
+## Operational Data
 
-### Patents Main Website
+### Q2 - Patents Main Website
 
 Site volume www.uspto.gov on browsers. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
 
@@ -28,7 +28,7 @@ Total new applications filed by patent type:
 | % change | 3.7%    | -12.1% | 1.9%   |
 
 
-### Patents Mobile Website
+### Q2 - Patents Mobile Website
 
 Site volume www.uspto.gov on mobile devices. Note: The population of customers surveyed for the web and mobile sites is broad and includes other customer groups.
 
@@ -47,7 +47,7 @@ Total new applications filed by patent type:
 | % change | 3.7%    | -12.1% | 1.9% |      |
 
 
-### Patents Contact Center
+### Q2 - Patents Contact Center
 
 Patents customer support via phone.  Total calls answered
 
