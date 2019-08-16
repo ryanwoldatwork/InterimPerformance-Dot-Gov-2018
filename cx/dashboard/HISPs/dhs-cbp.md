@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dhs/cbp/
 hisp_service_id: dhs-cbp
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Safeguard 7,000 miles of land border with 328 ports of entry"
+hisp_profile_headline: "Safeguard 7,000 miles of land border with 328 ports of entry."
 ---
 
 {:.cx-section-heading}
