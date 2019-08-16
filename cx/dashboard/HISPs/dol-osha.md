@@ -8,7 +8,9 @@ hisp_profile_headline: "Supports the safety of 130 million workers employed acro
 ---
 
 {:.cx-section-heading}
-## Q2 Operational Data
+## Operational Data
+
+Q2 Data for the Voluntary Protection Program
 
 | Number of new approvals         | 32   |
 |--------------------------------------|------|
