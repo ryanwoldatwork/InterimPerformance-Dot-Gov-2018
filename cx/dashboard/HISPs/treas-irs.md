@@ -15,15 +15,15 @@ hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected i
 | Face-to-Face Contacts          | 457340     |
 |--------------------------------|------------|
 | Total Appointments Scheduled   | 236658     |
-| Toll-Free Accounts Accuracy    | 96 percent |
+| Toll-Free Accounts Accuracy    | 96% |
 
 ### Appointment Line Follow-up
 
 | Face-to-Face Contacts        | 457340     |
 |------------------------------|------------|
 | Total Appointments Scheduled | 236658     |
-| Field Assistance Accuracy    | 97 Percent |
-| Toll-Free Accounts Accuracy  | 96 Percent |
+| Field Assistance Accuracy    | 97% |
+| Toll-Free Accounts Accuracy  | 96% |
 
 ### Toll free Call Center
 
@@ -41,15 +41,15 @@ hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected i
 | Face-to-Face Contacts          | 1025381    |
 |--------------------------------|------------|
 | Total Appointments Scheduled   | 646820     |
-| Toll-Free Accounts Accuracy    | 95 percent |
+| Toll-Free Accounts Accuracy    | 95% |
 
 ### Appointment Line Follow-up
 
 | Face-to-Face Contacts        | 1025381    |
 |------------------------------|------------|
 | Total Appointments Scheduled | 646820     |
-| Field Assistance Accuracy    | 96 Percent |
-| Toll-Free Accounts Accuracy  | 95 Percent |
+| Field Assistance Accuracy    | 96% |
+| Toll-Free Accounts Accuracy  | 95% |
 
 ### Toll free Call Center
 
