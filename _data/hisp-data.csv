@@ -7,8 +7,8 @@ hhs-medicare,FALSE,TRUE
 dhs-tsa,FALSE,TRUE
 dhs-cbp,FALSE,TRUE
 dhs-uscis,FALSE,TRUE
-dhs-fema,FALSE,FALSE
-hud-fha,FALSE,FALSE
+dhs-fema,FALSE,TRUE
+hud-fha,FALSE,TRUE
 doi-ost,FALSE,TRUE
 doi-fws,TRUE,FALSE
 dol-osha,FALSE,FALSE
