@@ -10,4 +10,4 @@ hisp_profile_headline: "Improve safety for 2.6 million passengers at 440 airport
 {:.cx-section-heading}
 ## Operational Data
 
-TSA has begun to compile existing metrics and identify areas where metrics should exist.  These measures have already been put into three categories:  customer experience, responsiveness and information sharing.  We plan to add additional metrics in the categories of compliance and employee engagement and submit in future quarters.		
+There is no available data to share at this time.	
