@@ -1,5 +1,5 @@
 ---
-title: Office of Worker Compensation Programs - Department of Labor - CX CAP Goal Dashboard
+title: Division of Energy Employees Occupational Illness Compensation, Office of Worker Compensation Programs - Department of Labor - CX CAP Goal Dashboard
 permalink: /cx/dashboard/dol/owcp/
 hisp_service_id: dol-owcp
 layout: hisp
@@ -9,9 +9,9 @@ hisp_profile_headline: "Supports 227,000 beneficiaries who became ill or injured
 
 
 {:.cx-section-heading}
-## Operational Metrics
+## Operational Data
 
-
+### Q2 Data
 | Call Volume and IVR Survey Participation | District Office | Final Adjudication Branch |
 |------------------------------------------|-----------------|---------------------------|
 | Incoming calls                           | 28,670          | 1,286                     |
