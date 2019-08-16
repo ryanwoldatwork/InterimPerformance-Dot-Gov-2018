@@ -104,6 +104,10 @@ height : 150px;
   border-left: 1rem solid #DCDEE0;
 }
 
+.survey-no-data .survey-avg-score {
+	width : 100px;
+}
+
 .survey-result-stats {
   margin-bottom: .5rem;
   font-size: 2.2rem;
@@ -125,7 +129,7 @@ height : 150px;
 
 .survey-no-data .survey-question {
   color: #7F7F7F;
-  padding-left: 1rem; }
+}
 
 .cx-hisp-profile table {
   width: 100%; }
@@ -139,3 +143,46 @@ height : 150px;
 .cx-breadcrumb a:link {
 	text-decoration : none;
 }
+
+.survey-avg-score {
+  display: inline-block;
+  width : 20%;
+}
+
+.star-ratings-css {
+  display: inline-block;
+}
+
+$starSize: 2rem;
+
+.star-ratings-css {
+  unicode-bidi: bidi-override;
+  color: #c5c5c5;
+  height: $starSize;
+  width: calc(#{$starSize} * 5);
+  margin: 0 auto;
+  position: relative;
+  padding: 0;
+  text-shadow: 0px 1px 0 #a2a2a2;
+  font-size: $starSize;
+  
+  &-top {
+    color: #e7711b;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+    display: block;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    width: 100%;
+  }
+  &-bottom {
+    padding: 0;
+    display: block;
+    z-index: 0;
+    width: 100%;
+  }
+  
+}
+

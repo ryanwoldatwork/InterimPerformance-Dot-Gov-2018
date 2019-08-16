@@ -15,53 +15,105 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 
 <div class="survey-result-box survey-no-data">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score"> ⃠ No Data</span>
 		<span class="survey-question">Satisfaction</span>
+		<div class="survey-score">
+			<span class="survey-avg-score"> ⃠ No Data</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">No results were provided for this survey question</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.67</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Trust / Confidence</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.67</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.67 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "This increased my trust/confidence in the service"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.76</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Service Effectiveness</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.76</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.76 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "My need was addressed" or "My issue was resolved"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.72</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Process / Ease</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.72</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.72 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "It was easy to complete what I needed to do"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.66</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Efficiency</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.66</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.66 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "It took a reasonable amount of time"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.84</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Process Transparency</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.84</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.84 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "I understood what was being asked of me"</div>
 </div>
@@ -69,9 +121,19 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.81</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Helpful Employees</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.81</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.81 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "Employees I interacted with were helpful"</div>
 </div>
@@ -86,53 +148,105 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 
 <div class="survey-result-box survey-no-data">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score"> ⃠ No Data</span>
 		<span class="survey-question">Satisfaction</span>
+		<div class="survey-score">
+			<span class="survey-avg-score"> ⃠ No Data</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">No results were provided for this survey question</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.66</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Trust / Confidence</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.66</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.66 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "This increased my trust/confidence in the service"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.76</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Service Effectiveness</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.76</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.76 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "My need was addressed" or "My issue was resolved"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.71</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Process / Ease</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.71</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.71 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "It was easy to complete what I needed to do"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.67</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Efficiency</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.67</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.67 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "It took a reasonable amount of time"</div>
 </div>
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.83</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Process Transparency</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.83</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.83 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "I understood what was being asked of me"</div>
 </div>
@@ -140,9 +254,19 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
-		<span class="survey-avg-score">4.81</span>
-		<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		<span class="survey-question">Helpful Employees</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.81</div>
+			<div class="star-ratings-css">
+			  <div class="star-ratings-css-top" style="width: {{ 4.81 | divided_by: 5 | times: 100}}%">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			  <div class="star-ratings-css-bottom">
+			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+			  </div>
+			</div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>		
 	</div>
 	<div class="survey-question-description">Agreed "Employees I interacted with were helpful"</div>
 </div>
