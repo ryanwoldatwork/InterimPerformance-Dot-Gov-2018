@@ -12,7 +12,7 @@ hud-fha,FALSE,TRUE
 doi-ost,FALSE,TRUE
 doi-fws,TRUE,FALSE
 dol-osha,FALSE,FALSE
-dol-owcp,FALSE,TRUE
+dol-deeoic,FALSE,TRUE
 dos-ca,FALSE,TRUE
 treas-irs,FALSE,TRUE
 va-vha,TRUE,TRUE
