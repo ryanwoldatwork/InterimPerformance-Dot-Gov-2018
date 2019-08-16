@@ -10,7 +10,7 @@ hisp_profile_headline: "At least 89% of visitors agreed they are satisfied with 
 {:.cx-section-heading}
 ## CX Feedback Data
 
-The National Wildlife Refuge System piloted an effort in 2010-2012 to collect customer feedback data. Building on these efforts, they have begun to implement a survey effort on a yearlly basis throughout the year. The 2010-2012 report can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/USFWS_NatWLRefugeVisSurvey_2010-11Results.pdf">be found here</a>. 
+The National Wildlife Refuge System piloted an effort in 2010-2012 to collect customer feedback data. Building on these efforts, they have begun to implement an annual survey administered throughout the year. The 2010-2012 report can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/USFWS_NatWLRefugeVisSurvey_2010-11Results.pdf">be found here</a>. 
 
 ## Operational Data
 
