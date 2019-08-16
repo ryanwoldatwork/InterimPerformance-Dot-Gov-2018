@@ -4,7 +4,7 @@ permalink: /cx/dashboard/ed/fafsa/
 hisp_service_id: ed-fafsa
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "83.9% of respondents agreed that the FAFSA application was easy to complete and over 78.6% strongly agreed that they trusted the process."
+hisp_profile_headline: "Last year, over 18 million applicants completed the Free Application for Federal Student Aid and FSA has over 40 million borrowers in its portfolio."
 ---
 
 {:.cx-section-heading}
