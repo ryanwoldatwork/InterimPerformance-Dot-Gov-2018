@@ -18,7 +18,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Satisfaction</span>
 		<div class="survey-score">
 			<span class="survey-avg-score"> ⃠ No Data</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">No results were provided for this survey question</div>
 </div>
@@ -28,16 +28,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Trust / Confidence</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.67</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.67 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.67;" aria-label="Rating of this product is 4.67 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "This increased my trust/confidence in the service"</div>
 </div>
@@ -47,16 +40,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Service Effectiveness</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.76</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.76 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.76;" aria-label="Rating of this product is 4.76 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "My need was addressed" or "My issue was resolved"</div>
 </div>
@@ -66,16 +52,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Process / Ease</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.72</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.72 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.72;" aria-label="Rating of this product is 4.72 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "It was easy to complete what I needed to do"</div>
 </div>
@@ -85,16 +64,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Efficiency</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.66</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.66 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.66;" aria-label="Rating of this product is 4.66 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "It took a reasonable amount of time"</div>
 </div>
@@ -104,16 +76,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Process Transparency</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.84</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.84 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.84;" aria-label="Rating of this product is 4.84 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "I understood what was being asked of me"</div>
 </div>
@@ -124,16 +89,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Helpful Employees</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.81</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.81 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.81;" aria-label="Rating of this product is 4.81 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "Employees I interacted with were helpful"</div>
 </div>
@@ -151,7 +109,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Satisfaction</span>
 		<div class="survey-score">
 			<span class="survey-avg-score"> ⃠ No Data</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">No results were provided for this survey question</div>
 </div>
@@ -161,14 +119,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Trust / Confidence</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.66</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.66 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.66;" aria-label="Rating of this product is 4.66 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
 		</div>		
 	</div>
@@ -180,16 +131,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Service Effectiveness</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.76</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.76 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.76;" aria-label="Rating of this product is 4.76 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>	
 	</div>
 	<div class="survey-question-description">Agreed "My need was addressed" or "My issue was resolved"</div>
 </div>
@@ -199,16 +143,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Process / Ease</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.71</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.71 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.71;" aria-label="Rating of this product is 4.71 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "It was easy to complete what I needed to do"</div>
 </div>
@@ -218,16 +155,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Efficiency</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.67</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.67 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.67;" aria-label="Rating of this product is 4.67 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "It took a reasonable amount of time"</div>
 </div>
@@ -237,16 +167,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Process Transparency</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.83</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.83 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.83;" aria-label="Rating of this product is 4.83 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>
 	</div>
 	<div class="survey-question-description">Agreed "I understood what was being asked of me"</div>
 </div>
@@ -257,16 +180,9 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 		<span class="survey-question">Helpful Employees</span>
 		<div class="survey-score">
 			<div class="survey-avg-score">4.81</div>
-			<div class="star-ratings-css">
-			  <div class="star-ratings-css-top" style="width: {{ 4.81 | divided_by: 5 | times: 100}}%">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			  <div class="star-ratings-css-bottom">
-			  	<span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
-			  </div>
-			</div>
+			<div class="star-rating" style="--rating: 4.81;" aria-label="Rating of this product is 4.81 out of 5."></div>
 			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
-		</div>		
+		</div>	
 	</div>
 	<div class="survey-question-description">Agreed "Employees I interacted with were helpful"</div>
 </div>
