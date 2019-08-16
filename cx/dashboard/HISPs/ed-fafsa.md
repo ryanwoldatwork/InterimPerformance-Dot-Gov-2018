@@ -8,8 +8,9 @@ hisp_profile_headline: "Last year, over 18 million applicants completed the Free
 ---
 
 {:.cx-section-heading}
-## Q1 Operational Data
+## Operational Data
 
+### Q1
 | FAFSA applications submitted | 6.3 million |
 |------------------------------|-------------|
 | FAFSA.gov visits             | 30 million  |
@@ -17,7 +18,7 @@ hisp_profile_headline: "Last year, over 18 million applicants completed the Free
 
 
 {:.cx-section-heading}
-## Q2 Operational Data
+### Q2
 
 | FAFSA applications submitted | 5.2 million  |
 |------------------------------|--------------|
