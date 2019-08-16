@@ -12,6 +12,7 @@ hisp_profile_headline: "Supports 227,000 beneficiaries who became ill or injured
 ## Operational Data
 
 ### Q2 Data
+
 | Call Volume and IVR Survey Participation | District Office | Final Adjudication Branch |
 |------------------------------------------|-----------------|---------------------------|
 | Incoming calls                           | 28,670          | 1,286                     |
