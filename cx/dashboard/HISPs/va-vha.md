@@ -194,7 +194,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 
 {:.cx-section-heading}
 
-## Q2 Operational Data
+## Operational Data
 
 **Calls per year**: VHA’s Outpatient Services Contact Centers answered more than 41 million calls in FY18 (i.e., calls for appointment scheduling, pharmacy services, etc.). The average speed of answer was 56 seconds.
  
