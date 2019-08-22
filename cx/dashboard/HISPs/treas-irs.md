@@ -4,7 +4,7 @@ permalink: /cx/dashboard/treas/irs/
 hisp_service_id: treas-irs
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected in FY 2015."
+hisp_profile_headline: "In FY 2018, for every $100 the government collected in taxes, the IRS spent only 35 cents."
 ---
 
 {:.cx-section-heading}
@@ -12,14 +12,14 @@ hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected i
 
 ### Appointment Line
 
-| Face-to-Face Contacts          | 457340     |
+| Face-to-Face Contacts          | 457000     |
 |--------------------------------|------------|
-| Total Appointments Scheduled   | 236658     |
+| Total Appointments Scheduled   | 237000     |
 | Toll-Free Accounts Accuracy    | 96% |
 
 ### Appointment Line Follow-up
 
-| Face-to-Face Contacts        | 457340     |
+| Face-to-Face Contacts        | 457000     |
 |------------------------------|------------|
 | Total Appointments Scheduled | 236658     |
 | Field Assistance Accuracy    | 97% |
@@ -38,16 +38,16 @@ hisp_profile_headline: "The IRS spent just 35 cents for each $100 it collected i
 
 ### Appointment Line
 
-| Face-to-Face Contacts          | 1025381    |
+| Face-to-Face Contacts          | 1025000    |
 |--------------------------------|------------|
-| Total Appointments Scheduled   | 646820     |
+| Total Appointments Scheduled   | 647000   |
 | Toll-Free Accounts Accuracy    | 95% |
 
 ### Appointment Line Follow-up
 
-| Face-to-Face Contacts        | 1025381    |
+| Face-to-Face Contacts        | 1025000    |
 |------------------------------|------------|
-| Total Appointments Scheduled | 646820     |
+| Total Appointments Scheduled | 647000     |
 | Field Assistance Accuracy    | 96% |
 | Toll-Free Accounts Accuracy  | 95% |
 
