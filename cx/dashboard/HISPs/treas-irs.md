@@ -12,48 +12,28 @@ hisp_profile_headline: "In FY 2018, for every $100 the government collected in t
 
 ### Appointment Line
 
-| Face-to-Face Contacts          | 457000     |
-|--------------------------------|------------|
-| Total Appointments Scheduled   | 237000     |
-| Toll-Free Accounts Accuracy    | 96% |
+| Face-to-Face Contacts       | 457,000 |
+|-----------------------------|---------|
+| Total Appointment Scheduled | 237,000 |
 
 ### Appointment Line Follow-up
 
-| Face-to-Face Contacts        | 457000     |
-|------------------------------|------------|
-| Total Appointments Scheduled | 236658     |
-| Field Assistance Accuracy    | 97% |
-| Toll-Free Accounts Accuracy  | 96% |
+| Face-to-Face Contacts       | 457,000 |
+|-----------------------------|---------|
+| Total Appointment Scheduled | 237,000 |
 
-### Toll free Call Center
-
-| Customer Service Representative Level of Service | 72% |
-|--------------------------------------------------|-----|
-| Toll-Free Tax Law Accuracy                       | 94% |
-| Toll-Free Accounts Accuracy                      | 96% |
 
 {:.cx-section-heading}
-
 ## Q2 Operational Data
 
 ### Appointment Line
 
-| Face-to-Face Contacts          | 1025000    |
-|--------------------------------|------------|
-| Total Appointments Scheduled   | 647000   |
-| Toll-Free Accounts Accuracy    | 95% |
+| Face-to-Face Contacts       | 1,025,000 |
+|-----------------------------|---------|
+| Total Appointment Scheduled | 647,000 |
 
 ### Appointment Line Follow-up
 
-| Face-to-Face Contacts        | 1025000    |
-|------------------------------|------------|
-| Total Appointments Scheduled | 647000     |
-| Field Assistance Accuracy    | 96% |
-| Toll-Free Accounts Accuracy  | 95% |
-
-### Toll free Call Center
-
-| Customer Service Representative Level of Service | 67% |
-|--------------------------------------------------|-----|
-| Toll-Free Tax Law Accuracy                       | 91% |
-| Toll-Free Accounts Accuracy                      | 95% |
+| Face-to-Face Contacts       | 1,025,000 |
+|-----------------------------|---------|
+| Total Appointment Scheduled | 647,000 |
