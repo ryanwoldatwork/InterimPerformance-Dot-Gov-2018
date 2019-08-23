@@ -14,6 +14,12 @@ layout: base
 {% endif %}
 {% endfor %}
 
+{% if this_hisp.service == this_hisp.bureau %}
+  {% assign hisp_bureau_display = '' %}
+{% else %}
+  {% capture hisp_bureau_display %}{{ this_hisp.bureau }}, {% endcapture %}
+{% endif %}
+
 
 {% include main_header.html %}
 
@@ -38,7 +44,7 @@ layout: base
 
     <div class="cx-hisp-intro usa-width-three-fourths" markdown="1">
       <h2 class="cx-profile-headline cx-agency-heading">{{ this_hisp.service }}</h2>
-      <h3 class="cx-agency-subheading">{{ this_hisp.bureau }}, {{ this_hisp.department }}</h3>
+      <h3 class="cx-agency-subheading">{{ hisp_bureau_display }}{{ this_hisp.department }}</h3>
 
       <p>
         {{ this_hisp.blurb }}

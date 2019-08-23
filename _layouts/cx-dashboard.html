@@ -22,6 +22,12 @@ layout: base
 <div class="cx-profile-heading usa-grid-full" markdown="1">
 {% for hisp in site.data.hisps %}
 
+{% if hisp.service == hisp.bureau %}
+  {% assign hisp_bureau_display = '' %}
+{% else %}
+  {% capture hisp_bureau_display %}{{ hisp.bureau }}, {% endcapture %}
+{% endif %}
+
 <div class="cx-hisp-tile">
     <div class="usa-width-one-fourth cx-agency-logo {{ hisp.department_abbreviation }}-logo">
       <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal">
@@ -32,7 +38,7 @@ layout: base
       <h2 class="cx-profile-headline cx-agency-heading">
         <a href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.service }}</a>
       </h2>
-      <h3 class="cx-agency-subheading">{{ hisp.bureau }}, {{ hisp.department }}</h3>
+      <h3 class="cx-agency-subheading">{{ hisp_bureau_display }}{{ hisp.department }}</h3>
 
     </div>
 
