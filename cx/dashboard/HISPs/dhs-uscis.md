@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dhs/uscis/
 hisp_service_id: dhs-uscis
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Adjudicate 26,000 requests for resident, employment, and citizenship benefits daily."
+hisp_profile_headline: "Receives 14 million inquiries a year via phone, chat, e-mail and written correspondence."
 ---
 
 {:.cx-section-heading}
