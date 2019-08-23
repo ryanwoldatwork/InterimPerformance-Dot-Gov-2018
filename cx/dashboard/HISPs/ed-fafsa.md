@@ -1,7 +1,7 @@
 ---
-title: FAFSA - Department of Education - CX CAP Goal Dashboard
-permalink: /cx/dashboard/ed/fafsa/
-hisp_service_id: ed-fafsa
+title: Federal Student Aid - Department of Education - CX CAP Goal Dashboard
+permalink: /cx/dashboard/ed/fsa/
+hisp_service_id: ed-fsa
 layout: hisp
 logo_type: seal
 hisp_profile_headline: "Last year, over 18 million applicants completed the Free Application for Federal Student Aid."
