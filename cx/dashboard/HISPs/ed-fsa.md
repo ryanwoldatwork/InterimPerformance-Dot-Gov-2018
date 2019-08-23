@@ -4,7 +4,7 @@ permalink: /cx/dashboard/ed/fsa/
 hisp_service_id: ed-fsa
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Last year, over 18 million applicants completed the Free Application for Federal Student Aid."
+hisp_profile_headline: "FSA serves more than 42 million customers and has a lending portfolio of more than 1.3 trillion dollars."
 ---
 
 {:.cx-section-heading}
