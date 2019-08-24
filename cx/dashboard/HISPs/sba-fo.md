@@ -4,7 +4,7 @@ permalink: /cx/dashboard/sba/fo/
 hisp_service_id: sba-fo
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Field Operations Lent $30 billion + to small businesses, supporting 600,000 jobs."
+hisp_profile_headline: "In 2018, SBA provided for more than $30 billion in loans to small businesses, supporting 600,000 jobs."
 ---
 
 {:.cx-section-heading}
