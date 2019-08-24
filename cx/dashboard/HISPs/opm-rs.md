@@ -20,6 +20,7 @@ hisp_profile_headline: "Provide timely services and benefits for over 2.6 millio
 {:.cx-section-heading}
 
 ### Q2 
+
 |                                                    | Q2 FY 19 Result | FY19 Goal |
 |----------------------------------------------------|-----------------|-----------|
 | Average number of minutes to answer phone calls    |  8.4            | 5         |
