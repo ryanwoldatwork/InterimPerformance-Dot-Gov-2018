@@ -14,5 +14,5 @@ Q2 Data for the Voluntary Protection Program
 
 | Number of new approvals         | 32   |
 |--------------------------------------|------|
-| Number of re-approvals         | 34   |
+| Number of re-approvals         | 37   |
 | Website usage unique page views | 8005 |
