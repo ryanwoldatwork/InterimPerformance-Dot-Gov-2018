@@ -9,7 +9,7 @@ hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefi
 
 {:.cx-section-heading}
 
-This HISP is collecting customer feedback under the Fast Track clearance process of the PRA and so it cannot be shared publicly at this time. 
+This HISP is collecting customer feedback under the Fast Track clearance process of the [PRA](https://digital.gov/resources/paperwork-reduction-act-fast-track-process/) so it cannot be shared publicly at this time. 
 
 ## Operational Data
 
