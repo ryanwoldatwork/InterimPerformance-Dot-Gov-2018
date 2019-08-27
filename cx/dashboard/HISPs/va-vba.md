@@ -9,7 +9,7 @@ hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefi
 
 {:.cx-section-heading}
 
-## Operational Data
+Operational Data
 
 ### Q2 - Education Call Center
 
