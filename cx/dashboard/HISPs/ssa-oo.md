@@ -4,7 +4,7 @@ permalink: /cx/dashboard/ssa/oo/
 hisp_service_id: ssa-oo
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Provide over $1 trillion in benefits to over 70 million individuals."
+hisp_profile_headline: "Provide over $1 trillion in benefits to over 70 million individuals"
 ---
 
 {:.cx-section-heading}
