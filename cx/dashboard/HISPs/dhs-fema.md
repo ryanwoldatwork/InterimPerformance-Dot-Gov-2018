@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dhs/fema/
 hisp_service_id: dhs-fema
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Provided over $100 billion in financial assistance to help citizens, towns, and cities after natural disasters."
+hisp_profile_headline: "Fielded 4.8 million calls, completed 2.3 million home inspections, and supported 5 million survivor registrants in 2017"
 ---
 
 {:.cx-section-heading}
