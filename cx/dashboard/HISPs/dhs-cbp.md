@@ -26,7 +26,7 @@ Call center service levels
 {:.cx-section-heading}
 ### Q2 Operational Data
 
-(Call center service levels)
+Call center service levels
 
 |                               | EVUS   |       | ESTA   |        | ADIS  |       | TTP/Other |       | Imminent Travel | Totals  |
 |-------------------------------|--------|-------|--------|--------|-------|-------|-----------|-------|-----------------|---------|
