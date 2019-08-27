@@ -4,7 +4,7 @@ permalink: /cx/dashboard/doc/patents/
 hisp_service_id: doc-patents
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "In 2018, the patent office issued the 10 millionth patent, celebrating the rich history and strength of the American intellectual property system."
+hisp_profile_headline: "In 2018, the patent office issued the 10 millionth patent, celebrating the rich history and strength of the American intellectual property system"
 ---
 
 {:.cx-section-heading}
