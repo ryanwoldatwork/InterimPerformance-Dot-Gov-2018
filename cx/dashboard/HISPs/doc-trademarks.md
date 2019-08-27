@@ -4,7 +4,7 @@ permalink: /cx/dashboard/doc/trademarks/
 hisp_service_id: doc-trademarks
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Handled over 800,000 calls issuing over 707,000 trademarks and patents to further American innovation"
+hisp_profile_headline: "Actively processing more than 600,000 trademark applications"
 ---
 
 {:.cx-section-heading}
