@@ -7,9 +7,7 @@ logo_type: seal
 hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefits."
 ---
 
-{:.cx-section-heading}
-
-Operational Data
+## Operational Data
 
 ### Q2 - Education Call Center
 
