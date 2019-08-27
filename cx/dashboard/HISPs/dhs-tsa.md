@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dhs/tsa/
 hisp_service_id: dhs-tsa
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "TSA screens 2.6 million passengers, 1.4 million checked items, and 5.5 million carry-on items at nearly 440 airports nationwide, securing more than 25,000 flights each day."
+hisp_profile_headline: "Screen more than 2 million passengers on more than 25,000 flights each day at nearly 440 airports nationwide"
 ---
 
 {:.cx-section-heading}
