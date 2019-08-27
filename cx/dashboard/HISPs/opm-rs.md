@@ -4,7 +4,7 @@ permalink: /cx/dashboard/opm/rs/
 hisp_service_id: opm-rs
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Provide timely services and benefits for over 2.6 million Federal retirees."
+hisp_profile_headline: "Provide timely services and benefits for over 2.6 million Federal retirees and survivors"
 ---
 
 {:.cx-section-heading}
