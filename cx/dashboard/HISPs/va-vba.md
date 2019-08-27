@@ -11,7 +11,7 @@ hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefi
 
 ### Q2 - Education Call Center
 
-VBA is planning to continue to improve the Muskogee Education Call Center (ECC) located in Muskogee, Oklahoma by providing an updated National training plan for agents and focusing on first call resolution. The Education Call Center delivers benefits and services to Veterans across the entire Nation and foreign countries. VBA is focused on providing enhanced world-class service and increased choices for those who seek assistance in applying for, or obtaining information about, VA benefits and services they have earned.
+The Education Call Center (ECC) delivers benefits and services to Veterans across the entire Nation and foreign countries. VBA is planning to continue to improve the ECC, located in Muskogee, Oklahoma, by providing an updated National training plan for agents and focusing on first call resolution.  Agents are also able to address all hardship related issues at point-of-call, which allows these claims to be processed within 24 hours and payment to be issued within three to five business days.
 
 |                |  FY 2018  |
 |----------------|-----------|
