@@ -12,7 +12,7 @@ hisp_profile_headline: "24/7 resouce that supports more than 450,000 communicati
 
 ### Q1 Operational Data
 
-Traveler Communication lLevels
+Traveler Communication Levels
 
 |                               | EVUS  |       | ESTA   |       | I-94  |       | TTP/Other |       | Imminent Travel | Totals |
 |-------------------------------|-------|-------|--------|-------|-------|-------|-----------|-------|-----------------|--------|
@@ -23,7 +23,7 @@ Traveler Communication lLevels
 | Totals by Channel per Program | 7928  | 2207  | 22,547 | 17572 | 311   | 9869  | 15189     | 32539 | 1387            | 109549 |
 | Totals by Program             | 10135 |       | 40119  |       | 10180 |       | 47728     |       | 1387            |        |
 
-{:.cx-section-heading}
+
 ### Q2 Operational Data
 
 Traveler Communication Levels
