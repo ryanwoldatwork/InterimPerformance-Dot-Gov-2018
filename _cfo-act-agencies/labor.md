@@ -10,7 +10,7 @@ agency-name: Department of Labor
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Labor_Department_Seal.png
 agency-site: https://www.dol.gov/
-strategic-plan-link: https://www.dol.gov/sites/default/files/budget/2019/FY2018-2022StrategicPlan.pdf
+strategic-plan-link: https://www.dol.gov/sites/dolgov/files/general/plans/fy2018-2022strategicplan.pdf
 performance-plan-link: https://www.dol.gov/sites/dolgov/files/general/budget/2020/CBJ-2020-V1-01.pdf
 
 #side navigation
