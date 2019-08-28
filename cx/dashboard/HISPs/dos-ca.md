@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dos/ca/
 hisp_service_id: dos-ca
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Issues more than 20 million passports annually and enables visitors to contribute $251 billion to the US economy in 2017 alone"
+hisp_profile_headline: "Issues more than 20 million passports annually and enables visitors to contribute $251 billion to the US economy in 2017"
 ---
 
 {:.cx-section-heading}

@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dol/deeoic/
 hisp_service_id: dol-deeoic
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Supports 227,000 beneficiaries who became ill or injured on the job."
+hisp_profile_headline: "Supports 227,000 beneficiaries who became ill or injured on the job"
 ---
 
 

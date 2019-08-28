@@ -4,7 +4,7 @@ permalink: /cx/dashboard/opm/rs/
 hisp_service_id: opm-rs
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Provide timely services and benefits for over 2.6 million Federal retirees."
+hisp_profile_headline: "Provide timely services and benefits for over 2.6 million Federal retirees and survivors"
 ---
 
 {:.cx-section-heading}
@@ -16,8 +16,6 @@ hisp_profile_headline: "Provide timely services and benefits for over 2.6 millio
 |----------------------------------------------------|----------------|-----------|
 | Average number of minutes to answer phone calls    | 6.25           | 5         |
 | Average number of days to process retirement cases | 61.3           | 60        |
-
-{:.cx-section-heading}
 
 ### Q2 
 

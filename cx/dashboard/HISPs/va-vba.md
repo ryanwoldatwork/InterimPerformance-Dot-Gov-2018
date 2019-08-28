@@ -4,7 +4,7 @@ permalink: /cx/dashboard/va/vba/
 hisp_service_id: va-vba
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefits."
+hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefits"
 ---
 
 ## Operational Data
