@@ -4,7 +4,7 @@ permalink: /cx/dashboard/dhs/cbp/
 hisp_service_id: dhs-cbp
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Safeguard 7,000 miles of land border with 328 ports of entry"
+hisp_profile_headline: "24/7 resouce that supports more than 450,000 communications a year and 1 million traveler applicants a month"
 ---
 
 {:.cx-section-heading}
@@ -12,9 +12,9 @@ hisp_profile_headline: "Safeguard 7,000 miles of land border with 328 ports of e
 
 ### Q1 Operational Data
 
-Call center service levels
+Traveler Communication lLevels
 
-|                               | EVUS  |       | ESTA   |       | ADIS  |       | TTP/Other |       | Imminent Travel | Totals |
+|                               | EVUS  |       | ESTA   |       | I-94  |       | TTP/Other |       | Imminent Travel | Totals |
 |-------------------------------|-------|-------|--------|-------|-------|-------|-----------|-------|-----------------|--------|
 |                               | Phone | Email | Phone  | Email | Phone | Email | Phone     | Email | Phone           |        |
 | Oct-18                        | 2898  | 763   | 8055   | 7428  | 123   | 1996  | 5819      | 10449 | 360             | 37891  |
@@ -26,9 +26,9 @@ Call center service levels
 {:.cx-section-heading}
 ### Q2 Operational Data
 
-Call center service levels
+Traveler Communication Levels
 
-|                               | EVUS   |       | ESTA   |        | ADIS  |       | TTP/Other |       | Imminent Travel | Totals  |
+|                               | EVUS   |       | ESTA   |        | I-94  |       | TTP/Other |       | Imminent Travel | Totals  |
 |-------------------------------|--------|-------|--------|--------|-------|-------|-----------|-------|-----------------|---------|
 |                               | Phone  | Email | Phone  | Email  | Phone | Email | Phone     | Email | Phone           |         |
 | Jan-19                        | 3026   | 807   | 8346   | 6987   | 134   | 3138  | 1260      | 12406 | 644             | 36,748  |
