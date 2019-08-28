@@ -34,26 +34,40 @@ layout: base
 </header>
 
 
-<main class="usa-grid usa-section usa-content usa-layout-docs cx-hisp-profile" id="main-content">
+<main class="usa-section usa-content usa-layout-docs cx-hisp-profile" id="main-content">
 
-  <div class="cx-profile-heading usa-grid-full" markdown="1">
+  <section class="usa-section usa-section-dark usa-graphic_list">
+     <div class="usa-grid usa-graphic_list-row">
+        <div class="usa-width-one-whole usa-media_block">
+          <div class="usa-media_block-body">
 
-    <div class="usa-width-one-fourth cx-agency-logo {{ this_hisp.department_abbreviation }}-logo">
-      <img src="{{ site.baseurl }}/img/cx/agencies/{{ this_hisp.department_abbreviation }}-{{ page.logo_type }}.png" alt="{{ this_hisp.department }} {{ page.logo_type }}">
-    </div>
+            <div markdown="1">
+              <div class="usa-width-one-fourth cx-agency-logo {{ this_hisp.department_abbreviation }}-logo">
+                <img style="width:50%;height:50%" src="{{ site.baseurl }}/img/cx/agencies/{{ this_hisp.department_abbreviation }}-{{ page.logo_type }}.png" alt="{{ this_hisp.department }} {{ page.logo_type }}">
+            </div>
+           </div>
 
-    <div class="cx-hisp-intro usa-width-three-fourths" markdown="1">
-      <h2 class="cx-profile-headline cx-agency-heading">{{ this_hisp.service }}</h2>
-      <h3 class="cx-agency-subheading">{{ hisp_bureau_display }}{{ this_hisp.department }}</h3>
+            <div class="usa-width-three-fourths" markdown="1">
+              <h3 style="margin-bottom:0px;color:white;">{{ hisp_bureau_display }}{{ this_hisp.department }}</h3>
+              <h1 style="margin-top:0px;margin-bottom:10px">{{ this_hisp.service }}</h1>
+              <hr style="width:18%;float:left;marin-top:0px;margin-bottom:17px;">
+              <h3 style="color:white;" class="cx-profile-headline">{{ page.hisp_profile_headline }}</h3>
+              <a class="usa-button usa-button-secondary"  href="{{ site.baseurl }}/cx/dashboard/actionplans/2019/2019-hisp-action-plan-{{ this_hisp.service_id }}.pdf">View the Action Plan</a>
+            </div>
 
-      <p>
-        {{ this_hisp.blurb }}
-      </p>
-    </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-  </div>
+    <section class="usa-section usa-graphic_list">
+       <div class="usa-grid usa-graphic_list-row">
+          <div class="usa-width-one-whole usa-media_block">
+            <div class="usa-media_block-body">
 
-  <h2 class="cx-profile-headline">{{ page.hisp_profile_headline }}</h2>
+              <p>
+                {{ this_hisp.blurb }}
+              </p>
 
   <h2 class="cx-section-heading">CX Feedback Data</h2>
 
@@ -91,7 +105,7 @@ layout: base
   <li>CX Feedback Data: HISPs are currently in the process of aligning their customer feedback collections to seven government-wide CX measures. These measures align to specifically worded questions that agencies may make minimal changes to (to ensure relevancy for their context) and be scored on a scale of 1 to 5, with 5 indicating strong agreement with a measure statement. Agencies that use a 10 point scale provide a calculation for converting results to a five point scale. Many are collecting customer feedback under clearances that did not include a provision to share this data publicly. HISPs without the current capacity to collect and share data using the government-wide measures must identify a target date for reporting of these metrics not to exceed FY 2021, Quarter 1.</li>
   <li>Operational Data: HISPs were provided the opportunity to submit operational data in their quarterly reporting to OMB that provides context regarding their customers' experiences with their service. </li>
  </ul>
-  
+
 </main>
 
 {% include main_footer.html %}
