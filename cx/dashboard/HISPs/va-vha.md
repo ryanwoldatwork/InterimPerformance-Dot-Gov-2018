@@ -4,7 +4,7 @@ permalink: /cx/dashboard/va/vha/
 hisp_service_id: va-vha
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Over 85% of outpatient customers trust the VA to fulfill the country's commitment to Veterans"
+hisp_profile_headline: "Over 85% of outpatient customers trust the VA to fulfill the country's commitment to Veterans."
 ---
 
 The Veterans Health Administration outpatient customer experience survey data is presented below for Fiscal Year 2019 quarters 1 and 2. 

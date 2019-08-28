@@ -4,7 +4,7 @@ permalink: /cx/dashboard/usda/fsa/
 hisp_service_id: usda-fsa
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Provided $39.9 billion in credit to family operations, supporting Americans in agriculture"
+hisp_profile_headline: "Provided $39.9 billion in credit to family operations, supporting Americans in agriculture."
 ---
 
 {:.cx-section-heading}

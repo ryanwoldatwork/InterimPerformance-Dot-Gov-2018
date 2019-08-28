@@ -4,7 +4,7 @@ permalink: /cx/dashboard/treas/irs/
 hisp_service_id: treas-irs
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "In FY 2018, for every $100 the government collected in taxes, the IRS spent only 35 cents"
+hisp_profile_headline: "In FY 2018, for every $100 the government collected in taxes, the IRS spent only 35 cents."
 ---
 
 {:.cx-section-heading}

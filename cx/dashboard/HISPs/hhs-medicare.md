@@ -4,7 +4,7 @@ permalink: /cx/dashboard/hhs/medicare/
 hisp_service_id: hhs-medicare
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Serving 61.2 million Medicare beneficiaries"
+hisp_profile_headline: "Serving 34.4 million Medicare members."
 ---
 
 {:.cx-section-heading}
