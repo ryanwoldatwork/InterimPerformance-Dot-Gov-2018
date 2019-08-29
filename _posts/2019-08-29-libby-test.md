@@ -16,7 +16,7 @@ description: Libby Test
 
 excerpt: Libby
 
-image: /img/blog/cm-post-blog.png
+image: /img/blog/megan-test.JPG
 image_accessibility: A person writing data on a sheet with a calculator next to them.
 
 authors:
@@ -32,4 +32,3 @@ tags:
 Libby text.
 
 HI!
-
