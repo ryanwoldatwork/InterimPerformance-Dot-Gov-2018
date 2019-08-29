@@ -4,7 +4,7 @@ title: "Megan Test"
 rating: "0"
 permalink: /megan-test/
 summary: summary_large_image
-agency:fdsafdjsakfdjsa;
+agency: fdsafdjsakfdjsa;
 
 description: TMegan test
 
