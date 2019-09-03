@@ -6,8 +6,6 @@ layout: hisp
 logo_type: seal
 hisp_profile_headline: "At least 89% of visitors agreed they are satisfied with each of four key refuge offerings: services provided by employees or volunteers; recreational opportunities; refuge information and education; and the refuge’s job of conserving fish, wildlife and their habitats" 
 ---
-
-{:.cx-section-heading}
 ## CX Feedback Data
 
 The National Wildlife Refuge System piloted an effort in 2010-2012 to collect customer feedback data. Building on these efforts, they have begun to implement an annual survey administered throughout the year. The 2010-2012 report can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/USFWS_NatWLRefugeVisSurvey_2010-11Results.pdf">be found here</a>. 
