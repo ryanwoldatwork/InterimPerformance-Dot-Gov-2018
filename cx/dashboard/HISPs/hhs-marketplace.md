@@ -9,7 +9,7 @@ hisp_profile_headline: "Improving access to healthcare with 11.4 million marketp
 
 {:.cx-section-heading}
 
-## Operational Data
+# Operational Data
 
 ### Q1
 
