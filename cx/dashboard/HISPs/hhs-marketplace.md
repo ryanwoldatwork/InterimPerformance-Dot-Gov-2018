@@ -9,8 +9,9 @@ hisp_profile_headline: "Improving access to healthcare with 11.4 million marketp
 
 {:.cx-section-heading}
 
-## Q1 Operational Data
+## Operational Data
 
+### Q1
 ### Call Center
 
 | Call Volume for Q1 FY19 (Oct 1-Dec 31, 2018) | 7,508,736 |
@@ -26,8 +27,7 @@ hisp_profile_headline: "Improving access to healthcare with 11.4 million marketp
 
 {:.cx-section-heading}
 
-## Q2 Operational Data
-
+### Q2 
 ### Call Center
 
 
