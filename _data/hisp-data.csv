@@ -1,7 +1,7 @@
 service_id,data_public,data_available
 doc-patents,FALSE,TRUE
 doc-trademarks,FALSE,TRUE
-ed-fafsa,FALSE,TRUE 
+ed-fsa,FALSE,TRUE 
 hhs-marketplace,FALSE,TRUE
 hhs-medicare,FALSE,TRUE
 dhs-tsa,FALSE,TRUE
