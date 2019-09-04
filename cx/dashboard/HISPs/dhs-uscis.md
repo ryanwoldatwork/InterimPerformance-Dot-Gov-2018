@@ -9,7 +9,6 @@ hisp_profile_headline: "Receives 14 million inquiries a year via phone, chat, e-
 
 {:.cx-section-heading}
 
-## Operational Data
+<h2 class="cx-section-heading">Operational Data</h2>
 
 There is no available data to share at this time.
-

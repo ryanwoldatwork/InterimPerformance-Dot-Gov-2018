@@ -24,7 +24,6 @@ hisp_profile_headline: "Improving access to healthcare with 11.4 million marketp
 |----------------------------------------------|-------------------------|
 | Pageviews Q1 FY19 (Oct 1-Dec 31, 2018) | 1,233,553,458 (Pageviews) |
 
-{:.cx-section-heading}
 
 ### Q2
 #### Call Center
