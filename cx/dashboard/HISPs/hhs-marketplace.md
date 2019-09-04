@@ -4,7 +4,7 @@ permalink: /cx/dashboard/hhs/marketplace/
 hisp_service_id: hhs-marketplace
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Improving access to healthcare with 11.4 million marketplace enrollments."
+hisp_profile_headline: "Improving access to healthcare with 11.4 million marketplace enrollments"
 ---
 
 {:.cx-section-heading}
