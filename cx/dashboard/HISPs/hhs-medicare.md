@@ -7,8 +7,6 @@ logo_type: seal
 hisp_profile_headline: "Serving 61.2 million Medicare beneficiaries"
 ---
 
-{:.cx-section-heading}
-
 ## Operational Data
 
 ### Call Center
