@@ -9,283 +9,288 @@
 
 <url>
   <loc>https://www.performance.gov/</loc>
-  <lastmod>2019-02-25T14:28:38+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:30+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/PMA/PMA.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/overview/</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/key_performance_indicators.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_1.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/it-mod/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_2.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/leveragingdata/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_3.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/workforce/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_4.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/cx/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_5.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/sharing-quality-services/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_6.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/low-value-to-high-value-work/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_7.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/category-management/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_8.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/grants/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_9.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/getting-payments-right/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_10.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/tbm/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_11.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/major-acquisitions/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_12.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/permitting/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_13.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/CAP_goal_14.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/lab-to-market/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/GovReform/index.html</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/GEARcenter/index.html</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/elimination/elimination_of_unnecessary_agency_reports.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/reduce/reduce_the_footprint.html</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/gearawards/</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/agriculture/</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/commerce/</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/defense/</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/education/</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/energy/</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/health-and-human-services/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/homeland-security/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/housing-and-urban-development/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/justice/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/labor/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/transportation/</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/treasury/</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/veterans-affairs/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/GSA/</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NASA/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NSF/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/OPM/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SBA/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SSA/</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/other-federal-agencies/</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/about/getstarted.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/about/About%20P.gov.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/about/FAQ.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/about/framework_about.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/news/</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/Summer-Updates-Show-Progress/</loc>
+  <lastmod>2019-06-20T13:35:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/gearawards/winners/</loc>
-  <lastmod>2019-02-25T14:28:33+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2019-2-25-gears-of-gov-winners/</loc>
-  <lastmod>2019-02-25T14:28:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/2019-2-21-IndustryDays/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/about/CAP_about.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <loc>https://www.performance.gov/using-digital-analytics-to-improve-customer-experience-online/</loc>
+  <lastmod>2019-06-20T13:35:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/about/objectives_about.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/about/APG_about.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/security-clearance-reform/</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf</loc>
+  <lastmod>2019-03-26T19:49:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/PMA/Presidents_Management_Agenda.pdf</loc>
@@ -293,13 +298,13 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/CAP_goals.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/KPI_Category_Management_FY2019_Q2.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/KPI_Category_Management_FY2018_Q4.pdf</loc>
-  <lastmod>2019-02-19T21:31:43+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_IT_Modernization.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -323,13 +328,23 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/december-2018-quarterly-update/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Data_Accountability_Transparency.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Data_Accountability_Transparency.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -343,58 +358,23 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_People_Workforce_for_the_21st_Century.pdf</loc>
-  <lastmod>2018-09-28T20:16:57+00:00</lastmod>
+  <loc>https://www.performance.gov/cx/?</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_People_Workforce_for_the_21st_Century.pdf</loc>
-  <lastmod>2018-12-18T16:08:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q2_People_Workforce_for_the_21st_Century.pdf</loc>
-  <lastmod>2018-06-26T18:45:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q1_People_Workforce_for_the_21st_Century.pdf</loc>
-  <lastmod>2018-04-13T17:27:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Improving_Customer_Experience.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Improving_Customer_Experience.pdf</loc>
-  <lastmod>2018-12-18T16:08:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf</loc>
-  <lastmod>2018-06-26T18:45:08+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q1_Improving_Customer_Experience.pdf</loc>
-  <lastmod>2018-04-13T17:31:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/cx/</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Sharing_Quality_Services.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Sharing_Quality_Services.pdf</loc>
+  <lastmod>2019-06-20T13:35:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Sharing_Quality_Services.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Sharing_Quality_Services.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -408,13 +388,23 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Shifting_From_Low-Value_to_High-Value_Work.pdf</loc>
-  <lastmod>2018-09-20T15:07:19+00:00</lastmod>
+  <loc>https://www.performance.gov/sharing-services-memo-release/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work.pdf</loc>
+  <lastmod>2019-06-20T13:35:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Shifting_From_Low-Value_to_High-Value_Work.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Shifting_From_Low-Value_to_High-Value_Work.pdf</loc>
+  <lastmod>2018-09-20T15:07:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -428,13 +418,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Category_Management.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Category_Management.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Category_Management.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Category_Management.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -448,13 +443,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Results-Oriented_Accountability_for_Grants.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Results-Oriented_Accountability_for_Grants.pdf</loc>
+  <lastmod>2019-06-20T13:35:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Results-Oriented_Accountability_for_Grants.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Results-Oriented_Accountability_for_Grants.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -468,13 +468,28 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Getting_Payments_Right.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/innovation-sessions/5-23-using-integrated-data-to-support-practice.pdf</loc>
+  <lastmod>2019-06-20T13:35:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/2019-2-21-IndustryDays/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Getting_Payments_Right.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Getting_Payments_Right.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Getting_Payments_Right.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -488,13 +503,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Federal_IT_Spending_Transparency.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Federal_IT_Spending_Transparency.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Federal_IT_Spending_Transparency.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Federal_IT_Spending_Transparency.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -508,13 +528,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Improve_Management_of_Major_Acquisitions.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Improve_Management_of_Major_Acquisitions.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Improve_Management_of_Major_Acquisitions.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Improve_Management_of_Major_Acquisitions.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -528,13 +553,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Modernize_Infrastructure_Permitting.pdf</loc>
-  <lastmod>2018-09-27T14:18:23+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Modernize_Infrastructure_Permitting.pdf</loc>
+  <lastmod>2019-06-20T13:35:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Modernize_Infrastructure_Permitting.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Modernize_Infrastructure_Permitting.pdf</loc>
+  <lastmod>2018-09-27T14:18:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -548,33 +578,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Security_Suitability.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Security_Suitability.pdf</loc>
-  <lastmod>2018-12-18T16:08:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q2_Security_Suitability.pdf</loc>
-  <lastmod>2018-06-26T18:45:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q1_Security_Suitability.pdf</loc>
-  <lastmod>2018-04-13T17:27:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Lab_to_Market.pdf</loc>
-  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Lab_to_Market.pdf</loc>
+  <lastmod>2019-06-20T13:35:21+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Lab_to_Market.pdf</loc>
   <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Lab_to_Market.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -589,7 +604,17 @@
 </url>
 <url>
   <loc>https://www.performance.gov/GEARcenter/stakeholders/</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/GEARcenter/GEAR-Center-Challenge-Q-A.pdf</loc>
+  <lastmod>2019-05-23T13:56:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/GEARcenter/GEAR-Center-Stakeholder-slides.pptx</loc>
+  <lastmod>2019-03-15T13:52:43+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -608,494 +633,564 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/elimination/Final_Burden_Reduction_FY2019_Report.pdf</loc>
-  <lastmod>2018-02-09T14:56:48+00:00</lastmod>
+  <loc>https://www.performance.gov/gearawards/barbara-morton/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/about/CAP_about.html</loc>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/agriculture/APG_agriculture_1.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/agriculture/APG_agriculture_2.html</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/gearawards/usda-team/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/commerce/APG_commerce_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/commerce/APG_commerce_2.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/commerce/APG_commerce_3.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/commerce/APG_commerce_4.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/gearawards/NOAA-Team/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/defense/APG_defense_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/defense/APG_defense_2.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/defense/APG_defense_3.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/education/APG_education_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/education/APG_education_2.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/education/APG_education_3.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/education/APG_education_4.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/energy/APG_energy_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/health_and_human_services/APG_hhs_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/health_and_human_services/APG_hhs_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/health_and_human_services/APG_hhs_3.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/health_and_human_services/APG_hhs_4.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/gearawards/emily-haas/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/gearawards/hhs-OIG/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/gearawards/kathleen-uhl/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/homeland_security/APG_dhs_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/homeland_security/APG_dhs_2.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/housing_and_urban_development/APG_hud_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/housing_and_urban_development/APG_hud_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/housing_and_urban_development/APG_hud_3.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/housing_and_urban_development/APG_hud_4.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/APG_interior_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/APG_interior_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/APG_interior_3.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/APG_interior_4.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/APG_interior_5.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/interior/APG_interior_6.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/interior/doi_appr_-_final.pdf</loc>
-  <lastmod>2018-07-13T14:09:08+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/justice/APG_justice_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/justice/APG_justice_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/justice/APG_justice_3.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/labor/APG_labor_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/labor/APG_labor_2.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/labor/APG_labor_3.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/labor/APG_labor_4.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/labor/APG_labor_5.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_state_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_state_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_usaid_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_usaid_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_usaid_3.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_joint_1.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/APG_joint_2.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/transportation/APG_transportation_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/transportation/APG_transportation_2.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/transportation/APG_transportation_3.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/transportation/APG_transportation_4.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/transportation/APG_transportation_5.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/gearawards/takata-recall-team/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/treasury/APG_treasury_1.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/treasury/APG_treasury_2.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/treasury/APG_treasury_3.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/veterans_affairs/APG_va_1.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/veterans_affairs/APG_va_2.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/veterans_affairs/APG_va_3.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/veterans_affairs/APG_va_4.html</loc>
-  <lastmod>2019-02-25T14:28:43+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/APG_epa_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/APG_epa_2.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/APG_epa_3.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/APG_epa_4.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/APG_epa_5.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/EPA/APG_epa_6.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/GSA/APG_gsa_1.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/GSA/APG_gsa_2.html</loc>
-  <lastmod>2019-02-25T14:28:40+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NASA/APG_nasa_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NASA/APG_nasa_2.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NASA/APG_nasa_3.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NASA/APG_nasa_4.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NASA/APG_nasa_5.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/NSF/APG_nsf_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/OPM/APG_opm_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/OPM/APG_opm_2.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SBA/APG_sba_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SBA/APG_sba_2.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SBA/APG_sba_3.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SBA/APG_sba_4.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SSA/APG_ssa_1.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/SSA/APG_ssa_2.html</loc>
-  <lastmod>2019-02-25T14:28:42+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:35+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/state/usaid.html</loc>
-  <lastmod>2019-02-25T14:28:41+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/tags/PMA/</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/tags/OMB/</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/tags/CAP%20goal/</loc>
-  <lastmod>2019-02-25T14:28:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/tags/APG/</loc>
-  <lastmod>2019-02-25T14:28:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/2019-2-14-USAID-blog-post/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/tags/USAID/</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/december-2018-quarterly-update/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/tags/quarterly%20update/</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/tags/CAP%20goal/</loc>
+  <lastmod>2019-06-20T13:35:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/tags/APG/</loc>
+  <lastmod>2019-06-20T13:35:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/tags/PMA/</loc>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/tags/success%20story/</loc>
-  <lastmod>2019-02-25T14:28:39+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2018-12-06-repost-gears-of-gov-awards/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <loc>https://www.performance.gov/presidents-winners-press-release/</loc>
+  <lastmod>2019-06-20T13:35:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2018-11-21-building-and-retraining-our-federal-workforce/</loc>
-  <lastmod>2019-02-25T14:28:46+00:00</lastmod>
+  <loc>https://www.performance.gov/tags/OMB/</loc>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2018-11-16-Data-Standards-Feedback/</loc>
-  <lastmod>2019-02-25T14:28:45+00:00</lastmod>
+  <loc>https://www.performance.gov/tags/GSA/</loc>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2018-11-05-shared-services-summit/</loc>
-  <lastmod>2019-02-25T14:28:45+00:00</lastmod>
+  <loc>https://www.performance.gov/gear-center-challenge-now-open/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/PMA-celebrating-one-year-of-progress/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/2019-2-28-usda-blog-post/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/tags/USDA/</loc>
+  <lastmod>2019-06-20T13:35:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/2019-2-25-gears-of-gov-winners/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/news/older-news.html</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2018-10-23-federal-workforce-symposium-report/</loc>
-  <lastmod>2019-02-25T14:28:45+00:00</lastmod>
+  <loc>https://www.performance.gov/gearawards/KRUSTY-Team/</loc>
+  <lastmod>2019-06-20T13:35:37+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/2018-10-15-policy-council-blog-post/</loc>
-  <lastmod>2019-02-25T14:28:45+00:00</lastmod>
+  <loc>https://www.performance.gov/2018-09-27-NewPay-BPA-Awarded/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/june_2019_Security_Suitability.pdf</loc>
+  <lastmod>2019-06-20T13:35:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q4_Security_Suitability.pdf</loc>
+  <lastmod>2018-12-18T16:08:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q3_Security_Suitability.pdf</loc>
+  <lastmod>2018-09-20T15:07:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q2_Security_Suitability.pdf</loc>
+  <lastmod>2018-06-26T18:45:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/action_plans/FY2018_Q1_Security_Suitability.pdf</loc>
+  <lastmod>2018-04-13T17:27:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/CAP/CAP_goals.html</loc>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/2018-12-06-repost-gears-of-gov-awards/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/2019-2-14-USAID-blog-post/</loc>
+  <lastmod>2019-06-20T13:35:39+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/cx/HISPList.pdf</loc>
@@ -1103,23 +1198,33 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/cx/A11-Companion-CX-Metrics.pdf</loc>
-  <lastmod>2018-11-26T21:47:11+00:00</lastmod>
+  <loc>https://www.performance.gov/cx/A11-Companion-CX-Metrics-2019.pdf</loc>
+  <lastmod>2019-03-11T21:34:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/cx/A11-Companion-CX-Self-Assessment.pdf</loc>
-  <lastmod>2018-09-07T16:32:41+00:00</lastmod>
+  <loc>https://www.performance.gov/cx/A11-Companion-Sample-CX-Survey-Card-2019.pdf</loc>
+  <lastmod>2019-03-11T21:34:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.performance.gov/cx/A11-Companion-Sample-CX-Survey-Card.pdf</loc>
-  <lastmod>2018-11-26T21:47:11+00:00</lastmod>
+  <loc>https://www.performance.gov/cx/A11-Companion-CX-Self-Assessment-2019.pdf</loc>
+  <lastmod>2019-03-11T21:34:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/cx/CXActionPlanTemplate.pptx</loc>
+  <lastmod>2019-03-11T21:34:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.performance.gov/GEARcenter/</loc>
-  <lastmod>2019-02-25T14:28:44+00:00</lastmod>
+  <lastmod>2019-06-20T13:35:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/agriculture/FY2019_June_Agriculture_Improving_Customer_Experience_at_USDA.pdf</loc>
+  <lastmod>2019-06-20T13:35:14+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1143,6 +1248,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/agriculture/FY2019_June_Agriculture_Modernize_USDAs_Information_Technology.pdf</loc>
+  <lastmod>2019-06-20T13:35:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/agriculture/FY2018_Q4_Agriculture_Modernize_USDAs_Information_Technology.pdf</loc>
   <lastmod>2018-12-18T16:08:37+00:00</lastmod>
   <priority>0.51</priority>
@@ -1160,6 +1270,11 @@
 <url>
   <loc>https://www.performance.gov/agriculture/FY2018_Q1_Agriculture_Modernize_USDAs_Information_Technology.pdf</loc>
   <lastmod>2018-04-09T18:57:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/commerce/FY2019_June_DOC_Accelerate_Patent_Processing.pdf</loc>
+  <lastmod>2019-06-20T13:35:14+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1183,6 +1298,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/commerce/FY2019_June_DOC_Mitigate_Flood_Impacts.pdf</loc>
+  <lastmod>2019-06-20T13:35:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/commerce/FY2018_Q4_DOC_Mitigate_Flood_Impacts.pdf</loc>
   <lastmod>2018-12-18T16:08:37+00:00</lastmod>
   <priority>0.51</priority>
@@ -1203,6 +1323,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/commerce/FY2019_June_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf</loc>
+  <lastmod>2019-06-20T13:35:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/commerce/FY2018_Q4_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf</loc>
   <lastmod>2018-12-18T16:08:37+00:00</lastmod>
   <priority>0.51</priority>
@@ -1220,6 +1345,11 @@
 <url>
   <loc>https://www.performance.gov/commerce/FY2018_Q1_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf</loc>
   <lastmod>2018-04-09T18:57:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/commerce/FY2019_June_DOC_Remove%20Foreign%20Trade%20Barriers.pdf</loc>
+  <lastmod>2019-06-20T13:35:15+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1250,11 +1380,6 @@
 <url>
   <loc>https://www.performance.gov/defense/FY2018_Q2_Financial_Management.pdf</loc>
   <lastmod>2018-09-24T16:35:08+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/defense/FY2018_Q3_Force_Readiness.pdf</loc>
-  <lastmod>2018-12-18T16:08:37+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1433,6 +1558,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/homeland_security/FY2019_June_DHS_Enhance_Southern_Border_Security.pdf</loc>
+  <lastmod>2019-06-20T13:35:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/homeland_security/FY2018_Q4_DHS_Enhance_Southern_Border_Security.pdf</loc>
   <lastmod>2018-12-18T16:08:37+00:00</lastmod>
   <priority>0.51</priority>
@@ -1450,6 +1580,11 @@
 <url>
   <loc>https://www.performance.gov/homeland_security/FY2018_Q1_DHS_Enhance_Southern_Border_Security.pdf</loc>
   <lastmod>2018-04-09T18:57:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/homeland_security/FY2019_June_DHS_Strengthen_Federal_Cybersecurity.pdf</loc>
+  <lastmod>2019-06-20T13:35:15+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1473,6 +1608,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/housing_and_urban_development/FY2019_June_HUD_Promote_Economic_Opportunity_for_HUD_Assisted_Residents.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/housing_and_urban_development/FY2018_Q4_HUD_Promote_Economic_Opportunity_for_HUD-Assisted_Residents.pdf</loc>
   <lastmod>2018-12-18T16:08:38+00:00</lastmod>
   <priority>0.51</priority>
@@ -1490,6 +1630,11 @@
 <url>
   <loc>https://www.performance.gov/housing_and_urban_development/FY2018_Q1_HUD_Promote_Economic_Opportunity_for_HUD-Assisted_Residents.pdf</loc>
   <lastmod>2018-06-05T15:56:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/housing_and_urban_development/FY2019_June_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1513,6 +1658,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/housing_and_urban_development/FY2019_June_HUD_Reduce_the_Average_Length_of_Homelessness.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/housing_and_urban_development/FY2018_Q4_HUD_Reduce_the_Average_Length_of_Homelessness.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1533,6 +1683,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/housing_and_urban_development/FY2019_June_HUD_Enhance_Rental_Assistance.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/housing_and_urban_development/FY2018_Q4_HUD_Enhance_Rental_Assistance.pdf</loc>
   <lastmod>2018-12-18T16:08:38+00:00</lastmod>
   <priority>0.51</priority>
@@ -1550,6 +1705,11 @@
 <url>
   <loc>https://www.performance.gov/housing_and_urban_development/FY2018_Q1_HUD_Enhance_Rental_Assistance.pdf</loc>
   <lastmod>2018-06-05T15:56:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/interior/FY2019_June_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1593,6 +1753,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/interior/FY2019_June_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/interior/FY2018_Q4_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1610,6 +1775,11 @@
 <url>
   <loc>https://www.performance.gov/interior/FY2018_Q1_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf</loc>
   <lastmod>2018-04-09T18:57:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/interior/FY2019_June_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1653,6 +1823,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/interior/FY2019_June_Interior_Water_Conservation_and_Supply_Enhancement.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/interior/FY2018_Q4_Interior_Water_Conservation_and_Supply_Enhancement.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1673,6 +1848,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/justice/FY2019_June_Combat_Cyber_Threats.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/justice/FY2018_Q4_Combat_Cyber_Threats.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1680,6 +1860,11 @@
 <url>
   <loc>https://www.performance.gov/justice/FY2018_Q3_Combat_Cyber_Threats.pdf</loc>
   <lastmod>2018-09-20T15:07:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/justice/FY2019_June_Violent_Crime_Reduction.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1693,6 +1878,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/justice/FY2019_June_Disrupt_Drug_Trafficking.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/justice/FY2018_Q4_Disrupt_Drug_Trafficking.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1700,6 +1890,11 @@
 <url>
   <loc>https://www.performance.gov/justice/FY2018_Q3_Disrupt_Drug_Trafficking.pdf</loc>
   <lastmod>2018-09-20T15:07:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/labor/FY2019_June_DOL_Administration_Implement_an_Enterprise_Wise_Shared_Services_Model.pdf</loc>
+  <lastmod>2019-06-20T13:35:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1723,6 +1918,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/labor/FY2019_June_DOL_Combat_the_Opioid_Epidemic.pdf</loc>
+  <lastmod>2019-06-20T13:35:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/labor/FY2018_Q4_DOL_Combat_the_Opioid_Epidemic.pdf</loc>
   <lastmod>2018-12-18T16:08:40+00:00</lastmod>
   <priority>0.51</priority>
@@ -1740,6 +1940,11 @@
 <url>
   <loc>https://www.performance.gov/labor/FY2018_Q1_DOL_Combat_the_Opioid_Epidemic.pdf</loc>
   <lastmod>2018-04-09T18:57:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/labor/FY2019_June_DOL_Job_Creation_Apprenticeship_Expansion.pdf</loc>
+  <lastmod>2019-06-20T13:35:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1763,6 +1968,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/labor/FY2019_June_DOL_Worker_Safety_Reduce_Miner_Injuries.pdf</loc>
+  <lastmod>2019-06-20T13:35:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/labor/FY2018_Q4_DOL_Worker%20Safety_Reduce_Miner_Injuries.pdf</loc>
   <lastmod>2018-12-18T16:08:40+00:00</lastmod>
   <priority>0.51</priority>
@@ -1780,6 +1990,11 @@
 <url>
   <loc>https://www.performance.gov/labor/FY2018_Q1_DOL_Worker%20Safety_Reduce_Miner_Injuries.pdf</loc>
   <lastmod>2018-04-09T18:57:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/labor/FY2019_June_DOL_Worker_Safety_Reduce_Trenching_and_Excavation_Hazards.pdf</loc>
+  <lastmod>2019-06-20T13:35:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1803,6 +2018,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/state/FY2019_June_State_IT_Modernization.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/state/FY2018_Q4_State_IT_Modernization.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1815,6 +2035,11 @@
 <url>
   <loc>https://www.performance.gov/state/FY2018_Q2_State_IT_Modernization.pdf</loc>
   <lastmod>2018-06-26T18:45:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/state/FY2019_June_State_Visa_Security.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1838,6 +2063,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/state/FY2019_June_USAID_Food_Security.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/state/FY2018_Q4_USAID_Food_Security.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1855,6 +2085,11 @@
 <url>
   <loc>https://www.performance.gov/state/FY2018_Q1_USAID_Food_Security.pdf</loc>
   <lastmod>2018-04-09T18:57:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/state/FY2019_June_USAID_Maternal_and_Child_Health.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1878,6 +2113,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/state/FY2019_June_USAID_Procurement_Reform.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/state/FY2018_Q4_USAID_Procurement_Reform.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1895,6 +2135,11 @@
 <url>
   <loc>https://www.performance.gov/state/FY2018_Q1_USAID_Procurement_Reform.pdf</loc>
   <lastmod>2018-04-09T18:57:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/state/FY2019_June_State_USAID_Category_Management.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1918,6 +2163,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/state/FY2019_June_State_USAID_HIV_AIDS.pdf</loc>
+  <lastmod>2019-06-20T13:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/state/FY2018_Q4_State_USAID_HIV_AIDS.pdf</loc>
   <lastmod>2018-12-18T16:08:39+00:00</lastmod>
   <priority>0.51</priority>
@@ -1938,6 +2188,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/transportation/FY2019_June_DOT_Improved_Infrastructure_APG_Final.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/transportation/FY2018_Q4_DOT_Improved_Infrastructure_APG_Final.pdf</loc>
   <lastmod>2018-12-18T16:08:41+00:00</lastmod>
   <priority>0.51</priority>
@@ -1950,6 +2205,11 @@
 <url>
   <loc>https://www.performance.gov/transportation/FY2018_Q2_DOT_Improved_Infrastructure_APG_Final.pdf</loc>
   <lastmod>2018-08-09T16:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/transportation/FY2019_June_DOT_Reduce_Aviation_Fatalities.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1968,6 +2228,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/transportation/FY2019_June_DOT_Reduce_Regulatory_Burden.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/transportation/FY2018_Q4_DOT_Reduce_Regulatory_Burden.pdf</loc>
   <lastmod>2019-02-07T16:17:23+00:00</lastmod>
   <priority>0.51</priority>
@@ -1980,6 +2245,11 @@
 <url>
   <loc>https://www.performance.gov/transportation/FY2018_Q2_DOT_Reduce_Regulatory_Burden.pdf</loc>
   <lastmod>2018-08-09T16:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/transportation/FY2019_June_DOT_Reduce_Surface_Transportation_Related_Fatalities.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -1998,6 +2268,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/transportation/FY2019_June_DOT_Environmental_Review_Process.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/transportation/FY2018_Q4_DOT_Environmental_Review_Process.pdf</loc>
   <lastmod>2018-12-18T16:08:41+00:00</lastmod>
   <priority>0.51</priority>
@@ -2010,6 +2285,11 @@
 <url>
   <loc>https://www.performance.gov/transportation/FY2018_Q2_DOT_Environmental_Review_Process.pdf</loc>
   <lastmod>2018-08-09T16:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/treasury/FY2019_June_Treasury_Fraud_Prevention.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -2033,6 +2313,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/treasury/FY2019_June_Treasury_Improved_Business_Qualification.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/treasury/FY2018_Q4_Treasury_Improved_Business_Qualification.pdf</loc>
   <lastmod>2018-12-18T16:08:41+00:00</lastmod>
   <priority>0.51</priority>
@@ -2053,6 +2338,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/treasury/FY2019_June_Treasury_U.S.-Mexico_Strategic_Dialogue_on_Illicit_Finance.pdf</loc>
+  <lastmod>2019-06-20T13:35:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/treasury/FY2018_Q4_Treasury_U.S.-Mexico_Strategic_Dialogue_on_Illicit_Finance.pdf</loc>
   <lastmod>2018-12-18T16:08:41+00:00</lastmod>
   <priority>0.51</priority>
@@ -2065,6 +2355,11 @@
 <url>
   <loc>https://www.performance.gov/treasury/FY2018_Q2_Treasury_U.S.-Mexico_Strategic_Dialogue_on_Illicit_Finance.pdf</loc>
   <lastmod>2018-06-26T18:45:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/veterans_affairs/FY2019_June_VA_Appeals_Improvement.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -2088,6 +2383,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/veterans_affairs/FY2019_June_VA_Community_Care.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/veterans_affairs/FY2018_Q4_VA_Community_Care.pdf</loc>
   <lastmod>2018-12-18T16:08:41+00:00</lastmod>
   <priority>0.51</priority>
@@ -2105,6 +2405,11 @@
 <url>
   <loc>https://www.performance.gov/veterans_affairs/FY2018_Q1_VA_Community_Care.pdf</loc>
   <lastmod>2018-04-09T18:57:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/veterans_affairs/FY2019_June_VA_Veteran_Customer_Experience.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -2128,6 +2433,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/veterans_affairs/FY2019_June_VA_Veteran_Suicide_Prevention.pdf</loc>
+  <lastmod>2019-06-20T13:35:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/veterans_affairs/FY2018_Q4_VA_Veteran_Suicide_Prevention.pdf</loc>
   <lastmod>2018-12-18T16:08:41+00:00</lastmod>
   <priority>0.51</priority>
@@ -2145,6 +2455,11 @@
 <url>
   <loc>https://www.performance.gov/veterans_affairs/FY2018_Q1_VA_Veteran_Suicide_Prevention.pdf</loc>
   <lastmod>2018-04-09T18:57:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.performance.gov/EPA/FY2019_June_EPA_Accelerate_Permitting_Related_Decisions.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -2168,6 +2483,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://www.performance.gov/EPA/FY2019_June_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf</loc>
+  <lastmod>2019-06-20T13:35:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://www.performance.gov/EPA/FY2018_Q4_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf</loc>
   <lastmod>2018-12-18T16:08:38+00:00</lastmod>
   <priority>0.51</priority>
@@ -2185,326 +2505,6 @@
 <url>
   <loc>https://www.performance.gov/EPA/FY2018_Q1_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf</loc>
   <lastmod>2018-04-09T18:57:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q4_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf</loc>
-  <lastmod>2018-12-18T16:08:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q3_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf</loc>
-  <lastmod>2018-09-20T15:07:14+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q2_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf</loc>
-  <lastmod>2018-06-26T18:45:05+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q1_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf</loc>
-  <lastmod>2018-04-09T18:57:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q4_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf</loc>
-  <lastmod>2018-12-18T16:08:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q3_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf</loc>
-  <lastmod>2018-09-20T15:07:14+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q2_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf</loc>
-  <lastmod>2018-06-26T18:45:05+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q1_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf</loc>
-  <lastmod>2018-04-09T18:57:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q4_EPA_Increase_Environmental_Law_Compliance_Rate.pdf</loc>
-  <lastmod>2018-12-18T16:08:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q3_EPA_Increase_Environmental_Law_Compliance_Rate.pdf</loc>
-  <lastmod>2018-09-20T15:07:14+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q2_EPA_Increase_Environmental_Law_Compliance_Rate.pdf</loc>
-  <lastmod>2018-06-26T18:45:05+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q1_EPA_Increase_Environmental_Law_Compliance_Rate.pdf</loc>
-  <lastmod>2018-04-09T18:57:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q4_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf</loc>
-  <lastmod>2018-12-18T16:08:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q3_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf</loc>
-  <lastmod>2018-09-20T15:07:14+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q2_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf</loc>
-  <lastmod>2018-06-26T18:45:05+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/EPA/FY2018_Q1_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf</loc>
-  <lastmod>2018-04-09T18:57:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q4_GSA_Expansion_of_Centralized_Services.pdf</loc>
-  <lastmod>2018-12-18T16:08:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q3_GSA_Expansion_of_Centralized_Services.pdf</loc>
-  <lastmod>2018-09-20T15:07:14+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q2_GSA_Expansion_of_Centralized_Services.pdf</loc>
-  <lastmod>2018-06-26T18:45:05+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q1_GSA_Expansion_of_Centralized_Services.pdf</loc>
-  <lastmod>2018-04-09T18:57:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q4_GSA_Leased_Building_Operations.pdf</loc>
-  <lastmod>2018-12-18T16:08:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q3_GSA_Leased_Building_Operations.pdf</loc>
-  <lastmod>2018-09-20T15:07:14+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q2_GSA_Leased_Building_Operations.pdf</loc>
-  <lastmod>2018-06-26T18:45:05+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/GSA/FY2018_Q1_GSA_Leased_Building_Operations.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q4_NASA_Commercial_Crew_Program.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q3_NASA_Commercial_Crew_Program.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q2_NASA_Commercial_Crew_Program.pdf</loc>
-  <lastmod>2018-06-26T18:45:06+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q1_NASA_Commercial_Crew_Program.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q4_NASA_Exploration.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q3_NASA_Exploration.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q2_NASA_Exploration.pdf</loc>
-  <lastmod>2018-06-26T18:45:06+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q1_NASA_Exploration.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q4_NASA_International_Space_Station.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q3_NASA_International_Space_Station.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q2_NASA_International_Space_Station.pdf</loc>
-  <lastmod>2018-06-26T18:45:06+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q1_NASA_International_Space_Station.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q4_NASA_James_Webb_Space_Telescope.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q3_NASA_James_Webb_Space_Telescope.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q2_NASA_James_Webb_Space_Telescope.pdf</loc>
-  <lastmod>2018-06-26T18:45:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q1_NASA_James_Webb_Space_Telescope.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q4_NASA_Mars_2020.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q3_NASA_Mars_2020.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q2_NASA_Mars_2020.pdf</loc>
-  <lastmod>2018-06-26T18:45:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NASA/FY2018_Q1_NASA_Mars_2020.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NSF/FY2018_Q4_NSF_Expand_Public_and_Private_Partnerships.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NSF/FY2018_Q3_NSF_Expand_Public_and_Private_Partnerships.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NSF/FY2018_Q2_NSF_Expand_Public_and_Private_Partnerships.pdf</loc>
-  <lastmod>2018-08-02T17:04:43+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/NSF/FY2018_Q1_NSF_Expand_Public_and_Private_Partnerships.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q4_OPM_Enable_Federal_Employees.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q3_OPM_Enable_Federal_Employees.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q2_OPM_Enable_Federal_Employees.pdf</loc>
-  <lastmod>2018-06-26T18:45:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q1_OPM_Enable_Federal_Employees.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q4_OPM_Improve_the_Hiring_Process.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q3_OPM_Improve_the_Hiring_Process.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q2_OPM_Improve_the_Hiring_Process.pdf</loc>
-  <lastmod>2018-06-26T18:45:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/OPM/FY2018_Q1_OPM_Improve_the_Hiring_Process.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q4_SBA_Expand_Capital_to_Small_Businesses.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q3_SBA_Expand_Capital_to_Small_Businesses.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q2_SBA_Expand_Capital_to_Small_Businesses.pdf</loc>
-  <lastmod>2018-06-26T18:45:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q1_SBA_Expand_Capital_to_Small_Businesses.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q4_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf</loc>
-  <lastmod>2018-12-18T16:08:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q3_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf</loc>
-  <lastmod>2018-09-20T15:07:16+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q2_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf</loc>
-  <lastmod>2018-06-26T18:45:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://www.performance.gov/SBA/FY2018_Q1_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf</loc>
-  <lastmod>2018-04-09T18:57:45+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 

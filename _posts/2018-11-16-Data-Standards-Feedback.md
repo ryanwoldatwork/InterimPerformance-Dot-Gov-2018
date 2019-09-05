@@ -17,6 +17,7 @@ description: Federal Grants Management Draft Data Standards Open for Feedback
 excerpt: Federal Grants Management Draft Data Standards Open for Feedback
 
 image: /img/blog/Data-Elements-Live.png
+image_accessibility: Data Standards Feedback Live against a blue background. 
 
 authors:
 - Performance.gov Team
@@ -24,7 +25,7 @@ authors:
 tags:
 - PMA
 - CAP goal
-
+- data
 ---
 
 The Results-Oriented Accountability for Grants CAP Goal Team is excited to release the draft Data Standards for public comment. The public comment period will stay open for 60 days beginning November 15, 2018 through January 15, 2019 as noted on the [Federal Register](https://www.federalregister.gov/documents/2018/11/16/2018-24927/draft-federal-grants-management-data-standards-for-feedback). You can submit comments through the [Grants Feedback Site](https://grantsfeedback.cfo.gov/index.html) powered by GitHub.

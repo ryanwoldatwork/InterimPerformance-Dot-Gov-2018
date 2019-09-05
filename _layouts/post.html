@@ -11,8 +11,10 @@ layout: navigation_PMA
            <b>&#10094; &nbsp; Back to News</a></b>
 
            <p class="card-tag-post"> {{ page.agency }}</p>
-              <h1-post>{{ page.title }}
-              </h1>
+              <h1-post>{{ page.title }}</h1-post><br>
+                {% if page.byline %}
+                  <p style="font-size:18px;">{{ page.byline }}</p>
+                {% endif %}
               <h3 style="color:#ffffff;"><i> {{ page.subtitle }}</i></h3>
               {% include post-author.html context="page" %}
 
@@ -35,10 +37,12 @@ layout: navigation_PMA
           <span class="card-tag-text">Tags:</span><br>
           <span class="post-tags" itemprop="keywords">
             {% for tag in page.tags %}
+              {% unless tag == 'sharing' or tag == 'IT' or tag == 'data' or tag == 'workforce' or tag == 'cx' or tag == 'low-to-high' or tag == 'cm' or tag == 'grants' or tag == 'payments' or tag == 'spending' or tag == 'acquisition' or tag == 'infrastructure' or tag == 'credentialing' or tag == 'lab' %}
               <span class="usa-label">
               <a style="color:#ffffff;" href="{{ site.baseurl }}/tags/{{ tag}}/">{{ tag }}</a>
               </a>
-            </span>
+          </span>
+              {% endunless %}
             {% endfor %}
 
 

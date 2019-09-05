@@ -17,7 +17,7 @@ description: The Gears of Government President's Award - See the Winners!
 excerpt: The Gears of Government President's Award - See the Winners!
 
 image: "/img/GoG/gears-govt-presidents.png"
-alt-text: "GEAR Center Challenge Logo"
+image_accessibility: Gears of Government President's Award logo against a gold background.
 
 authors:
 - Performance.gov Team

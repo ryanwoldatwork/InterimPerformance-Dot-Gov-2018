@@ -17,7 +17,7 @@ description: Over 28 million people visit government websites each day. Understa
 excerpt: Over 28 million people visit government websites each day. Understanding how these users navigate our websites and online resources is critical to improving the online customer experience.
 
 image: "/img/blog/dap-capture.PNG"
-alt-text: "DAP title with navy blue backround"
+image_accessibility: The Digital Analytics Program title and URL on a  navy blue background
 
 authors:
 - CX CAP Goal Team
@@ -25,6 +25,7 @@ authors:
 tags:
 - GSA
 - CAP goal
+- cx
 
 ---
 

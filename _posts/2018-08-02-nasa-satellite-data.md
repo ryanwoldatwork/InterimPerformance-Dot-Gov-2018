@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: Data, Accountability and Transparency is a key driver of the President's Management Agenda. NASA is advancing this priority through a new online resource that promotes commercial use of remote-sensing data.
 
 image: "/img/blog/nasa-satellite-data.jpg"
+image_accessibility: A photo of blue and green patterns. 
 authors:
 - Performance.gov Team
 

@@ -17,6 +17,7 @@ description: Agency Leaders Gather to Implement Improvement Initiatives
 excerpt: Agency leaders gather to implement program management improvement initiatives.
 
 image: /img/blog/PMPC-graphic.png
+image_accessibility: Program Management Policy Council logo against a blue bakground. 
 
 authors:
 - Performance.gov Team

@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "Celebrating One Year of Progress: The President's Management Agenda Anniversary Report"
 
-rating: "1"
+rating: "0"
 
 permalink: /PMA-celebrating-one-year-of-progress/
 
@@ -19,7 +19,7 @@ excerpt: One year ago, the President’s Management Agenda was released as a lon
 
 
 image: /img/blog/PMA-1-year-logo.png
-alt-text: "PMA One-Year Logo"
+image_accessibility: President's Management Agenda One-Year Update Logo.
 
 authors:
 - Performance.gov Team

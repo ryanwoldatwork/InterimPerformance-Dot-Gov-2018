@@ -6,7 +6,7 @@
 
 .cx-dashboard-heading,
 .cx-dashboard-heading-metric {
-	  font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif; 
+	  font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
 }
 
 .cx-heading-metrics .cx-dashboard-heading-metric {
@@ -16,7 +16,7 @@
 }
 
 .cx-hisp-tile {
-  display : inline-block; 
+  display : inline-block;
   clear : both;
   width : 100%;
   margin-bottom : 2em;
@@ -41,7 +41,7 @@
 }
 
 .cx-dashboard .cx-profile-heading {
-	margin-bottom : 3em; 
+	margin-bottom : 3em;
 }
 
 .cx-section-heading {
@@ -51,7 +51,7 @@
 }
 
 .cx-table {
-	float : none; 
+	float : none;
 }
 
 
@@ -64,13 +64,22 @@ width : 150px;
 height : 150px;
 }
 
+.cx-agency-logo-landing {
+	text-align : center;
+}
+
+.cx-agency-logo-landing img {
+width : 75px;
+height : 75px;
+}
+
 .cx-agency-logo.multi-logo img {
 	width: auto;
 	height: auto;
 }
 
 .cx-hisp-intro p {
-	border-left : 10px solid #F0F0F0; 
+	border-left : 10px solid #F0F0F0;
 	padding-left : 1rem;
 }
 
@@ -81,7 +90,7 @@ height : 150px;
 }
 
 .cx-hisp-profile p {
-	clear : both;	
+	clear : both;
 }
 
 .cx-hisp-profile table th, .cx-hisp-profile table td {
@@ -139,7 +148,7 @@ height : 150px;
 	background-color : #F0F0F0;
 }
 
-.cx-breadcrumb a, 
+.cx-breadcrumb a,
 .cx-breadcrumb a:link {
 	text-decoration : none;
 }
@@ -159,12 +168,12 @@ height : 150px;
 
 .star-rating {
   --percent: calc(var(--rating) / 5 * 100%);
-  
+
   display: inline-block;
   font-size: var(--star-size);
   font-family: Montserrat, sans-serif;
   line-height: 1;
-  
+
   &::before {
     content: '★★★★★';
     letter-spacing: 3px;

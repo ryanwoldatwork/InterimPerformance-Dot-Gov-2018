@@ -14,12 +14,14 @@ excerpt: The adoption of the Technology Business Management (TBM) Framework will
 summary: summary_large_image
 
 image: "/img/blog/data-cloud.jpg"
+image_accessibility: Photo of a cloud against a technology back drop. 
 authors:
 - Margaret M. Weichert, Deputy Director for Management, Office of Management and Budget
 
 tags:
 - OMB
 - CAP goal
+- spending
 
 ---
 
