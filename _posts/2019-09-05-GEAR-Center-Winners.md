@@ -19,7 +19,7 @@ description: Three groups received $300,000 each for innovative solutions to gov
 excerpt: Three groups received $300,000 each for innovative solutions to government challenges outlined in the President’s Management Agenda.
 
 
-image: /img/blog/GEAR-center-graphic.PNG
+image: /img/blog/GEAR-center-graphic.png
 image_accessibility: A map of the United States that says "GEAR Center Challenge Winners."
 
 authors:
