@@ -19,8 +19,8 @@ description: Three groups received $300,000 each for innovative solutions to gov
 excerpt: Three groups received $300,000 each for innovative solutions to government challenges outlined in the President’s Management Agenda.
 
 
-image: /img/blog/a-11-logo.png
-image_accessibility: Photo of A-11 cover page which reads "Circular NO. A-11, Preparation, Submission, and Execution of the Budget, Executive Office of the President, Office of Management and Budget, June 2019"
+image: /img/blog/GEAR-center-graphic.PNG
+image_accessibility: A map of the United States that says "GEAR Center Challenge Winners."
 
 authors:
 - Performance.gov Team
