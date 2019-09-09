@@ -35,6 +35,7 @@ challenge: "The challenges include: parts of today’s personnel system are a re
 opportunity: "To achieve a state where Federal agencies and managers can hire the best employees, remove the worst employees, and engage employees at all levels of the organization. The Government must put a framework in place that drives and encourages strategic human capital management." #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
+action-2019-september: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_People_Workforce_for_the_21st_Century.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_People_Workforce_for_the_21st_Century.pdf"
@@ -68,7 +69,7 @@ alt_text_2: Photo of Peter Warren   #Goal leader 2
 goal-leader-2-name: "Peter Warren"
 goal-leader-2-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
 goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
-alt_text_3: Photo of Michael Rigas 
+alt_text_3: Photo of Michael Rigas
 goal-leader-3-name: "Michael Rigas"
 goal-leader-3-title: "Deputy Director, Office of Personnel Management"
 #***********************END GOAL LEADER SECTION*****************************8
