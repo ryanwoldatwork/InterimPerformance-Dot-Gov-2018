@@ -37,7 +37,7 @@ resource-6-url: https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf
 quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 

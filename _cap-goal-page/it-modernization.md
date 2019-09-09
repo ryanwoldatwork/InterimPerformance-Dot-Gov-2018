@@ -26,7 +26,7 @@ resource-4-url:  https://www.cio.gov/reskilling/
 quote: "2019 is going to be a great year for citizen and mission results delivered through enabling technology advances." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/june_2019_IT_Modernization.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

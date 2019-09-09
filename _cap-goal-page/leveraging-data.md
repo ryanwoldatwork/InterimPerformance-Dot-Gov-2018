@@ -28,7 +28,7 @@ resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 quote-author: "Pradeep Belur, SBA Official"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

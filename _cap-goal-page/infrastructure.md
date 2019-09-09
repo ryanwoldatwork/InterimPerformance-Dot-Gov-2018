@@ -18,7 +18,7 @@ resource-2-url:  https://www.permits.performance.gov/
 #***********************FLOATING BOX SECTION*****************************
 quote: "We're working to make a cultural change in the permitting process, by applying predictability, accountability, and transparency to what has been an impenetrable black box." #appears in the gray text box
 quote-author: "Alex Herrgott, Goal Leader"
-current-action-plan: "/CAP/action_plans/june_2019_Modernize_Infrastructure_Permitting.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Modernize_Infrastructure_Permitting.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

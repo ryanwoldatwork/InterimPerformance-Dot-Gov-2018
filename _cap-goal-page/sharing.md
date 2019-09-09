@@ -40,7 +40,7 @@ opportunity: "Improve the efficiency and effectiveness of the Federal
 government’s mission support services in the short and long term, leading
 to improved performance, customer experience, and operational costs. " #third accordion text
 
-action-2019-june: "/CAP/action_plans/june_2019_Sharing_Quality_Services.pdf"
+action-2019-june: "/CAP/action_plans/sept_2019_Sharing_Quality_Services.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Sharing_Quality_Services.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Sharing_Quality_Services.pdf"

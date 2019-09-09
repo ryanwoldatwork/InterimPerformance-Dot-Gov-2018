@@ -48,7 +48,7 @@ quote: "Federal Grant Programs support activities that touch every American, suc
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 17.5px
-current-action-plan: "/CAP/action_plans/june_2019_Results-Oriented_Accountability_for_Grants.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Results-Oriented_Accountability_for_Grants.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
