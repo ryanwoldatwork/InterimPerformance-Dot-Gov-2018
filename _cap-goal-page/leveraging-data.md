@@ -41,6 +41,7 @@ opportunity: "There are opportunities to: develop a long-term, enterprise-wide F
 #action plan links
 
 action-2019-june: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Data_Accountability_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Data_Accountability_Transparency.pdf"

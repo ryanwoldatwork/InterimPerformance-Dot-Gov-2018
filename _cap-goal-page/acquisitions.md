@@ -36,6 +36,7 @@ challenge: "Major acquisitions—which vary in size by agency but often exceed $
 opportunity: "Agencies and their contractors will successfully meet taxpayer expectations and performance goals on key transformational projects across the Government—from upgrading hospitals to better meet veterans needs to integrating technology into conducting a modern and efficient census to achieving IT modernization needs for a 21st century Government. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Improve_Management_of_Major_Acquisitions.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Improve_Management_of_Major_Acquisitions.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Improve_Management_of_Major_Acquisitions.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Improve_Management_of_Major_Acquisitions.pdf"

@@ -44,6 +44,7 @@ Hundreds—and in some cases thousands—of duplicative contracts are awarded to
 opportunity: "Success means the Government will not only save taxpayer dollars but will improve mission outcomes. For example, this work will allow:  our law enforcement personnel to ensure their safety through easy access to equipment such as ammunition and body armor; medical professionals to save time and focus more on patients by ordering pharmaceuticals through electronic catalogues; agencies to more easily prioritize modernizing the Government’s IT infrastructure, to include efforts such as buying standardized computers; and the goal will be evaluated using industry best practice metrics, including savings, spend through common contract solutions, reduction of duplicative contracts, small business utilization and training the workforce. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Category_Management.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Category_Management.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Category_Management.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Category_Management.pdf"

@@ -42,6 +42,7 @@ Optimized government-wide capabilities through enterprise approaches; and
 Strong partnership with Federal Insider Threat programs to identify, deter, and mitigate problems before they negatively impact the workforce or national security. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Security_Suitability.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Security_Suitability.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Security_Suitability.pdf"

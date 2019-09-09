@@ -42,6 +42,7 @@ challenge: "Whether seeking a loan, Social Security benefits, veterans benefits,
 opportunity: "A modern, streamlined and responsive customer experience means:  raising government-wide customer experience to the average of the private sector service industry, as measured by external organizations; developing indicators for high-impact Federal programs to monitor progress towards excellent customer experience and mature digital services; providing the structure and resources to ensure customer experience is a focal point for agency leadership; and examples of programs where improved customer service will impact millions of Americans include Federal Student Aid, Airport Security Screening, National Parks, Veterans Health Care, Passport Services, Emergency and Disaster Relief, and Medicare." #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Improving_Customer_Experience.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Improving_Customer_Experience.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Improving_Customer_Experience.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf"
@@ -72,7 +73,7 @@ goal-leader-2-photo: "/img/CAP-photos/cutts-matt.jpg"
 alt_text_2: Photo of Matt Cutts #Goal leader 2
 goal-leader-2-name: "Matt Cutts"
 goal-leader-2-title: "Acting Administrator, U.S. Digital Service"
-goal-leader-3-photo: "/img/CAP-photos/brown-dustin.jpeg" 
+goal-leader-3-photo: "/img/CAP-photos/brown-dustin.jpeg"
 alt_text_3: Photo of Dustin Brown #Goal leader 2
 goal-leader-3-name: "Dustin Brown"
 goal-leader-3-title: "Deputy Assistant Director for Management, Office of Management and Budget"
