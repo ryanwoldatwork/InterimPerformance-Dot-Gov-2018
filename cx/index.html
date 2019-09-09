@@ -17,15 +17,11 @@ agency_dir: cx
   <div class="usa-grid usa-graphic_list-row">
 
     <div class="usa-width-one-half usa-media_block">
-      <p>Despite some important strides to improve customer experience, many federal government services fail to meet the
-expectations of the public, creating unnecessary hassle and cost for citizens, businesses, and the government itself.</p>
-
-<p>The Customer Experience Cross-Agency Priority Goal and OMB Circular A-11 Section 280 begin to raise the standard of service by
-first focusing on applying proven practices to High Impact Service Providers (HISPs). These 25 services across the Federal Government
-have been identified due to the scale and impact of their public-facing services.</p>
+      <p>Despite some important strides to improve customer experience, many federal government services fail to meet theexpectations of the public, creating unnecessary hassle and cost for citizens, businesses, and the government itself.</p>
+      <p>The Customer Experience Cross-Agency Priority Goal and OMB Circular A-11 Section 280 begin to raise the standard of service byfirst focusing on applying proven practices to High Impact Service Providers (HISPs). These 25 services across the Federal Governmenthave been identified due to the scale and impact of their public-facing services.</p>
     </div>
     <div class="usa-width-one-half usa-media_block">
-        <img src="{{ site.baseurl }}/img/cx/300ppi/gears.png" alt="Gears seal" style="height:425px; align:center;">
+        <img src="{{ site.baseurl }}/img/cx/300ppi/gears.png" alt="Gears seal" style="height:350px; align:center;">
     </div>
 
 </div>
@@ -42,22 +38,65 @@ have been identified due to the scale and impact of their public-facing services
     {% for hisp in site.data.hisps %}
     <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
       <div style="height:250px;text-align:center;">
-      <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;">
-
-       <p>{{ hisp.department }}, {{ hisp.bureau}}</p>
-       </div>
+        <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
+        <a style="text-decoration:none;" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.department }}, {{ hisp.bureau}}</a>
+     </div>
     </div>
     {% endfor %}
   </div>
 </section>
 
 <section class="usa-section usa-graphic_list">
+
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole usa-media_block">
+      <h2>HiSP Highlights</h2>
+    </div>
+  </div>
+
   <div class="usa-grid usa-graphic_list-row">
 
-    <div class="usa-width-one-whole usa-media_block">
-    Sources/highlights
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Innovation</h2>
+        <p><b>US Patent & Trademark Office</b><br>
+        Handled over 800,000 calls issuingover 707,000 trademarks andpatents to further American innovation.</p>
+        <p><b>Small Business Administration Field Operations</b><br>
+        Provided more than $30 billion to small businesses, supporting 600,000 jobs.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Veterans</h2>
+        <p><b>Veterans Health Administration</b><br>
+          Schedules 91% of appointments within 30 days, giving Veterans more timely access to healthcare.</p>
+        <p><b>Veterans Benefits Administration</b><br>
+          Provide 5.2 million Veterans and survivors with compensation</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Land</h2>
+        <p><b>Farm Service Agency</b><br>
+          Provided $39.9 billion in credit to family operations, supporting Americans in agriculture..</p>
+        <p><b>National Resources Conservation Service</b><br>
+          Awarded 158,000 landowners contracts for conservation efforts.</p>
+        <p><b>Trust Beneficiary Call Center Office of the Special Trustee for American Indians</b><br>
+          Appraised 717,062 acres of land for Land Buy-Back Program.</p>
+      </div>
 
+    </div>
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Innovation</h2>
+        <p>US Patent & Trademark Office<br>
+        Handled over 800,000 calls issuingover 707,000 trademarks andpatents to further American innovation.</p>
+        <p>Small Business Administration Field Operations<br>
+        Provided more than $30 billion to small businesses, supporting 600,000 jobs.</p>
+      </div>
+    </div>
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Innovation</h2>
+      </div>
     </div>
 
   </div>
+
 </section>
