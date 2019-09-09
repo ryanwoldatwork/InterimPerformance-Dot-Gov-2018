@@ -27,15 +27,8 @@ current-action-plan: "/CAP/action_plans/june_2019_Improving_Customer_Experience.
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement-bullets: "This goal will:"
-
-bullet-1: "Transform the customer experience by improving the usability and reliability of our Federal Government’s most critical digital services;"
-
-bullet-2: "Create measurable improvements in customer satisfaction by using the principles and practices proven by leading private sector organizations;"
-
-bullet-3: "Increase trust in the Federal Government by improving the experience citizens and businesses have with Federal services whether online, in-person, or via phone;"
-
-bullet-4: "Leverage technology to break down barriers and increase communication between Federal agencies and the citizens they serve." #first accordion text
+statement-bullets: "This goal will provide a modern, streamlined, and responsive customer experience across government, comparable to leading private-sector organizations."
+ #first accordion text
 
 challenge: "Whether seeking a loan, Social Security benefits, veterans benefits, or other services provided by the Federal Government, individuals and businesses expect Government customer services to be efficient and intuitive, just like services from leading private-sector organizations. Yet the 2016 American Consumer Satisfaction Index and the 2017 Forrester Federal Customer Experience Index show that, on average, Government services lag nine percentage points behind the private sector." #second accordion text
 
