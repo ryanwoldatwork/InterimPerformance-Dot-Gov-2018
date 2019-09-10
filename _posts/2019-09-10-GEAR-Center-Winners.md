@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "GSA and OMB Announce Government Effectiveness
+title: "NEW: GSA and OMB Announce Government Effectiveness
 Advanced Research (GEAR) Center Challenge Winners"
 
 rating: "0"
@@ -32,7 +32,7 @@ tags:
 ---
  **Three groups received $300,000 each for innovative solutions to government challenges outlined in the President’s Management Agenda.**
 
- WASHINGTON — The U.S. General Services Administration (GSA) and the Office of Management and Budget (OMB) today announced three grand prize winners of the Government Effectiveness Advanced Research (GEAR) Center challenge. Each winner received an award of $300,000 each. Five honorable mentions were also selected from the pool of highly competitive applicants.  
+ WASHINGTON — The U.S. General Services Administration and the Office of Management and Budget (OMB) today announced three grand prize winners of the Government Effectiveness Advanced Research (GEAR) Center challenge. Each winner received an award of $300,000 each. Five honorable mentions were also selected from the pool of highly competitive applicants.  
 
 *“The GEAR Center was conceived as a way to promote innovation in support of the President ‘s Management Agenda,” said OMB’s Deputy Director for Management Margaret Weichert. GEAR Center Challenge submissions are promising examples of how innovative public- private partnerships can transform government mission delivery, service to citizens and stewardship. The GEAR Center is already creating incentives for cross-sector collaborations that will better serve the American people.*
 
@@ -50,7 +50,7 @@ The GEAR Center competition challenges problem solvers from the public, academia
 
 <hr style= "hieght:5px; color:#07648d">
 
-**Data for Impact - A collaboration to improve government use of administrative data to measure impact between New York University’s Administrative Data Research Facility, SkillSource Group, and Third Sector Capital Partners, Inc**
+**Data for Impact -  A collaboration to improve government use of administrative data to measure impact between SkillSource Group and Third Sector Capital Partners, Inc**
 
 *Currently, data on federally funded workforce, education, and human services programs are too often held in siloes that prevent local, state, and federal agencies from assessing the true impact of their joint service delivery. This team will collaborate to pilot an approach to integrate currently disparate data that builds on existing state data integration efforts. The team will leverage multiple administrative data sources to measure the impact of Workforce Innovation and Opportunity Act (WIOA) services for Virginia Opportunity Youth with past involvement with the child welfare and/or criminal justice systems.*
 
