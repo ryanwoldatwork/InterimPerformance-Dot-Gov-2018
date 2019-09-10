@@ -92,6 +92,8 @@ The GEAR Center competition challenges problem solvers from the public, academia
 
 *Approximately $700 billion is invested annually through more than 1,800 diverse federal grant programs. However, grant managers—including those that administer funds from inside the federal government and those from external organizations that receive federal funds—report spending 40% of their time using antiquated processes to monitor compliance instead of data and analytics to monitor results. This team proposes demonstrating the benefits and challenges of a proposed grants management business operating model and blockchain-based Distributed Grants Ledger that addresses this problem using the joint efforts of private sector technology vendors, state government agencies, universities, and community-based service organizations.*
 
+[Read original press release.](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-and-omb-announce-government-effectiveness-advanced-research-center-challenge-winners)
+
 <center>###</center>
 
 **About GSA:** The mission of the U.S. General Services Administration is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across government. One of its four strategic objectives is to design and deliver expanded shared services within GSA and across the federal government to improve performance and save taxpayer money.
