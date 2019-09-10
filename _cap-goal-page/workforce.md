@@ -72,6 +72,10 @@ goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
 alt_text_3: Photo of Michael Rigas
 goal-leader-3-name: "Michael Rigas"
 goal-leader-3-title: "Deputy Director, Office of Personnel Management"
+goal-leader-4-photo: "/img/CAP-photos/charles-rettig.jpg"
+alt_text_4: Photo of Charles Rettig
+goal-leader-4-name: "Charles Rettig"
+goal-leader-4-title: "Commissioner, Internal Revenue Service"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
