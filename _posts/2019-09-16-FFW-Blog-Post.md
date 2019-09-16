@@ -29,9 +29,9 @@ tags:
 
 
 ---
-As the curtain closes on the second-annual [#FedFashionWeek](https://twitter.com/hashtag/FedFashionWeek?src=hashtag_click), we have the backstage scoop on styles outfitting Federal Government employees. We partnered with federal agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
+As the curtain closes on the second-annual <a href="https://twitter.com/hashtag/FedFashionWeek?src=hashtag_click" target="blank">#FedFashionWeek</a>, we have the backstage scoop on styles outfitting Federal Government employees. We partnered with federal agencies to feature public servants and showcase their uniforms and the services they provide for the American people.
 
-Originally shared on [Twitter](https://twitter.com/PerformanceGov), the full line is below, highlighting the timeless classic that never goes out of style - a public servant’s passion for their work and heart of a hero.
+Originally shared on <a href="https://twitter.com/PerformanceGov" target="blank">Twitter</a>, the full line is below, highlighting the timeless classic that never goes out of style - a public servant’s passion for their work.
 
 <b style="font-size: 20px; color: 07648d">**Department of Veterans Affairs Program Support Assistant**</b>
 <a href="{{ site.baseurl }}/img/blog/FFW-fema"><img src="{{ site.baseurl }}/img/blog/FFW-fema.png"></a>
