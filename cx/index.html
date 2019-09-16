@@ -7,8 +7,8 @@ agency_dir: cx
 <section class="usa-section usa-section-dark usa-graphic_list">
   <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-whole usa-media_block">
-      <h1>Meet Our High Impact Service Providers</h1>
-      <h2 style="color:white;">Working to transform the way government serves the public</h2>
+      <h1>Meet 25 of the nation’s highest impact service provider</h1>
+      <h2 style="color:white;margin-top:0">We’re working to transform the way government serves the public</h2>
       <a class="usa-button usa-button-secondary " href="{{ site.baseurl }}/CAP/cx/">CX CAP Goal and Resources</a><!--Read the latest news here-->
 
   </div>
@@ -35,7 +35,7 @@ agency_dir: cx
 <section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
  <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block ">
-      <h2>View all HISPs</h2>
+      <h2>Learn more about a HISP</h2>
   </div>
 </div>
 <div class="usa-grid">
@@ -151,4 +151,47 @@ ments/USPTOFY18PAR.pdf">800,000 calls</a> issuing over <a href="https://www.uspt
 
   </div>
 
+</section>
+
+<section class="usa-section usa-graphic_list" style="background-color:#205493;color:#ffffff;">
+   <div class="usa-grid usa-graphic_list-row">
+ {% if page.CAP-event-title %}
+     <div class="usa-width-two-thirds usa-media_block">
+       <h2>News</h2>
+       {% for post in site.tags[page.tag] limit:2 %}
+       {% if page.tag %}
+       <hr>
+       <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ post.date | date: '%B %d, %Y' }}</p>
+         <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ post.permalink }}">
+           <h3 style="margin-top:5px;">{{ post.title }}</h3>
+         </a>
+         <p>{{ post.description}}</p>
+         {% endif %}
+         {% endfor %}
+     </div>
+     <div class="usa-width-one-third usa-media_block" style="background-color:rgba(255,255,255,1);color:#205493;padding:20px;height:400px;border-radius:25px;">
+        <h2>&#128467;&nbsp;Upcoming Events</h2>
+        <hr style="color:#ffffff;">
+        <p style="font-size:1.1em;margin-bottom:0px;"><b>{{ page.CAP-event-title}}</b>, <em>{{ page.CAP-event-date}}</em></p>
+        <p style="margin-top:5px;">{{ page.CAP-event-text }}</p>
+        {% if page.CAP-event-button %}
+          <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:15px;" href="{{ page.event-link }}">{{ page.CAP-event-button }} &#10095;</a></p>
+        {% endif %}
+  {% else %}
+  <div class="usa-width-one-whole usa-media_block">
+   <h2>News</h2>
+  {% for post in site.tags[page.tag] limit:2 %}
+  {% if page.tag %}
+    <hr>
+    <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ post.date | date: '%B %d, %Y' }}</p>
+      <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ post.permalink }}">
+        <h3 style="margin-top:5px;">{{ post.title }}</h3>
+      </a>
+      <p>{{ post.description}}</p>
+  {% endif %}
+  {% endfor %}
+  </div>
+{% endif %}
+     </div
+   </div>
 </section>
