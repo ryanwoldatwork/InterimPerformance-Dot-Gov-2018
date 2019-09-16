@@ -44,7 +44,7 @@ GoG: yes
   <div class="usa-width-one-whole usa-media_block agency-page-section">
     <h2 style="color:#046b99;">Mission</h2>
     <p>Our mission is to maintain and strengthen the nation&rsquo;s economy by enabling the establishment and vitality of small businesses and by assisting in the economic recovery of communities after disasters.</p>
-    <p><a href="{{ site.baseurl }}/data/">Explore</a> over 10 years of SBA loan data.</p>
+    <p><a href="{{ site.baseurl }}/data/#sba">Explore</a> over 10 years of SBA loan data.</p>
   </div>
 </div>
 
