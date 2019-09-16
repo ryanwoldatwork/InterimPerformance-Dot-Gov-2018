@@ -33,31 +33,31 @@ As the curtain closes on the second-annual <a href="https://twitter.com/hashtag/
 
 Originally shared on <a href="https://twitter.com/PerformanceGov" target="blank">Twitter</a>, the full line is below, highlighting the timeless classic that never goes out of style - a public servant’s passion for their work.
 
-<b style="font-size: 20px; color: 07648d">**Department of Veterans Affairs Program Support Assistant**</b>
+<b style="font-size: 20px; color: 07648d">**Department of Veterans Affairs, Program Support Assistant**</b>
 <a href="{{ site.baseurl }}/img/blog/FFW-fema"><img src="{{ site.baseurl }}/img/blog/FFW-fema.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**National Park Service Horse Mounted Unit**</b>
+<b style="font-size: 20px; color: 07648d">**National Park Service, Horse Mounted Unit**</b>
 <a href="{{ site.baseurl }}/img/blog/FFW-uspo"><img src="{{ site.baseurl }}/img/blog/FFW-uspo.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**U.S. Department of Agriculture Forest Service Wildlife Biologist**</b>
+<b style="font-size: 20px; color: 07648d">**U.S. Department of Agriculture, Forest Service Wildlife Biologist**</b>
 <a href="{{ site.baseurl }}/img/blog/FFW-usda"><img src="{{ site.baseurl }}/img/blog/FFW-usda.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**U.S. Department of Agriculture Food Safety Inspectors** </b>
+<b style="font-size: 20px; color: 07648d">**U.S. Department of Agriculture, Food Safety Inspectors** </b>
 <a href="{{ site.baseurl }}/img/blog/FFW-usda-1"><img src="{{ site.baseurl }}/img/blog/FFW-usda-1.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**Department of Homeland Security Federal Emergency Management Agency Search and Rescue Canine** </b>
+<b style="font-size: 20px; color: 07648d">**Department of Homeland Security, Federal Emergency Management Agency, Search and Rescue Canine** </b>
 <a href="{{ site.baseurl }}/img/blog/FFW-fema-1"><img src="{{ site.baseurl }}/img/blog/FFW-fema-1.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**U.S. Agency for International Development Disaster Assistance Response Team** </b>
+<b style="font-size: 20px; color: 07648d">**U.S. Agency for International Development, Disaster Assistance Response Team** </b>
 <a href="{{ site.baseurl }}/img/blog/FFW-usaid"><img src="{{ site.baseurl }}/img/blog/FFW-usaid.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**Department of Veterans Affairs Red Coat Ambassador** </b>
+<b style="font-size: 20px; color: 07648d">**Department of Veterans Affairs, Red Coat Ambassador** </b>
 <a href="{{ site.baseurl }}/img/blog/ffw-va"><img src="{{ site.baseurl }}/img/blog/ffw-va.png"></a>
 
 <b style="font-size: 20px; color: 07648d">**Architect of the Capitol** </b>
 <a href="{{ site.baseurl }}/img/blog/ffw-capitol"><img src="{{ site.baseurl }}/img/blog/ffw-capitol.png"></a>
 
-<b style="font-size: 20px; color: 07648d">**U.S. Department of the Interior Office of Surface Mining Reclamation and Enforcement** </b>
+<b style="font-size: 20px; color: 07648d">**U.S. Department of the Interior, Office of Surface Mining Reclamation and Enforcement** </b>
 <a href="{{ site.baseurl }}/img/blog/ffw-interior"><img src="{{ site.baseurl }}/img/blog/ffw-interior.png"></a>
 
 Did you miss this year's Fed Fashion Week? Send content and photos to [pgovsupport@gsa.gov](pgovsupport@gsa.gov) to be part of the 2020 collection!
