@@ -43,7 +43,8 @@ agency_dir: cx
     <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
       <div style="height:250px;text-align:center;">
         <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
-        <a style="text-decoration:none;" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.department }}, {{ hisp.bureau}}</a>
+        <p style="font-size:.8em;"> <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.bureau}}</a></p>
+          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.department }}</p>
      </div>
     </div>
     {% endfor %}
@@ -54,7 +55,7 @@ agency_dir: cx
 
   <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-whole usa-media_block">
-      <a name="highlights"></a><h2>HiSP Highlights</h2>
+      <a name="highlights"></a><h2>HISP Highlights</h2>
     </div>
   </div>
 
@@ -154,44 +155,17 @@ ments/USPTOFY18PAR.pdf">800,000 calls</a> issuing over <a href="https://www.uspt
 </section>
 
 <section class="usa-section usa-graphic_list" style="background-color:#205493;color:#ffffff;">
-   <div class="usa-grid usa-graphic_list-row">
- {% if page.CAP-event-title %}
-     <div class="usa-width-two-thirds usa-media_block">
-       <h2>News</h2>
-       {% for post in site.tags[page.tag] limit:2 %}
-       {% if page.tag %}
-       <hr>
-       <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ post.date | date: '%B %d, %Y' }}</p>
-         <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ post.permalink }}">
-           <h3 style="margin-top:5px;">{{ post.title }}</h3>
-         </a>
-         <p>{{ post.description}}</p>
-         {% endif %}
-         {% endfor %}
-     </div>
-     <div class="usa-width-one-third usa-media_block" style="background-color:rgba(255,255,255,1);color:#205493;padding:20px;height:400px;border-radius:25px;">
-        <h2>&#128467;&nbsp;Upcoming Events</h2>
-        <hr style="color:#ffffff;">
-        <p style="font-size:1.1em;margin-bottom:0px;"><b>{{ page.CAP-event-title}}</b>, <em>{{ page.CAP-event-date}}</em></p>
-        <p style="margin-top:5px;">{{ page.CAP-event-text }}</p>
-        {% if page.CAP-event-button %}
-          <p class="card-tag" style="float:right;margin-top:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#205493;color:#ffffff;padding:10px;border-radius:15px;" href="{{ page.event-link }}">{{ page.CAP-event-button }} &#10095;</a></p>
-        {% endif %}
-  {% else %}
+ <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
    <h2>News</h2>
-  {% for post in site.tags[page.tag] limit:2 %}
-  {% if page.tag %}
-    <hr>
-    <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ post.date | date: '%B %d, %Y' }}</p>
-      <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ post.permalink }}">
-        <h3 style="margin-top:5px;">{{ post.title }}</h3>
-      </a>
-      <p>{{ post.description}}</p>
-  {% endif %}
-  {% endfor %}
+   {% for project in site.posts limit:2 %}
+      <hr>
+      <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ project.date | date: '%B %d, %Y' }}</p>
+        <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ project.permalink }}">
+          <h3 style="margin-top:5px;">{{ project.title }}</h3>
+        </a>
+        <p>{{ project.description}}</p>
+    {% endfor %}
   </div>
-{% endif %}
-     </div
-   </div>
+ </div
 </section>
