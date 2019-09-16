@@ -3,7 +3,7 @@ layout: post
 
 title: "Summer Updates Show Progress on Cross-Agency and Agency Priority Goals "
 
-rating: "1"
+rating: "0"
 
 permalink: /Summer-Updates-Show-Progress/
 
