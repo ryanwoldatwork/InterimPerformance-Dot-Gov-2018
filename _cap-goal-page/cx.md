@@ -10,14 +10,18 @@ redirect_from: "/CAP/CAP_goal_4.html"
 
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
 
-resource-2-name: OMB Circular A-11, Section 280
-resource-2-url: https://www.performance.gov/cx/a11-280.pdf
+resource-2-name: 2019 CX Action Plan Summary
+resource-2-url:
 
-resource-3-name: US Forms System Library
-resource-3-url: https://github.com/usds/us-forms-system
+resource-3-name: 2019 State of Government-wide CX
+resource-3-url:
 
-resource-4-name: Additional Resources for Agencies
-resource-4-url: https://www.performance.gov/cx/?
+resource-4-name: HISP Highlights
+resource-4-url: https://www.performance.gov/cx/HISP-placemat.pdf
+
+resource-5-name: US Forms System Library
+resource-5-url: https://github.com/usds/us-forms-system
+
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
@@ -27,7 +31,7 @@ current-action-plan: "/CAP/action_plans/sept_2019_Improving_Customer_Experience.
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement-bullets: "This goal will provide a modern, streamlined, and responsive customer experience across government, comparable to leading private-sector organizations."
+statement: "This goal will provide a modern, streamlined, and responsive customer experience across government, comparable to leading private-sector organizations."
  #first accordion text
 
 challenge: "Whether seeking a loan, Social Security benefits, veterans benefits, or other services provided by the Federal Government, individuals and businesses expect Government customer services to be efficient and intuitive, just like services from leading private-sector organizations. Yet the 2016 American Consumer Satisfaction Index and the 2017 Forrester Federal Customer Experience Index show that, on average, Government services lag nine percentage points behind the private sector." #second accordion text

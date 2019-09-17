@@ -27,14 +27,24 @@ layout: navigation_PMA
         {% include {{ page.listserv-include }}.html %}
     {% endif %}
 
+    {% if page.title == "Improving Customer Experience with Federal Services" %}
+      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="{{ site.baseurl }}/cx/">HISP Profiles</a>
+    {% endif %}
+
+
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
          <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>-->
         <div class="cap-box" style="margin-top:30px;">
           <div id="top">
+          {% if page.title == "Improving Customer Experience with Federal Services" %}
+            <p>Explore 25 of the nation’s highest impact services</p>
+            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}/cx/" target="_blank"><b>Explore</b></a>
+          {% else %}
             <p>Download the latest Action Plan and Progress Update</p>
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}" target="_blank"><b>Download</b></a>
+          {% endif %}
             </div>
           <div id="bottom">
             <blockquote-CAP>
@@ -101,8 +111,8 @@ blockquote-CAP cite {
 
     {% if page.goal-leader-2-name %}
         <div class="usa-width-one-sixth " style="margin-right:50px;">
-
-          <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }}</b><br>{{ page.goal-leader-2-title }}</p></center>
+           <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}" alt="{{ page.alt_text_2}}">
+           <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }}</b><br>{{ page.goal-leader-2-title }}</p></center>
        </div>
      {% endif %}
      {% if page.goal-leader-3-name %}
@@ -258,16 +268,41 @@ blockquote-CAP cite {
          </div>
           </div>
         </li>
+
+      {% if page.title == "Improving Customer Experience with Federal Services" %}
+      <li>
+        <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+          aria-expanded="false"
+          aria-controls="a5">
+          <img class="usa-media_block-img" src="{{ site.baseurl }}/img/toolkit.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Agency Toolkit (A-11 Section 280 Resourcess)
+        </button>
+      <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+      <div class="usa-grid usa-graphic_list-row">
+        <div class="usa-width-one-half usa-media_block">
+          <p><a href="{{ site.baseurl }}/cx/a11-280.pdf" target="_blank"><b>A-11 Section 280</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/" target="_blank"><b>HISP List</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/A11-Companion-CX-Metrics-2019.pdf" target="_blank"><b>CX Metrics</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/CX-Feedback-Data-Submission.xlsx" target="_blank"><b>CX Feedback Data Submission Template</b></a></p>
+        </div>
+        <div class="usa-width-one-half usa-media_block">
+          <p><a href="{{ site.baseurl }}/cx/A11-Companion-CX-Self-Assessment-2019.pdf"  target="_blank"><b>CX Self-Assessment</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/CXActionPlanTemplate.pptx" target="_blank"><b> CX Action Plan Template</b></a></p>
+          <p><a href=" https://community.max.gov/x/cQDMVw" target="_blank"><b>OMB MAX CX Site</b></a></p>
+       </div>
+     </div>
+     </li>
+    {% endif %}
+
         {% if page.KPI %}
         <li>
 
           <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
-            aria-controls="a5">
+            aria-controls="6">
               <img class="usa-media_block-img" src="{{ site.baseurl }}/img/kpi-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Key Performance Indicators (KPI)
           </button>
         </a>
-          <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+          <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
               <div class="usa-width-one-half usa-media_block">
                 {% include kpi--cap-page.html title=page.KPI %}
@@ -283,10 +318,10 @@ blockquote-CAP cite {
           <li>
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
-            aria-controls="a6">
+            aria-controls="a7">
             <img class="usa-media_block-img" src="{{ site.baseurl }}/img/resources.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Resources
           </button>
-          <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+          <div id="a7" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
            {% if page.resource-2-name %}
                  <p><a target="_blank" href="{{ page.resource-2-url }}">{{ page.resource-2-name }}</a></p>
            {% endif %}
