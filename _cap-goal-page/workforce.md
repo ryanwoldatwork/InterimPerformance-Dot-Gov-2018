@@ -35,7 +35,7 @@ challenge: "The challenges include: parts of today’s personnel system are a re
 opportunity: "To achieve a state where Federal agencies and managers can hire the best employees, remove the worst employees, and engage employees at all levels of the organization. The Government must put a framework in place that drives and encourages strategic human capital management." #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
-action-2019-september: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_People_Workforce_for_the_21st_Century.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_People_Workforce_for_the_21st_Century.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_People_Workforce_for_the_21st_Century.pdf"
