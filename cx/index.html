@@ -41,6 +41,7 @@ agency_dir: cx
 </div>
 <div class="usa-grid">
     {% for hisp in site.data.hisps %}
+    {% unless hisp.department_abbreviation == 'hhs' %}
     <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
       <div style="height:250px;text-align:center;">
         <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}"><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
@@ -48,6 +49,7 @@ agency_dir: cx
           <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.department }}</p>
      </div>
     </div>
+    {% endunless %}
     {% endfor %}
   </div>
 </section>
@@ -76,7 +78,7 @@ agency_dir: cx
         <p><b><a href="https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf">Veterans Health Administration</a></b><br>
           Provides care to 9.17 million enrollees in the VA healthcare system.</p>
         <p><b><a href="https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf">Veterans Benefits Administration</a></b><br>
-          Provides 5.2 million Veterans and survivors with compensation or pension benefits./p>
+          Provides 5.2 million Veterans and survivors with compensation or pension benefits.</p>
       </div>
       <div class="HISP-border">
         <h2>Land</h2>
