@@ -1,37 +1,177 @@
 ---
 title: "CX CAP Goal Resources for Agencies"
-layout: navigation
-
+layout: navigation_PMA
+agency_dir: cx
 ---
 
-    <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-      <ul class="usa-sidenav-list">
-        <li>
-          <a class="usa-current" href="../cxresources/index.html">Customer Experience (CX) CAP Goal: Resources for Agencies</a>
+<section class="usa-section usa-section-dark usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
+    <p><b><a style="text-decoration:none;"href="{{ site.baseurl }}/CAP/cx/"> &#10094; &nbsp; Back to CX Cap Goal</a></b></p>
+    <div class="usa-width-one-whole usa-media_block">
+      <h1>Meet 25 of the nation’s highest impact service providers</h1>
+      <h2 style="color:white;margin-top:0">We’re working to transform the way government serves the public</h2>
+      <a class="usa-button usa-button-secondary " href="{{ site.baseurl }}/CAP/cx/">CX CAP Goal and Resources</a><!--Read the latest news here-->
 
-          </ul>
-    </aside>
-        <div class="usa-width-three-fourths usa-layout-docs-main_content">
-<h1>Overview</h1>
-<p>This page is intended to provide resources to support the development of CX strategies and activities across the government, as well as publicly available data on how high-impact services are serving Federal customers.</p>
-<h2>OMB Guidance: OMB Circular A-11, Section 280</h2>
-<p>Section 280 of OMB Circular A-11 provides guidance to Federal agencies on efforts to improve the Customer Experience of Federal programs. In particular, the guidance encourages more timely adoption of customer experience activities by designated High-Impact Service Providers.</p>
-            <p><a href="{{ site.baseurl }}/cx/a11-280.pdf">OMB Circular A-11, Section 280</a></p>
-            <h2>High-Impact Service Providers</h2>
-<p>High-Impact Service Providers are those Federal entities designated by OMB that provide the most high-impact customer-facing services, either due to a large customer base or a high impact on those served by the program. A HISP is one that interacts with the public to provide a transactional service or perform a regulatory function in which time, money, or information is used to receive a good, service, or authorization. Below is a list of HISPs that will be reviewed and updated periodically by OMB.<p>
-            <p><a href="HISPList19.pdf">List of HISPs</a></p>
+  </div>
+</div>
+</section>
 
-<h2>Getting Started</h2>
-<p>Below resources to help your organization apply the recommendations and standards from Section 280 to improve customer experience and service delivery. The maturity assessment, action plan, and sample survey will help you assess the current state of CX at your agency, develop a plan to build standard questions into your feedback program, and take steps toward building more customer-centered services.</p>
+<section class="usa-section usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
 
-<p><a href="A11-Companion-CX-Metrics-2019.pdf" target="_blank">CX Metrics</a></p>
-<p><a href="A11-Companion-Sample-CX-Survey-Card-2019.pdf" target="_blank">Sample CX Survey Card</a></p>
-<p><a href="A11-Companion-CX-Self-Assessment-2019.pdf" target="_blank">CX Self Assessment</a></p>
-<p><a href="CXActionPlanTemplate.pptx" target="_blank">CX Action Plan</a></p>
-<p><a href="CX-Feedback-Data-Submission.xlsx" target="_blank">CX Feedback Data Submission</a></p>
+    <div class="usa-width-one-half usa-media_block">
+      <p>Despite some important strides to improve customer experience, many federal government services fail to meet theexpectations of the public, creating unnecessary hassle and cost for citizens, businesses, and the government itself.</p>
+      <p>The Customer Experience Cross-Agency Priority Goal and OMB Circular A-11 Section 280 begin to raise the standard of service byfirst focusing on applying proven practices to High Impact Service Providers (HISPs). These 25 services across the Federal Governmenthave been identified due to the scale and impact of their public-facing services.</p>
+      <a class="usa-button usa-button-secondary " href="#highlights">HISP Highlights</a>
 
-
-
-
+    </div>
+    <div class="usa-width-one-half usa-media_block">
+        <img src="{{ site.baseurl }}/img/cx/300ppi/gears.png" alt="Gears seal" style="height:350px; align:center;">
+    </div>
 
 </div>
+</section>
+
+
+<section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
+ <div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block ">
+      <h2>HISP Profiles</h2>
+  </div>
+</div>
+<div class="usa-grid">
+    {% for hisp in site.data.hisps %}
+    <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
+      <div style="height:250px;text-align:center;">
+        <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}"><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
+        <p style="font-size:.8em;"> {{ hisp.bureau}}</p></a>
+          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.department }}</p>
+     </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="usa-section usa-graphic_list">
+
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole usa-media_block">
+      <a name="highlights"></a><h2>HISP Highlights</h2>
+    </div>
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Innovation</h2>
+        <p><b>US Patent & Trademark Office</b><br>
+        Handled over <a href="https://www.uspto.gov/sites/default/ﬁles/docu-
+ments/USPTOFY18PAR.pdf">800,000 calls</a> issuing over <a href="https://www.uspto.gov/about-us/performance-and-plan-ning/uspto-annual-reports">707,000 trademarks and patents</a> to further American innovation.</p>
+        <p><b><a href="https://www.sba.gov/sites/default/ﬁles/aboutsbaarti-cle/2018_SBA_PAR_FINAL_1218_508.pdf">Small Business Administration Field Operations</a></b><br>
+        Provided more than $30 billion to small businesses, supporting 600,000 jobs.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Veterans</h2>
+        <p><b><a href="https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf">Veterans Health Administration</a></b><br>
+          Schedules 91% of appointments within 30 days, giving Veterans more timely access to healthcare.</p>
+        <p><b><a href="https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf">Veterans Benefits Administration</a></b><br>
+          Provide 5.2 million Veterans and survivors with compensation</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Land</h2>
+        <p><b><a href="https://www.fsa.usda.gov/about-fsa/structure-and-organiza-tion/index">Farm Service Agency</a></b><br>
+          <a href="https://www.fsa.usda.gov/about-fsa/structure-and-organiza-tion/index">Provided</a> $39.9 billion in credit to family operations, supporting Americans in agriculture..</p>
+        <p><b><a href="https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/down-load?cid=nrcseprd420806&ext=pdf">National Resources Conservation Service</a></b><br>
+          Awarded 158,000 landowners contracts for conservation efforts.</p>
+        <p><b><a href="https://www.fws.gov/budget/2019/FY2019%20FWS%20Bud-get%20Justification.pdf">Trust Beneficiary Call Center Office of the Special Trustee for American Indians</a></b><br>
+          Appraised 717,062 acres of land for Land Buy-Back Program.</p>
+      </div>
+
+    </div>
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Employment</h2>
+        <p>US Patent & Trademark Office<br>
+        Handled over 800,000 calls issuingover 707,000 trademarks andpatents to further American innovation.</p>
+        <p>Small Business Administration Field Operations<br>
+        Provided more than $30 billion to small businesses, supporting 600,000 jobs.</p>
+        <p><a href="https://www.usajobs.gov/Help/About/">Federal Employment Services</a><br>
+        More than 10 million job seekers have created an account on USAJobs</p>
+        <p><a href="https://www.opm.gov/about-us/budget-performance/perfor-mance/2017-annual-performance-report.pdf">Retirement Services</a><br>
+        Provide timely services and benefits for over <a href="https://www.opm.gov/about-us/budget-performance/budgets/-congressional-budget-justification-fy2019.pdf">2.6 million Federal retirees</a>.</p>
+        <p><a href="https://www.irs.gov/pub/irs-pdf/p3744.pdf">Internal Revenue Service</a><br>
+        Issues over $400 billion in tax refunds, putting money back into Americans’ pockets.</p>
+        <p><a href="https://www.dol.gov/owcp/AnnualReportOWCP-FY201320142015.pdf">Office of Worker Compensation Programs</a><br>
+        Supports 227,000 beneficiaries who became ill or injured on the job.</p>
+        <p><a href="https://www.dol.gov/sites/dolgov/ﬁles/legacy-ﬁles/-FY2018BIB_0.pdf">Occupational Health & Safety Administration</a><br>
+        Supports the safety of <a href="https://www.dol.gov/sites/dolgov/ﬁles/legacy-ﬁles/C-BJ-2018-V1-01.pdf">130 million</a> workers employed across 8 million worksites.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Recreation & Travel</h2>
+        <p>Bureau of Consular Affairs<br>
+          Issues more than 20 million passports annually and enabled visitors to contribute $251 billion to the US economy in 2017 alone.</p>
+          <p>Transportation & Security Administration<br>
+          Improve safety for 2.6 million passengers across 43,000 flights each day.</p>
+          <p>US Fish & Wildlife Services<br>
+            Supported 54 million visitors across 556 National Wildlife Refuges in 2017.</p>
+            <p>Recreation.gov<br>
+            Makes it easier for Americans to plan visits to over 3,500 camp sites and tours across the nation.</p>
+        </div>
+    </div>
+
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Health</h2>
+        <p>Centers for Medicare & Medicaid Services<br>
+         Improve access to healthcare with 11.4 million marketplace enrollments and 34.4 million Medicare members</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Housing</h2>
+        <p>FHS Single Family Loans Resources Center2<br>
+        Supported over 1.3 million low-income families in securing housing.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Security & Immigration</h2>
+        <p>Federal Emergency Management Agency<br>
+        Provided over $100 billion in financial assistance to help citizens, towns, and cities after natural disasters.</p>
+        <p>US Customs & Border Protection<br>
+        Safeguard 7,000 miles of land border with 328 ports of entry.</p>
+        <p>Citizenship & Immigration Services<br>
+        Adjudicate 26,000 requests for resident, employment, and citizenship benefits daily.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Social Security</h2>
+        <p>Social Security Administration<br>
+        Provide over $1 trillion in benefits to approximately 64 million Americans.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Educations</h2>
+        <p>Federal Student Aid<br>
+        Provided $150 billion in financial aid to assist nearly 13 million students in furthering their education.</p>
+      </div>
+
+  </div>
+
+</section>
+
+<section class="usa-section usa-graphic_list" style="background-color:#205493;color:#ffffff;">
+ <div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block">
+   <h2>News</h2>
+   {% for post in site.tags[page.tag] limit:2 %}
+   {% if page.tag %}
+      <hr>
+      <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ project.date | date: '%B %d, %Y' }}</p>
+        <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ project.permalink }}">
+          <h3 style="margin-top:5px;">{{ project.title }}</h3>
+        </a>
+        <p>{{ project.description}}</p>
+        {% endif %}
+
+      {% endfor %}
+
+  </div>
+  <p><b><a style="color:white;" href="{{ site.baseurl }}/CAP/cx/"> &#10094; &nbsp; Back to CX Cap Goal</a></b></p>
+ </div
+</section>
