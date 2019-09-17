@@ -8,7 +8,7 @@ agency_dir: cx
   <div class="usa-grid usa-graphic_list-row">
     <p><b><a style="text-decoration:none;"href="{{ site.baseurl }}/CAP/cx/"> &#10094; &nbsp; Back to CX Cap Goal</a></b></p>
     <div class="usa-width-one-whole usa-media_block">
-      <h1>Meet 25 of the nation’s highest impact service provider</h1>
+      <h1>Meet 25 of the nation’s highest impact service providers</h1>
       <h2 style="color:white;margin-top:0">We’re working to transform the way government serves the public</h2>
       <a class="usa-button usa-button-secondary " href="{{ site.baseurl }}/CAP/cx/">CX CAP Goal and Resources</a><!--Read the latest news here-->
 
@@ -36,15 +36,15 @@ agency_dir: cx
 <section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
  <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block ">
-      <h2>Learn more about a HISP</h2>
+      <h2>HISP Profiles</h2>
   </div>
 </div>
 <div class="usa-grid">
     {% for hisp in site.data.hisps %}
     <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
       <div style="height:250px;text-align:center;">
-        <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
-        <p style="font-size:.8em;"> <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.bureau}}</a></p>
+        <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}"><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
+        <p style="font-size:.8em;"> {{ hisp.bureau}}</p></a>
           <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.department }}</p>
      </div>
     </div>
@@ -159,14 +159,18 @@ ments/USPTOFY18PAR.pdf">800,000 calls</a> issuing over <a href="https://www.uspt
  <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
    <h2>News</h2>
-   {% for project in site.posts limit:2 %}
+   {% for post in site.tags[page.tag] limit:2 %}
+   {% if page.tag %}
       <hr>
       <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ project.date | date: '%B %d, %Y' }}</p>
         <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ project.permalink }}">
           <h3 style="margin-top:5px;">{{ project.title }}</h3>
         </a>
         <p>{{ project.description}}</p>
+        {% endif %}
+
       {% endfor %}
+
   </div>
   <p><b><a style="color:white;" href="{{ site.baseurl }}/CAP/cx/"> &#10094; &nbsp; Back to CX Cap Goal</a></b></p>
  </div
