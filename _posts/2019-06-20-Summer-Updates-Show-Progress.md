@@ -3,7 +3,7 @@ layout: post
 
 title: "Summer Updates Show Progress on Cross-Agency and Agency Priority Goals "
 
-rating: "1"
+rating: "0"
 
 permalink: /Summer-Updates-Show-Progress/
 
@@ -18,7 +18,7 @@ excerpt: Today, teams tasked with implementing the Federal government’s high-p
 
 
 image: "/img/blog/june-quarterly-update.jpg"
-image_accessibility: Photo of cars driving over a bridge. 
+image_accessibility: Photo of cars driving over a bridge.
 
 authors:
 - Performance.gov Team
