@@ -17,7 +17,7 @@ description: Today, teams tasked with implementing the Federal government’s hi
 excerpt: Today, teams tasked with implementing the Federal government’s high-priority initiatives released their September 2019 progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs).
 
 
-image: "/img/blog/june-quarterly-update.jpg"
+image: "/img/blog/progress-update-construction.png"
 image_accessibility: Photo of cars driving over a bridge.
 
 authors:

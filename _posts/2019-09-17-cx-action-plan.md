@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "First High Impact Service Provider Action Plans Released"
+title: "NEW: First High Impact Service Provider (HISP) Action Plans Released"
 
 rating: "0"
 
@@ -17,7 +17,7 @@ description: In 2018, OMB Circular A-11 Section 280 guidance required the identi
 excerpt: In 2018, OMB Circular A-11 Section 280 guidance required the identified High Impact Service Providers (HISPs) to create an annual customer experience (CX) Action Plan. The CX CAP Goal team spent much of FY19 working with HISPs, providing direction and training to enable successful completion of the Plans.
 
 
-image: "/img/blog/june-quarterly-update.jpg"
+image: "/img/blog/cx-fda.jpg"
 image_accessibility:
 
 authors:
