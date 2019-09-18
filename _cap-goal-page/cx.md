@@ -11,10 +11,10 @@ redirect_from: "/CAP/CAP_goal_4.html"
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
 
 resource-2-name: 2019 CX Action Plan Summary
-resource-2-url:
+resource-2-url: https://www.performance.gov/CX-HISP-Action-Plans
 
 resource-3-name: 2019 State of Government-wide CX
-resource-3-url:
+resource-3-url: https://www.performance.gov/improving-cx-governmentwide
 
 resource-4-name: HISP Highlights
 resource-4-url: https://www.performance.gov/cx/HISP-placemat.pdf
