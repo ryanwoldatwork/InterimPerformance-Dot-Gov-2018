@@ -26,7 +26,7 @@ resource-4-url:  https://www.cio.gov/reskilling/
 quote: "2019 is going to be a great year for citizen and mission results delivered through enabling technology advances." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/june_2019_IT_Modernization.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -37,6 +37,7 @@ challenge: "The challenge includes: limited accountability for achieving enterpr
 opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs." #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_IT_Modernization.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_IT_Modernization.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_IT_Modernization.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_IT_Modernization.pdf"

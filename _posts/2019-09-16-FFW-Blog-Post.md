@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "Fed Fashion Week: Runway Recap"
 
-rating: "1"
+rating: "0"
 
 permalink: /FFW-Runway-Recap/
 

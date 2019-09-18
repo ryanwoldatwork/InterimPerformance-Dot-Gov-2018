@@ -27,14 +27,24 @@ layout: navigation_PMA
         {% include {{ page.listserv-include }}.html %}
     {% endif %}
 
+    {% if page.title == "Improving Customer Experience with Federal Services" %}
+      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="{{ site.baseurl }}/cx/">HISP Profiles</a>
+    {% endif %}
+
+
     </div>
     <div class="usa-width-one-third usa-media_block">
       <!--<a href="{{ site.baseurl }}{{ page.next-page-url }}" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
          <b> CAP Goal: {{ page.next-cap-goal-name }}&nbsp;&#10095;</b></a>-->
         <div class="cap-box" style="margin-top:30px;">
           <div id="top">
+          {% if page.title == "Improving Customer Experience with Federal Services" %}
+            <p style="margin-bottom5px;">Explore 25 of the nation’s highest impact service providers (HISPs)</p>
+            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}/cx/" target="_blank"><b>Learn more</b></a>
+          {% else %}
             <p>Download the latest Action Plan and Progress Update</p>
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}" target="_blank"><b>Download</b></a>
+          {% endif %}
             </div>
           <div id="bottom">
             <blockquote-CAP>
@@ -101,8 +111,8 @@ blockquote-CAP cite {
 
     {% if page.goal-leader-2-name %}
         <div class="usa-width-one-sixth " style="margin-right:50px;">
-
-          <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }}</b><br>{{ page.goal-leader-2-title }}</p></center>
+           <center><img id="cap-goal-headshot" src="{{ site.baseurl }}{{ page.goal-leader-2-photo }}" alt="{{ page.alt_text_2}}">
+           <p class ="auto" style="font-size:1.3rem"><b><i>Goal Leader:</i><br> {{ page.goal-leader-2-name }}</b><br>{{ page.goal-leader-2-title }}</p></center>
        </div>
      {% endif %}
      {% if page.goal-leader-3-name %}
@@ -239,6 +249,8 @@ blockquote-CAP cite {
       <div class="usa-grid usa-graphic_list-row">
         {% if page.action-2019-june %}
         <div class="usa-width-one-half usa-media_block">
+          <p><a href="{{ site.baseurl }}{{ page.action-2019-september }}" target="_blank"><b>Download the September 2019 Action Plan</b></a>
+          </p>
             <p><a href="{{ site.baseurl }}{{ page.action-2019-june }}" target="_blank"><b>Download the June 2019 Action Plan</b></a>
             </p>
          </div>
@@ -256,16 +268,41 @@ blockquote-CAP cite {
          </div>
           </div>
         </li>
+
+      {% if page.title == "Improving Customer Experience with Federal Services" %}
+      <li>
+        <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+          aria-expanded="false"
+          aria-controls="a5">
+          <img class="usa-media_block-img" src="{{ site.baseurl }}/img/toolkit.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Agency Toolkit (A-11 Section 280 Resources)
+        </button>
+      <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+      <div class="usa-grid usa-graphic_list-row">
+        <div class="usa-width-one-half usa-media_block">
+          <p><a href="{{ site.baseurl }}/cx/a11-280.pdf" target="_blank"><b>A-11 Section 280</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/" target="_blank"><b>HISP List</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/A11-Companion-CX-Metrics-2019.pdf" target="_blank"><b>CX Metrics</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/CX-Feedback-Data-Submission.xlsx" target="_blank"><b>CX Feedback Data Submission Template</b></a></p>
+        </div>
+        <div class="usa-width-one-half usa-media_block">
+          <p><a href="{{ site.baseurl }}/cx/A11-Companion-CX-Self-Assessment-2019.pdf"  target="_blank"><b>CX Self-Assessment</b></a></p>
+          <p><a href="{{ site.baseurl }}/cx/CXActionPlanTemplate.pptx" target="_blank"><b> CX Action Plan Template</b></a></p>
+          <p><a href=" https://community.max.gov/x/cQDMVw" target="_blank"><b>OMB MAX CX Site</b></a></p>
+       </div>
+     </div>
+     </li>
+    {% endif %}
+
         {% if page.KPI %}
         <li>
 
           <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
-            aria-controls="a5">
+            aria-controls="a6">
               <img class="usa-media_block-img" src="{{ site.baseurl }}/img/kpi-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Key Performance Indicators (KPI)
           </button>
         </a>
-          <div id="a5" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+          <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
               <div class="usa-width-one-half usa-media_block">
                 {% include kpi--cap-page.html title=page.KPI %}
@@ -281,30 +318,30 @@ blockquote-CAP cite {
           <li>
           <button class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
-            aria-controls="a6">
+            aria-controls="a7">
             <img class="usa-media_block-img" src="{{ site.baseurl }}/img/resources.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Resources
           </button>
-          <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+          <div id="a7" class="usa-accordion-content" style="background-color:#f1f1f1;">
            {% if page.resource-2-name %}
-                 <p><a target="_blank" href="{{ page.resource-2-url }}">{{ page.resource-2-name }}</a></p>
+                 <p><a target="_blank" href="{{ page.resource-2-url }}"><b>{{ page.resource-2-name }}</b></a></p>
            {% endif %}
            {% if page.resource-3-name %}
-                <p><a target="_blank" href="{{ page.resource-3-url }}">{{ page.resource-3-name }}</a></p>
+                <p><a target="_blank" href="{{ page.resource-3-url }}"><b>{{ page.resource-3-name }}</b></a></p>
            {% endif %}
            {% if page.resource-4-name %}
-                <p><a target="_blank" href="{{ page.resource-4-url }}">{{ page.resource-4-name }}</a></p>
+                <p><a target="_blank" href="{{ page.resource-4-url }}"><b>{{ page.resource-4-name }}</b></a></p>
            {% endif %}
            {% if page.resource-5-name %}
-                 <p><a target="_blank" href="{{ page.resource-5-url }}">{{ page.resource-5-name }}</a></p>
+                 <p><a target="_blank" href="{{ page.resource-5-url }}"><b>{{ page.resource-5-name }}</b></a></p>
            {% endif %}
            {% if page.resource-6-name %}
-                 <p><a target="_blank" href="{{ page.resource-6-url }}">{{ page.resource-6-name }}</a></p>
+                 <p><a target="_blank" href="{{ page.resource-6-url }}"><b>{{ page.resource-6-name }}</b></a></p>
            {% endif %}
            {% if page.resource-7-name %}
-                 <p><a target="_blank" href="{{ page.resource-7-url }}">{{ page.resource-7-name }}</a></p>
+                 <p><a target="_blank" href="{{ page.resource-7-url }}"><b>{{ page.resource-7-name }}</b></a></p>
            {% endif %}
            {% if page.resource-8-name %}
-                 <p><a target="_blank" href="{{ page.resource-8-url }}">{{ page.resource-8-name }}</a></p>
+                 <p><a target="_blank" href="{{ page.resource-8-url }}"><b>{{ page.resource-8-name }}</b></a></p>
            {% endif %}
           </div>
         </li>
@@ -313,10 +350,10 @@ blockquote-CAP cite {
 
           <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
-            aria-controls="a7">
+            aria-controls="a8">
               <img class="usa-media_block-img" src="{{ site.baseurl }}/img/innovation.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Innovation Exchange Sessions
           </button>
-            <div id="a7" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+            <div id="a8" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
               <div class="usa-width-one-whole usa-media_block">
                 <p>You are the experts!  Join us for these monthly sessions to learn about exciting new ideas and approaches to grants management from fellow practitioners.  Join our Community to stay informed of future topics. Have an innovation you would like to share? Please email <a href="mailto:GrantsTeam@omb.eop.gov">GrantsTeam@omb.eop.gov</a>.</p>
