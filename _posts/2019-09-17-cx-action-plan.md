@@ -18,7 +18,7 @@ excerpt: In 2018, OMB Circular A-11 Section 280 guidance required the identified
 
 
 image: "/img/blog/cx-fda.jpg"
-image_accessibility:
+image_accessibility: An FDA federal employee is assisting a farmer access information on a mobile device.
 
 authors:
 - Performance.gov Team
