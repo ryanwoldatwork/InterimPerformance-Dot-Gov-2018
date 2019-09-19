@@ -26,7 +26,7 @@ agency_dir: cx
 
     </div>
     <div class="usa-width-one-half usa-media_block">
-        <img src="{{ site.baseurl }}/img/cx/300ppi/gears.png" alt="Gears seal" style="height:350px; align:center;">
+        <img src="{{ site.baseurl }}/img/cx/300ppi/Asset 1_1.png" alt="Gears seal" style="height:350px; align:center;">
     </div>
 
 </div>
@@ -41,24 +41,16 @@ agency_dir: cx
 </div>
 <div class="usa-grid">
     {% for hisp in site.data.hisps %}
-    {% if hisp.department_abbreviation == 'hhs' %}
-    <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-      <div style="height:250px;text-align:center;">
-        <!--<a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">--><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
-        <p style="font-size:.8em;">{{ hisp.department }}</p>
-          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.service }}<br>
-          <em>Forthcoming</em></p>
-     </div>
-    </div>
-    {% else %}
+
+
     <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
       <div style="height:250px;text-align:center;">
         <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}"><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
-        <p style="font-size:.8em;">{{ hisp.department }}</p></a>
-          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.service }}</p>
+        <p style="font-size:.8em;">{{ hisp.department }}</p>
+          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.service }}</p></a>
      </div>
     </div>
-    {% endif %}
+
     {% endfor %}
   </div>
 </section>
