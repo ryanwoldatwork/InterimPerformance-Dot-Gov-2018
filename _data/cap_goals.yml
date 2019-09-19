@@ -2,7 +2,7 @@
   updated: (Updated September 2019)
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7861
   pdf_url: /CAP/KPI_Cybersecurity_FY2018_Q2.pdf
-  img: /CAP/Cyber_Security.png
+  img: /CAP/KPI/cybersecurity-image.JPG
   url: /CAP/it-mod/
   name: IT Modernization
   CAP-url: /CAP/it-mod/
@@ -36,7 +36,7 @@
   updated: (Updated September 2019)
   kpi_url:  https://d2d.gsa.gov/tableau-report-for-embed/7864
   pdf_url: /CAP/Customer_Satisfaction_Scores.pdf
-  img: /CAP/Customer_Satisfaction_Scores.png
+  img: /CAP/KPI/customer-satisfaction-image.JPG
   url: /CAP/sharing-quality-services/
   name: Sharing Quality Services
   CAP-url: /CAP/sharing-quality-services/
@@ -47,7 +47,7 @@
   updated: (Updated September 2019)
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7867
   pdf_url: /CAP/Improper_Payments.pdf
-  img: /CAP/Improper_payments.png
+  img: /CAP/KPI/cash-loss-image.JPG
   url: /CAP/getting-payments-right/
   name: Getting Payments Right
   CAP-url: /CAP/getting-payments-right/
@@ -59,7 +59,7 @@
   updated: (Updated September 2019)
   kpi_url: https://d2d.gsa.gov/tableau-report-for-embed/7863
   pdf_url: /CAP/KPI_Cloud_Email_Adoption_Q3.pdf
-  img: /CAP/Email_Cloud_Adoption_capture.png
+  img: /CAP/KPI/cloud-email.JPG
   url: /CAP/it-mod/
   name: IT Modernization
   CAP-url: /CAP/it-mod/
