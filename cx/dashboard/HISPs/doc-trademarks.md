@@ -12,14 +12,14 @@ hisp_profile_headline: "Actively processing more than 600,000 trademark applicat
 
 ### FY19 Q2 - Site volume www.uspto.gov on desktop browsers
 
-|                | January   | February  | Subtotal  |
+|                | January   | February  | Total  |
 |----------------|-----------|-----------|-----------|
 | Website volume | 1,600,935 | 1,184,625 | 2,785,560 |
 | New users      | 1,348,888 | 915,836   | 2,264,724 |
 
 ### FY19 Q2 - Site volume www.uspto.gov on mobile devices
 
-|                | January | February | Subtotal |
+|                | January | February | Total |
 |----------------|---------|----------|----------|
 | Website volume | 293,108 | 266,174  | 559,282  |
 | New users      | 253,575 | 226,851  | 480,426  |
