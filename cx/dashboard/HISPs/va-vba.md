@@ -4,7 +4,7 @@ permalink: /cx/dashboard/va/vba/
 hisp_service_id: va-vba
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "In 2018, 893,725 beneficiaries received education benefits"
+hisp_profile_headline: "893,725 beneficiaries received education benefits in 2018"
 ---
 
 ## Operational Data
@@ -15,7 +15,7 @@ The Education Call Center (ECC) delivers benefits and services to Veterans acros
 
 |                |  FY 2018  |
 |----------------|-----------|
-| Calls answered | 2,463,786 | 
+| Calls answered | 2,463,786 |
 
 ### Q2 - National Call Center
 
@@ -23,4 +23,4 @@ VBA continues to modernize its National Call Center (NCC) model at all 8 sites (
 
 |                |  FY 2018  |
 |----------------|-----------|
-| Calls answered | 6,233,058 | 
+| Calls answered | 6,233,058 |
