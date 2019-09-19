@@ -100,7 +100,11 @@ layout: base
                 <h2 class="cx-section-heading">Supporting Documents</h2>
               <ul>
                 <li>
+                  {% if this_hisp.service_id contains 'hhs' %}
+                  Action Plan Forthcoming
+                  {% else %}
                   <a href="{{ site.baseurl }}/cx/dashboard/actionplans/2019/2019-hisp-action-plan-{{ this_hisp.service_id }}.pdf">FY20 Action Plan</a>
+                  {% endif %}
                 </li>
                </ul>
 
