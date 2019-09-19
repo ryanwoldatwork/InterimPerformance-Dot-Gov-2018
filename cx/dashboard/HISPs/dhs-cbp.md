@@ -12,7 +12,7 @@ hisp_profile_headline: "24/7 resouce that supports more than 450,000 communicati
 
 ### FY19 Q1 Operational Data
 
-Traveler Communication Levels
+Traveler Communication Inquiry Volumes by Mode and Program
 
 |                               | EVUS  |       | ESTA   |       | I-94  |       | TTP/Other |       | Imminent Travel | Totals |
 |-------------------------------|-------|-------|--------|-------|-------|-------|-----------|-------|-----------------|--------|
@@ -26,7 +26,7 @@ Traveler Communication Levels
 
 ### FY19 Q2 Operational Data
 
-Traveler Communication Levels
+Traveler Communication Inquiry Volumes by Mode and Program
 
 |                               | EVUS   |       | ESTA   |        | I-94  |       | TTP/Other |       | Imminent Travel | Totals  |
 |-------------------------------|--------|-------|--------|--------|-------|-------|-----------|-------|-----------------|---------|
@@ -38,8 +38,8 @@ Traveler Communication Levels
 | Totals by Program             | 10,945 |       | 46,364 |        | 8783  |       | 54,704    |       | 2012            |         |
 
 
-<b>Key</b>
-EVUS: New Electronic Visa Update System
-ESTA: Electronic System for Travel Authorization
-TTP: Trusted Traveler Programs
+<b>Key</b></br>
+EVUS: New Electronic Visa Update System</br>
+ESTA: Electronic System for Travel Authorization</br>
+TTP: Trusted Traveler Programs</br>
 
