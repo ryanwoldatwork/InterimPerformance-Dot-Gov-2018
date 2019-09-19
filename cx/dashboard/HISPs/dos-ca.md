@@ -14,8 +14,9 @@ hisp_profile_headline: "Issues more than 20 million passports annually and enabl
 
 Passport Services exceeded its published service commitment of 4-6 weeks for routine service and 2-3 weeks for expedited service.
 
-| Average number of days for routine service:   | 6.48 business days |
+| Service   | Processing Time |
 |-----------------------------------------------|------|
+| Average number of days for routine service:   | 6.48 business days |
 | Average number of days for expedited service: | 2.83 business days |
 
 ### Contact Centers
@@ -31,8 +32,9 @@ Call answer rate of 98.9% within 2 minutes.
 
 Passport Services exceeded its published service commitment of 4-6 weeks for routine service and 2-3 weeks for expedited service.
 
+| Service   | Processing Time |
+|-----------------------------------------------|------|
 | Average number of days for routine service:   | 9.77 business days          |
-|-----------------------------------------------|----------------------------------------------------|
 | Average number of days for expedited service: | 3.15 business days |
 
 ### Contact Centers
