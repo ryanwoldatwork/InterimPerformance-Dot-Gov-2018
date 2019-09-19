@@ -21,6 +21,7 @@ hisp_profile_headline: "Improving access to healthcare with 11.4 million marketp
 #### Website
 
 | Users for Q1 FY19 (Oct 1-Dec 31, 2018)    | 18,668,968 (Users)      |
+|----------------------------------------------|-----------|
 | Pageviews Q1 FY19 (Oct 1-Dec 31, 2018) | 1,233,553,458 (Pageviews) |
 
 
@@ -28,10 +29,12 @@ hisp_profile_headline: "Improving access to healthcare with 11.4 million marketp
 #### Call Center
 
 | Call Volume for Q2 FY19 (Jan 1-March 31, 2019) | 5,262,265 |
+|----------------------------------------------|-----------|
 | Handle Time for Q2 FY19 (Jan 1-March 31, 2019) | 12:43     |
 | Wait Time for Q2 FY19 (Jan 1-March 31, 2019)   | 3:21      |
 
 #### Website
 
 | Users for Q2 FY19 (Jan 1-March 31, 2019)    | 11,382,085 (Users)      |
+|----------------------------------------------|-----------|
 | Pageviews for Q2 FY19 (Jan 1-March 31, 2019) | 418,034,283 (Pageviews) |
