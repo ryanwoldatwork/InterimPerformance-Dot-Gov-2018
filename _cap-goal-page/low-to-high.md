@@ -37,7 +37,7 @@ resource-6-url: https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf
 quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
@@ -49,6 +49,7 @@ challenge: "Too often, requirements persist over time despite changes to the cir
 opportunity: "A Federal Government that shifts time, effort, and funding from burdensome requirements to high value work will:   improve the return on investment of central-management guidance to Federal agencies; reduce compliance requirements for Federal agencies; work with Congress to eliminate outdated legislative reporting requirements for Federal agencies; and reduce unnecessary costs and compliance requirements within individual agencies. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Shifting_From_Low-Value_to_High-Value_Work.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Shifting_From_Low-Value_to_High-Value_Work.pdf"
@@ -67,9 +68,9 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "low-to-high" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: President's Management Council Meeting
-CAP-event-date: July 11, 2019
-CAP-event-text: This PMC meeting will focus on burden reduction.
+CAP-event-title:
+CAP-event-date:
+CAP-event-text: 
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************

@@ -29,7 +29,7 @@ resource-4-url: https://hallways.cap.gsa.gov/app/#/gateway/category-management/6
 quote:  "Category Management is a real game-changer for government acquisition, and it's an exciting time to be a part of this effort." #appears in the gray text box
 quote-author: "Lesley Field, CAP Goal Leader"
 font-size: 19px
-current-action-plan: "/CAP/action_plans/june_2019_Category_Management.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Category_Management.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -44,6 +44,7 @@ Hundreds—and in some cases thousands—of duplicative contracts are awarded to
 opportunity: "Success means the Government will not only save taxpayer dollars but will improve mission outcomes. For example, this work will allow:  our law enforcement personnel to ensure their safety through easy access to equipment such as ammunition and body armor; medical professionals to save time and focus more on patients by ordering pharmaceuticals through electronic catalogues; agencies to more easily prioritize modernizing the Government’s IT infrastructure, to include efforts such as buying standardized computers; and the goal will be evaluated using industry best practice metrics, including savings, spend through common contract solutions, reduction of duplicative contracts, small business utilization and training the workforce. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Category_Management.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Category_Management.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Category_Management.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Category_Management.pdf"
