@@ -21,7 +21,7 @@ image: "/img/blog/cx-fda.jpg"
 image_accessibility: An FDA federal employee is assisting a farmer access information on a mobile device.
 
 authors:
-- Performance.gov Team
+- CX Cap Goal Team
 
 tags:
 - CAP goal
@@ -38,7 +38,7 @@ In 2018, OMB Circular A-11 Section 280 guidance required the identified High Imp
 
 Today, we released the Action Plans on Performance.gov’s new [HISP Profile Pages](https://www.performance.gov/cx/), sharing each HISP’s progress and future plans with the public and increasing transparency and accountability for the Federal government’s most impactful service providers.
 
-Several common themes were apparent among the submitted HISP Action Plans. HISPs predominantly decided to focus on the areas of Measurement (31%) and Customer Research (25%). Organization and Culture was chosen by 19%, with Governance and Service Design trailing at 12% each. Many HISPs cited a lack of resources including funding and staffing as potential barriers to growing their CX maturity. Hiring of human centered design (HCD) talent was another challenge and many are focusing on HCD training for current staff in the upcoming year. There are a significant number of HISPs planning to expand and refine their survey mechanisms, voice of the customer programs and analytic activities. In this space, many cited support navigating the Paperwork Reduction Act (PRA) as a critical component of increasing maturity in the Measurement area.
+Several common themes were apparent among the submitted HISP Action Plans. HISPs predominantly decided to focus on the areas of Measurement (31%) and Customer Research (25%). Organization and Culture was chosen by 19%, with Governance and Service Design trailing at 12% each. Many HISPs cited a lack of resources including funding and staffing as potential barriers to growing their CX maturity. Hiring of human centered design (HCD) talent was another challenge and many are focusing on HCD training for current staff in the upcoming year. There are a significant number of HISPs planning to expand and refine their survey mechanisms, voice of the customer programs, and analytic activities. In this space, many cited support navigating the Paperwork Reduction Act (PRA) as a critical component of increasing maturity in the Measurement area.
 
 HISPs will be working on a number of planned actions in the coming fiscal year. Some examples include:
 - Consolidation of call centers, re-routing of phones, and streamlining processes (multiple)
