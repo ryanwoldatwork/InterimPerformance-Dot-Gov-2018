@@ -31,7 +31,7 @@ Site volume www.uspto.gov on mobile devices. Note: The population of customers s
 
 ### FY19 Q2 - Patents Contact Center
 
-Patents customer support via phone.  Total calls answered.
+Patents customer support volume via phone
 
 | Month    | IAC   | OID | OMBU | PCT   | PEBC   | PET   | AAU/PUBS | PATENTS TOTAL | USPTO TOTAL |
 |----------|-------|-----|------|-------|--------|-------|----------|---------------|-------------|
