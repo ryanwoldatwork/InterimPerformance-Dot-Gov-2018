@@ -10,7 +10,7 @@ hisp_profile_headline: "24/7 resouce that supports more than 450,000 communicati
 {:.cx-section-heading}
 ## Operational Data
 
-### Q1 Operational Data
+### FY19 Q1 Operational Data
 
 Traveler Communication Levels
 
@@ -24,7 +24,7 @@ Traveler Communication Levels
 | Totals by Program             | 10135 |       | 40119  |       | 10180 |       | 47728     |       | 1387            |        |
 
 
-### Q2 Operational Data
+### FY19 Q2 Operational Data
 
 Traveler Communication Levels
 
@@ -37,4 +37,9 @@ Traveler Communication Levels
 | Totals by Channel per Program | 9054   | 1891  | 26,758 | 19,606 | 371   | 8412  | 14830     | 39874 | 2012            | 122,808 |
 | Totals by Program             | 10,945 |       | 46,364 |        | 8783  |       | 54,704    |       | 2012            |         |
 
+
+<b>Key</b>
+EVUS: New Electronic Visa Update System
+ESTA: Electronic System for Travel Authorization
+TTP: Trusted Traveler Programs
 
