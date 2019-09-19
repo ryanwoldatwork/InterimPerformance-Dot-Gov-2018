@@ -68,9 +68,9 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "low-to-high" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: President's Management Council Meeting
-CAP-event-date: July 11, 2019
-CAP-event-text: This PMC meeting will focus on burden reduction.
+CAP-event-title:
+CAP-event-date:
+CAP-event-text: 
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
