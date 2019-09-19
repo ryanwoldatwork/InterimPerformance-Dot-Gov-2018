@@ -22,7 +22,6 @@ hisp_profile_headline: "FSA serves more than 42 million customers and has a lend
 | Touchpoint                   | Volume      |
 |------------------------------|-------------|
 | FAFSA applications submitted | 5.2 million  |
-|------------------------------|--------------|
 | FAFSA.gov visits             | 26.5 million |
 
 
