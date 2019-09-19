@@ -65,11 +65,11 @@ CAP-event-text:
 goal-leader-photo: "/img/CAP-photos/byrne-james.jpg"
 alt_text_1: Photo of James Byrne #Goal leader 1
 goal-leader-name: "James Byrne"
-goal-leader-title: "Acting Deputy Secretary, Department of Veterans Affairs"
+goal-leader-title: "Deputy Secretary, Department of Veterans Affairs"
 goal-leader-2-photo: "/img/CAP-photos/cutts-matt.jpg"
 alt_text_2: Photo of Matt Cutts #Goal leader 2
 goal-leader-2-name: "Matt Cutts"
-goal-leader-2-title: "Acting Administrator, U.S. Digital Service"
+goal-leader-2-title: "Administrator, U.S. Digital Service"
 goal-leader-3-photo: "/img/CAP-photos/brown-dustin.jpeg"
 alt_text_3: Photo of Dustin Brown #Goal leader 2
 goal-leader-3-name: "Dustin Brown"

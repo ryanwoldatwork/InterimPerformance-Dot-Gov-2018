@@ -71,7 +71,7 @@ Director, National Institute of Standards and Technology, U.S. Department of Com
 goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg"
 alt_text_2: Photo of Michael Kratsios  #Goal leader 2
 goal-leader-2-name: "Michael Kratsios"
-goal-leader-2-title: "Deputy Assistant to the President for Technology Policy, Office of Science and Technology Policy The White House"
+goal-leader-2-title: "Chief Technology Officer of the United States"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
