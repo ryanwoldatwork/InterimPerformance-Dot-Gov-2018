@@ -42,14 +42,14 @@ Total new applications filed by patent type:
 
 | Year     | Utility | Design | All  |      |
 |----------|---------|--------|------|------|
-| 2019     | 75747   | 7716   | "83  | 463" |
-| 2018     | 73059   | 8781   | "81  | 840" |
+| 2019     | 75,747   | 7,716   | 83  | 463 |
+| 2018     | 73,059   | 8,781   | 81  | 840 |
 | % change | 3.7%    | -12.1% | 1.9% |      |
 
 
 ### Q2 - Patents Contact Center
 
-Patents customer support via phone.  Total calls answered
+Patents customer support via phone.  Total calls answered.
 
 | Month    | IAC   | OID | OMBU | PCT   | PEBC   | PET   | AAU/PUBS | PATENTS TOTAL | USPTO TOTAL |
 |----------|-------|-----|------|-------|--------|-------|----------|---------------|-------------|
