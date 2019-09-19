@@ -4,7 +4,7 @@ permalink: /cx/dashboard/hud/fha/
 hisp_service_id: hud-fha
 layout: hisp
 logo_type: seal
-hisp_profile_headline: "Supported over 1.3 million low-income families in securing housing."
+hisp_profile_headline: "Supported over 1.3 million low-income families in securing housing"
 ---
 
 {:.cx-section-heading}
