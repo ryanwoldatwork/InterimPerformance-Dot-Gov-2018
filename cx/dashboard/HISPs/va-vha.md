@@ -20,7 +20,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 			<span class="survey-avg-score"> ⃠ No Data</span>
 		</div>
 	</div>
-	<div class="survey-question-description">No results were provided for this survey question</div>
+	<div class="survey-question-description">This survey question is currently fielded and expected in Q3</div>
 </div>
 
 <div class="survey-result-box">
@@ -111,7 +111,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 			<span class="survey-avg-score"> ⃠ No Data</span>
 		</div>
 	</div>
-	<div class="survey-question-description">No results were provided for this survey question</div>
+	<div class="survey-question-description">This survey question is currently fielded and expected in Q3</div>
 </div>
 
 <div class="survey-result-box">
