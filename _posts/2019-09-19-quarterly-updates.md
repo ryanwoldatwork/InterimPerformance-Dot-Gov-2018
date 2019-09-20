@@ -45,7 +45,7 @@ tags:
 - lab
 
 ---
-**September 19, 2019** - Today, we published updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) for the third quarter of FY 2019. These updates reflect strides made since our last update, and highlight recent milestones and performance accomplishments. In addition to the CAP Goal and APG progress updates, we’re excited to launch several new features on [Performance.gov](https://www.performance.gov/) that showcase cross-agency progress towards a more modern and effective government.
+**September 19, 2019** - Today, we published progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) that report on goal team performance through the third quarter of FY 2019, which ended on June 30th. These updates reflect strides made since our last update, and highlight recent milestones and performance accomplishments. In addition to the CAP Goal and APG progress updates, we’re excited to launch several new features on [Performance.gov](https://www.performance.gov/) that showcase cross-agency progress towards a more modern and effective government.
 
 **NEW: Customer Experience Pages**
 This quarter, for the first time, Federal agencies are sharing their plans to improve the way they serve their customers. The new [Federal Customer Experience page](https://www.performance.gov/cx/) connects the public to *CX feedback data*, *operational data*, and *digital analytics program data* to increase the transparency and accountability of 25 of the government’s High Impact Service Providers (HISPs). Learn more about the steps these programs are taking in our [HISP Highlights](https://www.performance.gov/cx/).
