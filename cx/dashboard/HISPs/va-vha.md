@@ -187,10 +187,11 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 	<div class="survey-question-description">Agreed "Employees I interacted with were helpful"</div>
 </div>
 
-| Volume of Customers during Performance Period:    | 4,282,563 |
+| Volume of Customers during Performance Period    | 4,282,563 |
 |---------------------------------------------------|-----------|
-| Volume of Customers provided survey opportunity:  | 1,236,483 |
-| Number of Respondents reflected in response data: | 377,268   |
+| Volume of Customers provided survey opportunity  | 1,236,483 |
+| Number of Respondents reflected in response data | 377,268   |
+| Response Rate | 31%   |
 
 {:.cx-section-heading}
 
