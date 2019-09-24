@@ -20,7 +20,7 @@ va-vba,FALSE,TRUE
 opm-fes,FALSE,TRUE
 opm-rs,FALSE,TRUE
 sba-fo,FALSE,TRUE
-ssa-oo,FALSE,TRUE
+ssa-oo,TRUE,FALSE
 usda-fsa,FALSE,TRUE
 usda-nrcs,FALSE,TRUE
 multi-rec,FALSE,TRUE
