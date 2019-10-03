@@ -3,7 +3,7 @@ layout: post
 
 title: "Agencies Establish Revised Strategic Plans and Agency Priority Goals with the President's FY 2019 Budget"
 
-permalink: /2018-02-12-agencies-establish-revised-strategic-plans-and-apgs-with-FY2018-budget.md/
+permalink: /2018-02-12-agencies-establish-revised-strategic-plans-and-apgs-with-FY2018-budget/
 
 url: /2018-02-12-agencies-establish-revised-strategic-plans-and-apgs-with-FY2018-budget.md
 
@@ -14,6 +14,7 @@ summary: summary_large_image
 excerpt: Federal agencies today published updated Strategic Plans spanning 2018-2022, and established Agency Priority Goals (APGs) to be achieved over the course of 2018-2019.
 
 image: "/img/homepage_images/newhero1.jpeg"
+image_accessibility: Photo of building columns against a blue sky with clouds. 
 
 authors:
 - Performance.gov Team
@@ -21,6 +22,22 @@ authors:
 tags:
 - strategic objectives
 - APG
+- IT
+- sharing
+- data
+- workforce
+- cx
+- low-to-high
+- cm
+- grants
+- payments
+- spending
+- acquisition
+- infrastructure
+- credentialing
+- lab
+
+
 
 ---
 

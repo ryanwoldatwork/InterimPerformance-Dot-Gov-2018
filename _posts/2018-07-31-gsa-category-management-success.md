@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "General Services Administration"
 
-permalink: /2018-07-31-gsa-category-management-success-story.md/
+permalink: /2018-07-31-gsa-category-management-success-story/
 
 url: /2018-07-31-gsa-category-management-success-story.md
 
@@ -25,6 +25,7 @@ tags:
 - GSA
 - CAP goal
 - success story
+- cm
 
 ---
 

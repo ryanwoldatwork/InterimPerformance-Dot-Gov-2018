@@ -7,7 +7,7 @@ rating:
 
 agency: Office of Management and Budget
 
-permalink: /2018-09-26-modernizing-the-infrastructure-permitting-process.md/
+permalink: /2018-09-26-modernizing-the-infrastructure-permitting-process/
 
 url: /2018-09-26-modernizing-the-infrastructure-permitting-process.md/
 
@@ -18,12 +18,14 @@ summary: summary_large_image
 excerpt: White House announces the appointment of a new Executive Director for the Federal Permitting Improvement Steering Council (Permitting Council).  
 
 image: "/img/blog/reform-smaller.png"
+image_accessibility: Picture of highway interchanges at night. 
 authors:
 - Performance.gov Team
 
 tags:
 - PMA
 - CAP goal
+- infrastructure
 ---
 
 The American people rely on infrastructure improvements to benefit our economy, society, and environment. However, the current environmental review and permitting process in the United States is fragmented, inefficient, unpredictable, and raises costs. The [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html) and the [Modernize Infrastructure Permitting Cross-Agency Priority Goal](https://www.performance.gov/CAP/CAP_goal_12.html) (CAP Goal) seek to provide consistent, coordinated, and predictable Federal environmental reviews and authorization processes and reduce the overall time it takes to make decisions for major infrastructure projects while also ensuring that potential impacts on the environment are considered and managed.  

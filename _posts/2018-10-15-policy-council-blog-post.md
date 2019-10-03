@@ -4,7 +4,7 @@ tumblr_url:
 
 title: "Agency Leaders Gather to Advance Program Management Improvement Initiatives"
 
-permalink: /2018-10-15-policy-council-blog-post.md/
+permalink: /2018-10-15-policy-council-blog-post/
 
 url: /2018-10-15-policy-council-blog-post.md
 
@@ -17,6 +17,7 @@ description: Agency Leaders Gather to Implement Improvement Initiatives
 excerpt: Agency leaders gather to implement program management improvement initiatives.
 
 image: /img/blog/PMPC-graphic.png
+image_accessibility: Program Management Policy Council logo against a blue bakground. 
 
 authors:
 - Performance.gov Team

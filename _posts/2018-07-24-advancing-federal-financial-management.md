@@ -3,7 +3,7 @@ layout: post
 
 title: "Advancing Federal Financial Management"
 
-permalink: /2018-07-24-advancing-federal-financial-management.md/
+permalink: /2018-07-24-advancing-federal-financial-management/
 
 url: /2018-07-24-advancing-federal-financial-management.md
 
@@ -20,6 +20,8 @@ excerpt: Cross-Agency Priority Goals are driving a 21st century approach to fede
 twitter-description: Cross-Agency Priority Goals are driving a 21st century approach to federal financial management.
 
 image: "/img/blog/20180726-agapdt-graphic.png"
+image_accessibility: Federal Financial Management logos.
+
 authors:
 - Performance.gov Team
 
@@ -28,6 +30,8 @@ tags:
 - CAP goal
 - event
 - OMB
+- sharing
+- payments
 ---
 
 <div class="usa-width-one-whole">
@@ -69,6 +73,9 @@ tags:
 <p><img src="../img/CAP_icons/Icon_Sharing_Quality.png" alt="CAP Goal Icon" align="left" width="100"><img src="../img/blog/20180726-agapdt-callout-sampanis.jpg" alt="Quote from Andrea Sampanis" align="right" hspace="10"><b><u>Overview:</u></b> The current approach to performing common administrative services in government (human resources, financial management, procurement, travel, and grants management) has resulted in massive duplication, fragmentation, and manual processes. For example, the federal government currently has more than 40 financial management systems and more than 1,900 separate contracts for financial management support. The absence of common business processes, insufficient investment funding, inconsistent delivery, and aging technology prevent economies of scale and take valuable time, energy and resources away from agency missions.</p>
 <p>The 10-year vision for streamlining administrative services laid out in the CAP goal will help agencies tackle these issues. Across government the transformation will drive cost efficiencies by leveraging common practices, maintaining fewer systems and consolidating and modernizing technology.</p>
 <p>Andrea Sampanis emphasized the role that governance and standards will play the success of this initiative and the progress the financial management community has made to date through the <a href="https://www.ussm.gov/fibf/" target="_blank">Federal Integrated Business Framework</a>.</p>
+
+<b>Note:</b> Since the publication of this blog post there have been updates to the Sharing Quality Services CAP Goal. Visit the <a href="https://www.performance.gov/CAP/CAP_goal_5.html" target="_blank">CAP Goal Page</a> to see the latest.
+
 
 <h2><a href="../CAP/CAP_goal_6.html">CAP Goal: Shifting from Low-Value to High-Value Work</a></h2>
 <p><img src="../img/CAP_icons/Icon_Shifting_From.png" alt="CAP Goal Icon" align="left" width="100">Alongside all of these CAP goal efforts, the Shifting from Low-Value to High-Value Work CAP Goal is promoting a streamlined and efficient approach. With this goal, the federal government is removing and replacing outdated and unnecessary policies that create unproductive burdens for federal agencies. This allows agencies to shift time, effort, and funding from burdensome requirements to work that promotes better financial management and use of taxpayer dollars. Through the President’s Management Agenda, this administration has already identified more than 400 time-wasting plans and reports that could be eliminated tomorrow and free up tens of thousands of work hours. GSA’s CFO Office is using process automation and other reforms to target more than 50,000 annualized hours and shift them to higher-value mission work performed by employees.</p>

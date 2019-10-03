@@ -7,7 +7,7 @@ rating: "0"
 
 agency: "Office of Management and Budget"
 
-permalink: /2018-08-06-GEAR-center-conference.md/
+permalink: /2018-08-06-GEAR-center-conference/
 
 url:  /2018-08-06-GEAR-center-conference.md
 
@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: Want to learn more about the GEAR Center? Join us for a virtual conference on 8/23 from 1:30-3:00 pm.
 
 image: "/img/blog/GEAR-center-blog-image.png"
+image_accessibility: GEAR Center Conference against blue background.
 authors:
 - Performance.gov Team
 

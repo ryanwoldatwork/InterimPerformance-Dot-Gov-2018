@@ -1,13 +1,13 @@
 ---
 layout: post
 
-title: "New Updates Showcase Progress on Cross-Agency Priority Goals and Agency Priority Goals"
+title: "New Updates Highlight Movement on Cross-Agency and Agency Priority Goals"
 
-rating: "1"
+rating: "0"
 
 agency:
 
-permalink: /2018-09-20-q3-quarterly-update.md/
+permalink: /2018-09-20-q3-quarterly-update/
 
 url: /2018-09-20-q3-quarterly-update.md/
 
@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: Cross-Agency and Agency Priority Goal teams today released the latest updates on the progress of high-priority federal initiatives.
 
 image: "/img/blog/FY18Q3-update.jpeg"
+image_accessibility: Photo of electrical machines creating new technology. 
 authors:
 - Performance.gov Team
 
@@ -27,6 +28,20 @@ tags:
 - APG
 - PMA
 - success story
+- IT
+- sharing
+- data
+- workforce
+- cx
+- low-to-high
+- cm
+- grants
+- payments
+- spending
+- acquisition
+- infrastructure
+- credentialing
+- lab
 ---
 As part of advancing the [President’s Management Agenda](../PMA/PMA.html), Cross-Agency Priority (CAP) Goal teams released the latest quarterly progress on these high-priority federal initiatives. Agencies also released progress updates on their own Agency Priority Goals. The CAP Goal updates showcase what teams have achieved to date, while the APG updates reflect progress through June 2018. All of the progress updates highlight upcoming milestones as teams continue to use these goals to advance mission, service, and stewardship on behalf of the American people.
 

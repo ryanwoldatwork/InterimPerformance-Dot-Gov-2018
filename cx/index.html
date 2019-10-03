@@ -1,32 +1,174 @@
 ---
 title: "CX CAP Goal Resources for Agencies"
-layout: navigation
+layout: navigation_PMA
 agency_dir: cx
-redirect_from: /CX/
 ---
 
-    <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-      <ul class="usa-sidenav-list">
-        <li>
-          <a class="usa-current" href="../cxresources/index.html">Customer Experience (CX) CAP Goal: Resources for Agencies</a>
+<section class="usa-section usa-section-dark usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
+    <p><b><a style="text-decoration:none;"href="{{ site.baseurl }}/CAP/cx/"> &#10094; &nbsp; Back to CX CAP Goal</a></b></p>
+    <div class="usa-width-one-whole usa-media_block">
+      <h1>Meet 25 of the nation’s highest impact service providers</h1>
+      <h2 style="color:white;margin-top:0">We’re working to transform the way government serves the public</h2>
+      <a class="usa-button usa-button-secondary " href="{{ site.baseurl }}/CAP/cx/">CX CAP Goal and Resources</a><!--Read the latest news here-->
 
-          </ul>
-    </aside>
-        <div class="usa-width-three-fourths usa-layout-docs-main_content">
-<h1>Overview</h1>
-<p>This page is intended to provide resources to support the development of CX strategies and activities across the government, as well as publicly available data on how high-impact services are serving Federal customers.</p>
-<h2>OMB Guidance: OMB Circular A-11, Section 280</h2>
-<p>Section 280 of OMB Circular A-11 provides guidance to Federal agencies on efforts to improve the Customer Experience of Federal programs. In particular, the guidance encourages more timely adoption of customer experience activities by designated High-Impact Service Providers.</p>
-            <p><a href="https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf">OMB Circular A-11</a></p>
-            <h2>High-Impact Service Providers</h2>
-<p>High-Impact Service Providers are those Federal entities designated by OMB that provide the most high-impact customer-facing services, either due to a large customer base or a high impact on those served by the program. A HISP is one that interacts with the public to provide a transactional service or perform a regulatory function in which time, money, or information is used to receive a good, service, or authorization. Below is a list of HISPs that will be reviewed and updated periodically by OMB.<p>
-            <p><a href="HISPList.pdf">List of HISPs</a></p>
+  </div>
+</div>
+</section>
 
-<h2>Getting Started</h2>
-<p>Below are two resources to help your organization apply the recommendations and standards from Section 280 to improve customer experience and service delivery. The maturity assessment, action plan, and sample survey will help you assess the current state of CX at your agency, develop a plan to build standard questions into your feedback program, and take steps toward building more customer-centered services.</p>
+<section class="usa-section usa-graphic_list">
+  <div class="usa-grid usa-graphic_list-row">
 
-<p><a href="A11-Companion-CX-Metrics.pdf" target="_blank">CX Metrics</a></p>
-<p><a href="A11-Companion-CX-Self-Assessment.pdf" target="_blank">CX Self Assessment</a></p>
-<p><a href="A11-Companion-Sample-CX-Survey-Card.pdf" target="_blank">Sample CX Survey Card</a></p>
+    <div class="usa-width-one-half usa-media_block">
+      <p>Despite some important strides to improve customer experience, many federal government services fail to meet the expectations of the public, creating unnecessary hassle and cost for citizens, businesses, and the government itself.</p>
+      <p>The Customer Experience Cross-Agency Priority Goal and OMB Circular A-11 Section 280 begin to raise the standard of service by first focusing on applying proven practices to High Impact Service Providers (HISPs). These 25 services across the Federal Government have been identified due to the scale and impact of their public-facing services.</p>
+      <a class="usa-button usa-button-secondary " href="#highlights">HISP Highlights</a>
+
+    </div>
+    <div class="usa-width-one-half usa-media_block">
+        <img src="{{ site.baseurl }}/img/cx/300ppi/Asset 1_1.png" alt="Gears seal" style="height:350px; align:center;">
+    </div>
 
 </div>
+</section>
+
+
+<section class="usa-section usa-graphic_list" style="background-color:#f1f1f1;">
+ <div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block ">
+      <h2>High Impact Service Providers (HISP) Profiles</h2>
+  </div>
+</div>
+<div class="usa-grid">
+    {% for hisp in site.data.hisps %}
+
+
+    <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
+      <div style="height:250px;text-align:center;">
+        <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}"><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
+        <p style="font-size:.8em;">{{ hisp.department }}</p>
+          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.service }}</p></a>
+     </div>
+    </div>
+
+    {% endfor %}
+  </div>
+</section>
+
+<section class="usa-section usa-graphic_list">
+
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-whole usa-media_block">
+      <a name="highlights"></a><h2>High Impact Service Providers (HISP) Highlights</h2>
+    </div>
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Innovation</h2>
+        <p><b><a href="https://www.uspto.gov/sites/default/files/documents/USPTOFY18PAR.pdf">Patent & Trademark Office</a>*</b><br>
+          In FY18, <a href="https://www.uspto.gov/sites/default/files/documents/Citizen_Centric_Report_FY18.pdf">issued 338,000 patents and 273,000 trademarks</a> including the 10 millionth patent.</p>
+        <p><b><a href="https://www.sba.gov/sites/default/files/aboutsbaarticle/2018_SBA_PAR_FINAL_1218_508.pdf">Small Business Administration</a></b><br>
+        Provided more than $30 billion to small businesses, supporting 600,000 jobs.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Veterans</h2>
+        <p><b><a href="https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf">Veterans Health Administration</a></b><br>
+          Provides care to 9.17 million enrollees in the VA healthcare system.</p>
+        <p><b><a href="https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf">Veterans Benefits Administration</a></b><br>
+          Provides 5.2 million Veterans and survivors with compensation or pension benefits.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Land</h2>
+        <p><b><a href="https://www.fsa.usda.gov/Assets/USDA-FSA-Public/usdafiles/AboutFSA/Impact/pdfs/impacts_booklet_web_view_fy2016.pdf">Farm Service Agency</a></b><br>
+          Provided $39.9 billion in credit to family operations, supporting Americans in agriculture.</p>
+        <p><b><a href="https://www.usda.gov/topics/conservation">Natural Resources Conservation Service</a></b><br>
+          Works with more than <a href="https://www.nrcs.usda.gov/Internet/NRCS_RCA/reports/cp_nat.html">500,000 farmers and ranchers</a> to implement conservation practices that help land to be more productive and profitable.</p>
+        <p><b><a href="https://www.doi.gov/ost/about_us/statistics-and-facts">Trust Beneficiary Call Center Office of the Special Trustee for American Indians</a></b><br>
+          57 million acres of subsurface minerals estates are held in a trust by the United States for American Indians, Indian tribes, and Alaska Natives.</p>
+      </div>
+      <p><em>* This office contains two High Impact Service Providers</em></p>
+    </div>
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Employment</h2>
+        <p><b><a href="https://www.usajobs.gov/Help/About/">Federal Employment Services</a></b><br>
+        More than 10 million job seekers have created an account on USAJobs.</p>
+        <p><b><a href="https://www.opm.gov/about-us/budget-performance/performance/2017-annual-performance-report.pdf">Retirement Services</a></b><br>
+          Provides timely services and benefits for over 2.6 million Federal retirees and survivors.</p>
+        <p><b><a href="https://www.irs.gov/pub/irs-pdf/p3744.pdf">Internal Revenue Service</a></b><br>
+          In FY17, processed 246 million federal tax returns and forms with a $2,862 average individual refund.</p>
+        <p><b><a href="https://www.dol.gov/owcp/AnnualReportOWCPFY201320142015.pdf">Office of Worker Compensation Programs</a></b><br>
+        Supports 227,000 beneficiaries who became ill or injured on the job.</p>
+        <p><b><a href="https://www.osha.gov/data/commonstats">Occupational Health & Safety Administration</a></b><br>
+          Conducted 32,020 inspections in 2018, working to make a difference in the lives of our nation's 130 million workers.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Recreation & Travel</h2>
+        <p><b><a href="https://travel.state.gov/content/travel/en/passports/after/passport-statistics.html">Bureau of Consular Affairs</a></b><br>
+          Issues more than 20 million passports annually, with over 137 million valid passports in circulation.</p>
+        <p><b><a href="https://tsa.gov/sites/default/files/resources/tsabythenumbers_factsheet.pdf">Transportation & Security Administration</a></b><br>
+          Screens more than 2 million passengers on more than 25,000 flights each day.</p>
+        <p><b><a href="https://www.fws.gov/budget/2019/FY2019%20FWS%20Budget%20Justification.pdf">Fish & Wildlife Services</a></b><br>
+          Supported 54 million visitors across 556 National Wildlife Refuges in 2017.</p>
+        <p><b><a href="https://www.doi.gov/ocl/recreationgov">Recreation.gov</a></b><br>
+          Makes it easier for Americans to plan visits to more than 3,200 individual facilities with more than 90,000 campsites.</p>
+        </div>
+    </div>
+
+    <div class="usa-width-one-third usa-media_block">
+      <div class="HISP-border">
+        <h2>Health</h2>
+        <p><b>Centers for Medicare & Medicaid Services*</b><br>
+         Serves more than <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMS-Fast-Facts/">60 million Medicare enrollees</a> and improves access to healthcare with <a href="https://www.cms.gov/newsroom/fact-sheets/early-2019-effectuated-enrollment-snapshot">10.6 million marketplace enrollments</a>.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Housing</h2>
+        <p><b><a href="https://www.hud.gov/program_offices/housing/fhahistory">Federal Housing Administration</a></b><br>
+          FHA has active insurance on over 8 million single family and almost 12,000 multifamily property mortgages.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Security & Immigration</h2>
+        <p><b><a href="https://www.fema.gov/media-library-data/1533052524696-b5137201a4614ade5e0129ef01cbf661/strat_plan.pdf">Federal Emergency Management Agency</a></b><br>
+          In 2017, supported 4.8 million calls, 2.3 million home inspections, and 5 million survivor registrations.</p>
+        <p><b><a href="https://www.cbp.gov/sites/default/files/documents/CBP-Vision-Strategy-2020.pdf">Customs & Border Protection</a></b><br>
+          Safeguards 7,000 miles of land border with 328 ports of entry</p>
+        <p><b><a href="https://www.uscis.gov/about-us/a-day-life-uscis">Citizenship & Immigration Services</a></b><br>
+          Adjudicates more than 26,000 requests for various immigration benefits daily.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Social Security</h2>
+        <p><b><a href="https://www.ssa.gov/news/press/factsheets/basicfact-alt.pdf">Social Security Administration</a></b><br>
+          Provides over $1 trillion in benefits to approximately 64 million Americans.</p>
+      </div>
+      <div class="HISP-border">
+        <h2>Education</h2>
+        <p><b><a href="https://studentaid.ed.gov/sa/sites/default/files/fsawg/datacenter/library/FY1519StrategicGoals12042015.pdf">Federal Student Aid</a></b><br>
+          Provided $150 billion in financial aid to assist nearly 13 million students in furthering their education.</p>
+      </div>
+
+  </div>
+
+</section>
+
+<section class="usa-section usa-graphic_list" style="background-color:#205493;color:#ffffff;">
+ <div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-whole usa-media_block">
+   <h2>News</h2>
+   {% for project in site.posts limit:2 %}
+   {% if project.tags contains 'cx'%}
+      <hr>
+      <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ project.date | date: '%B %d, %Y' }}</p>
+        <a style="color:#ffffff;text-decoration:none;" href="{{ site.baseurl }}{{ project.permalink }}">
+          <h3 style="margin-top:5px;">{{ project.title }}</h3>
+        </a>
+      <p>{{ project.description}}</p>
+    {% endif %}
+  {% endfor %}
+
+  </div>
+  <p><b><a style="color:white;" href="{{ site.baseurl }}/CAP/cx/"> &#10094; &nbsp; Back to CX CAP Goal</a></b></p>
+ </div
+</section>

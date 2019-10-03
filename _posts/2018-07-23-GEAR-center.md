@@ -3,7 +3,7 @@ layout: post
 
 title: "GEAR Center Seeks to Bring Bright Minds Together to Solve Government's Biggest Challenges"
 
-permalink: /2018-07-20-GEAR-center.md/
+permalink: /2018-07-20-GEAR-center/
 
 url: /2018-07-20-GEAR-center.md
 
@@ -16,6 +16,7 @@ excerpt: We are looking for ideas from the public, academics, experts, and indus
 twitter-description: We are looking for ideas from the public, academics, experts, and industry on how to improve mission delivery, citizen services, and stewardship of public resources.
 
 image: "/img/blog/gear-center-snip.JPG"
+image_accessibility: GEAR Center logo against a white background. Below the logo is a box of text with a summary of the proposal. 
 authors:
 - the Office of Management and Budget
 

@@ -7,7 +7,7 @@ rating: "0"
 
 agency:
 
-permalink: /2018-08-31-new-whldp-cohort.md/
+permalink: /2018-08-31-new-whldp-cohort/
 
 url: /2018-8-31-new-whldp-cohort.md
 
@@ -18,6 +18,7 @@ summary: summary_large_image
 excerpt: Over the past three years, the program has accelerated the development of 44 high-performing civil servants to help build the next cadre of leaders in the executive branch.
 
 image: "/img/blog/WHLDP-logo.png"
+image_accessibility: White House Leadership Development Program logo against blue background. 
 authors:
 - GSA Office of Shared Solutions and Performance Improvement
 

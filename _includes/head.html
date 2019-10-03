@@ -5,7 +5,26 @@
     <meta name"hello" content="hello world" />
     <meta content="text/html; charset=UTF-8" name="Content-Type" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
+
+
+{% if page.layout == "hisp" %}
+
+    {% for hisp in site.data.hisps %}
+    {% if hisp.service_id == page.hisp_service_id %}
+      {% assign this_hisp = hisp %}
+    {% endif %}
+    {% endfor %}
+
+    {% assign page_title = "" %}
+    {% capture page_title %}{{ this_hisp.service }} - {{ this_hisp.bureau }} - {{ this_hisp.department }}{% endcapture %}
+
+  
+{% else %}
+  {% assign page_title = page.title %}
+{% endif %}
+
+
+    <title>{{ page_title }} | {{ site.title }}</title>
     <!-- Update the link path to where your stylesheet file is located. For example: /path/to/your/assets/css/lib/uswds.min.css -->
     <!-- Performance.gov 2018 -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/uswds.css">

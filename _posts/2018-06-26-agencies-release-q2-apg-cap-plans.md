@@ -3,7 +3,7 @@ layout: post
 
 title: "Federal Agencies Release 2018 Quarter 2 Updates on Agency Priority Goal and Cross-Agency Priority Goal Progress"
 
-permalink: /2018-06-26-agencies-release-q2-apg-cap-plans.md/
+permalink: /2018-06-26-agencies-release-q2-apg-cap-plans/
 
 url: /2018-06-26-agencies-release-q2-apg-cap-plans.md
 
@@ -14,14 +14,31 @@ excerpt: Today Federal agencies released their Q2 progress updates on their curr
 summary: summary_large_image
 
 image: "/img/blog/rocket-smaller.jpg"
+image_accessibility: A spaceship launching into space. 
 
 authors:
 - Performance.gov Team
 
 tags:
-- APG
-- CAP goal
 - quarterly update
+- CAP goal
+- APG
+- PMA
+- success story
+- IT
+- sharing
+- data
+- workforce
+- cx
+- low-to-high
+- cm
+- grants
+- payments
+- spending
+- acquisition
+- infrastructure
+- credentialing
+- lab
 
 ---
 

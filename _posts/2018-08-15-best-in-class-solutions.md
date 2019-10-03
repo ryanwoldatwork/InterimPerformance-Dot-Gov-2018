@@ -7,7 +7,7 @@ rating: "0"
 
 agency:
 
-permalink: /2018-08-15-best-in-class-Solutions.md/
+permalink: /2018-08-15-best-in-class-Solutions/
 
 url: /2018-08-15-best-in-class-Solutions.md
 
@@ -18,12 +18,13 @@ summary: summary_large_image
 excerpt: New fact sheets now are available for more than 30 Best-in-Class solutions, highlighting their unique value for agencies.
 
 image: "/img/blog/best-in-class-logo.png"
+image_accessibility: Best in Class logo against grey background. 
 authors:
 - Performance.gov Team
 
 tags:
 - GSA
-
+- cm
 ---
 
 

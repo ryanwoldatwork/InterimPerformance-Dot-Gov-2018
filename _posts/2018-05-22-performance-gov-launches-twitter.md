@@ -3,7 +3,7 @@ layout: post
 
 title: "Performance.gov Launches Twitter Account"
 
-permalink: /2018-05-22-performance-gov-launches-twitter.md/
+permalink: /2018-05-22-performance-gov-launches-twitter/
 
 url: /2018-05-22-performance-gov-launches-twitter.md
 
@@ -13,6 +13,7 @@ summary: summary_large_image
 
 excerpt: Follow us @PerformanceGov for Performance.gov for a window into Federal agencies’ efforts to deliver on their mission, service, and stewardship objectives
 image: "/img/blog/twitter-placeholder.jpg"
+image_accessibility: Twitter logo and bird icon against a blue background. 
 authors:
 - Performance.gov Team
 
