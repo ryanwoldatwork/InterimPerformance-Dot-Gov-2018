@@ -10,14 +10,17 @@ redirect_from: "/CAP/CAP_goal_3.html"
 
 cap-icon: "/img/CAP_icons/Icon_Workforce_gray.png" #icon that appears next to title
 
-resource-2-name: Website - Unlocking Federal Talent
-resource-2-url: https://unlocktalent.gov/
+resource-2-name: Federal Employee Viewpoint Survey
+resource-2-url: https://www.opm.gov/fevs
 
-resource-3-name: Report - Support for DoD Supervisors in Addressing Poor Employee Performance
-resource-3-url: https://www.rand.org/pubs/research_reports/RR2665.html
+resource-3-name: Website - Unlocking Federal Talent
+resource-3-url: https://unlocktalent.gov/
 
-resource-4-name: Employee Viewpoint Survey Analysis & Results Tool (Federal Access Only)
-resource-4-url: https://community.max.gov/pages/viewpage.action?spaceKey=HHS&title=EVS+ART
+resource-4-name: Report - Support for DoD Supervisors in Addressing Poor Employee Performance
+resource-4-url: https://www.rand.org/pubs/research_reports/RR2665.html
+
+resource-5-name: Employee Viewpoint Survey Analysis & Results Tool (Federal Access Only)
+resource-5-url: https://community.max.gov/pages/viewpage.action?spaceKey=HHS&title=EVS+ART
 
 
 #***********************FLOATING BOX SECTION*****************************
