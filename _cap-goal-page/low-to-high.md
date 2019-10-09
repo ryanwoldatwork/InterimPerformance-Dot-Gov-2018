@@ -8,6 +8,13 @@ url: /CAP/low-value-to-high-value-work/
 
 redirect_from: "/CAP/CAP_goal_6.html"
 
+
+#use this section if you want to highlight something other than the quarterly action plan
+featured-box: Billions of dollars in savings and hundreds of thousands of Full-Time Employee hours shifted to higher-value work
+featured-url: /burden-reduction/
+featured-box-button: Learn More
+#end featured section
+
 #cap-category: "Key Driver of Reform" #category text
 
 
@@ -31,7 +38,7 @@ resource-5-url: https://www.hud.gov/
 resource-6-name: PMA One Year of Progress
 resource-6-url: https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf
 
-resource-7-name: Burden Report Update
+resource-7-name: Burden Reduction Update
 resource-7-url: https://www.performance.gov/burden-reduction/
 
 
