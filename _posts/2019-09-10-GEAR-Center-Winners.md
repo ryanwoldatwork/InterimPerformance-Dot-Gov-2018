@@ -5,7 +5,7 @@ tumblr_url:
 title: "NEW: GSA and OMB Announce Government Effectiveness
 Advanced Research (GEAR) Center Challenge Winners"
 
-rating: "1"
+rating: "0"
 
 permalink: /GEAR-Center-challenge-press-release/
 
