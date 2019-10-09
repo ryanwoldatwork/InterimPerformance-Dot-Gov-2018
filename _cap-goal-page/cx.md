@@ -5,7 +5,7 @@ title: "Improving Customer Experience with Federal Services" #page title
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Explore 25 of the nation’s highest impact service providers (HISPs)
-featured-url: /cx/
+featured-box-url: /cx/
 featured-box-button: Learn More
 #end featured section
 
