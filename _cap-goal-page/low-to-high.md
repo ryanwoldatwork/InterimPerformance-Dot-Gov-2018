@@ -8,6 +8,13 @@ url: /CAP/low-value-to-high-value-work/
 
 redirect_from: "/CAP/CAP_goal_6.html"
 
+
+#use this section if you want to highlight something other than the quarterly action plan
+featured-box: Burden Reduction Update Shows Progress Toward Leaner Government
+featured-box-url: /burden-reduction/
+featured-box-button: Learn More
+#end featured section
+
 #cap-category: "Key Driver of Reform" #category text
 
 
@@ -30,6 +37,9 @@ resource-5-url: https://www.hud.gov/
 
 resource-6-name: PMA One Year of Progress
 resource-6-url: https://www.performance.gov/PMA/PMA-One-Year-of-Progress.pdf
+
+resource-7-name: Burden Reduction Update
+resource-7-url: https://www.performance.gov/burden-reduction/
 
 
 
@@ -70,7 +80,7 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 tag: "low-to-high" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
 CAP-event-title:
 CAP-event-date:
-CAP-event-text: 
+CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
