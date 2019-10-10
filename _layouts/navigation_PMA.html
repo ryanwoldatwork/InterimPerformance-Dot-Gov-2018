@@ -282,11 +282,13 @@ layout: base_PMA
            </li>
          </ul>
        </li> </ul>
-         <li>
-          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
-            <span>About</span>
-          </button>
-          <ul id="sidenav-3" class="usa-nav-submenu">
+
+
+<li>
+<button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
+  <span>About</span>
+</button>
+  <ul id="sidenav-4" class="usa-nav-submenu">
   <li>
   <a href="{{ site.baseurl }}/about/getstarted.html">Get Started</a>
   </li>
@@ -301,6 +303,8 @@ layout: base_PMA
     </li>
   </ul>
   </li>
+
+
 <li>
       <a class="usa-nav-link" href="{{ site.baseurl }}/news">
         <span>News</span>
@@ -326,7 +330,7 @@ layout: base_PMA
 </header>
 </header>
 <div class="usa-overlay"></div>
-<main id="main-content">
+<main id="main-content" onpageshow="callFunction()">
       <button onclick="topFunction()" id="backtotop" title="Go to top" style="display: none;">˄ Top</button>
   {{ content }}
   <script>
