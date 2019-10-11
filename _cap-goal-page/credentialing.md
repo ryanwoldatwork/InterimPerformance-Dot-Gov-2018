@@ -18,7 +18,7 @@ resource-2-url:  ##
 quote: "Now is the time for transformational change in how we vet our workforce. We are committed to reducing the investigation inventory and fundamentally overhauling the process." #appears in the gray text box
 quote-author: "Margaret Weichert, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Security_Suitability.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -42,6 +42,7 @@ Optimized government-wide capabilities through enterprise approaches; and
 Strong partnership with Federal Insider Threat programs to identify, deter, and mitigate problems before they negatively impact the workforce or national security. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Security_Suitability.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Security_Suitability.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Security_Suitability.pdf"
@@ -64,15 +65,24 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/coats-dan.jpg" #Goal leader 1
-goal-leader-name: "Daniel Coats"
-goal-leader-title: "Director of National Intelligence, Office of the Director of National Intelligence"
-goal-leader-2-photo: "/img/CAP-photos/kernan-joseph.jpg" #Goal leader 2
+goal-leader-photo: "/img/CAP-photos/joseph-maguire.jpg"
+alt_text_1: Photo of Joseph Maguire #Goal leader 1
+goal-leader-name: "Joseph Maguire"
+goal-leader-title: "Acting Director of National Intelligence, Office of the Director of National Intelligence"
+goal-leader-2-photo: "/img/CAP-photos/kernan-joseph.jpg"
+alt_text_2: Photo of Joseph Kernan #Goal leader 2
 goal-leader-2-name: "Joseph Kernan"
 goal-leader-2-title: "Under Secretary of Defense for Intelligence, Department of Defense"
-goal-leader-3-photo: "/img/CAP-photos/weichert-margaret.jpeg" #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/weichert-margaret.jpeg"
+alt_text_3: Photo of Margaret Weichert  #Goal leader 2
 goal-leader-3-name: "Margaret Weichert"
 goal-leader-3-title: "Deputy Director of Management, Office of Management and Budget"
+
+goal-leader-4-photo: "/img/CAP-photos/woman-placeholder.png"
+alt_text_4: Photo of Dale Cabaniss  #Goal leader 2
+goal-leader-4-name: "Dale Cabaniss"
+goal-leader-4-title: "Director, Office of Personnel Management"
+
 
 #***********************END GOAL LEADER SECTION*****************************8
 

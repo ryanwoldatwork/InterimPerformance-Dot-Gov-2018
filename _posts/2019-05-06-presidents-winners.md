@@ -3,7 +3,7 @@ layout: post
 
 title: "Breaking: Gears of Government President's Award Winners "
 
-rating: "1"
+rating: "0"
 
 permalink: /presidents-winners-press-release/
 
@@ -17,7 +17,7 @@ description: The Gears of Government President's Award - See the Winners!
 excerpt: The Gears of Government President's Award - See the Winners!
 
 image: "/img/GoG/gears-govt-presidents.png"
-alt-text: "GEAR Center Challenge Logo"
+image_accessibility: Gears of Government President's Award logo against a gold background.
 
 authors:
 - Performance.gov Team

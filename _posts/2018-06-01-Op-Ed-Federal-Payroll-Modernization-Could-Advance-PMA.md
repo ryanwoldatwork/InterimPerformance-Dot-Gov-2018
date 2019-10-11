@@ -14,6 +14,7 @@ summary: summary_large_image
 excerpt: A new op-ed by Beth Angerman explains that the Federal government can cut long-term costs and improve service by modernizing the way it runs payroll.
 
 image: "/img/blog/whitehouse_reduced.jpeg"
+image_accessibility: Photo of the White House. 
 authors:
 - Performance.gov Team
 

@@ -23,6 +23,7 @@ twitter-description: GSA's CFO Office Targets 200,000 Hours of Workload Redeploy
 
 
 image: "/img/blog/gsa-case-study.png"
+image_accessibility: Photo of case study cover page. 
 authors:
 - Performance.gov Team
 

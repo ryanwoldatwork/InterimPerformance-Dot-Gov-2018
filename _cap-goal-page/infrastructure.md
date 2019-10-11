@@ -18,7 +18,7 @@ resource-2-url:  https://www.permits.performance.gov/
 #***********************FLOATING BOX SECTION*****************************
 quote: "We're working to make a cultural change in the permitting process, by applying predictability, accountability, and transparency to what has been an impenetrable black box." #appears in the gray text box
 quote-author: "Alex Herrgott, Goal Leader"
-current-action-plan: "/CAP/action_plans/june_2019_Modernize_Infrastructure_Permitting.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Modernize_Infrastructure_Permitting.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -33,6 +33,7 @@ opportunity: "This goal will:   reduce time and cost to complete environmental r
 A public dashboard tracks individual projects at www.permits.performance.gov. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Modernize_Infrastructure_Permitting.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Modernize_Infrastructure_Permitting.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Modernize_Infrastructure_Permitting.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Modernize_Infrastructure_Permitting.pdf"
@@ -56,13 +57,16 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/neumayr-mary.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/neumayr-mary.jpg"
+alt_text_1: Photo of Mary Neumayr #Goal leader 1
 goal-leader-name: "Mary Neumayr"
 goal-leader-title: "Chairman, Council on Environmental Quality"
-goal-leader-2-photo: "/img/CAP-photos/hergott-alex.jpg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/hergott-alex.jpg"
+alt_text_2: Photo of Alex Herrgott #Goal leader 2
 goal-leader-2-name: "Alex Herrgott"
 goal-leader-2-title: "Executive Director, Federal Permitting Improvement Steering Council"
-goal-leader-3-photo: "/img/CAP-photos/warren-peter.jpeg" #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/warren-peter.jpeg"
+alt_text_3: Photo of Peter Warren  #Goal leader 2
 goal-leader-3-name: "Peter Warren"
 goal-leader-3-title: "Associate Director, Office of Management & Budget"
 #***********************END GOAL LEADER SECTION*****************************8

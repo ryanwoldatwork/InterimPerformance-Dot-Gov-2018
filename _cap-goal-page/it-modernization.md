@@ -26,7 +26,7 @@ resource-4-url:  https://www.cio.gov/reskilling/
 quote: "2019 is going to be a great year for citizen and mission results delivered through enabling technology advances." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/june_2019_IT_Modernization.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_IT_Modernization.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -37,6 +37,7 @@ challenge: "The challenge includes: limited accountability for achieving enterpr
 opportunity: "There are opportunities to: expand the use of modern commercial technologies that are effective, economical, and secure; reduce the impact of cybersecurity risks by safeguarding IT systems, sensitive data, and networks; leverage common solutions and innovative practices to improve efficiency, increase security, and ultimately meet citizens’ needs." #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_IT_Modernization.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_IT_Modernization.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_IT_Modernization.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_IT_Modernization.pdf"
@@ -59,10 +60,12 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/censky-steve.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/censky-steve.jpg"
+alt_text_1: Photo of Steve Censky  #Goal leader 1
 goal-leader-name: "Steve Censky"
 goal-leader-title: "Deputy Secretary, United States Department of Agriculture"
-goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/kent-suzette.jpg"
+alt_text_2: Photo of Suzette Kent  #Goal leader 2
 goal-leader-2-name: "Suzette Kent"
 goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8

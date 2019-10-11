@@ -20,6 +20,8 @@ excerpt: Cross-Agency Priority Goals are driving a 21st century approach to fede
 twitter-description: Cross-Agency Priority Goals are driving a 21st century approach to federal financial management.
 
 image: "/img/blog/20180726-agapdt-graphic.png"
+image_accessibility: Federal Financial Management logos.
+
 authors:
 - Performance.gov Team
 

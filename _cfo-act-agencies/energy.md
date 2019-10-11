@@ -10,7 +10,7 @@ agency-name: Department of Energy
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Energy_Department_Seal.png
 agency-site: https://www.energy.gov/
-strategic-plan-link: https://www.energy.gov/budget-performance
+strategic-plan-link: https://www.epa.gov/sites/production/files/2019-09/documents/fy-2018-2022-epa-strategic-plan.pdf
 performance-plan-link: https://www.energy.gov/budget-performance
 
 #side navigation

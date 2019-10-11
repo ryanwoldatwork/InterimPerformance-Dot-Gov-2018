@@ -17,6 +17,7 @@ description: 2018 Shared Services Summit shows how federal services steward taxp
 excerpt: 2018 Shared Services Summit shows how federal services steward taxpayer dollars.
 
 image: /img/blog/shared-services-graphic.png
+image_accessibility: Shared Services Summit event flyer. 
 
 authors:
 - Performance.gov Team

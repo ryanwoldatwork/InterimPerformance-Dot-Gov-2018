@@ -26,18 +26,19 @@ resource-4-url: https://www.sbir.gov/
 quote: "The drive for excellence, advancement, and innovation in the United States has brought forth significant discoveries, developed life-saving research, and improved the quality of life for millions of Americans." #appears in the gray text box
 quote-author: "President Trump, World Intellectual Property Day proclamation"
 font-size: 14.5px
-current-action-plan: "/CAP/action_plans/june_2019_Lab_to_Market.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Lab_to_Market.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
 statement: "This goal will:   improve the transition of federally funded innovations from the laboratory to the marketplace by reducing the administrative and regulatory burdens for technology transfer and increasing private sector investment in later-stage research and development (R&D); develop and implement more effective partnering models and technology transfer mechanisms for Federal agencies; and enhance the effectiveness of technology transfer by improving the methods for evaluating the ROI and economic and national security impacts of federally funded R&D, and using that information to focus efforts on approaches proven to work." #first accordion text
 
-challenge: "The Federal Government invests approximately $150 billion annually in research and development conducted at Federal laboratories, universities, and other research organizations. For America to maintain its position as the leader in global innovation, bring products to market more quickly, grow the economy, and maintain a strong national security innovation base, it is essential to optimize technology transfer and support programs to increase the return on investment (ROI) from federally funded R&D." #second accordion text
+challenge: "Agencies must comply with hundreds of legacy operating requirements, built up over successive administrations, that persist over time despite changes to the circumstances they were intended to address. Time, energy, and dollars spent performing repetitive administrative tasks and complying with outdated, redundant, and unnecessary requirements can be better spent on accomplishing mission outcomes." #second accordion text
 
-opportunity: "Agencies will develop and implement stakeholder- informed action plans, which may include improved Federal practices and policies, regulatory reform, and legislative proposals; increase interactions with private sector experts; identify, share, and adopt best practices for technology transfer; and increase the transfer of federally funded innovations from lab to market." #third accordion text
+opportunity: "Federal Agencies can identify and streamline operational processes to improve the pursuit of mission outcomes and increase the effectiveness and efficiency of government." #third accordion text
 
 action-2019-june: /CAP/action_plans/june_2019_Lab_to_Market.pdf
+action-2019-september: /CAP/action_plans/sept_2019_Lab_to_Market.pdf
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Lab_to_Market.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Lab_to_Market.pdf"
@@ -62,13 +63,15 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/copan-walter.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/copan-walter.jpg"
+alt_text_1: Photo of Walter Copan #Goal leader 1
 goal-leader-name: "Walter Copan, Ph.D"
 goal-leader-title: "Under Secretary of Commerce for Standards and Technology,
 Director, National Institute of Standards and Technology, U.S. Department of Commerce"
-goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/kratsios-michael.jpg"
+alt_text_2: Photo of Michael Kratsios  #Goal leader 2
 goal-leader-2-name: "Michael Kratsios"
-goal-leader-2-title: "Deputy Assistant to the President for Technology Policy, Office of Science and Technology Policy The White House"
+goal-leader-2-title: "Chief Technology Officer of the United States"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8

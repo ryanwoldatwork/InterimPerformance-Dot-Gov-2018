@@ -26,7 +26,7 @@ resource-4-url: https://tech.gsa.gov/playbooks/tbm/
 quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 19px
-current-action-plan: "/CAP/action_plans/june_2019_Federal_IT_Spending_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Federal_IT_Spending_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -40,6 +40,7 @@ The FY 2018 President’s Budget reported 84% of the total Federal IT budget cat
 opportunity: "The Technology Business Management (TBM) Framework will enable the Federal Government to:   run IT like a business; drive innovation and business transformation; improve services to citizens; add cost transparency; and increase accountability to taxpayers. " #third accordion text
 
 action-2019-june: "/CAP/action_plans/june_2019_Federal_IT_Spending_Transparency.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Federal_IT_Spending_Transparency.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Federal_IT_Spending_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Federal_IT_Spending_Transparency.pdf"
@@ -64,23 +65,28 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/shive-david.jpg" #Goal leader 1
+goal-leader-photo: "/img/CAP-photos/shive-david.jpg"
+alt_text_1: Photo of David Shive   #Goal leader 1
 goal-leader-name: "David Shive"
 goal-leader-title: "Chief Information Officer, General Services Administration"
 
-goal-leader-2-photo: "/img/CAP-photos/badorrek-gerard.png" #Goal leader 2
+goal-leader-2-photo: "/img/CAP-photos/badorrek-gerard.png"
+alt_text_2: Photo of Gerard Badorrek  #Goal leader 2
 goal-leader-2-name: "Gerard Badorrek"
 goal-leader-2-title: "Chief Financial Officer, General Services Administration"
 
-goal-leader-3-photo: "/img/CAP-photos/gray-jason.jpg" #Goal leader 2
+goal-leader-3-photo: "/img/CAP-photos/gray-jason.jpg"
+alt_text_3: Photo of Jason Gray   #Goal leader 2
 goal-leader-3-name: "Jason Gray"
 goal-leader-3-title: "Chief Information Officer, Department of Education"
 
-goal-leader-4-photo: "/img/CAP-photos/carter-denise.jpg" #Goal leader 2
+goal-leader-4-photo: "/img/CAP-photos/carter-denise.jpg"
+alt_text_4: Photo of Denise Carter  #Goal leader 2
 goal-leader-4-name: "Denise Carter"
 goal-leader-4-title: "Acting Assistant Secretary for Finance and Operations, Department of Education"
 
-goal-leader-5-photo: "/img/CAP-photos/kent-suzette.jpg" #Goal leader 2
+goal-leader-5-photo: "/img/CAP-photos/kent-suzette.jpg"
+alt_text_5: Photo of Suzette Kent  #Goal leader 2
 goal-leader-5-name: "Suzette Kent"
 goal-leader-5-title: "Federal Chief Information Officer, Office of Management and Budget"
 

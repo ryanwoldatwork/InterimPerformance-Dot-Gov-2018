@@ -16,6 +16,7 @@ summary: summary_large_image
 excerpt: The Gears of Government Awards recognize individuals and teams across the federal workforce whose performance and dedication deliver key outcomes for the American people, including mission results, customer service, and accountable stewardship.
 
 image: "/img/blog/gears-of-gov-awards-logo.png"
+image_accessibility: Gears of Government Awards logo against gold background. 
 authors:
 - Margaret Weichert
 

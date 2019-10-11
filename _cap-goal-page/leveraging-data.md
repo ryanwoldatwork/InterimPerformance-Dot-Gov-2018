@@ -28,7 +28,7 @@ resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 quote-author: "Pradeep Belur, SBA Official"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -41,6 +41,7 @@ opportunity: "There are opportunities to: develop a long-term, enterprise-wide F
 #action plan links
 
 action-2019-june: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
+action-2019-september: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Data_Accountability_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Data_Accountability_Transparency.pdf"
@@ -52,18 +53,23 @@ tag: "data"
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/CAP-photos/Roat_Head_Shot.jpg"
+alt_text_1: Photo of Maria Roat
 goal-leader-name: "Maria Roat"
 goal-leader-title: "Chief Information Officer, Small Business Administration"
 goal-leader-2-photo: "/img/CAP-photos/kelley-karen.jpg"
+alt_text_2: Photo of Karen Dunn Kelley
 goal-leader-2-name: "Karen Dunn Kelley"
 goal-leader-2-title: "Deputy Secretary, Department of Commerce"
 goal-leader-3-photo: "/img/CAP-photos/droeg-kelvin.jpg"
+alt_text_3: Photo of Kelvin Droegemeier
 goal-leader-3-name:  "Kelvin Droegemeier"
 goal-leader-3-title: "Director, White House Office of Science and Technology Policy"
 goal-leader-4-photo: "/img/CAP-photos/kent-suzette.jpg"
+alt_text_4: Photo of Suzette Kent
 goal-leader-4-name: "Suzette Kent"
 goal-leader-4-title: "Federal Chief Information Officer, Office of Management and Budget"
 goal-leader-5-photo: "/img/CAP-photos/potok-nancy.jpg"
+alt_text_5: Photo of Nancy Potok
 goal-leader-5-name:   "Nancy Potok"
 goal-leader-5-title: "Chief Statistician of the United States, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8

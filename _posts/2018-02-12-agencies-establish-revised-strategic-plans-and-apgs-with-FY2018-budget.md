@@ -14,6 +14,7 @@ summary: summary_large_image
 excerpt: Federal agencies today published updated Strategic Plans spanning 2018-2022, and established Agency Priority Goals (APGs) to be achieved over the course of 2018-2019.
 
 image: "/img/homepage_images/newhero1.jpeg"
+image_accessibility: Photo of building columns against a blue sky with clouds. 
 
 authors:
 - Performance.gov Team

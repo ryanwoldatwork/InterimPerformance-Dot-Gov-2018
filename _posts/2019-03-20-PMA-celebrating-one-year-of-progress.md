@@ -19,7 +19,7 @@ excerpt: One year ago, the President’s Management Agenda was released as a lon
 
 
 image: /img/blog/PMA-1-year-logo.png
-alt-text: "PMA One-Year Logo"
+image_accessibility: President's Management Agenda One-Year Update Logo.
 
 authors:
 - Performance.gov Team
