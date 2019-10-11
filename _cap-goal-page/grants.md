@@ -36,6 +36,14 @@ resource-7-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Par
 resource-8-name: 2019 Compliance Supplement Success Story
 resource-8-url:  https://twitter.com/PerformanceGov/status/1145782350061756417
 
+resource-9-name: Overview of Version 1.0 Grants Management Standard Data Elements
+resource-9-url:  https://www.performance.gov/CAP/overview-grants-data.pdf
+
+resource-10-name: Version 1.0 Grants Management Standard Data Elements
+resource-10-url:  https://ussm.gsa.gov/fibf-gm/
+
+
+
 listserv-title: Join Community
 listserv-url: 13
 listserv-include: grants-community
