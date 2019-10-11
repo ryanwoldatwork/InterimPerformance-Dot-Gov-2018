@@ -34,7 +34,7 @@ resource-7-name: 2019 Compliance Supplement Success Story
 resource-7-url:  https://twitter.com/PerformanceGov/status/1145782350061756417
 
 resource-8-name: Overview of Version 1.0 Grants Management Standard Data Elements
-resource-8-url:  https://www.performance.gov/CAP/overview-grants-data.pdf
+resource-8-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
 
 resource-9-name: Version 1.0 Grants Management Standard Data Elements
 resource-9-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
