@@ -27,20 +27,17 @@ resource-4-url: https://www.grants.gov/
 resource-5-name: Grants Single Audit and Risk Management Industry Demonstration Days
 resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
 
-resource-6-name: Draft Federal Grants Management Data Standards for Feedback
-resource-6-url: https://grantsfeedback.cfo.gov/index.html
+resource-6-name: 2019 Compliance Supplement
+resource-6-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
 
-resource-7-name: 2019 Compliance Supplement
-resource-7-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
+resource-7-name: 2019 Compliance Supplement Success Story
+resource-7-url:  https://twitter.com/PerformanceGov/status/1145782350061756417
 
-resource-8-name: 2019 Compliance Supplement Success Story
-resource-8-url:  https://twitter.com/PerformanceGov/status/1145782350061756417
+resource-8-name: Overview of Version 1.0 Grants Management Standard Data Elements
+resource-8-url:  https://www.performance.gov/CAP/overview-grants-data.pdf
 
-resource-9-name: Overview of Version 1.0 Grants Management Standard Data Elements
-resource-9-url:  https://www.performance.gov/CAP/overview-grants-data.pdf
-
-resource-10-name: Version 1.0 Grants Management Standard Data Elements
-resource-10-url:  https://ussm.gsa.gov/fibf-gm/
+resource-9-name: Version 1.0 Grants Management Standard Data Elements
+resource-9-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
 
 
 
