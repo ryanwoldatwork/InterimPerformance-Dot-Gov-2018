@@ -39,8 +39,6 @@ resource-8-url:  https://www.performance.gov/CAP/overview-grants-data-standards.
 resource-9-name: Version 1.0 Grants Management Standard Data Elements
 resource-9-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
 
-
-
 listserv-title: Join Community
 listserv-url: 13
 listserv-include: grants-community
