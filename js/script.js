@@ -61,5 +61,3 @@ $(function() {
 
 	var accordion = new Accordion($('#accordion'), false);
 });
-
-/*modal box script*/
