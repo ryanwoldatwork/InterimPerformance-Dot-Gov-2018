@@ -53,11 +53,11 @@ layout: base_index
         <img src="img/close.svg" alt="close">
       </button>
       <ul class="usa-nav-primary usa-accordion">
-      <!--  <li>
-          <a class="usa-nav-link" href="../index.html">
-            <span>Home</span>
-          </a>
-        </li>-->
+        <li>
+              <a class="usa-nav-link" href="{{ site.baseurl }}/news">
+                <span>News</span>
+              </a>
+            </li>
 <li>
                 <li>
                   <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="megamenu-1">
@@ -153,19 +153,19 @@ layout: base_index
                       <a href="#" class="disabled"><span id="navheader">Other Initiatives</span></a>
                     </li>
                     <li>
-                      <a href="GovReform/index.html">Reform Plan and Reorganization Recommendations</a>
+                      <a href="{{ site.baseurl }}/GovReform/index.html">Reform Plan and Reorganization Recommendations</a>
                     </li>
                     <li>
-                      <a href="GEARcenter/index.html">GEAR Center</a>
+                      <a href="{{ site.baseurl }}/GEARcenter/index.html">GEAR Center</a>
                     </li>
                     <li>
-                      <a href="elimination/elimination_of_unnecessary_agency_reports.html">Elimination of Unnecessary Agency Reports</a>
+                      <a href="{{ site.baseurl }}/elimination/elimination_of_unnecessary_agency_reports.html">Elimination of Unnecessary Agency Reports</a>
                     </li>
                     <li>
-                      <a href="reduce/reduce_the_footprint.html">Reduce the Footprint Policy</a>
+                      <a href="{{ site.baseurl }}/reduce/reduce_the_footprint.html">Reduce the Footprint Policy</a>
                     </li>
                     <li>
-                      <a href="gearawards/">Gears of Government Awards</a>
+                      <a href="{{ site.baseurl }}/gearawards/">Gears of Government Awards</a>
                     </li>
                 </ul>
                 </li>
@@ -284,29 +284,41 @@ layout: base_index
          </ul>
        </li> </ul>
 
-
-<li>
-      <a class="usa-nav-link" href="news">
-        <span>News</span>
-      </a>
+ <li>
+  <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+    <span>Data</span>
+  </button>
+  <ul id="sidenav-3" class="usa-nav-submenu">
+    <li>
+    <a href="{{ site.baseurl }}/data/">Overview</a>
     </li>
-
+    <li>
+      <a href="{{ site.baseurl }}/data/#sba">SBA Loan Data</a>
+    </li>
+    <li>
+      <a href="{{ site.baseurl }}/CAP/key_performance_indicators.html">CAP Goal Key Performance Indicators</a>
+    </li>
+    <li>
+      <a href="{{ site.baseurl }}/GSA/gsa-data/">GSA Performance Data</a>
+     </li>
+  </ul>
+  </li>
     <li>
      <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
        <span>About</span>
      </button>
      <ul id="sidenav-4" class="usa-nav-submenu">
      <li>
-     <a href="about/getstarted.html">Get Started</a>
+     <a href="{{ site.baseurl}}/about/getstarted.html">Get Started</a>
      </li>
                    <li>
-       <a href="about/About P.gov.html">About Performance.gov</a>
+       <a href="{{ site.baseurl}}/about/About P.gov.html">About Performance.gov</a>
      </li>
      <li>
-       <a href="about/FAQ.html">FAQs</a>
+       <a href="{{ site.baseurl}}/about/FAQ.html">FAQs</a>
      </li>
      <li>
-       <a href="about/framework_about.html">Performance Framework </a>
+       <a href="{{ site.baseurl}}/about/framework_about.html">Performance Framework </a>
        </li>
      </ul>
      </li>
@@ -463,8 +475,8 @@ layout: base_index
                  <h3 class="usa-footer-contact-heading">Contact Us</h3>
 
               <!--   <a href="mailto:PgovSupport@GSA.gov">PgovSupport@GSA.gov</a>-->
-                 <p>Content is updated every 3 months; last on September 19, 2019</p>
-                     <p><a href="{{ site.baseurl }}/about/Performance.gov Reports_20190919_FY19Q3.xlsx"alt="performance data download" style="color:#205493;"><b>Download Performance Data Report </b></a></p>
+                 <p>Content is updated every 3 months; last on June 20, 2019</p>
+                 <p><a href="about/Performance.gov Reports_FY2019_Q2.xlsx" alt="performance data download" style="color:#205493;"><b>Download Performance Data Report </b></a></p>
                  {% include modal.html %} <!--code for subscribe button and pop out modal box. CSS is in the _modal.scss under the SASS folder-->
                </address>
              </div>
