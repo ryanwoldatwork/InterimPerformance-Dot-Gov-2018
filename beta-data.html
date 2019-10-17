@@ -7,11 +7,15 @@ permalink: /data/
 #twitter variables
 summary: summary
 description: KPIs measure the performance of cross-agency priority goals in effecting change across multiple agencies.
----
 
+---
+<script type="text/javascript" src="d3.v4.js"></script>
 <script>
-function myFunction(event) {
-  if (event.persisted) {
+var chartDiv = document.getElementById("block-system-main");
+function myFunction() {
+  var svgtest = d3.select(chartDiv);
+
+  if (!svgtest.empty()) {
   document.reload();
   }
   else {
@@ -61,7 +65,11 @@ function myFunction(event) {
     <p> Click on a state to update the graph below the map. To reset the zoom in the visualization and see beyond the continental U.S., please click the home icon on the map.</p>
   </div>
   <div class="usa-width-one-whole usa-media_block" id="sba-desktop">
-       <iframe id='myiframe' src="https://d2d.gsa.gov/tableau-report-for-embed/8474" id="no-frame-border" frameborder="0" style="height:1000px;width:1091px;" onload="myFunction(event)" ></iframe>
+    <script>
+
+    myFunction();
+    </script>
+       <iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8474" id="no-frame-border" frameborder="0" style="height:1000px;width:1091px;" onload="myFunction()"></iframe>
 
 
        <p class="card-tag" style="float:right;margin-top:30px;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="https://www.usaspending.gov/#/download_center/award_data_archive">Loan Data &#10095;</a>
