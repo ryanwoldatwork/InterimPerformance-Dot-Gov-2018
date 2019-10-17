@@ -22,6 +22,11 @@ function myFunction() {
     return;
 }}
 
+if(performance.navigation.type == 2){
+  console.log( 'Page load due to a back button click. Reloading to refresh the Performance.gov report. ' );
+  location.reload(true);
+}
+
 </script>
 
 

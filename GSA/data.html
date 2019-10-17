@@ -9,6 +9,27 @@ summary: summary
 description:
 ---
 
+---
+<script type="text/javascript" src="https://d3js.org/d3.v4.js"></script>
+<script>
+var chartDiv = document.getElementById("block-system-main");
+function myFunction() {
+  var svgtest = d3.select(chartDiv);
+
+  if (!svgtest.empty()) {
+  document.reload();
+  }
+  else {
+    return;
+}}
+
+if(performance.navigation.type == 2){
+  console.log( 'Page load due to a back button click. Reloading to refresh the Performance.gov report. ' );
+  location.reload(true);
+}
+
+</script>
+
 <section class="usa-section usa-section-dark usa-graphic_list" >
   <div class="usa-grid usa-graphic_list-row" style="padding:0">
    <div class="usa-width-one-whole usa-media_block" style="margin-bottom:15px;">
