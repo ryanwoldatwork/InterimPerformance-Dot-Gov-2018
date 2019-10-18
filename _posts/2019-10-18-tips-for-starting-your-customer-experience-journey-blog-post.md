@@ -17,7 +17,7 @@ description: It can seem daunting to know where to start on the journey towards 
 excerpt: It can seem daunting to know where to start on the journey towards continual measurement and sophisticated management of your customers’ experiences. In government in particular, those responsible for delivering services can feel like there is a lack of sufficient resources, talent, and leadership support to enable good customer experience (CX) practices.
 
 
-image: "/img/blog/cx-blog-1.jpg"
+image: "/img/blog/cx-blog-2.jpg"
 image_accessibility: Photo of a piece of paper with Customer Experience CAP Goal data printed on it.
 
 authors:
