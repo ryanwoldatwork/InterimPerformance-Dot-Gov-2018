@@ -18,7 +18,7 @@ description: Recently our team interviewed several White House Leadership Develo
 excerpt: Recently our team interviewed several White House Leadership Development Program graduates to learn more about their experience in the program. Over the next month, we’ll share their stories, learning moments, and advice through a variety of mediums, including blog posts and social media. Stay tuned for more!
 
 
-image: "/img/blog/cx-blog-2.jpg"
+image: "/img/blog/whldp-logo-post.png"
 image_accessibility: Photo of a piece of paper with Customer Experience CAP Goal data printed on it.
 
 authors:
