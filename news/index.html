@@ -61,7 +61,7 @@ pagination:
           <a class="twitter-timeline" data-width="100%" data-height="50rem" data-theme="light" data-link-color="#0071bc" data-border-color="#0071bc" href="https://twitter.com/PerformanceGov" >Tweets by @OMBPress</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
       <!--  </div>-->
         </div>
-{% for post in paginator.posts %}
+      {% for post in paginator.posts %}
           <div class="usa-width-one-third usa-width-tablet">
             {% include card.html
              image_src=post.image
@@ -87,15 +87,13 @@ pagination:
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-half usa-media_block">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button" style="margin-top:15px;">&lsaquo; Previous {{ paginator.per_page }} Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button" style="margin-top:15px;float:left;">&lsaquo; Previous {{ paginator.per_page }} Posts</a>
     {% endif %}
   </div>
-  <div class="usa-width-one-half usa-media_block">
     {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-button usa-button" style="margin-top:15px;float:right;">Next {{ paginator.per_page }} Posts &rsaquo;</a>
     {% endif %}
   </div>
-</div>
 </div>
 
     <!--  <center>
