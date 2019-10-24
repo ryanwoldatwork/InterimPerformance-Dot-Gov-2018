@@ -33,7 +33,7 @@ tags:
 
 Change is hard, and making a change as a mid-career professional to gain new skills and experiences isn’t an easy decision to make. The Performance.gov Team recently caught up with graduates of the [White House Leadership Development Program](https://www.pic.gov/content/white-house-leadership-development-program-0/) (WHLDP) 2019 Cohort, Lelia Jackson and Salim Mawani, to find out how they embraced change, what inspired them to apply, and how the WHLDP changed their career paths for the better.
 
-<h2><font size="2"></font>The White House Leadership Development Program: Who’s It For and Why to Apply</h2><font/>
+<h2><font size="2"></font>The White House Leadership Development Program: Who’s It For and Why Apply</h2><font/>
 
 The WHLDP invites high-performing career GS-15 employees from across the Federal Government to join a year-long rotation in which they gain on-the-job experience and leadership development training. Each fellow is assigned to work on a Cross-Agency Priority (CAP) Goal from the [President’s Management Agenda]({{ site.baseurl }}/PMA/PMA.html), the Administration’s long-term vision for creating a more modern and effective government.
 
