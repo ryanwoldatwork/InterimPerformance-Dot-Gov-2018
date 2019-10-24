@@ -35,7 +35,7 @@ Change is hard, and making a change as a mid-career professional to gain new ski
 
 <h2><font size="2"></font>The White House Leadership Development Program: Who’s It For and Why to Apply</h2><font/>
 
-The WHLDP invites high-performing career GS-15 employees from across the Federal Government to join a year-long rotation in which they gain on-the-job experience and leadership development training. Each fellow is assigned to work on a Cross-Agency Priority (CAP) Goal from the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html), the Administration’s long-term vision for creating a more modern and effective government.
+The WHLDP invites high-performing career GS-15 employees from across the Federal Government to join a year-long rotation in which they gain on-the-job experience and leadership development training. Each fellow is assigned to work on a Cross-Agency Priority (CAP) Goal from the [President’s Management Agenda]({{ site.baseurl }}/PMA/PMA.html), the Administration’s long-term vision for creating a more modern and effective government.
 
 Both Jackson and Mawani agreed that the opportunity for new challenges in a government-wide role drove them to apply for the program.
 
@@ -47,11 +47,11 @@ leadership skills and business acumen.”
 
 <h2><font size="2"></font>Focusing on Mission-Centric Work: Cross-Agency Priority Goal Accomplishments</h2><font/>
 
-Each fellow was assigned to work on one of the 14 [CAP Goals](https://www.performance.gov/tags/CAP%20goal/), all of which have meaningful implications for the American public. For example, Mawani was assigned to the [Results-Oriented Accountability for Grants CAP Goal](https://www.performance.gov/CAP/grants/).
+Each fellow was assigned to work on one of the 14 [CAP Goals]({{ site.baseurl }}/CAP/overview/), all of which have meaningful implications for the American public. For example, Mawani was assigned to the [Results-Oriented Accountability for Grants CAP Goal]({{ site.baseurl }}/CAP/grants/).
 
 *Mawani*: “Grants affect everything -- from education to road infrastructure to the opioid epidemic. I was inspired knowing that [my] work would have an impact on every single taxpayer… Making the process more transparent [in regards to grants] and making things more accountable.”
 
-Jackson was placed on the [Sharing Quality Services CAP Goal](https://www.performance.gov/CAP/sharing-quality-services/) to support the creation of cross-agency efficiencies and reduce duplication of effort. Specifically, she worked on the [NewPay Initiative](https://interact.gsa.gov/node/461216/information), which will replace outdated payroll systems and modernize federal payroll services, leading to elevated user experience, reduced costs, better-managed budgets, and enhanced security posture.
+Jackson was placed on the [Sharing Quality Services CAP Goal]({{ site.baseurl }}/CAP/sharing-quality-services/) to support the creation of cross-agency efficiencies and reduce duplication of effort. Specifically, she worked on the [NewPay Initiative](https://interact.gsa.gov/node/461216/information), which will replace outdated payroll systems and modernize federal payroll services, leading to elevated user experience, reduced costs, better-managed budgets, and enhanced security posture.
 
 <a href="{{ site.baseurl }}/img/blog/jackson-quote-card"><img src="{{ site.baseurl }}/img/blog/jackson-quote-card.jpg"></a>
 
@@ -74,4 +74,4 @@ Before closing-out the conversation, Jackson and Mawani shared words of advice f
 
 *Mawani*: “Set a high bar – actively collaborate with your team to do what it takes to meet this goal. Come into the program with the understanding that you will be challenged in unimaginable ways and the WHLDP will stretch your skills and knowledge to overcome these challenges.”
 
-*The White House Leadership Development Program is a year-long program for high-performing GS-15 employees that focuses on developing enterprise leadership skills, working across functional areas, and leveraging networks to drive collaboration and results. For more information on the WHLDP and this year’s graduating class, visit the [website](https://www.pic.gov/content/white-house-leadership-development-program-0/).*
+*The White House Leadership Development Program is a year-long program for high-performing GS-15 employees that focuses on developing enterprise leadership skills, working across functional areas, and leveraging networks to drive collaboration and results. For more information on the WHLDP and the 2019 graduating class, visit the [website](https://www.pic.gov/content/white-house-leadership-development-program-0/).*
