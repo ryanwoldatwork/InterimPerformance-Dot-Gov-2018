@@ -86,12 +86,12 @@ pagination:
 </div>
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-half usa-media_block">
-    {% if paginator.next_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-2">&lsaquo; Previous {{ paginator.per_page }} Posts</a>
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button" style="margin-top:15px;">&lsaquo; Previous {{ paginator.per_page }} Posts</a>
     {% endif %}
   </div>
   <div class="usa-width-one-half usa-media_block">
-    {% if paginator.previous_page %}
+    {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-button usa-button" style="margin-top:15px;float:right;">Next {{ paginator.per_page }} Posts &rsaquo;</a>
     {% endif %}
   </div>
