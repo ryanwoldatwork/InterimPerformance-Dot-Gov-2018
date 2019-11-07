@@ -29,6 +29,34 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 
 </script>
 
+<style>
+  .usa-accordion-button #fake {
+      border: 0;
+      border-radius: 0;
+      font-weight: 400;
+      margin: 0;
+      outline: 0;
+      padding: 0;
+      text-align: left;
+      -webkit-font-smoothing: auto;
+      background-color: blue;
+      background-image: url(../img/minus.png);
+      background-image: url(../img/minus.svg);
+      background-position: right 3rem center;
+      background-repeat: no-repeat;
+      background-size: 13px;
+      color: #212121;
+      cursor: pointer;
+      display: inline-block;
+      font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+      font-weight: 700;
+      margin: 0;
+      padding: 1.5rem 5.5rem 1.5rem 3rem;
+      width: 100%;
+      -webkit-transition: all 0.4s ease;
+      -o-transition: all 0.4s ease;
+      transition: all 0.4s ease;
+</style>
 
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
@@ -52,73 +80,122 @@ description: KPIs measure the performance of cross-agency priority goals in effe
          <div class="usa-width-one-whole usa-media_block">
 
             <ul class="usa-accordion">
-
               <li>
                 <button class="usa-accordion-button"
                   aria-expanded="false"
-                  aria-controls="a1"
-                  style="background-color:blue;color:white">
-                  Federal Employees Viewpoint Survey
+                  aria-controls="a1">
+                  Workforce for the 21st Century
                 </button>
                 <div id="a1" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
-                  <!--NESTED FEVS ACCORDION START-->
-                  <ul class="usa-accordion">
-                        <li>
-                          <button class="usa-accordion-button"
-                            aria-expanded="false"
-                            aria-controls="a2"
-                            style="margin-left:20px;width:98%">
-                            Improve Performance
-                          </button>
-                        <div id="a2" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
-                          <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
-                        </div>
-                        </li>
-                        <li>
-                          <button class="usa-accordion-button"
-                            aria-expanded="false"
-                            aria-controls="a3"
-                            style="margin-left:20px;width:98%">
-                            Strategic Hiring
-                          </button>
-                        <div id="a3" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
-                          <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
-                        </div>
-                      </li>
-                  </ul>
-                  <!--NESTED FEVS ACCORDION END-->
                 </div>
               </li>
+              <li>
+                <button class="usa-accordion-button"
+                  aria-expanded="false"
+                  aria-controls="a2"
+                  style="margin-left:20px;margin-right:20px;width:98%">
+                  Federal Employees Viewpoint Survey: Improve Performance
+                </button>
+              <div id="a2" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
+                <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
+              </div>
+              </li>
+              <li>
+                <button class="usa-accordion-button"
+                  aria-expanded="false"
+                  aria-controls="a3"
+                  style="margin-left:20px;width:98%">
+                  Federal Employees Viewpoint Survey: Strategic Hiring
+                </button>
+              <div id="a3" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
+                <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
+              </div>
+            </li>
 
             <li>
               <button class="usa-accordion-button"
                 aria-expanded="false"
                 aria-controls="a4">
-                Cybersecurity
+                IT Modernization
               </button>
             <div id="a4" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
-              <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10277" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1040px;"></iframe>
-            </div>
+          </div>
           </li>
 
           <li>
             <button class="usa-accordion-button"
               aria-expanded="false"
-              aria-controls="a5">
-               Category Management
+              aria-controls="a5"
+              style="margin-left:20px;width:98%">
+              Cyber Security: Manage Asset Security
             </button>
           <div id="a5" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+            <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11408" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1040px;"></iframe>
+          </div>
+        </li>
+        <li>
+          <button class="usa-accordion-button"
+            aria-expanded="false"
+            aria-controls="a6"
+            style="margin-left:20px;width:98%">
+            Cyber Security: Limit Personnel Access
+          </button>
+        <div id="a6" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+          <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11409" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1040px;"></iframe>
+        </div>
+      </li>
+      <li>
+        <button class="usa-accordion-button"
+          aria-expanded="false"
+          aria-controls="a7"
+          style="margin-left:20px;width:98%">
+           Cyber Security: Protect Networks and Data
+        </button>
+      <div id="a7" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+        <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11410" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1040px;"></iframe>
+      </div>
+    </li>
+    <li>
+      <button class="usa-accordion-button"
+        aria-expanded="false"
+        aria-controls="a18"
+        style="margin-left:20px;width:98%">
+        Cyber Security: Cloud Email Adoption
+      </button>
+    <div id="a8" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+      <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10279" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
+    </div>
+  </li>
+
+          <li>
+            <button class="usa-accordion-button"
+              aria-expanded="false"
+              aria-controls="a9">
+               Category Management
+            </button>
+          <div id="a9" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
             <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10282" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
           </div>
         </li>
+        <li>
+          <button class="usa-accordion-button"
+            aria-expanded="false"
+            aria-controls="a10">
+            Sharing Quality Services
+          </button>
+        <div id="a10" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+        </div>
+      </li>
+
 
         <li>
           <button class="usa-accordion-button"
             aria-expanded="false"
-            aria-controls="a6">
+            aria-controls="a11"
+            style="margin-left:20px;margin-right:20px;width:98%">
             Customer Satisfaction Scores
           </button>
-        <div id="a6" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+        <div id="a11" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
           <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10280" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
         </div>
       </li>
@@ -126,24 +203,39 @@ description: KPIs measure the performance of cross-agency priority goals in effe
       <li>
         <button class="usa-accordion-button"
           aria-expanded="false"
-          aria-controls="a7">
-         Cash Loss to the Government
+          aria-controls="a12">
+         Getting Payments Right
         </button>
-      <div id="a7" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
-        <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10283" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
+      <div id="a12" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
       </div>
     </li>
 
     <li>
       <button class="usa-accordion-button"
         aria-expanded="false"
-        aria-controls="a8">
-        Cloud Email Adoption
+        aria-controls="a13"
+        style="margin-left:20px;margin-right:20px;width:98%">
+
+        Cash Loss to the Government: FY 17-18
       </button>
-    <div id="a8" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
-      <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10279" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
+    <div id="a13" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+      <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11405" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
     </div>
   </li>
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="a14"
+      style="margin-left:20px;margin-right:20px;width:98%">
+      Cash Loss to the Government: Program Scorecards
+    </button>
+  <div id="a14" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+    <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11406" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
+  </div>
+</li>
+
+
+
 </ul>
 </div>
 </div>
