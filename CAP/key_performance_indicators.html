@@ -8,6 +8,28 @@ summary: summary
 description: KPIs measure the performance of cross-agency priority goals in effecting change across multiple agencies.
 ---
 
+  <script>
+  var chartDiv = document.getElementById("block-system-main");
+  function myFunction() {
+    var svgtest = d3.select(chartDiv);
+
+    if (!svgtest.empty()) {
+    document.reload();
+    }
+    else {
+      return;
+  }}
+
+  if(performance.navigation.type == 2){
+    console.log( 'Page load due to a back button click. Reloading to refresh the Performance.gov report. ' );
+    location.reload(true);
+  }
+
+
+
+</script>
+
+
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
@@ -33,24 +55,48 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 
               <li>
                 <button class="usa-accordion-button"
-                  aria-expanded="true"
-                  aria-controls="a1">
+                  aria-expanded="false"
+                  aria-controls="a1"
+                  style="background-color:blue;color:white">
                   Federal Employees Viewpoint Survey
                 </button>
-              <div id="a1" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
-                <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
-                <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
-
-              </div>
-            </li>
+                <div id="a1" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
+                  <!--NESTED FEVS ACCORDION START-->
+                  <ul class="usa-accordion">
+                        <li>
+                          <button class="usa-accordion-button"
+                            aria-expanded="false"
+                            aria-controls="a2"
+                            style="margin-left:20px;width:98%">
+                            Improve Performance
+                          </button>
+                        <div id="a2" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
+                          <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
+                        </div>
+                        </li>
+                        <li>
+                          <button class="usa-accordion-button"
+                            aria-expanded="false"
+                            aria-controls="a3"
+                            style="margin-left:20px;width:98%">
+                            Strategic Hiring
+                          </button>
+                        <div id="a3" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1100px">
+                          <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1090px;"></iframe>
+                        </div>
+                      </li>
+                  </ul>
+                  <!--NESTED FEVS ACCORDION END-->
+                </div>
+              </li>
 
             <li>
               <button class="usa-accordion-button"
                 aria-expanded="false"
-                aria-controls="a2">
+                aria-controls="a4">
                 Cybersecurity
               </button>
-            <div id="a2" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+            <div id="a4" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
               <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10277" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1200px;width:1040px;"></iframe>
             </div>
           </li>
@@ -58,10 +104,10 @@ description: KPIs measure the performance of cross-agency priority goals in effe
           <li>
             <button class="usa-accordion-button"
               aria-expanded="false"
-              aria-controls="a3">
+              aria-controls="a5">
                Category Management
             </button>
-          <div id="a3" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+          <div id="a5" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
             <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10282" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
           </div>
         </li>
@@ -69,10 +115,10 @@ description: KPIs measure the performance of cross-agency priority goals in effe
         <li>
           <button class="usa-accordion-button"
             aria-expanded="false"
-            aria-controls="a4">
+            aria-controls="a6">
             Customer Satisfaction Scores
           </button>
-        <div id="a4" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+        <div id="a6" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
           <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10280" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
         </div>
       </li>
@@ -80,10 +126,10 @@ description: KPIs measure the performance of cross-agency priority goals in effe
       <li>
         <button class="usa-accordion-button"
           aria-expanded="false"
-          aria-controls="a5">
+          aria-controls="a7">
          Cash Loss to the Government
         </button>
-      <div id="a5" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+      <div id="a7" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
         <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10283" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
       </div>
     </li>
@@ -91,10 +137,10 @@ description: KPIs measure the performance of cross-agency priority goals in effe
     <li>
       <button class="usa-accordion-button"
         aria-expanded="false"
-        aria-controls="a6">
+        aria-controls="a8">
         Cloud Email Adoption
       </button>
-    <div id="a6" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
+    <div id="a8" class="usa-accordion-content"style="padding-left:0px;padding-right:0px;">
       <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10279" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:925px;width:900px;"></iframe>
     </div>
   </li>
