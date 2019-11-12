@@ -12,14 +12,13 @@ summary: summary_large_image
 
 agency:
 
-description: Recently our team interviewed several White House Leadership Development Program graduates to learn more about their experience in the program. Over the next month, we’ll share their stories, learning moments, and advice through a variety of mediums, including blog posts and social media. Stay tuned for more!
+description: Welcome to the new WHLDP cohort.
 
 
-excerpt: Recently our team interviewed several White House Leadership Development Program graduates to learn more about their experience in the program. Over the next month, we’ll share their stories, learning moments, and advice through a variety of mediums, including blog posts and social media. Stay tuned for more!
-
+excerpt: Welcome to the new WHLDP cohort.
 
 image: "/img/blog/whldp-logo-post.png"
-image_accessibility: Photo of a piece of paper with Customer Experience CAP Goal data printed on it.
+image_accessibility: WHLDP Logo
 
 authors:
 - Performance.gov Team
