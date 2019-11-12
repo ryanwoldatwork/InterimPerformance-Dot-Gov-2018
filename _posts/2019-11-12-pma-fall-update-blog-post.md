@@ -3,7 +3,7 @@ layout: post
 
 title: "President's Management Agenda Fall Update"
 
-rating: "0"
+rating: "1"
 
 permalink: /pma-fall-2019-update/
 
@@ -19,7 +19,7 @@ excerpt: Today, we are releasing a Fall 2019 Update, which showcases progress ma
 
 
 image: "/img/blog/SBA-video-grab.PNG"
-image_accessibility:
+image_accessibility: President's Management Agenda logo against blue background.
 
 authors:
 - Performance.gov Team
