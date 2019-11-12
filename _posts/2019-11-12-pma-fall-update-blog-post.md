@@ -37,6 +37,6 @@ The Fall 2019 Update consolidates key recent milestones including:
 - Progress on harnessing data as a strategic asset
 
 As we continue on our journey towards a modern, more effective government, help us recognize progress to improve mission, service, and stewardship by:
-- Reading the Fall 2019 Update and diving deeper into the PMA accomplishments since our last update.
+- Reading the [Fall 2019 Update]({{ site.baseurl }}/PMA/PMA_Fall_Update.pdf) and diving deeper into the PMA accomplishments since our last update.
 - Sharing your management and transformation stories with us by emailing <pgovsupport@gsa.gov>.
 - Following us on [Twitter](https://twitter.com/PerformanceGov) and [LinkedIn](https://www.linkedin.com/company/performance-gov/) for more PMA progress highlights.
