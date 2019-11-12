@@ -28,7 +28,7 @@ tags:
 - PMA
 ---
 
-Today, we are releasing a Fall 2019 Update, which showcases progress made over the past several months towards a smarter, leaner, and more effective government as envisioned in the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html).
+Today, we are releasing a [Fall 2019 Update]({{ site.baseurl }}/PMA/PMA_Fall_Update.pdf), which showcases progress made over the past several months towards a smarter, leaner, and more effective government as envisioned in the [President’s Management Agenda (PMA)](https://www.performance.gov/PMA/PMA.html).
 
 The Fall 2019 Update consolidates key recent milestones including:
 - First-ever public data sets on customer experience
