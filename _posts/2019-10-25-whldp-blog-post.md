@@ -3,7 +3,7 @@ layout: post
 
 title: "Lessons and Advice from Recent White House Leadership Development Program Graduates"
 
-rating: "0"
+rating: "1"
 
 permalink: /lessons-and-advice-from-recent-WHLDP-graduates/
 
