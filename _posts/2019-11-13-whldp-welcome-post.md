@@ -30,7 +30,7 @@ tags:
 We’re excited to introduce the newest White House Leadership Development Program (WHLDP) cohort!
 
 Last month, 13 federal employees from 10 agencies began a year-long journey to support multi-agency initiatives to advance good government solutions. This year’s cohort includes a broad cross-section of fellows with a rich set of experiences that will enable them to share best practices and expertise and solve problems collaboratively.
-The fellows’ collective experiences will bring a unique flavor to the [President’s Management Agenda]({{ site.baseurl }}/PMA/PMA.html) and the [Cross-Agency Priority (CAP) Goals]({{ site.baseurl }}/CAP/overview they are assigned to help lead.
+The fellows’ collective experiences will bring a unique flavor to the [President’s Management Agenda]({{ site.baseurl }}/PMA/PMA.html) and the [Cross-Agency Priority (CAP) Goals](https://www.performance.gov/CAP/overview/) they are assigned to help lead.
 
   <a href="{{ site.baseurl }}/img/blog/whldp_cohort_photo"><img src="{{ site.baseurl }}/img/blog/whldp_cohort_photo.jpg"></a>
   <center><i style="font-size: 12px;">Group photo of the newest  White House Leadership Development Program cohort.</i></center>
