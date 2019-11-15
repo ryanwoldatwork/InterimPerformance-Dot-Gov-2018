@@ -16,9 +16,8 @@ description: As Federal agencies gear up to nominate individuals and teams for t
 
 excerpt: As Federal agencies gear up to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA).
 
-
-image:
-image_accessibility:
+image: "/img/blog/gears-of-gov-awards-logo.png"
+image_accessibility: Gears of Government Awards Logo against gold background. 
 
 authors:
 - Performance.gov Team
