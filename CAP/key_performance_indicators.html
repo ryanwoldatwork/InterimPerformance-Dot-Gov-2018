@@ -33,7 +33,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-half usa-media_block">
-      <h1 style="color:#ffffff;"> Key Performance Indicators</h1>
+      <h1 style="color:#ffffff;"> Cross Agency Priority Goal Key Performance Indicators</h1>
     </div>
     <div class="usa-width-one-half usa-media_block">
       <a href="{{ site.baseurl }}/CAP/overview/" style="text-decoration:none;color:#ffffff;float:right;font-size:2rem">
@@ -76,19 +76,23 @@ description: KPIs measure the performance of cross-agency priority goals in effe
                   Federal Employees Viewpoint Survey: Improve Performance
                 </button>
                 <div id="a2" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1090px">
+                  <p class="card-tag" style="float:right;margin-top:10px;margin-bottom:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="https://www.usaspending.gov/#/download_center/award_data_archive">Download data/View CAP Goal</a>
+
                   <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1130px;width:1050px;"></iframe>
                 </div>
               </li>
 
               <li>
-                <button class="usa-accordion-button"
+                <button
+                  onclick="var ifr=document.getElementsById('no-frame-border-1')[0]; ifr.src=ifr.src;"
+                  class="usa-accordion-button"
                   aria-expanded="false"
                   aria-controls="a3"
                   style="margin-left:20px;width:96%">
                   Federal Employees Viewpoint Survey: Strategic Hiring
                 </button>
               <div id="a3" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1090px">
-                <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border" frameborder="0" onload="myFunction()" style="height:1130px;width:1050px;"></iframe>
+                <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border-1" frameborder="0" onload="myFunction()" style="height:1130px;width:1050px;"></iframe>
               </div>
             </li>
 
