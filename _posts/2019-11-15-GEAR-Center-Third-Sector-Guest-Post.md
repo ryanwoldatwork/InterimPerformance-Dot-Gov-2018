@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "GEAR Center Challenge Winners: Data for Impact - Integrating Data for Workforce Training Programs"
+title: "GEAR Center Challenge Winner: Data for Impact - Integrating Data for Workforce Training Programs"
 
 rating: "0"
 
