@@ -22,7 +22,7 @@ image: /img/blog/GEAR-center-graphic.png
 image_accessibility: A map of the United States that says "GEAR Center Challenge Winners."
 
 authors:
-- Performance.gov Team
+- Brian Beachkofski and Jeff Lambart
 
 tags:
 - PMA
