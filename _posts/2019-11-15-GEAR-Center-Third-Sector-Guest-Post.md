@@ -22,13 +22,16 @@ image: /img/blog/GEAR-center-graphic.png
 image_accessibility: A map of the United States that says "GEAR Center Challenge Winners."
 
 authors:
-- Brian Beachkofski and Jeff Lambart
+- Brian Beachkofski and Jeff Lambart, Third Sector Capital Partners
 
 tags:
 - PMA
 
 
 ---
+**We've invited the GEAR Center Challenge Winners to write "guest blogs" to provide more detail on their projects. This is the first in that series. The opinions expressed in this guest post are the authors' own and do not reflect the views of Performance.gov or U.S. General Services Administration.**
+
+<hr style= "hieght:5px; color:#07648d">
 
 The critical elements that allow an individual to thrive and sustain economic self-sufficiency do not separate neatly into different categories. An individual’s current job and career pathway are clearly deeply intertwined with their housing stability, access to healthcare, involvement with the justice system, and educational outcomes. Yet the way government data is held in disconnected silos prevents policymakers from having a comprehensive view of the lives of the people they are serving. The private sector has embraced linking various available data points to create holistic profiles of customers which help firms tailor services and improve products. Public servants understand the need to take a similarly comprehensive view of their clients, yet are held back from doing so by legacy data systems that were set up with compliance and reporting in mind. Third Sector is leading the “Data for Impact” team, selected as one of three grand prize winners of the [Government Effectiveness Advanced Research (GEAR) Center Challenge](https://www.performance.gov/GEARcenter/) to try to change this reality by integrating siloed data on youth and young adults with past involvement with the justice and child welfare systems in Northern Virginia.
 
