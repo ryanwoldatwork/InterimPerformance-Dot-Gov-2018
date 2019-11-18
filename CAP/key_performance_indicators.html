@@ -25,10 +25,13 @@ description: KPIs measure the performance of cross-agency priority goals in effe
     location.reload(true);
   }
 
-
+  $(document).ready(function(){
+    $(".test").one("click", function(){
+      $(this).animate({fontSize: "+=6px"});
+    });
+  });
 
 </script>
-
 
 <section class="usa-section usa-section-dark usa-graphic_list">
    <div class="usa-grid usa-graphic_list-row">
@@ -71,14 +74,14 @@ description: KPIs measure the performance of cross-agency priority goals in effe
               <li>
                 <button
                   onclick="var ifr=document.getElementById('no-frame-border-1'); ifr.src='https://staging.d2d.gsa.gov/tableau-report-for-embed/11402';"
-                  class="usa-accordion-button"
+                  class="usa-accordion-button test"
                   aria-expanded="false"
                   aria-controls="a2"
                   style="margin-left:20px;margin-right:20px;width:96%">
                   Federal Employees Viewpoint Survey: Improve Performance
                 </button>
                 <div id="a2" class="usa-accordion-content" style="padding-left:0px;padding-right:0px;width:1090px">
-                  <p class="card-tag" style="float:right;margin-top:10px;margin-bottom:10px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="https://www.usaspending.gov/#/download_center/award_data_archive">Download data/View CAP Goal</a>
+                  <p class="card-tag" style="float:right;margin-top:10px;margin-bottom:20px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="https://www.usaspending.gov/#/download_center/award_data_archive">View CAP Goal</a>
 
                   <iframe src="" id="no-frame-border-1" frameborder="0" onload="myFunction()" style="height:1130px;width:1050px;"></iframe>
                 </div>
