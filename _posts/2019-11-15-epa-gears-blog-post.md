@@ -20,7 +20,7 @@ image: "/img/blog/gears-of-gov-awards-logo.png"
 image_accessibility: Gears of Government Awards Logo against gold background.
 
 authors:
-- EPA
+- John Peterson (EPA Region 5) and Melissa Sullivan (EPA Headquarters)
 
 tags:
 - PMA
@@ -28,7 +28,7 @@ tags:
 
 *The opinions expressed in this guest post are the authors’ own and do not reflect the views of Performance.gov or U.S. General Services Administration.*
 
-<hr color="black"> 
+<hr color="black">
 
 As Federal agencies prepare to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA). This team’s implementation of lean management principles not only improved permitting processes and reduced redundancies in Region 5, it served as a model for other offices across the agency to emulate. We’re proud to share their story and are excited to recognize more exemplary individuals and teams in the upcoming 2020 Gears of Government Awards cycle.
 
