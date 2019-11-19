@@ -17,18 +17,20 @@ description: As Federal agencies gear up to nominate individuals and teams for t
 excerpt: As Federal agencies gear up to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA).
 
 image: "/img/blog/gears-of-gov-awards-logo.png"
-image_accessibility: Gears of Government Awards Logo against gold background. 
+image_accessibility: Gears of Government Awards Logo against gold background.
 
 authors:
-- Performance.gov Team
+- EPA
 
 tags:
 - PMA
 ---
 
-As Federal agencies gear up to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA). This team’s implementation of lean management principles not only improved permitting processes and reduced redundancies in Region 5, it serves as a model for other offices across the agency to emulate. We’re proud to share their story and are excited to recognize more exemplary individuals and teams in the upcoming 2020 Gears of Government Awards cycle.
+As Federal agencies prepare to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA). This team’s implementation of lean management principles not only improved permitting processes and reduced redundancies in Region 5, it served as a model for other offices across the agency to emulate. We’re proud to share their story and are excited to recognize more exemplary individuals and teams in the upcoming 2020 Gears of Government Awards cycle.
 
 *The Gears of Government Awards recognize individuals and teams across the Federal workforce whose dedication supports exceptional delivery of key outcomes for the American people, specifically mission results, customer service, and accountable stewardship. View the [2019 Hall of Winners](https://www.performance.gov/gearawards/winners/), learn more about the [Gears of Government Awards](https://www.performance.gov/gearawards/), and stay tuned for our announcement and features of 2020 winners in the spring.*
+
+*&#8727; The opinions expressed in this guest post are the authors’ own and do not reflect the views of Performance.gov or U.S. General Services Administration.*&#8727;
 
 ***
 
