@@ -33,6 +33,22 @@
 
 }
 
+.iso-nav #agency-1 {
+  border: 1px solid #112e51;
+  cursor: pointer;
+  margin: 3.5px;
+  font-size: 1.3rem;
+  letter-spacing: 0.5px;
+
+
+}
+
+.iso-nav #agency-1:hover {
+ background:#981b1e;
+  color: #ffffff;
+
+}
+
 .iso-nav #show-all {
   border: 1px solid #cd2026;
   cursor: pointer;
