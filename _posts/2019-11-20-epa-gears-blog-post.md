@@ -30,7 +30,7 @@ tags:
 
 <hr color="black">
 
-As Federal agencies prepare to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA). This team’s implementation of lean management principles not only improved permitting processes and reduced redundancies in Region 5, it served as a model for other offices across the agency to emulate. We’re proud to share their story and are excited to recognize more exemplary individuals and teams in the upcoming 2020 Gears of Government Awards cycle.
+As Federal agencies prepare to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Environmental Protection Agency (EPA). This team’s implementation of lean management principles not only improved permitting processes and reduced redundancies in Region 5, which covers Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin, and 35 tribes, it served as a model for other offices across the agency to emulate. We’re proud to share their story and are excited to recognize more exemplary individuals and teams in the upcoming 2020 Gears of Government Awards cycle.
 
 *The Gears of Government Awards recognize individuals and teams across the Federal workforce whose dedication supports exceptional delivery of key outcomes for the American people, specifically mission results, customer service, and accountable stewardship. View the [2019 Hall of Winners](https://www.performance.gov/gearawards/winners/), learn more about the [Gears of Government Awards](https://www.performance.gov/gearawards/), and stay tuned for our announcement and features of 2020 winners in the spring.*
 
