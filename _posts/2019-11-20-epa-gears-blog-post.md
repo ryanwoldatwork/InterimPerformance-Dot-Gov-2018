@@ -36,7 +36,7 @@ As Federal agencies prepare to nominate individuals and teams for the next round
 
 ***
 
-The Environmental Protection Agency (EPA) Region 5 Air and Radiation Division Team was recognized with a 2019 Gears of Government Award for their metric-driven methods, signature visual management tool, and implementation of lean management practices that drove significant process improvement.
+The EPA Region 5 Air and Radiation Division Team was recognized with a 2019 Gears of Government Award for their metric-driven methods, signature visual management tool, and implementation of lean management practices that drove significant process improvement.
 
 As a result of the process improvement, the team eliminated 13 steps in the issuance process for non-controversial permits. The issuance period for routine Clean Air Act Title V operating permits dropped from 389 days to 142 days, while Part 49 construction permit issuance fell dramatically from 403 days to 73 days.
 
