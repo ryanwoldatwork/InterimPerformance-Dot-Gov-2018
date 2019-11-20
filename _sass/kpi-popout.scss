@@ -26,3 +26,26 @@
     background-image: url(../img/homepage_images/graphs.png);
     object-fit: fill;
 }
+
+.row {
+  display: none;
+
+}
+
+.blue-kpi {
+background-color: #24416a;
+color: white;
+padding:5px;
+border-radius:10px;
+margin:0px;
+height: 70px;
+}
+
+.kpi-font {
+background-color: #24416a;
+color: white;
+padding:7px;
+font-size:1.3rem;
+border-radius:10px;
+
+}
