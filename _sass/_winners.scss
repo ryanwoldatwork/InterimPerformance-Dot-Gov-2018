@@ -28,7 +28,7 @@
 }
 
 .iso-nav #agency:hover {
- background:#981b1e;
+ background:#00bde3;
   color: #ffffff;
 
 }
@@ -44,7 +44,7 @@
 }
 
 .iso-nav #agency-1:hover {
- background:#981b1e;
+ background:#00bde3;
   color: #ffffff;
 
 }
@@ -140,7 +140,7 @@
 }
 
 .active {
-  background-color: #112e51;
+  background-color: #00bde3;
   color: #ffffff;
 
 /*Card styling*/
@@ -460,9 +460,9 @@ background-color: #ffffff;
   font-size: 16px;
 }
 
-.accordion li.open .link { color: #b63b4d; }
+.accordion li.open .link { color: #1a4480; }
 
-.accordion li.open i { color: #b63b4d; }
+.accordion li.open i { color: #1a4480; }
 
 .accordion li.open i.fa-chevron-down {
   -webkit-transform: rotate(180deg);
