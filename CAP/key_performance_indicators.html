@@ -8,129 +8,30 @@ summary: summary
 description: KPIs measure the performance of cross-agency priority goals in effecting change across multiple agencies.
 ---
 
-<script type="text/javascript">
-  jQuery(document).ready(function($){
-
-
-      $( ".show1" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row1").slideUp();
-              $( ".row1" ).slideToggle( "fast", function() {
-      	});
-       });
-
-      $( ".show2" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row2").slideUp();
-              $( ".row2" ).slideToggle( "fast", function() {
-      	});
-      });
-
-      $( ".show3" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row3").slideUp();
-              $( ".row3" ).slideToggle( "fast", function() {
-      	});
-       });
-
-      $( ".show4" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row4").slideUp();
-              $( ".row4" ).slideToggle( "fast", function() {
-      	});
-      });
-
-
-      $( ".show5" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row5").slideUp();
-              $( ".row5" ).slideToggle( "fast", function() {
-      	});
-      });
-
-      $( ".show6" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row6").slideUp();
-              $( ".row6" ).slideToggle( "fast", function() {
-      	});
-      });
-
-      $( ".show7" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row7").slideUp();
-              $( ".row7" ).slideToggle( "fast", function() {
-      	});
-      });
-
-      $( ".show8" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row8").slideUp();
-              $( ".row8" ).slideToggle( "fast", function() {
-      	});
-      });
-
-
-      $( ".show9" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row9").slideUp();
-              $( ".row9" ).slideToggle( "fast", function() {
-      	});
-      });
-
-      $( ".show10" ).click(function(e) {
-          e.preventDefault();
-              $(".row").not(".row10").slideUp();
-              $( ".row10" ).slideToggle( "fast", function() {
-      	});
-      });
-
-
-  });
-
-  if(performance.navigation.type == 2){
-    console.log( 'Page load due to a back button click. Reloading to refresh the Performance.gov report. ' );
-    location.reload(true);
-  }
-
-
-</script>
-
 {% include KPI-intro.html %}
 {% include KPI-menu.html %}
 
-<style>
-#kpi-data-title {
-  padding-top:20px;
-}
-
-
-</style>
-
-<section class="usa-section usa-graphic_list row1 row" style="padding-top:0px;">
+<section class="usa-section usa-graphic_list" style="padding-top:0px;">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-whole usa-media_block">
-       <h3 id="kpi-data-title">Federal Employee Veiwpoint Survey: Improve Performance</h3>
-       <p>The Workforce for th 21st Century CAP Goal works towards effective and efficient mission achievement and improved service to America through enhanced alignment and strategic management of the Federal workforce.</p>
-       <a class="usa-button"  href="{{ site.baseurl }}/##/">Download Data</a>
-       <a class="usa-button"  href="{{ site.baseurl }}/CAP/workforce/">View CAP Goal</a>
-       <iframe src="" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>
+      <div id="wrapper"></div>
     </div>
   </div>
 </section>
 
-<section class="usa-section usa-graphic_list row2 row" style="padding-top:none;">
+<!--<section class="usa-section usa-graphic_list row2 row" style="padding-top:0px;">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-whole usa-media_block">
         <h3 id="kpi-data-title">Federal Employee Veiwpoint Survey: Strategic Hiring</h3>
        <p>The Workforce for the 21st Century CAP Goal works towards effective and efficient mission achievement and improved service to America through enhanced alignment and strategic management of the Federal workforce.</p>
        <a class="usa-button" href="{{ site.baseurl }}/##/">Download Data</a>
         <a class="usa-button" href="{{ site.baseurl }}/CAP/workforce/">View CAP Goal</a>
-       <iframe src="" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>
+       <iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border-2" frameborder="0" style="height:1130px;width:1050px;"></iframe>
     </div>
   </div>
 </section>
 
-<section class="usa-section usa-graphic_list row3 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row3 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Cybersecurity: Manage Asset Security</h3>
@@ -142,7 +43,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row4 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row4 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Cybersecurity: Limit Personnel Access</h3>
@@ -154,7 +55,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row5 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row5 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Cybersecurity: Protect Networks and Data</h3>
@@ -166,7 +67,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row6 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row6 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Cloud Email Adoption</h3>
@@ -178,7 +79,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row7 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row7 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Category Management Data</h3>
@@ -190,7 +91,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row8 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row8 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Customer Satisfaction Scores</h3>
@@ -202,7 +103,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row9 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row9 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Cash Loss to the Government: FY 17-18</h3>
@@ -214,7 +115,7 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 </div>
 </section>
 
-<section class="usa-section usa-graphic_list row10 row" style="padding-top:none;">
+<section class="usa-section usa-graphic_list row10 row" style="padding-top:0px;">
 <div class="usa-grid usa-graphic_list-row">
   <div class="usa-width-one-whole usa-media_block">
      <h3 id="kpi-data-title">Cash Loss to the Government: Program Scorecards</h3>
@@ -234,3 +135,4 @@ description: KPIs measure the performance of cross-agency priority goals in effe
 <script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
 <!--Custom Js file here ... -->
 <script src="{{ site.baseurl }}/js/script.js"></script>
+<script src="{{ site.baseurl }}/js/kpi.js"></script>
