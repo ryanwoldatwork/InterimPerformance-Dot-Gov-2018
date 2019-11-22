@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "A Shortage & a Surplus: Addressing the Cyber Talent Gap by Increasing Job Opportunities for Individuals on the Autism Spectrum"
+title: "GEAR Center Challenge Winner: Addressing the Cyber Talent Gap by Increasing Job Opportunities for Individuals on the Autism Spectrum"
 
 rating: "0"
 
