@@ -3,7 +3,7 @@ layout: post
 
 title: "NEW: First High Impact Service Provider (HISP) Action Plans Released"
 
-rating: "1"
+rating: "0"
 
 permalink: /CX-HISP-Action-Plans/
 
