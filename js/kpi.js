@@ -7,66 +7,66 @@ function myFunction() {
   document.getElementById("wrapper").innerHTML = codeBlock
 }
 
-var codeBlock =   '<h3>Federal Employee Veiwpoint Survey - Improve Performance</h3>' + '<p>The Workforce for the 21st Century CAP Goal works towards effective and efficient mission achievement and improved service to America through enhanced alignment and strategic management of the Federal workforce.</p>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock =   '<h3>Federal Employee Veiwpoint Survey - Improve Performance</h3>' + '<p>The Office of Personnel Management Federal Employee Viewpoint Survey measures employee perception of whether, and to what extent, conditions characteristic of successful organizations are present in their agencies.</p>' + '<p>The dashboard below compares 2017 and 2018 government-wide scores for two performance-related metrics, showing percentage change in conditions that lead to employee engagement and steps taken to deal with a poor performer who cannot or will not improve their work performance. </p>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11402" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction1() {
   document.getElementById("wrapper").innerHTML = codeBlock1
 }
 
-var codeBlock1 =   '<h3>Federal Employee Veiwpoint Survey - Strategic Hiring</h3>' + '<p>The Workforce for the 21st Century CAP Goal works towards effective and efficient mission achievement and improved service to America through enhanced alignment and strategic management of the Federal workforce.</p>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock1 =   '<h3>Federal Employee Veiwpoint Survey - Strategic Hiring</h3>' + '<p>The Office of Personnel Management Federal Employee Viewpoint Survey measures employee perception of whether, and to what extent, conditions characteristic of successful organizations are present in their agencies.</p>' + '<p>The dashboard below compares 2017 and 2018 government-wide scores for two hiring-related metrics, tracking progress in hiring people with the right skills and overall satisfaction with agency hiring and recruiting. </p>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11403" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction2() {
   document.getElementById("wrapper").innerHTML = codeBlock2
 }
 
-var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security</h3>' + '<p>The IT Modernization CAP Goal works to build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.</p>' +
+var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security</h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11408" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction3() {
   document.getElementById("wrapper").innerHTML = codeBlock3
 }
 
-var codeBlock3 =   '<h3>Cybersecurity - Limit Personnel Access</h3>' + '<p>The IT Modernization CAP Goal works to build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.</p>' +
+var codeBlock3 =   '<h3>Cybersecurity - Limit Personnel Access</h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for three access-related metrics for 23 federal agencies. Measuring progress in limiting personnel access helps the Federal Government control which personnel have access to priveleged networks and high value assets.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11409" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction4() {
   document.getElementById("wrapper").innerHTML = codeBlock4
 }
 
-var codeBlock4 =   '<h3>Cybersecurity -Protect Networks and Data</h3>' + '<p>The IT Modernization CAP Goal works to build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.</p>' +
+var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data</h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect Federal data from unauthorized intrusion and exfultration.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11410" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction5() {
   document.getElementById("wrapper").innerHTML = codeBlock5
 }
 
-var codeBlock5 =   '<h3>Cloud Email Adoption</h3>' + '<p>The IT Modernization CAP Goal works to build and maintain more modern, secure, and resilient information technology (IT) to enhance mission delivery and productivity – driving value by increasing efficiencies of Government IT spending while potentially reducing costs, increasing efficiencies, and enhancing citizen engagement and satisfaction with the services we provide.</p>' +
+var codeBlock5 =   '<h3>Cloud Email Adoption</h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from June 2019 - September 2019.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11407" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction6() {
   document.getElementById("wrapper").innerHTML = codeBlock6
 }
 
-var codeBlock6 =   '<h3>Category Management Data</h3>' + '<p>The Category Management CAP Goal works to leverage common contracts, meaning that they share in contracts that get the best value for taxpayers, in order to buy common goods and services as an enterprise. This approach will eliminate redundancies, increase efficiency, and deliver more value and savings from Federal acquisition programs. By the end of FY 2020, the Government will achieve $18 billion in savings for taxpayers by applying category management principles—or smart decision-making where agencies buy the same kinds of goods and services through best value contract solutions—to 60% of common spend. In addition, the Government will reduce duplicative contracts by 50,000, potentially reducing administrative costs by hundreds of millions of dollars.</p>' +
+var codeBlock6 =   '<h3>Category Management Data</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies towards Category Management targets.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10280" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction7() {
   document.getElementById("wrapper").innerHTML = codeBlock7
 }
 
-var codeBlock7 =   '<h3>Customer Satisfaction Scores</h3>' + '<p>The Sharing Quality Services CAP Goal works to create a mission-driven government with modern technology and services that enable the workforce to better serve the American taxpayer.</p>' +
+var codeBlock7 =   '<h3>Customer Satisfaction Scores</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies in four customer satisfaction target areas.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11411" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction8() {
   document.getElementById("wrapper").innerHTML = codeBlock8
 }
 
-var codeBlock8 =   '<h3>Cash Loss to the Government - FY 17-18</h3>' + '<p>The Getting Payments Right CAP Goal Demonstrate stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time.</p>' +
+var codeBlock8 =   '<h3>Cash Loss to the Government - FY 17-18</h3>' + '<p>The dashboard below shows 2017 - 2018 change in cash loss to the government by program across 23 Federal agecies.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11405" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction9() {
   document.getElementById("wrapper").innerHTML = codeBlock9
 }
 
-var codeBlock9 =   '<h3>Cash Loss to the Government - Program Scorecards</h3>' + '<p>The Getting Payments Right CAP Goal Demonstrate stewardship of taxpayer dollars by reducing monetary loss and making payments correctly the first time.</p>' +
+var codeBlock9 =   '<h3>Cash Loss to the Government - Program Scorecards</h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11406" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
