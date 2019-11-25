@@ -47,26 +47,55 @@ function myFunction6() {
   document.getElementById("wrapper").innerHTML = codeBlock6
 }
 
-var codeBlock6 =   '<h3>Category Management Data</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies towards Category Management targets.</p>' +
-'<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/10280" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock6 =   '<h3>Government-wide View</h3>' + '<p></p>' +
+'<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8527" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction7() {
   document.getElementById("wrapper").innerHTML = codeBlock7
 }
 
-var codeBlock7 =   '<h3>Customer Satisfaction Scores</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies in four customer satisfaction target areas.</p>' +
-'<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11411" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock7 =   '<h3>Overview and Definitions</h3>' + '<p></p>' +
+'<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8528" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction8() {
   document.getElementById("wrapper").innerHTML = codeBlock8
 }
 
-var codeBlock8 =   '<h3>Cash Loss to the Government - FY 17-18</h3>' + '<p>The dashboard below shows 2017 - 2018 change in cash loss to the government by program across 23 Federal agecies.</p>' +
-'<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11405" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+var codeBlock8 =   '<h3>Category View</h3>' + '<p></p>' +
+'<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8529" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction9() {
   document.getElementById("wrapper").innerHTML = codeBlock9
 }
 
-var codeBlock9 =   '<h3>Cash Loss to the Government - Program Scorecards</h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>' +
+var codeBlock9 =   '<h3>Department View</h3>' + '<p></p>' +
+'<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8530" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+function myFunction10() {
+  document.getElementById("wrapper").innerHTML = codeBlock10
+}
+
+var codeBlock10 =   '<h3>PMACurrentFYAllAgencyProgress</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies towards Category Management targets.</p>' +
+'<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8531" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+
+function myFunction11() {
+  document.getElementById("wrapper").innerHTML = codeBlock11
+}
+
+var codeBlock11 =   '<h3>Customer Satisfaction Scores</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies in four customer satisfaction target areas.</p>' +
+'<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11411" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+function myFunction12() {
+  document.getElementById("wrapper").innerHTML = codeBlock12
+}
+
+var codeBlock12 =   '<h3>Cash Loss to the Government - FY 17-18</h3>' + '<p>The dashboard below shows 2017 - 2018 change in cash loss to the government by program across 23 Federal agecies.</p>' +
+'<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11405" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+function myFunction13() {
+  document.getElementById("wrapper").innerHTML = codeBlock13
+}
+
+var codeBlock13 =   '<h3>Cash Loss to the Government - Program Scorecards</h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11406" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
