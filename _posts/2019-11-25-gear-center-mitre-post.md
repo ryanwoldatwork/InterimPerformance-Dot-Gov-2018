@@ -2,7 +2,7 @@
 layout: post
 tumblr_url:
 
-title: "GEAR Center Challenge Winner: Shrinking the Cyber Talent Gap by increasing opportunities for Individuals on the Autism Spectrum"
+title: "GEAR Center Challenge Winner: Shrinking the Cyber Talent Gap by Increasing Opportunities for Individuals on the Autism Spectrum"
 
 rating: "0"
 
