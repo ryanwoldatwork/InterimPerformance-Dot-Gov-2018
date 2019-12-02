@@ -83,7 +83,7 @@ function myFunction11() {
   document.getElementById("wrapper").innerHTML = codeBlock11
 }
 
-var codeBlock11 =   '<h3>Customer Satisfaction Scores</h3>' + '<p>The dashboard below compares 2017 and 2018 data from 23 federal agecies in four customer satisfaction target areas.</p>' +
+var codeBlock11 =   '<h3>Customer Satisfaction Scores</h3>' + '<p>The dashboard below compares 2017 and 2018 customer satisfaction data from 23 federal agencies in four targeted mission support areas.</p>' +
 '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11411" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction12() {
