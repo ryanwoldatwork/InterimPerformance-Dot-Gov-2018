@@ -33,7 +33,7 @@ function myFunction4() {
   document.getElementById("wrapper").innerHTML = codeBlock4
 }
 
-var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data <em>(Updated September 2019)</em></h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect Federal data from unauthorized intrusion and exfultration.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI%20Data_FY19Sept.xlsx">Download Data</a>' +
+var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data <em>(Updated September 2019)</em></h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect federal data from unauthorized intrusion and exfultration.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI%20Data_FY19Sept.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8535" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction5() {
@@ -85,7 +85,7 @@ function myFunction12() {
   document.getElementById("wrapper").innerHTML = codeBlock12
 }
 
-var codeBlock12 =   '<h3>Cash Loss to the Government - FY 17-18 <em>(Updated September 2019)</em></h3>' + '<p>The dashboard below shows 2017 - 2018 change in cash loss to the government by program across 23 Federal agecies.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash_Loss_Government_KPI_Data_Sept2019.xlsx">Download Data</a>'  +
+var codeBlock12 =   '<h3>Cash Loss to the Government - FY 17-18 <em>(Updated September 2019)</em></h3>' + '<p>The dashboard below shows 2017 - 2018 change in cash loss to the government by program across 23 federal agecies.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash_Loss_Government_KPI_Data_Sept2019.xlsx">Download Data</a>'  +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8538" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction13() {
