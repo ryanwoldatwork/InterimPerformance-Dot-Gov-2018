@@ -55,7 +55,7 @@ The Federal Government currently has no entity responsible for maintaining the p
 - Service members seeking resources to support their transition to a new career often navigate programs and resources across at least seven federal agencies
 - Small business owners must apply for an Employer Identification Number from the Internal Revenue Service, submit new hire paperwork to the Department of Homeland Security, meet health insurance requirements with the Department of Health and Human Services, and address workplace safety codes with the Department of Labor
 
-While many of these programs do their best to collaborate, and often provide good service within their silo, we know customers are frustrated with the gaps between our agencies. As our team noted in our last post, people experience life events, not Federal agencies. Customer needs should shape and determine the delivery of government service. However, since Congress funds agencies, not life events, it is our responsibility to design coordinated services that bridge that gap.
+While many of these programs do their best to collaborate, and often provide good service within their silo, we know customers are frustrated with the gaps between our agencies. People experience life events, not federal agencies. Customer needs should shape and determine the delivery of government service. However, since Congress funds agencies, not life events, it is our responsibility to design coordinated services that bridge that gap.
 
 **The Federal Government’s first cross-agency journey map**
 
@@ -94,8 +94,8 @@ It does not need to be a formal, top-down effort. Consider simply enlisting a fe
 We look forward to providing additional updates in this space – you can follow our work at [performance.gov/CX](performance.gov/CX).
 
 *Resource Links*
-- Service Member Transition to Civilian Employment Journey Map Guide
-- Service Member Transition to Civilian Employment Journey Map
-- Workshop Guide for Federal Agencies
-- Project Report
-- Human Centered Design Discovery Stage Field Guide
+- [Service Member Transition to Civilian Employment Journey Map Guide](../cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map_Guide.pdf" target="_blank">)
+- [Service Member Transition to Civilian Employment Journey Map](../cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf" target="_blank">)
+- [Workshop Guide for Federal Agencies](../cx/Journey_Map/Workshop_Guide_for_Federal_Agencies.pdf" target="_blank">)
+- [Project Report](../cx/Journey_Map/Project_Report.pdf" target="_blank">)
+- [Human Centered Design Discovery Stage Field Guide](../cx/Journey_Map/Human_Centered_Design_Discovery_Stage_Field_Guide.pdf" target="_blank">)
