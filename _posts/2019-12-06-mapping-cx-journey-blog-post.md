@@ -72,8 +72,8 @@ Orienting ourselves to the general process (as described in layer two of the hol
 
 We were fortunate to work with an outstanding team, many of whom have done previous design work serving veterans, to build the critical first layer described above (qualitative customer data). One to two hour interviews with 25 veterans in this profile, along with interviews with 18 stakeholders across 6 agencies, 10 subject matter experts, and Veterans Service Organizations, produced hundreds of pages of transcripts full of stories, insights, and patterns about the employment experience and associated support. We are excited to share the result of this work – a map of the transition from military service employment to employment in the civilian labor market.
 
-<a href="{{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf" target="_blank"><img src="{{ site.baseurl }}/img/blog/cx-map.jpg" style="padding:12px"></a>
-<center><em style="font-size: 12px">Service Member Transition to Civilian Employment Journey Map  </em></center>
+<a href="{{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf" target="_blank"><img src="{{ site.baseurl }}/img/blog/cx-map.jpg"></a>
+<center><em style="font-size: 12px">This pilot maps the cross-government journey of service members transitioning to civilian employment.  </em></center>
 
 This journey map is a composite of the experiences of the people we spoke with, and shows the steps and support as they articulated them. This map has four sections:
 - At the top are a selection of **key steps** for service, transition, and employment. Each step acts as a column; anything below it roughly corresponds to the mindsets and support offered at that moment.
