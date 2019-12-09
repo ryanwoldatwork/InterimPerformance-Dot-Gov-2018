@@ -94,8 +94,8 @@ It does not need to be a formal, top-down effort. Consider simply enlisting a fe
 We look forward to providing additional updates in this space – you can follow our work at [performance.gov/CX](performance.gov/CX).
 
 *Resource Links*
-- [Service Member Transition to Civilian Employment Journey Map Guide](../cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map_Guide.pdf" target="_blank">)
-- [Service Member Transition to Civilian Employment Journey Map](../cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf" target="_blank">)
-- [Workshop Guide for Federal Agencies](../cx/Journey_Map/Workshop_Guide_for_Federal_Agencies.pdf" target="_blank">)
-- [Project Report](../cx/Journey_Map/Project_Report.pdf" target="_blank">)
-- [Human Centered Design Discovery Stage Field Guide](../cx/Journey_Map/Human_Centered_Design_Discovery_Stage_Field_Guide.pdf" target="_blank">)
+- [Service Member Transition to Civilian Employment Journey Map Guide]({{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map_Guide.pdf)
+- [Service Member Transition to Civilian Employment Journey Map]({{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf)
+- [Workshop Guide for Federal Agencies]({{  site.baseurl  }}/cx/Journey_Map/Workshop_Guide_for_Federal_Agencies.pdf)
+- [Project Report]({{  site.baseurl  }}/cx/Journey_Map/Project_Report.pdf)
+- [Human Centered Design Discovery Stage Field Guide]({{  site.baseurl  }}/cx/Journey_Map/Human_Centered_Design_Discovery_Stage_Field_Guide.pdf)
