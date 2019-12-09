@@ -37,6 +37,9 @@ Imagine if the U.S. government understood how each of its services were part of 
 
 A journey is one way to look at an experience and tell a story. Many in the private (and now public) sector use a process of “journey mapping” to provide multiple stakeholders with a common understanding of how a customer interacts with a service. You may have heard of tools like “user personas,” “customer maps,” “user journeys,” “behavioral maps,” “service blueprints,” and more. It is looking at the fire and subsequent services from the perspective of Charlotte.
 
+<img src="{{ site.baseurl }}/img/blog/cx-personas.png" style="padding:12px">
+<center><em style="font-size: 12px">Customer personas guided the process of mapping the experience of service members transitioning to civilian employment.  </em></center>
+
 Our team believes deeply in these processes to build shared knowledge of customer needs, using a physical artifact to ground conversations about improvements and priorities. These journeys can be mapped at all kinds of levels – from a specific interaction visiting a service center to change your name and apply for a new Social Security card, to an individual’s overall lifetime experience interacting with the Social Security Administration.
 
 **A holistic customer understanding**
@@ -69,7 +72,8 @@ Orienting ourselves to the general process (as described in layer two of the hol
 
 We were fortunate to work with an outstanding team, many of whom have done previous design work serving veterans, to build the critical first layer described above (qualitative customer data). One to two hour interviews with 25 veterans in this profile, along with interviews with 18 stakeholders across 6 agencies, 10 subject matter experts, and Veterans Service Organizations, produced hundreds of pages of transcripts full of stories, insights, and patterns about the employment experience and associated support. We are excited to share the result of this work – a map of the transition from military service employment to employment in the civilian labor market.
 
-[Embed image of map]
+<a href="{{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf" target="_blank"><img src="{{ site.baseurl }}/img/blog/cx-map.jpg" style="padding:12px"></a>
+<center><em style="font-size: 12px">Service Member Transition to Civilian Employment Journey Map  </em></center>
 
 This journey map is a composite of the experiences of the people we spoke with, and shows the steps and support as they articulated them. This map has four sections:
 - At the top are a selection of **key steps** for service, transition, and employment. Each step acts as a column; anything below it roughly corresponds to the mindsets and support offered at that moment.
@@ -94,8 +98,8 @@ It does not need to be a formal, top-down effort. Consider simply enlisting a fe
 We look forward to providing additional updates in this space – you can follow our work at [performance.gov/CX](performance.gov/CX).
 
 *Resource Links*
-- [Service Member Transition to Civilian Employment Journey Map Guide]({{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map_Guide.pdf)
-- [Service Member Transition to Civilian Employment Journey Map]({{  site.baseurl  }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf)
-- [Workshop Guide for Federal Agencies]({{  site.baseurl  }}/cx/Journey_Map/Workshop_Guide_for_Federal_Agencies.pdf)
-- [Project Report]({{  site.baseurl  }}/cx/Journey_Map/Project_Report.pdf)
-- [Human Centered Design Discovery Stage Field Guide]({{  site.baseurl  }}/cx/Journey_Map/Human_Centered_Design_Discovery_Stage_Field_Guide.pdf)
+- <a href="{{ site.baseurl }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map_Guide.pdf" target="_blank">Service Member Transition to Civilian Employment Journey Map Guide</a>
+- <a href="{{ site.baseurl }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map.pdf" target="_blank">Service Member Transition to Civilian Employment Journey Map</a>
+- <a href="{{ site.baseurl }}/cx/Journey_Map/Workshop_Guide_for_Federal_Agencies.pdf" target="_blank">Workshop Guide for Federal Agencies</a>
+- <a href="{{ site.baseurl }}/cx/Journey_Map/Project_Report.pdf" target="_blank">Project Report</a>
+- <a href="{{ site.baseurl }}/cx/Journey_Map/Human_Centered_Design_Discovery_Stage_Field_Guide.pdf" target="_blank">Human Centered Design Discovery Stage Field Guide</a>
