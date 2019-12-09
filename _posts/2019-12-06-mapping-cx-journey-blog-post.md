@@ -31,7 +31,7 @@ tags:
 
 Meet Charlotte. She is a resident of Northern California who survived the devastating Camp Fire which burned nearly 154,000 acres. Her house where she lives with her aging mother, husband, and three children was destroyed and her family farm severely damaged.
 
-To Charlotte, this is a tragic life event that is upending her existence. To the Federal Government it triggers possible eligibility for programs spread across dozens of agencies, not to mention state and local government and charities. It might mean assistance from the U.S. Department of Agriculture for the farm, a loan from the Small Business Administration, grants from the Federal Emergency Management Agency, help from the Department of Housing and Urban Development for housing, and help from the Department of Health and Human Services for health challenges. Each has their own process, regulations, and paperwork.
+To Charlotte, this is a tragic life event that is upending her existence. To the Federal Government, it triggers possible eligibility for programs spread across dozens of agencies, not to mention state and local government and charities. It might mean assistance from the U.S. Department of Agriculture for the farm, a loan from the Small Business Administration, grants from the Federal Emergency Management Agency, help from the Department of Housing and Urban Development for housing, and help from the Department of Health and Human Services for health challenges. Each has their own process, regulations, and paperwork.
 
 Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might federal agencies change their approach or even work together? How might citizens think differently about those services and their overall experience with government?
 
@@ -42,7 +42,7 @@ A journey is one way to look at an experience and tell a story. Many in the priv
 
 Our team believes deeply in these processes to build shared knowledge of customer needs, using a physical artifact to ground conversations about improvements and priorities. These journeys can be mapped at all kinds of levels – from a specific interaction visiting a service center to change your name and apply for a new Social Security card, to an individual’s overall lifetime experience interacting with the Social Security Administration.
 
-**A holistic customer understanding**
+## **A holistic customer understanding**
 
 When working across government organizations, it is important to capture both the front stage experience (what customers see) and the backstage operations (what makes this experience possible). This may include:
 
@@ -60,7 +60,7 @@ The Federal Government currently has no entity responsible for maintaining the p
 
 While many of these programs do their best to collaborate, and often provide good service within their silo, we know customers are frustrated with the gaps between our agencies. People experience life events, not federal agencies. Customer needs should shape and determine the delivery of government service. However, since Congress funds agencies, not life events, it is our responsibility to design coordinated services that bridge that gap.
 
-**The Federal Government’s first cross-agency journey map**
+## **The Federal Government’s first cross-agency journey map**
 
 Government typically approaches improvement and implementation from a bureaucratic, organizational-centered view. Our hypothesis is that a human-centered perspective will yield better results. After extensive research we decided to pilot the process of building a rich understanding of a U.S. Federal Government by focusing on the transition of active-duty service members to the civilian workforce.
 
@@ -83,7 +83,7 @@ This journey map is a composite of the experiences of the people we spoke with, 
 
 As an employee of a federal agency, you may have drawn this customer journey map differently, or you may see omissions in a map like this. However, this map is drawn from the customer experience. It reflects what the actual people we talked to experienced, how they think and feel about what they experienced, and the resources they used or remembered along the way. It focuses not on what federal agencies do on paper, but what resonates for customers in reality. This is not a declarative document – it is a living artifact to help facilitate conversations. As a work in progress it can be refined and updated with additional insights from stakeholders, and new layers of data (qualitative, quantitative, operational, evaluative, and more) as we learn more.
 
-**Next steps**
+## **Next steps**
 
 Now we are working with federal agencies and others at the White House to determine how we can use what we learned to improve a meaningful part of this journey. We have coalesced around three potential pilots that could help us learn more about the thematic areas where multiple agencies could improve the way they deliver services.
 
