@@ -95,7 +95,7 @@ We want to share what we learn at each stage of the process and make resources a
 
 It does not need to be a formal, top-down effort. Consider simply enlisting a few passionate team members towards the goal of talking with customers and gaining a deeper understanding of how they experience government service. This work can get everyone outside of their day-to-day routine and provide new insights.
 
-We look forward to providing additional updates in this space – you can follow our work at [performance.gov/CX](performance.gov/CX).
+We look forward to providing additional updates in this space – you can follow our work at [performance.gov/cx/](http://www.performance.gov/cx/).
 
 *Resource Links*
 - <a href="{{ site.baseurl }}/cx/Journey_Map/Service_Member_Transition_to_Civilian_Employment_Journey_Map_Guide.pdf" target="_blank">Service Member Transition to Civilian Employment Journey Map Guide</a>
