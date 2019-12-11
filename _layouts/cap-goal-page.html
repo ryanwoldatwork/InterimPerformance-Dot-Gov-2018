@@ -17,7 +17,7 @@ layout: navigation_PMA
       <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#046b99;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">News & Events</a>
 
    {% if page.KPI %}
-        <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text" style="background-color:#00a6d2;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="#KPI" id="pulse">Key Performance Indicators</a>
+        <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text" style="background-color:#00a6d2;color:#ffffff;font-weight:600;font-size: 14px;height: 36px;" href="{{ site.baseurl }}/CAP/key_performance_indicators.html" id="pulse">Key Performance Indicators</a>
    {% endif %}
 
        <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#9bdaf1;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#KPI">Resources</a>
@@ -303,17 +303,18 @@ blockquote-CAP cite {
             aria-controls="a6">
               <img class="usa-media_block-img" src="{{ site.baseurl }}/img/kpi-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Key Performance Indicators (KPI)
           </button>
-        </a>
           <div id="a6" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
             <div class="usa-grid usa-graphic_list-row">
-              <div class="usa-width-one-half usa-media_block">
-                {% include kpi--cap-page.html title=page.KPI %}
+              <div class="usa-width-one-whole usa-media_block">
+                <p>View the KPIs for this CAP Goal on our <b>new KPI page</b>! Our new page hosts enhanced visualizations and interactive dashboards that allow you to view key data sets in new and innovative ways. </p>
+                <a class="usa-button usa-button-secondary " href="{{ site.baseurl }}/CAP/key_performance_indicators.html">View KPIs</a>
+                <!--{% include kpi--cap-page.html title=page.KPI %}-->
               </div>
-              {% if page.KPI-2 %}
+              <!--{% if page.KPI-2 %}
               <div class="usa-width-one-half usa-media_block">
                 {% include kpi--cap-page.html title=page.KPI-2 %}
               {% endif %}
-              </div>
+              </div>-->
           </div>
         </li>
         {% endif %}
@@ -376,8 +377,8 @@ blockquote-CAP cite {
                     <i><a href="../innovation-sessions/9-26-19-grants-intelligence.pdf">View the Presentation: Grants Intelligence – Using Data to Inform Decision-Making</a></i></li>
                   <li>Thursday, October 24, 2019<br>
                   <i><a href="../innovation-sessions/10-24-reducing-administrative-burden-a-states-perspective.pdf">View the Presentation: Reducing Administrative Burden – A State’s Perspective</a></i></li>
-                  <li>Thursday, December 5, 2019 - ReInvent Grants Management & the Grant-Recipient Digital Dossier, Analyzing HHS Data to Assess Pre-Award Risk<br>
-                  <i><a href="https://www.eventbrite.com/e/december-grants-innovative-exchange-tickets-83369314865">Register Now</a></i></li>
+                  <li>Thursday, December 5, 2019<br>
+                  <i><a href="../innovation-sessions/12-05-reinvent-grants-management.pdf">View the Presentation: ReInvent Grants Management & the Grant-Recipient Digital Dossier</a></i></li>
                 </ul>
               </div>
           </div>
