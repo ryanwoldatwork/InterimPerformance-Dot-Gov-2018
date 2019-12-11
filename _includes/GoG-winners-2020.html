@@ -5,8 +5,15 @@
   <div class="2020-winners">
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
       <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} ">
-        <p>{{ 2020_GoG_winners.name }}</p>
-        <p>{{ 2020_GoG_winners.agency }}</p>
+      <div class="container-GoG">
+        <img class="card-image-gog-team-2020 gray" src="{{ site.baseurl }}/img/GoG/{{ 2020_GoG_winners.image }}" alt="Avatar" class="image">
+        <div class="winner-text-team">
+          <div id="winner-left">
+            <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
+            <p>{{ 2020_GoG_winners.agency }}</p>
+          </div>
+        </div>
+      </div>
       </div>
     {% endfor %}
   </div>

@@ -1,6 +1,19 @@
 
 /*2020 styling*/
 
+.card-image-gog-team-2020 {
+  object-position: center;
+    height: 160px;
+    margin: 0;
+    width: 100%;
+    object-fit: cover;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.winner {
+  margin-bottom: 20px;
+}
 /****************************styling for policy catalog******************************/
 .no-style {
   text-decoration: none;
@@ -274,13 +287,12 @@ background-color: #ffffff;
 
   .winner-text-team {
     border-top: 1px solid #f1f1f1;
-  background-color: #ffffff;
-   flex: 1 0 auto;
+    flex: 1 0 auto;
     flex-grow: 1;
     flex-shrink: 0;
     flex-basis: auto;
     float: left;
-    height:240px;
+    height:200px;
     padding: 0rem 2rem 1rem 2rem;
     width: 100%;
     margin-top: -7px;
@@ -591,13 +603,14 @@ background-color: #ffffff;
   width: 100%;
   display: block;
   width: 100%;
-  height: 400px;
+  height: 345px;
+  border-radius: 10px;
   cursor: pointer;
-  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
 }
 
 .container-GoG-pres {
