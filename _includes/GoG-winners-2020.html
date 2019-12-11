@@ -1,0 +1,16 @@
+<!--********Generates policy catalog items. Individual cards live in the in the _policies folder**************-->
+
+<div class="usa-width-three-fourths usa-media_block ">
+  <p class="filter-count card-tag margin-top-0 text-gray-50"></p>
+  <div class="policies">
+    {% for winners in site.2020_GoG_winners %}
+      <div class="usa-width-one-third ">
+        {{ winner.title }}
+      </div>
+    </div>
+          {% endfor %}
+    </div>
+
+
+  </div>
+</div>
