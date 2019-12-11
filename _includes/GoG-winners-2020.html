@@ -2,15 +2,12 @@
 
 <div class="usa-width-three-fourths usa-media_block ">
   <p class="filter-count card-tag margin-top-0 text-gray-50"></p>
-  <div class="policies">
-    {% for winners in site.2020_GoG_winners %}
-      <div class="usa-width-one-third ">
-        {{ winner.title }}
+  <div class="2020-winners">
+    {% for 2020_GoG_winners in site.2020_GoG_winners %}
+      <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} ">
+        <p>{{ 2020_GoG_winners.name }}</p>
+        <p>{{ 2020_GoG_winners.agency }}</p>
       </div>
-    </div>
-          {% endfor %}
-    </div>
-
-
+    {% endfor %}
   </div>
 </div>

@@ -3,12 +3,12 @@
 // Losely based on: http://isotope.metafizzy.co/filtering.html#url-hash
 
 jQuery(document).ready(function ($) {
-    var $container = $(".policies");
+    var $container = $(".2020-winners");
 
     // Filter isotope
     $container.isotope({
         // options
-        itemSelector: ".policy",
+        itemSelector: ".winner",
         layoutMode: "masonry",
         getSortData: {
             date: "p"
