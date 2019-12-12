@@ -15,10 +15,10 @@ Please see below.
 
 This is the combined overall customer satisfaction score that includes all questions administered for the eight online services identified above.  The ForeSee threshold for excellent is a score of 80 or above. This score is reported in our Annual Performance and Agency Tracking Reports.
 
-|                                                           |FY19 Q1    |FY19 Q2    |FY19 Q3     |
-|-----------------------------------------------------------|------------|----------|------------|
-| Sucessfully completed online transactions*                |48 million |49 million |43.1 million|
-| Overall Customer Satisfaction Score for Online Services** |83         |85         |81***
+|                                                           |FY19 Q1     |FY19 Q2     |FY19 Q3     |
+|-----------------------------------------------------------|------------|------------|------------|
+| Sucessfully completed online transactions*                |48 million  |49 million  |43.1 million|
+| Overall Customer Satisfaction Score for Online Services** |83          |85          |81***
 
 `*` Successfully completed online transactions represent the total number of successfully completed transactions through all of our online services, including the services represented in the Overall Customer Satisfaction score for Online Services.
 
