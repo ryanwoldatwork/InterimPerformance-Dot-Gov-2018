@@ -10,9 +10,7 @@ hisp_profile_headline: "In 2018, the patent office issued the 10 millionth paten
 {:.cx-section-heading}
 ## Operational Data
 
-### FY19 Q2 - Patents Contact Center
-
-Patents customer support volume via phone
+### Patents customer support volume via phone
 
 | Month       | IAC   | OID | OMBU | PCT   | PEBC   | PET   | AAU/PUBS | PATENTS TOTAL | USPTO TOTAL |
 |-------------|-------|-----|------|-------|--------|-------|----------|---------------|-------------|
@@ -22,7 +20,6 @@ Patents customer support volume via phone
 | April       | 2,856 | 342 | 389  | 1,983 | 5,955  | 1,326 | 7,365    | 20,216        |             |
 | May         | 2,806 | 360 | 392  | 2,026 | 6,894  | 1,384 | 7,810 	 | 21,672        |             |
 | June        | 2,576 | 404 | 330  | 1,782 | 5,710  | 1,213 | 6,681 	 | 18,696        |             |
-
 
 ### Total New Applications Filed by Patent Type
 
