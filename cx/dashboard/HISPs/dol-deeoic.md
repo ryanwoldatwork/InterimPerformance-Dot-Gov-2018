@@ -11,14 +11,26 @@ hisp_profile_headline: "Supports 227,000 beneficiaries who became ill or injured
 {:.cx-section-heading}
 ## Operational Data
 
-### FY19 Q2 Data
+### Call Volume and IVR Survey Participation
 
-| Call Volume and IVR Survey Participation | District Office | Final Adjudication Branch |
-|------------------------------------------|-----------------|---------------------------|
-| Incoming calls                           | 28,670          | 1,286                     |
-| Required a return call                   | 20,350          | 951                       |
-| Returned within one day                  | 96%             | 90%                       |
-| Returned within two days                 | 99%             | 97%                       |
-| Opted in for the survey                  | 229             | n/a                       |
-| Completed the survey                     | 46              | n/a                       |
-| % Completing the survey                  | 0.2             | n/a                       |
+| District Office                          | FY19 Q2         | FY19 Q3      |
+|------------------------------------------|-----------------|--------------|
+| Incoming calls                           | 28,670          | 31,388       |
+| Required a return call                   | 20,350          | 22,417       |
+| Returned within one day                  | 96%             | 97%          |
+| Returned within two days                 | 99%             | 99%          |
+| Opted in for the survey                  | 229             | 1461         |
+| Completed the survey                     | 46              | 312          |
+| % Completing the survey                  | 0.2             | 21%          |
+
+
+
+| Final Adjudication Branch                | FY19 Q2         | FY19 Q3      |
+|------------------------------------------|-----------------|--------------|
+| Incoming calls                           | 1,286           | 1,675        |
+| Required a return call                   | 951             | 1318         |
+| Returned within one day                  | 90%             | 91%          |
+| Returned within two days                 | 97%             | 96%          |
+| Opted in for the survey                  | n/a             | n/a          |     
+| Completed the survey                     | n/a             | n/a          |
+| % Completing the survey                  | n/a             | n/a          |
