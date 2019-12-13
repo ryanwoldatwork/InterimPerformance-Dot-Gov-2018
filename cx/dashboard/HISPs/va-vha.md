@@ -11,6 +11,93 @@ The Veterans Health Administration outpatient customer experience survey data is
 
 Mapping of the VHA-adapted questions to the government-wide CX measures and the conversion of the VHA submitted data to an overall score out of 5 on each of the CX measures can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/VHA-FY19-DataDetail.xlsx">be found here</a>.
 
+#### Q4 Survey Results
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Satisfaction</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.70</div>
+			<div class="star-rating" style="--rating: 4.70;" aria-label="Rating of this product is 4.70 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "I am satisfied with the service I received"</div>
+</div>
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Trust / Confidence</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.39</div>
+			<div class="star-rating" style="--rating: 4.39;" aria-label="Rating of this product is 4.39 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "This increased my trust/confidence in the service"</div>
+</div>
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Service Effectiveness</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.64</div>
+			<div class="star-rating" style="--rating: 4.64;" aria-label="Rating of this product is 4.64 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "My need was addressed" or "My issue was resolved"</div>
+</div>
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Process / Ease</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.57</div>
+			<div class="star-rating" style="--rating: 4.57;" aria-label="Rating of this product is 4.57 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "It was easy to complete what I needed to do"</div>
+</div>
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Efficiency</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.54</div>
+			<div class="star-rating" style="--rating: 4.54;" aria-label="Rating of this product is 4.54 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "It took a reasonable amount of time"</div>
+</div>
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Process Transparency</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.73</div>
+			<div class="star-rating" style="--rating: 4.73;" aria-label="Rating of this product is 4.73 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "I was treated fairly"</div>
+</div>
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Helpful Employees</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.73</div>
+			<div class="star-rating" style="--rating: 4.73;" aria-label="Rating of this product is 4.73 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "Employees I interacted with were helpful"</div>
+</div>
+
+
 #### Q3 Survey Results
 
 <div class="survey-result-box">
