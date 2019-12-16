@@ -54,9 +54,6 @@ Several CAP Goals now have interactive data dashboards to show progress made on 
 **NEW: Key Partners Page**
 We launched a Key Partners page to list the programs and communities we use to engage agency leaders, grow talent and support agencies efforts to deliver smarter, leaner and more effective government.
 
-**NEW: Federal Data Strategy**
-Recently, the Federal Data Strategy team released the final 2020 Federal Data Strategy Action Plan. The Strategy consists of a ten-year vision for how the Federal government will accelerate
-the use of data to support the foundations of democracy, deliver on mission, serve the public, and steward resources while protecting security, privacy, and confidentiality. The Year-1 Action Plan includes concrete steps for agencies to take in 2020 to fully leverage the value of federal data.
 
 ### How to Find the Action Plans & Progress Reports
 

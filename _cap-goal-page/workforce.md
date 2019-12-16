@@ -56,12 +56,12 @@ KPI-2:  #2nd KPI title that pulls in CAP-KPI include
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
-tag: "workforce" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: Career Compass Challenge
-CAP-event-date: July 2019
-CAP-event-text: This Challenge will address the changing nature of work, and the pace of change to the types of work, needed to carry out essential missions for the American people and create the Workforce for the 21st Century, starting with NSF.
-CAP-event-button: Learn more
-event-link: https://challenge.gov/a/buzz/challenge/86/ideas/top
+tag: #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
+CAP-event-title:
+CAP-event-date:
+CAP-event-text:
+CAP-event-button:
+event-link:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
