@@ -26,6 +26,8 @@ apg-5: Maintain and Modernize the U.S. Nuclear Weapons Stockpile
 apg-5-link: APG_energy_5.html
 apg-6: Stand up a new public-private partnership pilot program at DOE for national laboratory innovation
 apg-6-link: APG_energy_6.html
+apg-6: Legacy Clean-up of Key High Risk Excess Facilities
+apg-6-link: APG_energy_7.html
 
 twitter-feed: https://twitter.com/ENERGY?ref_src=twsrc%5Etfw
 
