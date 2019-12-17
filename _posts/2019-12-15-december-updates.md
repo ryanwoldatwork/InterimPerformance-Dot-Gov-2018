@@ -17,7 +17,7 @@ description: Today, we published progress updates for both Cross-Agency Priority
 excerpt: Today, we published progress updates for both Cross-Agency Priority (CAP) Goals and Agency Priority Goals (APGs) for the fourth quarter of FY2019. These updates highlight recent milestones and accomplishments as well as related initiatives that support progress towards a more modern and effective government.
 
 
-image: "/img/blog/progress-update-construction.png"
+image: "/img/blog/dec-2019-quarterly-update.PNG"
 image_accessibility: Four men in yellow construction vests assessing the state of a building that is in the progress of being built.
 
 authors:
