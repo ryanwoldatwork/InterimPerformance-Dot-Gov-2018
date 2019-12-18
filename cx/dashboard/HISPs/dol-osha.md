@@ -10,9 +10,8 @@ hisp_profile_headline: "Supports the safety of 130 million workers employed acro
 {:.cx-section-heading}
 ## Operational Data
 
-FY19 Q2 Data for the Voluntary Protection Program
-
-| Number of new approvals         | 32   |
-|--------------------------------------|------|
-| Number of re-approvals         | 37   |
-| Website usage unique page views | 8005 |
+|Voluntary Protection Program          |FY19 Q1|FY19 Q2|FY19 Q3|
+|--------------------------------------|-------|-------|-------|
+| Number of new approvals              |4      |32     |22     |
+| Number of re-approvals               |90     |37     |88     |
+| Website usage unique page views      |5,878  |8005   |4,793  |
