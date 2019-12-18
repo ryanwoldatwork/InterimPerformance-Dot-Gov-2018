@@ -16,8 +16,8 @@ description: As Federal agencies gear up to nominate individuals and teams for t
 
 excerpt: As Federal agencies gear up to nominate individuals and teams for the next round of Gears of Government Awards, join us in looking back at a 2019 winning team from the Volcker Alliance.
 
-image: "/img/blog/gears-of-gov-awards-logo.png"
-image_accessibility: Gears of Government Awards Logo against gold background.
+image: "/img/blog/GEAR-center-graphic.png"
+image_accessibility: A map of the United States that says "GEAR Center Challenge Winners."
 
 authors:
 - Sara Mogulescu and Yesenia Martinez, The Volcker Alliance
