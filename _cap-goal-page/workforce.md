@@ -56,7 +56,7 @@ KPI-2:  #2nd KPI title that pulls in CAP-KPI include
 #***********************END KPI SECTION*****************************
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
-tag: #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
+tag: "workforce" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
 CAP-event-title:
 CAP-event-date:
 CAP-event-text:
@@ -73,9 +73,9 @@ goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg"
 alt_text_2: Photo of Peter Warren   #Goal leader 2
 goal-leader-2-name: "Peter Warren"
 goal-leader-2-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
-alt_text_3: Photo of Michael Rigas
-goal-leader-3-name: "Michael Rigas"
+goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_3: Photo of Dale Cabaniss
+goal-leader-3-name: "Dale Cabaniss"
 goal-leader-3-title: "Deputy Director, Office of Personnel Management"
 goal-leader-4-photo: "/img/CAP-photos/charles-rettig.jpg"
 alt_text_4: Photo of Charles Rettig

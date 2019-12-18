@@ -49,6 +49,8 @@ tags:
 
 As the FYs 2018-2019 APGs come to an end, agencies reflected not only on accomplishments made within the past quarter, but also on the goal’s overall performance across two years. Agencies are currently undertaking planning efforts in support of a new round of goal setting for the FYs 2020-2021 APG cycle. Concurrent with the release of the President’s 2021 Budget, agencies will be announcing new APGs on Performance.gov) that reflect the performance commitments to be achieved throughout the next two years in priority policy and management areas.
 
+We've also added additional features to Performance.gov, including:
+
 **NEW: CAP Goal KPIs**
 Several CAP Goals now have interactive data dashboards to show progress made on their Key Performance Indicators. These dashboards were created in an effort to report progress in a way that can be easily tracked by the public.
 
