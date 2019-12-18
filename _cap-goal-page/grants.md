@@ -105,14 +105,19 @@ goal-leader-3-name: "Robin Funston"
 goal-leader-3-title: "Director, Strategic Planning and Performance, Justice Management Division, Department of Justice"
 
 goal-leader-4-photo: "/img/CAP-photos/soltis-tim-cropped.jpg"
-alt_text_4: Photo of Tim Soltis #Goal leader 5
+alt_text_4: Photo of Tim Soltis #Goal leader 4
 goal-leader-4-name: "Tim Soltis"
 goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
 
 goal-leader-5-photo: "/img/CAP-photos/watson-laura.jpg"
-alt_text_5: Photo of Laura Watson  #Goal leader 6
+alt_text_5: Photo of Laura Watson  #Goal leader 5
 goal-leader-5-name: "Laura Watson"
 goal-leader-5-title: "Chief Grant Officer, Department of Labor"
+
+goal-leader-6-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6
+goal-leader-6-name: "Patrick Corrigan,"
+goal-leader-6-title: "Senior Advisor, Office of Management and Budget"
 
 #***********************END GOAL LEADER SECTION*****************************8
 
