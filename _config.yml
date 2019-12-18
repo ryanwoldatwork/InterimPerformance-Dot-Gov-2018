@@ -107,4 +107,4 @@ pagination:
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: 'index.html'
+  indexpage: 
