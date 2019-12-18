@@ -5,7 +5,7 @@ title: "GEAR Center Challenge Winner: Data-Driven Decision Making for Federal Im
 
 rating: "0"
 
-permalink: /data-driven-decisions-gears-of-government/
+permalink: /data-driven-decisions-gear-center/
 
 
 summary: summary_large_image
