@@ -3,7 +3,7 @@ layout: post
 
 title: "December 2019 Updates Show Progress on Cross-Agency and Agency Priority Goals"
 
-rating: "0"
+rating: "1"
 
 permalink: /December-2019-Updates-Show-Progress/
 
