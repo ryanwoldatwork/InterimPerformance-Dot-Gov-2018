@@ -29,7 +29,7 @@ current-action-plan: "/CAP/action_plans/dec_2019_Improve_Management_of_Major_Acq
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "Every CFO Act agency will successfully achieve at least two transformational program goals over the coming year through well-managed major acquisitions supporting a transformative critical or high-risk mission priority." #first accordion text
+statement: "Federal agencies will ensure that contracts supporting transformative and other priority projects will meet or beat delivery schedules, provide exceptional customer service, and achieve savings or cost avoidance for the taxpayer." #first accordion text
 
 challenge: "Major acquisitions—which vary in size by agency but often exceed $50 million—account for approximately one-third of annual Federal spend on contracts. These large contracts frequently support projects meant to transform areas of critical need. Yet major acquisitions often fail to achieve their goals because many Federal managers lack the program management and acquisition skills required to successfully manage and integrate large and complex acquisitions into their projects. These shortcomings are compounded by complex acquisition rules that reward compliance over creativity and results." #second accordion text
 
