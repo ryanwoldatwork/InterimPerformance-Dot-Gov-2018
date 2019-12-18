@@ -14,8 +14,8 @@ hisp_profile_headline: "Issues more than 20 million passports annually and enabl
 
 Passport Services exceeded its published service commitment of 4-6 weeks for routine service and 2-3 weeks for expedited service.
 
-| Service   | Processing Time |
-|-----------------------------------------------|------|
+| Service                                       | Processing Time    |
+|-----------------------------------------------|--------------------|
 | Average number of days for routine service:   | 6.48 business days |
 | Average number of days for expedited service: | 2.83 business days |
 
@@ -23,7 +23,7 @@ Passport Services exceeded its published service commitment of 4-6 weeks for rou
 Call answer rate of 98.9% within 2 minutes.
 
 ### Website Page Views
-26,723,616 unique page views on Passport Services web pages
+26,723,616 unique page views on Passport Services web pages.
 
 {:.cx-section-heading}
 ## FY19 Q2 Operational Data
@@ -32,13 +32,31 @@ Call answer rate of 98.9% within 2 minutes.
 
 Passport Services exceeded its published service commitment of 4-6 weeks for routine service and 2-3 weeks for expedited service.
 
-| Service   | Processing Time |
-|-----------------------------------------------|------|
-| Average number of days for routine service:   | 9.77 business days          |
+| Service                                       | Processing Time    |
+|-----------------------------------------------|--------------------|
+| Average number of days for routine service:   | 9.77 business days |
 | Average number of days for expedited service: | 3.15 business days |
 
 ### Contact Centers
  Call answer rate of 99.2% within 2 minutes.
 
 ### Website Page Views
-44,247,574 unique page views on Passport Services web pages
+44,247,574 unique page views on Passport Services web pages.
+
+
+{:.cx-section-heading}
+## FY19 Q3 Operational Data
+
+### Processing Times
+
+Passport Services met its published service commitment 2-3 weeks for expedited service.
+
+| Service                                       | Processing Time      |
+|-----------------------------------------------|----------------------|
+| Average number of days for routine service:   | 14.4 business days   |
+
+### Contact Centers
+Contact Centers - Call answer rate of 89% within 2 minutes.
+
+### Website Page Views
+37,784,347 unique page views on Passport Services web pages.
