@@ -3,7 +3,7 @@ layout: post
 
 title: "Mapping the Cross-Agency Customer Experience Journey"
 
-rating: "0"
+rating: "1"
 
 permalink: /mapping-cx-journey/
 

@@ -34,7 +34,7 @@ resource-7-url:  https://www.whitehouse.gov/wp-content/uploads/2019/03/ap_9_inte
 quote: "Historically, the Federal Government has focused on improper payments broadly, including process errors that do not affect money paid, rather than strategically targeting monetary loss to taxpayers." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/sept_2019_Getting_Payments_Right.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Getting_Payments_Right.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -50,6 +50,7 @@ opportunity-bullet-2: "Build trust in government by better understanding the nat
 
 action-2019-june: "/CAP/action_plans/june_2019_Getting_Payments_Right.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Getting_Payments_Right.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Getting_Payments_Right.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Getting_Payments_Right.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Getting_Payments_Right.pdf"

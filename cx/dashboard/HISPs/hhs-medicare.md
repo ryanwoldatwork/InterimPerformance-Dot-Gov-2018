@@ -9,32 +9,15 @@ hisp_profile_headline: "Serving 61.2 million Medicare beneficiaries"
 
 <h2 class="cx-section-heading">Operational Data</h2>
 
-### Call Center
 
-#### Q1 FY19 (Oct 1-Dec 31, 2018)
+| Call Center          | FY19 Q1     | FY19 Q2      | FY19 Q3     |
+|----------------------|-------------|--------------|-------------|
+| Call Volume          | 7,616,222   | 6,686,435    | 5,608,843   |
+| Handle Time          | 9:27        | 9:13         | 8:54        |
+| Wait Time            | 4:57        | 5:04         | 3:54        |
 
-| Call Volume | 7,616,222 |
-|-------------|---------|
-| Handle Time | 9:27    |
-| Wait Time   | 4:57    |
 
-#### Q2 FY19 (Jan 1-March 31, 2019)
-
-| Call Volume | 6,686,435 |
-|-------------|---------|
-| Handle Time | 9:13    |
-| Wait Time   | 5:04    |
-
-### Website
-
-#### Q1 FY19 (Oct 1-Dec 31, 2018)
-
-| Users     | 11,086,388  |
-|-----------|-----------|
-| Pageviews | 207,652,056 |
-
-#### Q2 FY19 (Jan 1-March 31, 2019)
-
-| Users     | 15,156,733 |
-|-----------|------------|
-| Pageviews | 80,181,940 |
+| Website              | FY19 Q1     | FY19 Q2      | FY19 Q3     |
+|----------------------|-------------|--------------|-------------|
+| Users                | 11,086,388  | 15,156,733   | 8,311,246   |
+| Pageviews            | 207,652,056 | 80,181,940   | 85,935,689  |
