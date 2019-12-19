@@ -51,11 +51,10 @@ As the FYs 2018-2019 APGs come to an end, agencies reflected not only on accompl
 
 We've also added additional features to Performance.gov, including:
 
-**[NEW: CAP Goal KPIs](https://www.performance.gov/CAP/key_performance_indicators.html)**
+**NEW: CAP Goal KPIs** - 
+Several CAP Goals now have interactive data dashboards to show progress made on their [Key Performance Indicators](https://www.performance.gov/CAP/key_performance_indicators.html). These dashboards were created in an effort to report progress in a way that can be easily tracked by the public.
 
-Several CAP Goals now have interactive data dashboards to show progress made on their Key Performance Indicators. These dashboards were created in an effort to report progress in a way that can be easily tracked by the public.
-
-**NEW: Key Partners Page**
+**NEW: Key Partners Page** - 
 We launched a [Key Partners page](https://www.performance.gov/key-partners/) to list the programs and communities we use to engage agency leaders, grow talent, and support agencies' efforts to deliver a smarter, leaner, and more effective government.
 
 ### How to Find the Action Plans & Progress Reports
