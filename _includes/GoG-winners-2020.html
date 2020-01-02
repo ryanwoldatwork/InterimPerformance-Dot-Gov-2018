@@ -10,8 +10,26 @@
         <div class="winner-text-team">
           <div id="winner-left">
             <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
-            <p>{{ 2020_GoG_winners.agency }}</p>
+            <p class="card-tag">{{ 2020_GoG_winners.agency }}</p>
           </div>
+          <div id="right">
+           <img
+            src="{{ site.baseurl }}/img/GoG/banners/{{2020_GoG_winners.banner}}-banner.png"
+            style="height:75px;float:right;margin-top: -32px;"><br>
+          </div><!--close right div-->
+            <div class="overlay">
+              <div class="text">
+                <p style="margin-top:0;"><b>{{ 2020_GoG_winners.name}}</b>
+                    <p class="description-2020">{{ 2020_GoG_winners.description }}</p>
+                  {% if GoG_winners.award == "Agency" %}
+                    <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
+                  {% elsif 2020_GoG_winners.award == "Council" %}
+                    <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+                  {% elsif 2020_GoG_winners.award == "President's" %}
+                    <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
+                  {% endif %}
+              </div><!--close text-->
+            </div><!--close overlay-->
         </div>
       </div>
       </div>
