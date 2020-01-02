@@ -1,5 +1,3 @@
-<p><input type="text" class="quicksearch" placeholder="Search" /></p>
-
 <section class="usa-section usa-graphic_list">
 <div class="usa-grid usa-graphic_list-row" style="padding-left:0px;">
 <div class="usa-width-one-whole usa-media_block">
@@ -9,7 +7,7 @@
 <div class="main-iso">
 {% for GoG_winners in site.GoG_winners %}
  {% if GoG_winners.award == "President's" %}
-<div class="usa-width-one-whole usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin-right:5px;margin-bottom:15px;margin-left:5px;">
+<div class="usa-width-one-whole usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin-top:15px;margin-bottom:15px;">
   <p><b>{{ GoG_winners.name}}</b></p>
   <p>{{ GoG_winners.agency }}</p>
   <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
@@ -26,8 +24,12 @@
 <div class="main-iso">
 {% for GoG_winners in site.GoG_winners %}
 {% if GoG_winners.award == "Agency" %}
-<div class="usa-width-one-whole usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin-right:5px;margin-bottom:15px;margin-left:5px;">
+<div class="usa-width-one-whole usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin-top:15px;margin-bottom:15px;">
+  {% if GoG_winners.team %}
+  <p><b>{{ GoG_winners.people}}</b></p>
+  {% else %}
   <p><b>{{ GoG_winners.name}}</b></p>
+  {% endif %}
   <p>{{ GoG_winners.agency }}</p>
   <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
 </div>
@@ -44,7 +46,7 @@
 
 {% for GoG_winners in site.GoG_winners %}
 {% if GoG_winners.award == "Council" %}
-<div class="usa-width-one-whole usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-right:5px;margin-bottom:15px;margin-left:5px;">
+<div class="usa-width-one-whole usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}"   style="margin-top:15px;margin-bottom:15px;">
   <p><b>{{ GoG_winners.name}}</b></p>
   <p>{{ GoG_winners.agency }}</p>
   <p style="font-size:.8em;">{{ GoG_winners.description }}</p>
