@@ -18,7 +18,7 @@
     {% assign page_title = "" %}
     {% capture page_title %}{{ this_hisp.service }} - {{ this_hisp.bureau }} - {{ this_hisp.department }}{% endcapture %}
 
-  
+
 {% else %}
   {% assign page_title = page.title %}
 {% endif %}
@@ -29,6 +29,7 @@
     <!-- Performance.gov 2018 -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/uswds.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    
     <!-- Twitter cards -->
     <meta name="twitter:site"    content="@{{ site.twitter_username }}">
     <meta name="twitter:creator" content="@{{ page.author }}">
