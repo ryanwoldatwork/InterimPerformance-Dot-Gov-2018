@@ -80,7 +80,7 @@ alt_text_3: Photo of Margaret Weichert  #Goal leader 2
 goal-leader-3-name: "Margaret Weichert"
 goal-leader-3-title: "Deputy Director of Management, Office of Management and Budget"
 
-goal-leader-4-photo: "/img/CAP-photos/woman-placeholder.png"
+goal-leader-4-photo:  "/img/agr/Circle-icons-profle.svg.png"
 alt_text_4: Photo of Dale Cabaniss  #Goal leader 2
 goal-leader-4-name: "Dale Cabaniss"
 goal-leader-4-title: "Director, Office of Personnel Management"

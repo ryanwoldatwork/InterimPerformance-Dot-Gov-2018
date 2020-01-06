@@ -3,7 +3,7 @@ layout: post
 
 title: "President's Management Agenda Fall Update"
 
-rating: "1"
+rating: "0"
 
 permalink: /pma-fall-2019-update/
 

@@ -5,7 +5,7 @@ title: "Welcoming the Newest WHLDP Cohort!"
 
 rating: "0"
 
-permalink: /lessons-and-advice-from-recent-WHLDP-graduates/
+permalink: /welcome-to-the-newest-whldp-cohort/
 
 
 summary: summary_large_image
