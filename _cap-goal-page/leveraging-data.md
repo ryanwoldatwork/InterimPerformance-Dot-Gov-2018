@@ -26,7 +26,7 @@ resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Federal Data Strategy 2020 Action Plan
-featured-box-url: strategy.data.gov/action-plan/
+featured-box-url: https://strategy.data.gov/action-plan/
 featured-box-button: Read the Action Plan
 
 #***********************FLOATING BOX SECTION*****************************
