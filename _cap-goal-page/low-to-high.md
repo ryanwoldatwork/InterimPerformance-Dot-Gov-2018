@@ -11,7 +11,7 @@ redirect_from: "/CAP/CAP_goal_6.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Burden Reduction Update Shows Progress Toward Leaner Government
-featured-box-url: /burden-reduction/
+featured-box-url: https://www.performance.gov/burden-reduction/
 featured-box-button: Learn More
 #end featured section
 
