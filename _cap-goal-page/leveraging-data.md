@@ -24,11 +24,16 @@ resource-4-url: https://strategy.data.gov/news/
 resource-5-name: Sign up for the Newsletter
 resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 
+#use this section if you want to highlight something other than the quarterly action plan
+featured-box: Federal Data Strategy 2020 Action Plan
+featured-box-url: https://strategy.data.gov/action-plan/
+featured-box-button: Read the Action Plan
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 quote-author: "Pradeep Belur, SBA Official"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -42,6 +47,8 @@ opportunity: "There are opportunities to: develop a long-term, enterprise-wide F
 
 action-2019-june: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Data_Accountability_Transparency.pdf"
+
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Data_Accountability_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Data_Accountability_Transparency.pdf"

@@ -51,7 +51,7 @@ quote: "Federal Grant Programs support activities that touch every American, suc
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 17.5px
-current-action-plan: "/CAP/action_plans/sept_2019_Results-Oriented_Accountability_for_Grants.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Results-Oriented_Accountability_for_Grants.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -63,6 +63,8 @@ opportunity: "Standardize the grants management business process and identify, o
 
 action-2019-june: "/CAP/action_plans/june_2019_Results-Oriented_Accountability_for_Grants.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Results-Oriented_Accountability_for_Grants.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Results-Oriented_Accountability_for_Grants.pdf"
+
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Results-Oriented_Accountability_for_Grants.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Results-Oriented_Accountability_for_Grants.pdf"
@@ -103,14 +105,19 @@ goal-leader-3-name: "Robin Funston"
 goal-leader-3-title: "Director, Strategic Planning and Performance, Justice Management Division, Department of Justice"
 
 goal-leader-4-photo: "/img/CAP-photos/soltis-tim-cropped.jpg"
-alt_text_4: Photo of Tim Soltis #Goal leader 5
+alt_text_4: Photo of Tim Soltis #Goal leader 4
 goal-leader-4-name: "Tim Soltis"
 goal-leader-4-title: "Deputy Controller, Office of Management and Budget"
 
 goal-leader-5-photo: "/img/CAP-photos/watson-laura.jpg"
-alt_text_5: Photo of Laura Watson  #Goal leader 6
+alt_text_5: Photo of Laura Watson  #Goal leader 5
 goal-leader-5-name: "Laura Watson"
 goal-leader-5-title: "Chief Grant Officer, Department of Labor"
+
+goal-leader-6-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6
+goal-leader-6-name: "Patrick Corrigan,"
+goal-leader-6-title: "Senior Advisor, Office of Management and Budget"
 
 #***********************END GOAL LEADER SECTION*****************************8
 

@@ -5,7 +5,7 @@ title: "Improving Customer Experience with Federal Services" #page title
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Explore 25 of the nation’s highest impact service providers (HISPs)
-featured-box-url: /cx/
+featured-box-url: https://www.performance.gov/cx/
 featured-box-button: Learn More
 #end featured section
 
@@ -33,7 +33,7 @@ resource-5-url: https://github.com/usds/us-forms-system
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/sept_2019_Improving_Customer_Experience.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -46,6 +46,8 @@ opportunity: "A modern, streamlined and responsive customer experience means:  r
 
 action-2019-june: "/CAP/action_plans/june_2019_Improving_Customer_Experience.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Improving_Customer_Experience.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Improving_Customer_Experience.pdf"
+
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Improving_Customer_Experience.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Improving_Customer_Experience.pdf"

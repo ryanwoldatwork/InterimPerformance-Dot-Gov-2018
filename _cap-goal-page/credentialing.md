@@ -18,7 +18,7 @@ resource-2-url:  ##
 quote: "Now is the time for transformational change in how we vet our workforce. We are committed to reducing the investigation inventory and fundamentally overhauling the process." #appears in the gray text box
 quote-author: "Margaret Weichert, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/sept_2019_Security_Suitability.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Security_Suitability.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -43,6 +43,8 @@ Strong partnership with Federal Insider Threat programs to identify, deter, and 
 
 action-2019-june: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Security_Suitability.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Security_Suitability.pdf"
+
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Security_Suitability.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Security_Suitability.pdf"
@@ -78,7 +80,7 @@ alt_text_3: Photo of Margaret Weichert  #Goal leader 2
 goal-leader-3-name: "Margaret Weichert"
 goal-leader-3-title: "Deputy Director of Management, Office of Management and Budget"
 
-goal-leader-4-photo: "/img/CAP-photos/woman-placeholder.png"
+goal-leader-4-photo:  "/img/agr/Circle-icons-profle.svg.png"
 alt_text_4: Photo of Dale Cabaniss  #Goal leader 2
 goal-leader-4-name: "Dale Cabaniss"
 goal-leader-4-title: "Director, Office of Personnel Management"
