@@ -1,5 +1,5 @@
 <section class="usa-section usa-graphic_list">
-  
+
 <div class="usa-grid usa-graphic_list-row" style="padding-left:0px;">
 <div class="usa-width-one-whole usa-media_block">
   <h3>President's Award Winners</h3>
@@ -22,15 +22,15 @@
 <div class="usa-width-one-whole usa-media_block">
   <h3>Agency Award Winners</h3>
   <hr>
-</div
 </div>
-
+</div>
 <div class="main-iso">
 {% for GoG_winners in site.GoG_winners %}
 {% if GoG_winners.award == "Agency" %}
-<div class="usa-width-one-third archive-container-team  usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin: 15px; width:30%;">
+<div class="usa-width-one-third archive-container-team usa-media_block item {{ GoG_winners.category }} {{ GoG_winners.story }}" style="margin: 15px; width:30%;">
   {% if GoG_winners.team %}
-  <p><b>{{ GoG_winners.people}}</b></p>
+  {% assign space = " " %}
+  <p><b>{{ GoG_winners.people | append: space }}</b></p>
   {% else %}
   <p><b>{{ GoG_winners.name}}</b></p>
   {% endif %}
