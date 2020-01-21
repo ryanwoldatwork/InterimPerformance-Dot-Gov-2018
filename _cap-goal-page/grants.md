@@ -15,23 +15,23 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 
 resources:
 
-resource-2-name: Grants 101 Training Modules
+resource-2-name: Proposed Changes to Title 2 of the Code of Federal Regulations, Subtitle A-OMB Guidance for Grants and Agreements
 resource-2-url:  https://cfo.gov/grants/training/
 
-resource-3-name: Chief Financial Officers Council Grant Resources
-resource-3-url:  https://cfo.gov//grants/
+resource-3-name: Grants 101 Training Modules
+resource-3-url:  https://cfo.gov/grants/training/
 
-resource-4-name: Search and Apply for Grants
-resource-4-url: https://www.grants.gov/
+resource-4-name: Chief Financial Officers Council Grant Resources
+resource-4-url:  https://cfo.gov//grants/
 
-resource-5-name: Grants Single Audit and Risk Management Industry Demonstration Days
-resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
+resource-5-name: Search and Apply for Grants
+resource-5-url: https://www.grants.gov/
 
-resource-6-name: 2019 Compliance Supplement
-resource-6-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
+resource-6-name: Grants Single Audit and Risk Management Industry Demonstration Days
+resource-6-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
 
-resource-7-name: 2019 Compliance Supplement Success Story
-resource-7-url:  https://twitter.com/PerformanceGov/status/1145782350061756417
+resource-7-name: 2019 Compliance Supplement
+resource-7-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
 
 resource-8-name: Overview of Version 1.0 Grants Management Standard Data Elements
 resource-8-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
@@ -83,8 +83,8 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "grants" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title:
-CAP-event-date:
+CAP-event-title: Listening Session: Proposed Changes to Title 2 CFR
+CAP-event-date: February 4, 2020
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
