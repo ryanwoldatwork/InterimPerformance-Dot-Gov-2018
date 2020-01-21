@@ -9,7 +9,7 @@ url: /CAP/grants/
 redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: Public Comment Period for Grants Title 2 CFR Now Open until DATE
+featured-box: Public Comment Period for Proposed Changes to 2 CFR Now Open until March 23, 2020
 featured-box-url:
 featured-box-button: Submit Comments
 #end featured section
@@ -23,29 +23,26 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 
 resources:
 
-resource-2-name: Proposed Changes to Title 2 of the Code of Federal Regulations, Subtitle A-OMB Guidance for Grants and Agreements
-resource-2-url:  Grants CAP Goal_Proposed 2 CFR Revision
+resource-2-name: Grants 101 Training Modules
+resource-2-url:  https://cfo.gov/grants/training/
 
-resource-3-name: Grants 101 Training Modules
-resource-3-url:  https://cfo.gov/grants/training/
+resource-3-name: Chief Financial Officers Council Grant Resources
+resource-3-url:  https://cfo.gov//grants/
 
-resource-4-name: Chief Financial Officers Council Grant Resources
-resource-4-url:  https://cfo.gov//grants/
+resource-4-name: Search and Apply for Grants
+resource-4-url: https://www.grants.gov/
 
-resource-5-name: Search and Apply for Grants
-resource-5-url: https://www.grants.gov/
+resource-5-name: Grants Single Audit and Risk Management Industry Demonstration Days
+resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
 
-resource-6-name: Grants Single Audit and Risk Management Industry Demonstration Days
-resource-6-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6b0f93b40afab0bce207edcbe3&tab=core&_cview=1
+resource-6-name: 2019 Compliance Supplement
+resource-6-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
 
-resource-7-name: 2019 Compliance Supplement
-resource-7-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
+resource-7-name: Overview of Version 1.0 Grants Management Standard Data Elements
+resource-7-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
 
-resource-8-name: Overview of Version 1.0 Grants Management Standard Data Elements
-resource-8-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
-
-resource-9-name: Version 1.0 Grants Management Standard Data Elements
-resource-9-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
+resource-8-name: Version 1.0 Grants Management Standard Data Elements
+resource-8-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
 
 listserv-title: Join Community
 listserv-url: 13
