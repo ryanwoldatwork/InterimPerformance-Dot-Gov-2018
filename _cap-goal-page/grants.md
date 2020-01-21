@@ -8,6 +8,14 @@ url: /CAP/grants/
 
 redirect_from: "/CAP/CAP_goal_8.html"
 
+#use this section if you want to highlight something other than the quarterly action plan
+featured-box: Public Comment Period for Grants Title 2 CFR Now Open until DATE
+featured-box-url:
+featured-box-button: Submit Comments
+#end featured section
+
+#cap-category: "Key Driver of Reform" #category text
+
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -16,7 +24,7 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 resources:
 
 resource-2-name: Proposed Changes to Title 2 of the Code of Federal Regulations, Subtitle A-OMB Guidance for Grants and Agreements
-resource-2-url:  https://cfo.gov/grants/training/
+resource-2-url:  Grants CAP Goal_Proposed 2 CFR Revision
 
 resource-3-name: Grants 101 Training Modules
 resource-3-url:  https://cfo.gov/grants/training/
@@ -83,7 +91,7 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "grants" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: Listening Session: Proposed Changes to Title 2 CFR
+CAP-event-title: Listening Session for Proposed Changes to Title 2 CFR
 CAP-event-date: February 4, 2020
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
