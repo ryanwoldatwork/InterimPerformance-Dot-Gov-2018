@@ -10,8 +10,8 @@ redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Public Comment Period for Proposed Changes to 2 CFR Now Open until March 23, 2020
-featured-box-url:
-featured-box-button: Submit Comments
+featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#addresses
+featured-box-button: How to Comment
 #end featured section
 
 #cap-category: "Key Driver of Reform" #category text
