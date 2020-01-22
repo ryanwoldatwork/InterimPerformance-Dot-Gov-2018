@@ -7,7 +7,7 @@ layout: navigation_PMA
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading"></h3>
     <p class="usa-alert-text">
-      The public comment period for proposed changes to "2 CFR" is open until March 23, 2020. Refer to the 2 CFR Resources section for more information. Federal Register Notice: https://go.usa.gov/xdrDB.<p>
+      The public comment period for proposed changes to "2 CFR" is open through March 23, 2020. Refer to the 2 CFR Resources section for more information. Federal Register Notice: https://go.usa.gov/xdrDB.<p>
   </div>
 </div>
 {% endif %}
@@ -43,8 +43,9 @@ layout: navigation_PMA
     {% endif %}
 
     {% if page.CFR %}
-      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00bde3;color:black;font-weight:600;font-size: 14px;height: 36px;" href="#cfr">2 CFR Resources</a>
+      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00bde3;color:black;font-weight:600;font-size: 14px;height: 36px;margin-top:0px;" href="#cfr">2 CFR Proposed Revisions</a>
     {% endif %}
+
 
 
 
@@ -55,7 +56,7 @@ layout: navigation_PMA
         <div class="cap-box" style="margin-top:30px;">
           <div id="top">
           {% if page.featured-box %}
-            <p style="margin-bottom5px;">{{  page.featured-box }}</p>
+            <p style="margin-bottom:5px;">{{  page.featured-box }}</p>
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{  page.featured-box-url}}" target="_blank"><b>{{  page.featured-box-button }}</b></a>
           {% else %}
             <p>Download the latest Action Plan and Progress Update</p>
@@ -197,7 +198,7 @@ blockquote-CAP cite {
        <ul class="usa-accordion" id="transition">
         <li>
         <button class="usa-accordion-button " style="font-size:2.2rem;padding-left:0;padding-bottom:20px;"
-          aria-expanded="true"
+          aria-expanded="false"
           aria-controls="a1">
           	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/goal-statement-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Goal Statement
         </button>
@@ -408,7 +409,7 @@ blockquote-CAP cite {
         <li>
 
           <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
-            aria-expanded="false"
+            aria-expanded="true"
             aria-controls="a9">
               <img class="usa-media_block-img" src="{{ site.baseurl }}/img/resources.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;2 CFR Resources
           </button>
