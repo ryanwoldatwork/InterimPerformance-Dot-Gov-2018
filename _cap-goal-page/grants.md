@@ -123,7 +123,7 @@ goal-leader-5-title: "Chief Grant Officer, Department of Labor"
 
 goal-leader-6-photo: "/img/agr/Circle-icons-profle.svg.png"
 alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6
-goal-leader-6-name: "Patrick Corrigan,"
+goal-leader-6-name: "Patrick Corrigan"
 goal-leader-6-title: "Senior Advisor, Office of Management and Budget"
 
 #***********************END GOAL LEADER SECTION*****************************8
