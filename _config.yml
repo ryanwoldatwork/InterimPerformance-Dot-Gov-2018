@@ -22,6 +22,8 @@ collections:
     output: true
   cap-goal-page:
     output: true
+  archive-apgs:
+    output: true
 
 
 defaults:
