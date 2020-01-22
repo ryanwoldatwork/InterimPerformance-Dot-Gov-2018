@@ -10,8 +10,8 @@ redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Comment Period for Proposed Changes to 2 CFR Open through 3/23/20
-featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#addresses
-featured-box-button: How to Comment
+featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment
+featured-box-button: Submit Comments
 #end featured section
 
 #cap-category: "Key Driver of Reform" #category text
@@ -90,7 +90,7 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "grants" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: Listening Session for Proposed Changes to Title 2 CFR
+CAP-event-title: Listening Session for Proposed Revisions for 2 CFR
 CAP-event-date: February 4, 2020
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
