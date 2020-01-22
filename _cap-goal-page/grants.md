@@ -51,6 +51,8 @@ listserv-include: grants-community
 innovation: yes
 innovation-title:
 
+CFR: yes
+
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal Grant Programs support activities that touch every American, such
 as medical research, education, transportation infrastructure, and more." #appears in the gray text box
