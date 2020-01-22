@@ -5,7 +5,7 @@ title: "Grants CAP Goal: Proposed Changes to Title 2 of the Code of Federal Regu
 
 rating: "1"
 
-permalink: /2cfr-public-comment-period
+permalink: /2cfr-public-comment-period/
 
 
 summary: summary_large_image
