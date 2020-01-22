@@ -14,9 +14,9 @@ strategic-plan-link: https://www.usda.gov/our-agency/about-usda/strategic-goals
 performance-plan-link: https://www.obpa.usda.gov/perfrpt/2020perfplan2018rpt.pdf
 
 #side navigation
-apg-1: Improve the Customer Experience at USDA
+apg-1: New 2020 APG
 apg-1-link: APG_agriculture_1.html
-apg-2: Modernize USDA's Information Technology
+apg-2: New 2020 APG
 apg-2-link: APG_agriculture_2.html
 apg-3:
 apg-3-link:
@@ -26,7 +26,6 @@ apg-5:
 apg-5-link:
 apg-6:
 apg-6-link:
-twitter-feed: https://twitter.com/USDA?ref_src=twsrc%5Etfw
 
 #twitter and blog image
 image: "/img/agency/Agriculture_Department_Seal.png"

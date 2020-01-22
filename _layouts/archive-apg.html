@@ -1,16 +1,18 @@
 ---
 layout: navigation
 ---
-<section class="usa-section">
-    <div class="usa-width-one-whole usa-media_block">
 
-      <h1>{{ page.agency-name }} &nbsp;<a href="{{ page.agency-site }}" target="_blank"><img src="{{ page.agency-seal }}" alt="agency seal" align="center" width="87"></a>
+<section class="usa-section" style="padding-top:0px;">
+    <div class="usa-width-one-whole usa-media_block">
+      <h2>{{ page.agency-name }} 2018-2019 Agency Priority Goals &nbsp;<a href="{{ page.agency-site }}" target="_blank"><img src="{{site.baseurl}}{{ page.agency-seal }}" alt="agency seal" align="center" width="87"></a>
     <!--beginning of second seal for USAID-->
       {% if page.agency-name == "Department of State and United States Agency for International Development" %}
       <a href="{{ page.agency-site-2 }}" target="_blank"><img src="{{ page.agency-seal-2 }}" alt="agency seal" align="center" width="87"> </a>
       {% endif %}
-  </h1>
+  </h2>
   </div>
+  
+  <div class="usa-grid usa-graphic_list-row" style="padding:0px">
   <div class="usa-width-two-thirds usa-media_block">
     <p><b>{{ page.apg-1 }}</b></p>
     <p><em>{{page.apg-1-leader}}</em></p>
@@ -18,7 +20,17 @@ layout: navigation
   </div>
   <div class="usa-width-one-thirds usa-media_block">
     <p>Action plans</p>
+  </div>
+  </div>
+  <div class="usa-grid usa-graphic_list-row" style="padding:0px">
+  <div class="usa-width-two-thirds usa-media_block">
+    <p><b>{{ page.apg-2 }}</b></p>
+    <p><em>{{page.apg-2-leader}}</em></p>
+    <p>{{ page.apg-2-statement }}</p>
+  </div>
+  <div class="usa-width-one-thirds usa-media_block">
+    <p>Action plans</p>
 
   </div>
-
-  </section>
+</div>
+</section>
