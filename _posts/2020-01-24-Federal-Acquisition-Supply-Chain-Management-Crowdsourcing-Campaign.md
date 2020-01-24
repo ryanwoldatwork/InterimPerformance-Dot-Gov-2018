@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "We want your ideas!  Help shape how the government obtains and leverages acquisition and supply chain expertise."
+title: "We want your ideas!  Help shape how the government obtains and leverages acquisition and supply chain expertise"
 
 rating: "0"
 
@@ -29,9 +29,9 @@ tags:
 
 Today, at the White House Summit on Federal Acquisition & Supply Chain Management I announced a call for ideas to help us shape how the government obtains and leverages acquisition and supply chain expertise.
 
-This call for ideas supports the President’s Management Agenda that requires federal agencies to implement [category management](https://www.performance.gov/CAP/category-management/), an industry best practice where common contracts are leveraged, meaning that contracts are shared in order buy common goods and services as an enterprise. [Category management](https://www.performance.gov/CAP/category-management/) has already helped the government eliminate redundancies, increase efficiency, and deliver more value for taxpayers.
+This call for ideas supports the President’s Management Agenda that requires federal agencies to implement [category management](https://www.performance.gov/CAP/category-management/), an industry best practice where common contracts are leveraged, meaning that contracts are shared in order to buy common goods and services as an enterprise. [Category management](https://www.performance.gov/CAP/category-management/) has already helped the government eliminate redundancies, increase efficiency, and deliver more value for taxpayers.
 
-At today’s submit, we discussed:
+At today’s summit, we discussed:
 * *End-to-End Supply Chain Management* – How do the best companies plan for and execute large-scale, global supply chain management (e.g. enterprise resource planning, application of emerging technology for more efficient transactions, etc.)?   
 * *Co-creation with Industry/Academia/Consortia* – Where can shared business and other interests lead to new models for program delivery (e.g., shared investments, development of supplier consortia, etc.)?
 * *Continuous Improvement Cycle* – How can key business systems become more agile to keep up with the digital age (e.g., rules of engagement, knowledge transfer, dynamic benchmarking) while reducing friction in the acquisition system?
