@@ -46,7 +46,7 @@ This call for ideas will help us continue this conversation, as well as discuss 
 
 We want to hear from private sector organizations, researchers, academic institutions, good government groups, the public, and others on the vision and concept for a mechanism to facilitate curated conversations between the federal government and external supply chain and acquisition experts on a variety of issues and questions that support the government’s acquisition modernization efforts.   
 
-What do you envision the role of this mechanism? How might it operate? How might it be governed? What might its areas of focus be? Those with ideas that could help the government modernize its $575B supply chain and acquisition function through regular engagement among supply chain management and acquisition experts should send a description to [ideas@omb.eop.gov](mailto:ideas@omb.eop.gov) by 5pm EDT February 17, 2020 with the subject line: “Supply Chain Ideas.”
+What do you envision the role of this mechanism? How might it operate? How might it be governed? What might its areas of focus be? Those with ideas that could help the government modernize its $575B supply chain and acquisition function through regular engagement among supply chain management and acquisition experts should send them to [ideas@omb.eop.gov](mailto:ideas@omb.eop.gov) by 5pm EDT February 17, 2020 with the subject line: “Supply Chain Ideas.”
 
 Stay tuned to performance.gov and @PerformanceGov for updates on what we learn and ways to collaborate.
 
