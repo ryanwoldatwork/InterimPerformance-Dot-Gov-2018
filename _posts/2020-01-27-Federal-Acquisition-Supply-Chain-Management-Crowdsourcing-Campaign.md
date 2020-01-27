@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "We want your ideas! Help shape how the government obtains and leverages acquisition and supply chain expertise"
+title: "Submit Your Ideas to Help the Government Leverage Acquisition and Supply Chain Expertise"
 
 rating: "0"
 
