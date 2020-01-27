@@ -141,7 +141,7 @@ if(performance.navigation.type == 2){
 <section class="usa-section usa-graphic_list" style="padding-top:0px;">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-one-whole usa-media_block">
-      <div id="wrapper-letter"></div>
+      <div id="wrapper"></div>
     </div>
   </div>
 </section>
@@ -163,6 +163,57 @@ if(performance.navigation.type == 2){
       </div>
     </div>
   </section>
+    <!--  <div class="usa-width-one-whole usa-media_block">
+      <h2><a name="cap"></a>Cross-Agency Priority (CAP) Goal Key Performance Indicators</h2>
+      <p style="margin-bottom:20px;">The <a href="{{site.baseurl}}/pma/">President’s Management Agenda</a> identifies Cross-Agency Priority Goals to target those areas where multiple agencies must collaborate to effect change and report progress in a manner the public can easily track. Below are some of the key indicators that are being used to measure how different goals are performing. Click “View More” to see all of the CAP Goal visualizations.</p>
+
+       <div class="usa-width-one-third usa-media_block">
+         {% include kpi--kpi-page.html title="Cybersecurity" %}
+       </div>
+
+       <div class="usa-width-one-third usa-media_block">
+           {% include kpi--kpi-page.html title="Category Management" %}
+       </div>
+
+       <div class="usa-width-one-third usa-media_block">
+           {% include kpi--kpi-page.html title="Federal Employee Viewpoint Survey" %}
+       </div>
+
+        <p class="card-tag" style="float:right;margin-top:30px;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="{{ site.baseurl }}/CAP/key_performance_indicators.html">View more &#10095;</a></p>
+      </div>-->
+  </section>
+
+<!--  <section class="usa-section">
+
+  <div class="usa-grid usa-graphic_list-row" style="padding:0">
+  <div class="usa-width-one-whole usa-media_block" style="margin-bottom:15px;">
+    <h2><a name="gsa"></a>General Services Administration (GSA) Performance Data</h2>
+    <p style="margin-bottom:20px;">GSA has four strategic goals - Real Estate, Acquisition, Technology, and Shared Services - in its <a href="https://www.gsa.gov/cdnstatic/GSA%20FY%202018-2022%20Strategic%20Plan%20-%20FINAL.pdf">strategic plan</a>  and the agency tracks progress on 28 performance indicators across those goals. This data is published in the agency’s <a href="https://www.gsa.gov/cdnstatic/GSA%20FY%202020%20Annual%20Performance%20Plan%20and%20FY%202018%20Report_FINAL.pdf">annual performance plan and report</a>. Click “View More” to explore the suite of GSA’s performance measures and track their progress over time.</p>
+  </div>
+  </div>
+
+  <!--GSA 4 KPIs desktop view-->
+<!--  <div class="usa-grid usa-graphic_list-row" style="padding:0" id="sba-desktop">
+  <div class="usa-width-one-whole usa-media_block"  >
+    <iframe id="chart" src="https://d2d.gsa.gov/tableau-report-for-embed/8470" style="height:850px;width:1091px;" frameborder="0"></iframe>
+  </div>
+    <p class="card-tag" style="float:right;margin-top:0px;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="{{ site.baseurl }}/GSA/gsa-data/">View more &#10095;</a>
+
+    <p class="card-tag" style="float:right;margin-top:0px;margin-bottom:30px;margin-right:20px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="https://www.gsa.gov/cdnstatic/GSA%20FY%202020%20Annual%20Performance%20Plan%20and%20FY%202018%20Report_FINAL.pdf   ">Data Source &#10095;</a></p>
+  </div>
+
+<!--GSA 4 KPIs mobile view-->
+<!--  <div class="usa-grid usa-graphic_list-row" style="padding:0" id="sba-mobile">
+    <div class="usa-width-one-whole usa-media_block" >
+      <iframe id="chart" src="https://d2d.gsa.gov/tableau-report-for-embed/8489" style="height:1800px;width:100%" frameborder="0"></iframe>
+    </div>
+
+      <p class="card-tag" style="float:right;margin-top:30px;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="{{ site.baseurl }}/GSA/gsa-data/">View more &#10095;</a>
+
+      <p class="card-tag" style="float:right;margin-top:30px;margin-bottom:30px;margin-right:20px;font-size:.7em;"><a style="text-decoration:none;background-color:#e31c3d;color:#ffffff;padding:10px;border-radius:25px;" href="{{site.baseurl}}/GSA/FY2018 APR_Complete_Data.csv">Data Source &#10095;</a></p>
+  </div>
+
+</section>-->
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -170,6 +221,8 @@ if(performance.navigation.type == 2){
 <script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script>
 <!--Custom Js file here ... -->
 <script src="{{ site.baseurl }}/js/script.js"></script>
+<script src="{{ site.baseurl }}/js/kpi.js"></script>
+
 <!-- amCharts javascript sources -->
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/amcharts.js"></script>
 <script type="text/javascript" src="https://www.amcharts.com/lib/3/pie.js"></script>
