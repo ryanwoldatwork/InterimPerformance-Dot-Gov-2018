@@ -3,25 +3,9 @@ if(performance.navigation.type == 2){
   location.reload(true);
 }
 
-function myFunctionA() {
-  document.getElementById("wrapper").innerHTML = codeBlockA
-}
-
-
-var codeBlockA =   '<p>Explore over 10 years of SBA loan data geographically and overlaid with population and GDP data for context. Drill down to the individual loan level and filter by loan type and state. To learn more, view the overview of SBA Loan Guaranty Programs.</p>' + '<h3>Nationwide SBA Loan Distributions</h3>' + '<p>Click on a state to update the graph below the map. To reset the zoom in the visualization and see beyond the continental U.S., please click the home icon on the map. </p>' + '<p>The Microloan data below represent the loan dollars distributed to intermediaries, not the number of loans or loan dollars distributed to individual small businesses participating in the microloan program.</p>' + '<a class="usa-button usa-button-secondary" href="https://www.usaspending.gov/#/download_center/award_data_archive"> Loan Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8474" id="no-frame-border" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
-
-function myFunctionB() {
-  document.getElementById("wrapper").innerHTML = codeBlockB
-}
-
-
-var codeBlockB =   '<p>Explore over 10 years of SBA loan data geographically and overlaid with population and GDP data for context. Drill down to the individual loan level and filter by loan type and state. To learn more, view the overview of SBA Loan Guaranty Programs.</p>' + '<h3>Heat Map of Loan Distributions to the County Level</h3>' + '<p>To reset the zoom in the visualization and apply selected filters, please click the home icon on the map. </p>' + '<a class="usa-button usa-button-secondary" href="https://www.usaspending.gov/#/download_center/award_data_archive"> Loan Data</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.census.gov/data/datasets/time-series/demo/popest/2010s-national-total.html">Census Data</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.bea.gov/data/gdp/gdp-state">GDP Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8472" id="no-frame-border" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
-
-
 function myFunction() {
   document.getElementById("wrapper").innerHTML = codeBlock
 }
-
 
 var codeBlock =   '<h3>Federal Employee Veiwpoint Survey - Improve Performance <em>(Updated December 2019)</em></h3>' + '<p>The Office of Personnel Management Federal Employee Viewpoint Survey measures employee perception of whether, and to what extent, conditions characteristic of successful organizations are present in their agencies.</p>' + '<p>The dashboard below compares 2017 and 2018 government-wide scores for two performance-related metrics, showing percentage change in conditions that lead to employee engagement and steps taken to deal with a poor performer who cannot or will not improve their work performance. </p>' + '<a class="usa-button usa-button-secondary" href="https://www.performance.gov/CAP/workforce/"> View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/FEVS-KPI-Data-dec.xlsx">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8532" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
