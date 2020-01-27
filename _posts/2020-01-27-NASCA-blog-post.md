@@ -34,14 +34,11 @@ In December 2019, the Office of Management and Budget (OMB) along with the [Nati
 <center><i style="font-size: 14px;">Attendees heard from Suzette Kent, Federal CIO, about transforming government services.
 </i></center>
 
-
 <a href="{{ site.baseurl }}/img/blog/NASCA-panel-2"><img src="{{ site.baseurl }}/img/blog/NASCA-panel-2.png"></a>
-<center><i style="font-size: 14px;">Attendees discuss shared services and the importance of a customer-centric approach identify themes to enhance service to citizens.</i></center>
-
+<center><i style="font-size: 14px;">Attendees discuss shared services and the importance of a customer-centric approach.</i></center>
 
 <a href="{{ site.baseurl }}/img/blog/NASCA-panel-3"><img src="{{ site.baseurl }}/img/blog/NASCA-panel-3.png"></a>
 <center><i style="font-size: 14px;">Attendees identify themes to enhance service to citizens.</i></center>
-
 
 <a href="{{ site.baseurl }}/img/blog/NASCA-panel-4"><img src="{{ site.baseurl }}/img/blog/NASCA-panel-4.jpg"></a>
 <center><i style="font-size: 14px;">Margaret Weichert, Deputy Director for Management at the Office of Management and Budget, shares her thoughts on how to make government work for its citizens in the 21st Century.</i></center>
