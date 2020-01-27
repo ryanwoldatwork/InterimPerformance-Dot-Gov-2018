@@ -121,7 +121,7 @@ alt_text_5: Photo of Laura Watson  #Goal leader 5
 goal-leader-5-name: "Laura Watson"
 goal-leader-5-title: "Chief Grant Officer, Department of Labor"
 
-goal-leader-6-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-6-photo: "/img/CAP-photos/corrigan-patrick.jpg"
 alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6
 goal-leader-6-name: "Patrick Corrigan"
 goal-leader-6-title: "Senior Advisor, Office of Management and Budget"
