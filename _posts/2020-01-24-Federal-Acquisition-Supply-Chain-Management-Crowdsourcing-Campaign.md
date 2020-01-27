@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "We want your ideas!  Help shape how the government obtains and leverages acquisition and supply chain expertise"
+title: "We want your ideas! Help shape how the government obtains and leverages acquisition and supply chain expertise"
 
 rating: "0"
 
@@ -12,7 +12,7 @@ summary: summary_large_image
 
 agency:
 
-description: We want your ideas!  Help shape how the government obtains and leverages acquisition and supply chain expertise.
+description: We want your ideas! Help shape how the government obtains and leverages acquisition and supply chain expertise.
 
 excerpt: We want your ideas!  Help shape how the government obtains and leverages acquisition and supply chain expertise.
 image: /img/Margaret Weichert_Official Photo_150px.png
@@ -27,12 +27,12 @@ tags:
 
 ---
 
-Today, at the White House Summit on Federal Acquisition & Supply Chain Management I announced a call for ideas to help us shape how the government obtains and leverages acquisition and supply chain expertise.
+Today, at the White House Summit on Federal Acquisition & Supply Chain Management, I announced a call for ideas to help us shape how the government obtains and leverages acquisition and supply chain expertise.
 
 This call for ideas supports the President’s Management Agenda (PMA) that requires federal agencies to implement [category management](https://www.performance.gov/CAP/category-management/), an industry best practice where common contracts are leveraged, meaning that contracts are shared in order to buy common goods and services as an enterprise. [Category management](https://www.performance.gov/CAP/category-management/) has already helped the government eliminate redundancies, increase efficiency, and deliver more value for taxpayers.
 
 At today’s summit, we discussed:
-* *End-to-End Supply Chain Management* – How do the best companies plan for and execute large-scale, global supply chain management (e.g. enterprise resource planning, application of emerging technology for more efficient transactions, etc.)?   
+* *End-to-End Supply Chain Management* – How do the best companies plan for and execute large-scale, global supply chain management (e.g., enterprise resource planning, application of emerging technology for more efficient transactions, etc.)?   
 * *Co-creation with Industry/Academia/Consortia* – Where can shared business and other interests lead to new models for program delivery (e.g., shared investments, development of supplier consortia, etc.)?
 * *Continuous Improvement Cycle* – How can key business systems become more agile to keep up with the digital age (e.g., rules of engagement, knowledge transfer, dynamic benchmarking) while reducing friction in the acquisition system?
 
@@ -46,7 +46,7 @@ This call for ideas will help us continue this conversation, as well as discuss 
 
 We want to hear from private sector organizations, researchers, academic institutions, good government groups, the public, and others on the vision and concept for a mechanism to facilitate curated conversations between the federal government and external supply chain and acquisition experts on a variety of issues and questions that support the government’s acquisition modernization efforts.   
 
-What do you envision the role of this mechanism? How might it operate? How might it be governed? What might its areas of focus be? Those with ideas that could help the government modernize its $575B supply chain and acquisition function through regular engagement among supply chain management and acquisition experts should send them to [ideas@omb.eop.gov](mailto:ideas@omb.eop.gov) by 5pm EDT February 17, 2020 with the subject line: “Supply Chain Ideas.”
+How do you envision the role of this mechanism? How might it operate? How might it be governed? What might its areas of focus be? Those with ideas that could help the government modernize its $575B supply chain and acquisition function through regular engagement among supply chain management and acquisition experts should send them to [ideas@omb.eop.gov](mailto:ideas@omb.eop.gov) by 5pm EDT February 17, 2020 with the subject line: “Supply Chain Ideas.”
 
 Stay tuned to performance.gov and @PerformanceGov for updates on what we learn and ways to collaborate.
 
