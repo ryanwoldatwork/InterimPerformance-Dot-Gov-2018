@@ -1,32 +1,11 @@
 ---
-title: Commerce
-layout: cfo-act-agency
-
-permalink: ../commerce/
-
-#Appears at top of side navigation and top of right three-fourths of page
+title: 2018-2019 APGs
+layout: archive-apg
+folder: commerce
+permalink: /commerce/2018-2019-apg/
 agency-name: Department of Commerce
+agency-seal: /img/agency/Commerce_Department_Seal.png
 
-#Appear on the right three-fourths of the page
-agency-seal: ../img/agency/Commerce_Department_Seal.png
-agency-site: https://www.commerce.gov/
-strategic-plan-link: https://www.commerce.gov/sites/default/files/us_department_of_commerce_2018-2022_strategic_plan.pdf
-performance-plan-link: https://www.commerce.gov/about/budget-and-performance
-
-#side navigation
-apg-1: Accelerate Patent Processing
-apg-1-link: APG_commerce_1.html
-apg-2: Mitigate Flood Impacts
-apg-2-link: APG_commerce_2.html
-apg-3: Prepare to Conduct a Complete and Accurate Decennial Census
-apg-3-link: APG_commerce_3.html
-apg-4: Remove Foreign Trade Barriers
-apg-4-link: APG_commerce_4.html
-apg-5:
-apg-5-link:
-apg-6:
-apg-6-link:
-twitter-feed: https://twitter.com/CommerceGov?ref_src=twsrc%5Etfw
 
 #twitter and blog image
 image: "/img/agency/Commerce_Department_Seal.png"
@@ -35,26 +14,150 @@ image: "/img/agency/Commerce_Department_Seal.png"
 summary: summary
 description: To create the conditions for economic growth and opportunity by promoting job creation, fair and reciprocal trade, and supporting commerce.
 
-#GoG
-GoG: yes
 ---
 
-<div class="usa-grid usa-graphic_list-row">
-  <div class="usa-width-one-whole usa-media_block agency-page-section">
-    <h2 style="color:#046b99;">Mission</h2>
-    <p>To create the conditions for economic growth and opportunity.</p>
-  </div>
+ <h3>Accelerate Patent Processing</h3>
+  <p><b>Goal Leader:</b> Drew Hirshfeld, Commissioner for Patents</p>
+  <p><b>Goal Statement:</b> By September 30, 2019, the U.S. Patent and Trademark Office will reduce patent pendency to less than 15 months for first action pendency and less than 24 months for total pendency from end of fiscal year 2017 results of 16.3 months and 24.2 months, respectively. </p>
+ <!--<p><strong>Implementation Action Plans will be available with the Q1 FY 2018 performance update.</strong></p>-->
+ <p><b>Goal Action Plans & Progress Updates</b></p>
+
+ <div class="usa-width-one-whole usa-media_block">
+  <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
+
+    <div class="usa-width-one-half usa-media_block">
+
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOC_Accelerate_Patent_Processing.pdf">December 2019</a></p>
+
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_DOC_Accelerate_Patent_Processing.pdf">September 2019</a></p>
+
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_DOC_Accelerate_Patent_Processing.pdf">June 2019</a></p>
+
+ </div>
+
+<!--Q4 deck-->
+ <div class="usa-width-one-half usa-media_block">
+
+     <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_DOC_Accelerate_Patent_Processing.pdf">December 2018</a></p>
+
+     <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_DOC_Accelerate_Patent_Processing.pdf">September 2018</a></p>
+
+     <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_DOC_Accelerate_Patent_Processing.pdf">June 2018</a></p>
+
+     <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_DOC_Accelerate_Patent_Processing.pdf">March 2018</a></p>
+
 </div>
 
-<div class="usa-grid usa-graphic_list-row">
-  <div class="usa-width-one-whole usa-media_block agency-page-section">
-    <h2 style="color:#046b99;">Overview</h2>
-    <p>The Department of Commerce promotes job creation and economic growth by ensuring fair and reciprocal trade, providing the data necessary to support commerce and constitutional democracy, and fostering innovation by setting standards and conducting foundational research and development. Through our bureaus and 46,608 employees (as of January 31, 2018) located in all 50 states, every U.S. territory, and more than 86 countries, we provide U.S.-based companies and entrepreneurs invaluable tools through programs such as the Decennial Census, the National Weather Service, NOAA Fisheries, and the Foreign Commercial Service. Among many other functions, the Department oversees ocean and coastal navigation, helps negotiate bilateral trade agreements, and enforces laws that ensure a level playing field for American businesses and workers.</p>
-  </div>
+</div>
 </div>
 
-<div class="usa-grid usa-graphic_list-row">
-  <div class="usa-width-one-whole usa-media_block">
-    <p>To access additional agency performance documents <a href="http://www.osec.doc.gov/bmi/budget/" target="_blank">visit the agency’s website</a>.</p>
-  </div>
+<hr>
+
+<h3>Mitigate Flood Impacts by Demonstrating Improved Decision Support Services to Emergency Managers </h3>
+<div class="usa-width-one-whole">
+
+<b>Goal Leader:</b> Dr. Neil Jacobs, Assistance Secretary of Commerce for Environmental Observation and Prediction, performing the duties of Undersecretary of Commerce for Oceans and Atmosphere
+
+<p><b>Goal Statement:</b> By September 30, 2019, NOAA National Weather Service will improve decision support services by demonstrating a new flood inundation mapping capability serving 25 million people (i.e., 8 percent of the U.S. continental population) residing in flood-vulnerable freshwater basins and delivering an enhanced excessive rainfall outlook product that extends the lead time of high risk predictions from two to three days.  </p>
+
+<p><b>Goal Action Plans & Progress Updates</b></p>
+
+<div class="usa-width-one-whole usa-media_block">
+<div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
+
+<div class="usa-width-one-half usa-media_block">
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOC_Mitigate_Flood_Impacts.pdf">December 2019</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_DOC_Mitigate_Flood_Impacts.pdf">September 2019</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_DOC_Mitigate_Flood_Impacts.pdf">June 2019</a></p>
+</div>
+
+<div class="usa-width-one-half usa-media_block">
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_DOC_Mitigate_Flood_Impacts.pdf">December 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_DOC_Mitigate_Flood_Impacts.pdf">September 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_DOC_Mitigate_Flood_Impacts.pdf">June 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_DOC_Mitigate_Flood_Impacts.pdf">March 2018</a></p>
+</div>
+
+</div>
+</div>
+
+<hr>
+
+<h3>Prepare to Conduct a Complete and Accurate 2020 Decennial Census</h3>
+
+<p><b>Goal Leader:</b> Albert E. Fontenot, Jr.,  Associate Director for Decennial Census Programs, Commerce and General Government</p>
+
+<p><b>Goal Statement:</b> The U.S. Census Bureau will prepare to conduct a complete and accurate 2020 Decennial Census U.S. population count by conducting the 2018 End-to-End Census Test and analyzing and incorporating the results, initiating In-Field Address Canvassing by September 30, 2019, and designing for optimal self-response with a nationwide target of 60.5% in 2020.<sup>1</sup> </p>
+
+<p><sup>1</sup><i>The goal statement has been updated from its original publication to use language that is more precise and better characterizes the results that will be achieved.</i></p>
+
+<!-- <p><strong>Implementation Action Plans will be available with the Q1 FY 2018 performance update.</strong></p>-->
+
+<p><b>Goal Action Plans & Progress Updates</b></p>
+
+<div class="usa-width-one-whole usa-media_block">
+<div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
+
+<div class="usa-width-one-half usa-media_block">
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">December 2019</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">September 2019</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">June 2019</a></p>
+</div>
+
+<div class="usa-width-one-half usa-media_block">
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">December 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">September 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">June 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_DOC_Prepare_to_Conduct_a_Complete_and_Accurate_Decennial_Census.pdf">March 2018</a></p>
+</div>
+
+</div>
+</div>
+
+<hr>
+
+<h3>Remove Foreign Trade Barriers</h3>
+
+<p><b>Goal Leaders:</b>  Jeffrey Kessler, Assistant Secretary for Enforcement & Compliance, Office of the Under Secretary for International Trade, Ian Steff, Assistant Secretary for Global Markets and Director General of the U.S. Foreign & Commercial Service, Office of the Under Secretary for International Trade, and James Sullivan, Assistant Secretary for Industry & Analysis, Office of the Under Secretary for International Trade </p>
+
+<p><b>Goal Statement:</b> The International Trade Administration (ITA) will facilitate fair competition in international trade for U.S. firms and workers by improving the number of trade barriers reduced, removed, or prevented by 10 percent annually in fiscal years 2018 and 2019.  </p>
+<!--<p><strong>Implementation Action Plans will be available with the Q1 FY 2018 performance update.</strong></p>-->
+<p><b>Goal Action Plans & Progress Updates</b></p>
+
+<div class="usa-width-one-whole usa-media_block">
+<div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
+
+<div class="usa-width-one-half usa-media_block">
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOC_Remove Foreign Trade Barriers.pdf">December 2019</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_DOC_Remove Foreign Trade Barriers.pdf">September 2019</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_DOC_Remove Foreign Trade Barriers.pdf">June 2019</a></p>
+</div>
+
+<div class="usa-width-one-half usa-media_block">
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_DOC_Remove Foreign Trade Barriers.pdf">December 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_DOC_Remove Foreign Trade Barriers.pdf">September 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_DOC_Remove Foreign Trade Barriers.pdf">June 2018</a></p>
+
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_DOC_Remove Foreign Trade Barriers.pdf">March 2018s</a></p>
+</div>
+
+</div>
 </div>
