@@ -5,6 +5,7 @@ folder: commerce
 permalink: /commerce/2018-2019-apg/
 agency-name: Department of Commerce
 agency-seal: /img/agency/Commerce_Department_Seal.png
+agency-link: /commerce/
 
 
 #twitter and blog image
