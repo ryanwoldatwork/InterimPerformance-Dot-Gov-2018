@@ -16,14 +16,14 @@ strategic-plan-link: https://dcmo.defense.gov/Publications/DoD-ASP/
 performance-plan-link: https://cmo.defense.gov/Portals/47/Documents/Publications/Annual%20Performance%20Plan/FY%202020%20Annual%20Perf%20Plan%20and%20FY%202018%20Annual%20Perf%20Report.pdf?ver=2019-03-28-155655-073
 
 #side navigation
-apg-1: Financial Management
+apg-1: DoD Reform Savings
 apg-1-link: APG_defense_1.html
-apg-2: Force Readiness
+apg-2: Financial Management
 apg-2-link: APG_defense_2.html
-apg-3: Reduce Regulatory Burden
+apg-3: Force Readiness
 apg-3-link: APG_defense_3.html
-apg-4:
-apg-4-link:
+apg-4: Reduce Regulatory Burden
+apg-4-link: APG_defense_4.html
 apg-5:
 apg-5-link:
 apg-6:
