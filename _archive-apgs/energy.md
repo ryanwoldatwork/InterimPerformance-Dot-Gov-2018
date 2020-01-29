@@ -55,11 +55,7 @@ description: Advance U.S. national security and economic growth through scientif
 
 <h2>Strengthen Cybersecurity Capabilities</h2>
 <p><b>Goal Leader:</b> Karen S. Evans - Cybersecurity, Energy Security, and Emergency Response (CESER) Assistant Secretary</p>
-<p><b>Goal Statement:</b>
-  Strengthen energy sector cybersecurity capabilities. By September 30, 2019, DOE will complete the operational technology data analysis from at least three utilities and develop a recommendation for deployment of  the operational technology cyber security approach to utility operators nation-wide.
-    </li>
-  </ul>
-</p>
+<p><b>Goal Statement:</b>  Strengthen energy sector cybersecurity capabilities. By September 30, 2019, DOE will complete the operational technology data analysis from at least three utilities and develop a recommendation for deployment of  the operational technology cyber security approach to utility operators nation-wide.</p>
 <p><b>Goal Action Plan & Progress Update:</b></p>
 <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_strengthen_cyber_cap.pdf">December 2019</a></p>
 
