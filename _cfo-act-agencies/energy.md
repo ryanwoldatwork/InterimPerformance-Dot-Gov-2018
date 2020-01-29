@@ -15,20 +15,19 @@ strategic-plan-link: https://www.energy.gov/budget-performance
 performance-plan-link: https://www.energy.gov/budget-performance
 
 #side navigation
-apg-1: Launch Critical Materials Recycling Prize
+# Add apg-4: Environmental Management, apg-4-link: APG_energy_4.html and comment nav option from APG_energy files when pushing
+apg-1: Commercial Adoption of Energy Technologies
 apg-1-link: APG_energy_1.html
-apg-2: Strengthen DOE Cybersecurity
+apg-2: Department of Energy (DOE) Enterprise Cybersecurity
 apg-2-link: APG_energy_2.html
-apg-3: Strengthen Cybersecurity Capabilities
+apg-3: Energy Sector Cybersecurity
 apg-3-link: APG_energy_3.html
-apg-4: Achieve Exascale Computing
-apg-4-link: APG_energy_4.html
-apg-5: Maintain and Modernize the U.S. Nuclear Weapons Stockpile
+apg-5: High Performance Computing (Exascale/Artificial Intelligence)
 apg-5-link: APG_energy_5.html
-apg-6: Stand up a New Public-private Partnership Pilot Program at DOE for National Laboratory Innovation
+apg-6: Nuclear Stockpile Annual Assessment
 apg-6-link: APG_energy_6.html
-apg-7: Legacy Clean-up of Key High Risk Excess Facilities
-apg-7-link: APG_energy_7.html
+apg-7:
+apg-7-link:
 
 twitter-feed: https://twitter.com/ENERGY?ref_src=twsrc%5Etfw
 
