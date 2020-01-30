@@ -16,11 +16,11 @@ strategic-plan-link: https://www2.ed.gov/about/reports/strat/plan2018-22/strateg
 performance-plan-link: https://www2.ed.gov/about/reports/annual/index.html
 
 #side navigation
-apg-1: Improve Access to Quality and Transparency of School Choice Options
+apg-1: Education Freedom
 apg-1-link: APG_education_1.html
-apg-2: Improve Borrowers' Access to Customer Service
+apg-2: Improve FSA Customer Service.
 apg-2-link: APG_education_2.html
-apg-3: Improve Student Privacy/Data Security at Institutions of Higher Education
+apg-3: Multiple Pathways to Success
 apg-3-link: APG_education_3.html
 apg-4: Provide Regulatory Relief to Education Stakeholders
 apg-4-link: APG_education_4.html
