@@ -14,13 +14,13 @@ strategic-plan-link: https://www.hud.gov/sites/dfiles/SPM/documents/HUDSTRATEGIC
 performance-plan-link: https://www.hud.gov/sites/dfiles/SPM/documents/HUDFY2020APP-FY2018APR-3.22.2019.pdf
 
 #side navigation
-apg-1: Promote Economic Opportunity for HUD-Assisted Residents
+apg-1: Enhance Rental Assistance
 apg-1-link: ../housing_and_urban_development/APG_hud_1.html
-apg-2: Protect Families From Lead-Based Paint and Other Health Hazards
+apg-2: Promote Economic Opportunity for HUD-Assisted Residents
 apg-2-link: ../housing_and_urban_development/APG_hud_2.html
-apg-3: Reduce the Average Length of Homelessness
+apg-3: Protect Families from Lead-Based Paint and Other Health Hazards
 apg-3-link: ../housing_and_urban_development/APG_hud_3.html
-apg-4: Enhance Rental Assistance
+apg-4: Reduce the Average Length of Homelessness
 apg-4-link: ../housing_and_urban_development/APG_hud_4.html
 apg-5:
 apg-5-link:
