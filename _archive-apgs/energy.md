@@ -67,7 +67,7 @@ description: Advance U.S. national security and economic growth through scientif
 <p><b>Goal Statement:</b> By September 30, 2018, DOE will complete the design of the first of two exascale machines.  By September 30, 2019, DOE will complete design of the second of two exascale machines.
 </p>
 <p><b>Goal Action Plan & Progress Update:</b></p>
-   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="2019_dec_DOE_exascale_computing.pdf">December 2019</a>.</p>
+   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_exascale_computing.pdf">December 2019</a>.</p>
 
 <hr>
 
@@ -80,7 +80,7 @@ description: Advance U.S. national security and economic growth through scientif
   </ul>
 </p>
 <p><b>Goal Action Plan & Progress Update:</b></p>
-   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="2019_dec_DOE_maintain_and_modernize.pdf">December 2019</a>.</p>
+   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_maintain_and_modernize.pdf">December 2019</a>.</p>
 
 
 <hr>
@@ -91,7 +91,7 @@ description: Advance U.S. national security and economic growth through scientif
 <p><b>Goal Statement:</b>  Stand up a new public-private partnership pilot program at DOE for national laboratory innovation.  DOE will:
 By September 30, 2018, develop an inventory  of the Department’s existing commercialization programs and relevant statutory authorities, and document best practices, common challenges and resource requirements; and By September 30, 2019, design a pilot commercialization program template in conjunction with the national laboratories.</p>
 <p><b>Goal Action Plan & Progress Update:</b></p>
-   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="2019_dec_DOE_stand_up.pdf">December 2019</a>.</p>
+   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_stand_up.pdf">December 2019</a>.</p>
 
 <hr>
 
@@ -111,4 +111,4 @@ By September 30, 2018, develop an inventory  of the Department’s existing comm
 </p>
 
 <p><b>Goal Action Plan & Progress Update:</b></p>
- <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="2019_dec_DOE_clean_up.pdf">December 2019</a>.</p>
+ <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_clean_up.pdf">December 2019</a>.</p>
