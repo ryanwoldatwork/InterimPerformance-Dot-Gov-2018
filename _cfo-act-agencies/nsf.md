@@ -14,7 +14,7 @@ strategic-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/66_fy2020.pdf
 performance-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/67_fy2020.pdf
 
 #side navigation
-apg-1: Expand Public and Private Partnerships
+apg-1: Developing an Agency-Wide Partnerships Strategy
 apg-1-link: APG_nsf_1.html
 apg-2:
 apg-2-link:
