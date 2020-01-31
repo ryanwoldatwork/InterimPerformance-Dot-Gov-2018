@@ -15,9 +15,9 @@ strategic-plan-link: https://www.gsa.gov/cdnstatic/GSA%20FY%202018-2022%20Strate
 performance-plan-link: https://www.gsa.gov/cdnstatic/GSA%20FY%202020%20Annual%20Performance%20Plan%20and%20FY%202018%20Report_FINAL.pdf
 
 #side navigation
-apg-1: Expansion of Centralized Services
+apg-1: Leased Building Operations
 apg-1-link: APG_gsa_1.html
-apg-2: Leased Building Operations
+apg-2: Multiple Award Schedule Reform - Schedules Consolidation
 apg-2-link: APG_gsa_2.html
 apg-3:
 apg-3-link:

@@ -15,16 +15,16 @@ strategic-plan-link: https://www.nasa.gov/sites/default/files/atoms/files/nasa_2
 performance-plan-link: https://www.nasa.gov/news/budget/index.html
 
 #side navigation
-apg-1: Commercial Crew Program
+apg-1: Artemis 2024 Lunar Landing
 apg-1-link: APG_nasa_1.html
-apg-2: Exploration
+apg-2: Commercial Low Earth Orbit Economy
 apg-2-link: APG_nasa_2.html
-apg-3: International Space Station
+apg-3: Enable Sustainable Surface Capabilities for the Moon in preparation for Mars
 apg-3-link: APG_nasa_3.html
 apg-4: James Webb Space Telescope
 apg-4-link: APG_nasa_4.html
-apg-5: Mars 2020
-apg-5-link: APG_nasa_5.html
+apg-5: 
+apg-5-link: 
 apg-6:
 apg-6-link:
 twitter-feed: https://twitter.com/NASA?ref_src=twsrc%5Etfw
