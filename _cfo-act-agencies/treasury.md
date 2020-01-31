@@ -13,11 +13,11 @@ strategic-plan-link: https://www.treasury.gov/about/budget-performance/strategic
 performance-plan-link: https://www.treasury.gov/about/budget-performance/Pages/cj-index.aspx
 
 #side navigation
-apg-1: Fraud Prevention
+apg-1: Implementation of the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA)
 apg-1-link: APG_treasury_1.html
-apg-2: Improved Business Qualification/Permitting Process
+apg-2: Fraud Prevention
 apg-2-link: APG_treasury_2.html
-apg-3: U.S.-Mexico Strategic Dialogue on Illicit Finance (SDIF)
+apg-3: Paper Check Reduction
 apg-3-link: APG_treasury_3.html
 apg-4:
 apg-4-link:
