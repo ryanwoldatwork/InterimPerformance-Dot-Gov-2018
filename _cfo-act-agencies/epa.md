@@ -14,17 +14,17 @@ strategic-plan-link: https://www.epa.gov/sites/production/files/2019-09/document
 performance-plan-link: https://www.epa.gov/planandbudget
 
 #side navigation
-apg-1: Accelerate Permitting-Related Decisions
+apg-1: Accelerate permitting-related decisions
 apg-1-link: APG_epa_1.html
-apg-2: Accelerate the Pace of Cleanups and Return Sites to Beneficial Use
+apg-2: Accelerate the pace of cleanups and return sites to beneficial use in their communities
 apg-2-link: APG_epa_2.html
-apg-3: Empower Communities to Leverage EPA Water Infrastructure Investments
+apg-3: Empower communities to leverage EPA water infrastructure investments
 apg-3-link: APG_epa_3.html
-apg-4: Improve Air Quality by Implementing Pollution Control Measures
+apg-4: Improve air quality by reducing the number of areas not meeting air quality standards
 apg-4-link: APG_epa_4.html
-apg-5: Increase Environmental Law Compliance Rate
+apg-5: Reduce Childhood Lead Exposures and Associated Health Impacts
 apg-5-link: APG_epa_5.html
-apg-6: Meet New Statutory Requirements to Improve the Safety of Chemicals in Commerce
+apg-6: Reduce Per- and Polyfluoroalkyl Substances (PFAS) Risks to the Public
 apg-6-link: APG_epa_6.html
 twitter-feed: https://twitter.com/EPA?ref_src=twsrc%5Etfw
 
