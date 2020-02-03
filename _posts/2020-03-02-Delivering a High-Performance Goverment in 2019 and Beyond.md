@@ -5,7 +5,7 @@ title: "Delivering a High-Performance Government in 2019 and Beyond"
 
 rating: "0"
 
-permalink: /DeliveringHighPerformanceGovernment/
+permalink: /Delivering-High-Performance-blog/
 
 
 summary: summary_large_image
@@ -17,7 +17,7 @@ description: Federal agencies continue to leverage best practices from across se
 excerpt:  Federal agencies continue to leverage best practices from across sectors to drive organizational performance improvement via the Federal Performance Management Framework
 
 image: /img/OMB_Seal.png
-image_accessibility: Seal of The Eecutive Office of the President
+image_accessibility: Seal of The Executive Office of the President
 
 authors:
 - Performance.gov Team
