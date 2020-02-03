@@ -2,6 +2,7 @@
 title: Commerce
 layout: cfo-act-agency
 archive-link: /commerce/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /commerce/DOC-Strategic-Objectives.pdf
 
 
 permalink: ../commerce/

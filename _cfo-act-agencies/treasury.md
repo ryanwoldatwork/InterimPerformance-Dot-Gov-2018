@@ -2,6 +2,7 @@
 layout: cfo-act-agency
 archive-link: /treasury/2018-2019-apg/ #link to archived apgs
 permalink: ../treasury/
+strategic-objective-link: /treasury/Treasury-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of the Treasury

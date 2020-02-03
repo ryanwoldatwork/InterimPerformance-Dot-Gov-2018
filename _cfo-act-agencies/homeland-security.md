@@ -3,6 +3,7 @@ title: DHS
 layout: cfo-act-agency
 archive-link: /dhs/2018-2019-apg/ #link to archived apgs
 permalink: ../homeland-security/
+strategic-objective-link: /homeland_security/DHS-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Homeland Security

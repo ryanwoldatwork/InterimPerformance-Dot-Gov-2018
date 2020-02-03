@@ -3,6 +3,7 @@ title: SBA
 layout: cfo-act-agency
 archive-link: /sba/2018-2019-apg/ #link to archived apgs
 permalink: ../SBA/
+strategic-objective-link: /SBA/SBA-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Small Business Administration
