@@ -5,6 +5,7 @@ folder: interior
 permalink: /interior/2018-2019-apg/
 agency-name: Department of the Interior
 agency-seal: /img/agency/Interior_Department_Seal.png
+agency-link: /interior/
 
 #twitter and blog image
 image: "/img/agency/Interior_Department_Seal.png"

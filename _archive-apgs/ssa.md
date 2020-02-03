@@ -6,6 +6,7 @@ permalink: /ssa/2018-2019-apg/
 agency-name: Social Security Administration
 agency-seal: /img/agency/Social_Security_Administration_Seal.png
 
+agency-link: /SSA/
 
 #twitter and blog image
 image: "/img/agency/Social_Security_Administration_Seal.png"

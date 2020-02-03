@@ -57,7 +57,7 @@ description: To create the conditions for economic growth and opportunity by pro
 <h3>Mitigate Flood Impacts by Demonstrating Improved Decision Support Services to Emergency Managers </h3>
 <div class="usa-width-one-whole">
 
-<b>Goal Leader:</b> Dr. Neil Jacobs, Assistance Secretary of Commerce for Environmental Observation and Prediction, performing the duties of Undersecretary of Commerce for Oceans and Atmosphere
+<b>Goal Leader:</b> Dr. Neil Jacobs, Assistant Secretary of Commerce for Environmental Observation and Prediction, performing the duties of Undersecretary of Commerce for Oceans and Atmosphere
 
 <p><b>Goal Statement:</b> By September 30, 2019, NOAA National Weather Service will improve decision support services by demonstrating a new flood inundation mapping capability serving 25 million people (i.e., 8 percent of the U.S. continental population) residing in flood-vulnerable freshwater basins and delivering an enhanced excessive rainfall outlook product that extends the lead time of high risk predictions from two to three days.  </p>
 

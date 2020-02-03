@@ -5,6 +5,7 @@ folder: doj
 permalink: /doj/2018-2019-apg/
 agency-name: Department of Justice
 agency-seal: /img/agency/Justice_Department_Seal.png
+agency-link: /justice/
 
 #twitter and blog image
 image: "/img/agency/Justice_Department_Seal.png"

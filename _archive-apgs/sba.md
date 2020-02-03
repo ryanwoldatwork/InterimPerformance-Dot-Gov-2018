@@ -5,6 +5,7 @@ folder: sba
 permalink: /sba/2018-2019-apg/
 agency-name: Small Business Administration
 agency-seal: /img/agency/Small_Business_Administration_Seal.png
+agency-link: /SBA/
 
 #twitter and blog image
 image: "/img/agency/Small_Business_Administration_Seal.png"

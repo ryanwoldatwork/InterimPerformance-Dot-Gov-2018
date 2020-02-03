@@ -16,11 +16,11 @@ summary: summary
 description: To promote student achievement and preparation for global competition by fostering educational excellence and ensuring equal access.
 ---
 
-<h3>Improve the Access to and the Quality and Transparency of <br>School Choice Options for K-12 Students</h3>
+<h3>Improve the Access to and the Quality and Transparency of School Choice Options for K-12 Students</h3>
 
-<p><b>Goal Leader:</b Chris Rinkus, Deputy Assistant Secretary for Evidence-based Practices and State and Grantee Relations, Office of Elementary and Secondary Education</p>
+<p><b>Goal Leader:</b> Chris Rinkus, Deputy Assistant Secretary for Evidence-based Practices and State and Grantee Relations, Office of Elementary and Secondary Education</p>
 
-<p><b>Goal Statement:</b> By September 30, 2019, the Charter School Program (CSP) will support the creation and expansion of 300 new charter schools nationally. The new charter schools will enroll an estimated 50,000 students. Additionally, by September 30, 2019, the Department will disseminate eight resources, at least one per quarter, on evidence-based and promising practices related to school choice. </p>
+<p><b>Goal Statement:</b>  By September 30, 2019, the Charter School Program (CSP) will support the creation and expansion of 300 new charter schools nationally. The CSP will also support the enrollment of 50,000 students in new charter schools. Additionally, by September 30, 2019, the Department will disseminate eight resources, at least one per quarter, on evidence-based and promising practices related to school choice. </p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
 

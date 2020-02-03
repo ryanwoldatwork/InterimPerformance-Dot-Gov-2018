@@ -9,6 +9,8 @@ agency-seal-2: /img/agency/USAID_Seal.png
 apg-state: APG_state_1.html
 apg-usaid: APG_usaid_1.html
 apg-joint: APG_joint_1.html
+agency-link: /state/
+
 #side navigation (APG code lives in cfo-act-agency layout)
 twitter-feed: https://twitter.com/StateDept?ref_src=twsrc%5Etfw
 

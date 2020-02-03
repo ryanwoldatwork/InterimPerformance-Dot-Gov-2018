@@ -5,6 +5,7 @@ folder: labor
 permalink: /labor/2018-2019-apg/
 agency-name: Department of Labor
 agency-seal: /img/agency/Labor_Department_Seal.png
+agency-link: /labor/
 
 #side navigation
 #twitter and blog image

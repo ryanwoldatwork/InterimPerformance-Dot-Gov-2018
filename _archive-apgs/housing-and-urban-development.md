@@ -5,6 +5,8 @@ folder: hud
 permalink: /hud/2018-2019-apg/
 agency-name: Department of Housing and Urban Development
 agency-seal: /img/agency/HUD_Seal.png
+agency-link: /housing-and-urban-development/
+
 
 #twitter and blog image
 image: "/img/agency/HUD_Seal.png"
