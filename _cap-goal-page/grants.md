@@ -8,6 +8,14 @@ url: /CAP/grants/
 
 redirect_from: "/CAP/CAP_goal_8.html"
 
+#use this section if you want to highlight something other than the quarterly action plan
+featured-box: Comment Period for Proposed Changes to 2 CFR Open through 3/23/20
+featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment
+featured-box-button: Submit Comments
+#end featured section
+
+#cap-category: "Key Driver of Reform" #category text
+
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -30,14 +38,11 @@ resource-5-url: https://www.fbo.gov/index.php?s=opportunity&mode=form&id=08943a6
 resource-6-name: 2019 Compliance Supplement
 resource-6-url:  https://www.whitehouse.gov/wp-content/uploads/2019/07/2-CFR_Part-200_Appendix-XI_Compliance-Supplement_2019_FINAL_07.01.19.pdf
 
-resource-7-name: 2019 Compliance Supplement Success Story
-resource-7-url:  https://twitter.com/PerformanceGov/status/1145782350061756417
+resource-7-name: Overview of Version 1.0 Grants Management Standard Data Elements
+resource-7-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
 
-resource-8-name: Overview of Version 1.0 Grants Management Standard Data Elements
-resource-8-url:  https://www.performance.gov/CAP/overview-grants-data-standards.pdf
-
-resource-9-name: Version 1.0 Grants Management Standard Data Elements
-resource-9-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
+resource-8-name: Version 1.0 Grants Management Standard Data Elements
+resource-8-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
 
 listserv-title: Join Community
 listserv-url: 13
@@ -45,6 +50,8 @@ listserv-include: grants-community
 
 innovation: yes
 innovation-title:
+
+CFR: yes
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal Grant Programs support activities that touch every American, such
@@ -83,8 +90,8 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "grants" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title:
-CAP-event-date:
+CAP-event-title: Listening Session for Proposed Revisions for 2 CFR
+CAP-event-date: February 4, 2020
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
@@ -116,7 +123,7 @@ goal-leader-5-title: "Chief Grant Officer, Department of Labor"
 
 goal-leader-6-photo: "/img/agr/Circle-icons-profle.svg.png"
 alt_text_6: Photo of Patrick Corrigan,  #Goal leader 6
-goal-leader-6-name: "Patrick Corrigan,"
+goal-leader-6-name: "Patrick Corrigan"
 goal-leader-6-title: "Senior Advisor, Office of Management and Budget"
 
 #***********************END GOAL LEADER SECTION*****************************8
