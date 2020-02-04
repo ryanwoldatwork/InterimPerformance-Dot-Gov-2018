@@ -99,6 +99,8 @@ The Department of Interior sought to increase the available water supply in the 
 The Small Business Administration sought to increase the number of 8(a)-certified firms receiving federal contracts. The SBA exceeded this Agency Priority Goal as 3,871 8(a) firms receiving a federal contract through the fourth quarter of fiscal year 2019, ending September 30.
 
 ***In Review:***
+
+
 With the release of the President’s 2021 Budget, agencies have set over 90 new APGs covering FYs 2020-2021 reflecting the performance commitments to be achieved throughout the next two years in priority policy and management areas. Reporting on agency progress towards achieving these priority goals will continue quarterly on Performance.gov.
 
 **Strengthening the Policy Framework of Management Processes and Routines**
@@ -107,4 +109,6 @@ With the release of the President’s 2021 Budget, agencies have set over 90 new
 Finally, the Administration strengthened the Performance Framework as part of the 2019 revisions to OMB Circular A-11, Part 6.  The revisions incorporated those parts of the Foundations for Evidence-Based Policymaking Act of 2018 focused on evidence-building activities, further maturing the Federal Performance Framework as a management system which includes the organizational management functions agency leadership must prioritize to improve program outcomes and the performance of the Federal Government.
 
 ***In Review:***
+
+
 Building a government that works smarter, better, and more efficiently to deliver results for the American people is the purpose of the Federal Performance Framework. Leaders across government are leveraging this framework to improve mission outcomes, service to the people, and stewardship of taxpayer dollars, and to achieve the objectives of the President’s Management Agenda. The management policies, practices, and routines highlighted here will be further strengthened over the course of 2020, and we look forward to sharing further results over the course of the year.
