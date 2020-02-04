@@ -16,7 +16,7 @@ description: Federal agencies continue to leverage best practices from across se
 
 excerpt:  Federal agencies continue to leverage best practices from across sectors to drive organizational performance improvement via the Federal Performance Management Framework
 
-image: /img/agency/OMB_Seal.png
+image: /img/blog/a-11-logo.png
 image_accessibility: Seal of The Executive Office of the President
 
 authors:
@@ -47,6 +47,7 @@ Case Studies:
 During the 2019 Strategic Review meetings, OMB officials engaged senior leadership of the major Federal agencies to discuss management successes, challenges, and risks identified from the over 300 strategic objectives and outcomes articulated in Agency Strategic Plans, and identify course corrections where needed. Across these 300+ strategic objectives, major Federal agencies identified 35 as making ‘Noteworthy Progress’ and 40 as a ‘Focus Area for Improvement’ to channel performance improvement efforts related to program execution moving forward. Strategic objective categorizations are often driven by a plurality of factors, from budget, legislative authorities, and administrative rules or authorities to factors related to administrative management such as human capital, IT, as well as management or operational processes contingent on intergovernmental relationships or partnerships. Strategic objective categorizations resulting from the 2019 strategic reviews are available on Performance.gov, and also on individual agency pages. Detailed performance information and comprehensive summaries of progress of agency goals and objectives are available in each agency’s Annual Performance Report.
 
 In addition to helping agencies identify appropriate follow-up actions, the Strategic Reviews also help identify government-wide risks and challenges which need to be addressed. For example, during the 2019 reviews a majority of agencies identified hiring top talent as one of the most significant risks to achieving their mission. In response, OPM, in coordination with OMB, has taken a number of steps to address this challenge including issuing a September 13, 2019 policy memorandum providing options that agencies can use immediately to improve outcomes in Federal hiring.
+
 Moreover, Federal agencies continue to improve both the quality and utility of their strategic objective assessments to decision-making as well as the presentation of their analyses. Adopting a best practice from the private sector, the 2019 strategic reviews introduced a management dashboard component designed to enhance the visualization, display, and communication of key performance indicators and analyses conducted by agencies.
 
 In Review:
