@@ -27,7 +27,7 @@ tags:
 - cx
 
 ---
-This is one of Performance.gov’s  [‘wonkier’](https://www.merriam-webster.com/dictionary/wonk) news posts related to [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf). Circulars are one of the primary ways OMB provides detailed instructions and information to Federal agencies. Importantly, Circulars standardize implementation guidance for Federal agencies across an array of policy areas and topics that are central to the Federal Government’s management and budget processes.
+*This is one of Performance.gov’s  [‘wonkier’](https://www.merriam-webster.com/dictionary/wonk) news posts related to [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf). Circulars are one of the primary ways OMB provides detailed instructions and information to Federal agencies. Importantly, Circulars standardize implementation guidance for Federal agencies across an array of policy areas and topics that are central to the Federal Government’s management and budget processes.*
 
 Federal agencies continue to leverage best practices from across sectors to drive organizational performance improvement via the Federal Performance Management Framework. Throughout 2019, OMB has continued to work in conjunction with Federal agency leadership to focus on clear goals and leverage data-driven management reviews to improve the efficiency and effectiveness of agency operations.**Four best practices have been identified:**
 
