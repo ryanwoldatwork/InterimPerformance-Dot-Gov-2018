@@ -15,17 +15,17 @@ strategic-plan-link: https://www.doi.gov/sites/doi.gov/files/uploads/fy2018-2022
 performance-plan-link: https://www.doi.gov/sites/doi.gov/files/uploads/doi_final_appr_2019-2020.pdf
 
 #side navigation
-apg-1: Indian Affairs
+apg-1: Fulfill Indian Affairs Executive Order
 apg-1-link: APG_interior_1.html
-apg-2: Bureau of Reclamation
+apg-2: Water Conservation and Supply Enhancement
 apg-2-link: APG_interior_2.html
-apg-3: Bureau of Safety and Environmental Enforcement
+apg-3: Conduct Facility-Based Risk Inspections and Performance-Based Risk Inspections
 apg-3-link: APG_interior_3.html
-apg-4: Office of Wildland Fire
+apg-4: Undertake Fuels Management Projects To Reduce Wildfires
 apg-4-link: APG_interior_4.html
-apg-5: Fish and Wildlife Service
+apg-5: Expand Hunting and Fishing Opportunities
 apg-5-link: APG_interior_5.html
-apg-6: Bureau of Land Management
+apg-6: Improve Processing of Drilling Applications
 apg-6-link: APG_interior_6.html
 twitter-feed: https://twitter.com/Interior?ref_src=twsrc%5Etfw
 
