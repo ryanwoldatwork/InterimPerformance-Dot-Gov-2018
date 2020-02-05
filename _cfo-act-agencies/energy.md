@@ -22,7 +22,9 @@ apg-2: Department of Energy (DOE) Enterprise Cybersecurity
 apg-2-link: APG_energy_2.html
 apg-3: Energy Sector Cybersecurity
 apg-3-link: APG_energy_3.html
-apg-5: High Performance Computing (Exascale/Artificial Intelligence)
+apg-3: High Performance Computing (Exascale/Artificial Intelligence)
+apg-4-link: APG_energy_4.html
+apg-4: Environmental Management
 apg-5-link: APG_energy_5.html
 apg-6: Nuclear Stockpile Annual Assessment
 apg-6-link: APG_energy_6.html

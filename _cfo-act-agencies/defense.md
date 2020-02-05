@@ -20,10 +20,10 @@ apg-1: DoD Reform Savings
 apg-1-link: APG_defense_1.html
 apg-2: Financial Management
 apg-2-link: APG_defense_2.html
-apg-3: Force Readiness
+apg-3:  Reduce Regulatory Burden
 apg-3-link: APG_defense_3.html
-apg-4: Reduce Regulatory Burden
-apg-4-link: APG_defense_4.html
+apg-4:
+apg-4-link: 
 apg-5:
 apg-5-link:
 apg-6:
