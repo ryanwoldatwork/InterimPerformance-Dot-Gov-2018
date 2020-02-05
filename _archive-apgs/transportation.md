@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: dot
+folder: transportation
 permalink: /dot/2018-2019-apg/
 agency-name: Department of Transportation
 agency-seal: /img/agency/Transportation_Logo.png
@@ -56,9 +56,9 @@ transportation infrastructure condition and, in the near term, focus on data ava
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/{{site.baseurl}}/{{page.folder}}/2019_dec_DOT_Reduce_Aviation_Fatalities.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/{{site.baseurl}}/{{page.folder}}/FY2019_sept_DOT_Reduce_Aviation_Fatalities.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/{{site.baseurl}}/{{page.folder}}/FY2019_June_DOT_Reduce_Aviation_Fatalities.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOT_Reduce_Aviation_Fatalities.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_DOT_Reduce_Aviation_Fatalities.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_DOT_Reduce_Aviation_Fatalities.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">

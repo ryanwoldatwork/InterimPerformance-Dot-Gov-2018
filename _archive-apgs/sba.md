@@ -43,7 +43,7 @@ Entrepreneurs in emerging markets do not have access to adequate capital to star
 <hr>
 
 <h3>Increase Federal Contracts to Disadvantaged Small Businesses</h3>
-<p><b>Goal Leaders:</b>Robb N. Wong, Associate Administrator Office of Government Contracting and Business Development and Michael A. Vallante, Associate Administrator, Office of Field Operations</p>
+<p><b>Goal Leaders:</b> Robb N. Wong, Associate Administrator Office of Government Contracting and Business Development and Michael A. Vallante, Associate Administrator, Office of Field Operations</p>
 <p><b>Goal Statement:</b> Increase the number of 8(a)-certified firms receiving federal contracts. By September 30, 2019, increase by 10 percent, from the FY 2017 baseline, the number of 8(a)-certified firms awarded federal contracts. </p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
@@ -52,10 +52,7 @@ Entrepreneurs in emerging markets do not have access to adequate capital to star
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="2019_dec_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf">December 2019</a></p>
-</div>
-
-<div class="usa-width-one-half usa-media_block">
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/2019_dec_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf">December 2019</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf">September 2019</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2019_June_SBA_Increase_Federal_Contracts_to_Disadvantaged_Small_Businesses.pdf">June 2019</a></p>
 </div>

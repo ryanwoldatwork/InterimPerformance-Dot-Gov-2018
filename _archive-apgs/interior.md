@@ -15,8 +15,10 @@ summary: summary
 description: To conserve and manage the Nation’s natural resources and cultural heritage, and create opportunities for the American people to help them prosper.
 ---
 <h3>Ensure Clear, Quantitative Criteria for Threatened and Endangered Species Recovery Plans</h3>
-<p><b>Goal Leader:</b> Margaret Everson, Principle Deputy Director, Fish and Wildlife Service the species without unnecessary impacts. By September 30, 2019, 100% of all Fish and Wildlife Service recovery plans will have quantitative criteria for what constitutes a recovered species. </p>
-<!-- <p><strong>Implementation Action Plans will be available with the Q1 FY 2018 performance update.</strong></p>-->
+<p><b>Goal Leader:</b> Margaret Everson, Principle Deputy Director, Fish and Wildlife Service
+
+<p><b>Goal Statement:</b> Clarity for when a threatened or endangered species can be downlisted or delisted is important to ensuring that only the appropriate actions are taken to help the species without unnecessary impacts. By September 30, 2019, 100% of all Fish and Wildlife Service recovery plans will have quantitative criteria for what constitutes a recovered species.</p>
+
 <p><b>Goal Action Plans & Progress Updates</b></p>
 <div class="usa-width-one-whole usa-media_block">
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
@@ -41,7 +43,7 @@ description: To conserve and manage the Nation’s natural resources and cultura
 
 <h3>Species Status Assessments (SSAs) for Listings with State Input</h3>
 <p><b>Goal Leader: </b>Jim Kurth, Acting Director and Deputy Director for Operations, Fish and Wildlife Service </p>
-<p><b>Goal Statement:</b>All Fish and Wildlife Service decisions on species listings under the Endangered Species Act will be informed by state fish and wildlife agencies. By September 30, 2018, 100% of proposed species listings will be based on best available information that includes state input and/or data provided through participation in Species Status
+<p><b>Goal Statement:</b> All Fish and Wildlife Service decisions on species listings under the Endangered Species Act will be informed by state fish and wildlife agencies. By September 30, 2018, 100% of proposed species listings will be based on best available information that includes state input and/or data provided through participation in Species Status
 Assessments. </p>
 <p><i>Agency’s implementation of this APG complete with target achieved by Sept. 30, 2018</i></p>
 <!--<p><strong>Implementation Action Plans will be available with the Q1 FY 2018 performance update.</strong></p>-->
@@ -53,7 +55,7 @@ Assessments. </p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">December 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">September 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">March 2018</a>.</p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -70,14 +72,15 @@ Assessments. </p>
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="2019_dec_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2019</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">June 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">September 2018</a></p>
 </div>
 
 <!--Q2 deck-->
 <div class="usa-width-one-half usa-media_block">
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest"
+   style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">September 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">June 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">March 2018</a></p>
 </div>

@@ -61,7 +61,7 @@ description: Maintain a strong economy and create economic and job opportunities
 
 <div class="usa-width-one-half usa-media_block">
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Treasury_Improved_Business_Qualification.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q3_Treasury_Improved_Business_Qualification.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Treasury_Improved_Business_Qualification.pdf">September 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Treasury_Improved_Business_Qualification.pdf">June 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Treasury_Improved_Business_Qualification.pdf">March 2018</a></p>
 </div>

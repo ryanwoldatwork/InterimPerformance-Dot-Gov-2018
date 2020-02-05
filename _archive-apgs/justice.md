@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: doj
+folder: justice
 permalink: /doj/2018-2019-apg/
 agency-name: Department of Justice
 agency-seal: /img/agency/Justice_Department_Seal.png
