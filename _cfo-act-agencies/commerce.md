@@ -13,7 +13,7 @@ agency-name: Department of Commerce
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Commerce_Department_Seal.png
 agency-site: https://www.commerce.gov/
-strategic-plan-link: https://www.commerce.gov/sites/default/files/us_department_of_commerce_2018-2022_strategic_plan.pdf
+strategic-plan-link: https://performance.commerce.gov/
 performance-plan-link: https://www.commerce.gov/about/budget-and-performance
 
 #side navigation
