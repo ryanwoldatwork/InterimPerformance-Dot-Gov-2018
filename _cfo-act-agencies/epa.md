@@ -24,9 +24,9 @@ apg-3: Empower communities to leverage EPA water infrastructure investments
 apg-3-link: APG_epa_3.html
 apg-4: Improve air quality by reducing the number of areas not meeting air quality standards
 apg-4-link: APG_epa_4.html
-apg-5: Reduce Childhood Lead Exposures and Associated Health Impacts
+apg-5: Reduce childhood lead exposures and associated health impacts
 apg-5-link: APG_epa_5.html
-apg-6: Reduce Per- and Polyfluoroalkyl Substances (PFAS) Risks to the Public
+apg-6: Reduce per- and polyfluoroalkyl substances (PFAS) risks to the public
 apg-6-link: APG_epa_6.html
 twitter-feed: https://twitter.com/EPA?ref_src=twsrc%5Etfw
 

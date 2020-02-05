@@ -15,9 +15,9 @@ strategic-plan-link: https://www.opm.gov/about-us/budget-performance/strategic-p
 performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/
 
 #side navigation
-apg-1: Accelerate Reskilling and Redploying
+apg-1: Enable Agencies to Effectively Address Current and Projected Workforce Needs to Meet Mission Objectives
 apg-1-link: APG_opm_1.html
-apg-2: Improve the Integrity and Efficiency of FEHB Enrollment
+apg-2: Establish an FEHB Master Enrollment Index
 apg-2-link: APG_opm_2.html
 apg-3:
 apg-3-link:

@@ -19,7 +19,7 @@ performance-plan-link: https://www2.ed.gov/about/reports/annual/index.html
 #side navigation
 apg-1: Education Freedom
 apg-1-link: APG_education_1.html
-apg-2: Improve FSA Customer Service.
+apg-2: Federal  Student Aid Customer Service
 apg-2-link: APG_education_2.html
 apg-3: Multiple Pathways to Success
 apg-3-link: APG_education_3.html
