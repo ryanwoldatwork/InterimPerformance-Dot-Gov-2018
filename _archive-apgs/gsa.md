@@ -16,7 +16,7 @@ description: Deliver value and savings in real estate, acquisition, technology, 
 ---
 
 <h3>Expansion of Centralized Services</h3>
-<p><b>Goal Leaders:</b> Allison Brigati, Deputy Administrator and Julie Dunne, Acting Commissioner, Federal Acquisition Service (FAS)</td>
+<p><b>Goal Leaders:</b> Allison Brigati, Deputy Administrator and Julie Dunne, Acting Commissioner, Federal Acquisition Service (FAS)</p>
 <p><b>Goal Statement:</b> GSA will develop and expand common solutions and service offerings for mission-support services, driving more efficient and effective processes that help agencies maximize mission delivery. Specifically, to eliminate redundancies and reduce government-wide fleet costs, GSA's Fleet program will partner with agencies to study their vehicle inventories to identify savings and efficiency opportunities, reviewing 25,000 vehicles annually in FY18 and FY19 and consolidating 500 and 5,000 vehicles, respectively, pending study results.</p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
