@@ -33,7 +33,7 @@ description: Advance U.S. national security and economic growth through scientif
 
 <hr>
 
-<h2>Strengthen Department of Energy (DOE)  Cybersecurity</h2>
+<h3>Strengthen Department of Energy (DOE)  Cybersecurity</h3>
 <p><b>Goal Leader:</b> Rocky Campione, Chief Information Officer, DOE</p>
 <p><b>Goal Statement:</b>
   Strengthen DOE enterprise-wide cybersecurity to protect critical IT infrastructure and ensure continuity of enterprise mission essential functions. By September 30, 2019, DOE will:
@@ -73,14 +73,14 @@ description: Advance U.S. national security and economic growth through scientif
 
 <h3>Maintain and Modernize the U.S. Nuclear Weapons Stockpile</h3>
 
-<p><b>Goal Leader:</b> Dr. Charles Verdon, NNSA, Deputy Administrator for Defense Programse</p>
+<p><b>Goal Leader:</b> Dr. Charles Verdon, NNSA, Deputy Administrator for Defense Programs</p>
 <p><b>Goal Statement:</b> Maintain and modernize the U.S. nuclear weapons stockpile and dismantle excess nuclear weapons to meet the national security requirements, as assigned by the President, through the Nuclear Posture Review (NPR).  DOE will:
   <ul>
     <li>  By Sept. 30, 2018, complete at least 90% of W76-1 production unit builds and achieve B61-12 system final design review. By Sept. 30, 2019, achieve 100% of W76-1 production unit builds, and update the plan for future life extension programs (LEPs) in NNSA strategic planning documents as outlined in the NPR.</li>
   </ul>
 </p>
 <p><b>Goal Action Plan & Progress Update:</b></p>
-   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_maintain_and_modernize.pdf">December 2019</a>.</p>
+   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_maintain_and_modernize.pdf">December 2019</a>.</p>
 
 
 <hr>
@@ -89,9 +89,12 @@ description: Advance U.S. national security and economic growth through scientif
 
 <p><b>Goal Leader:</b> Conner Prochaska, Director, Office of Technology Transitions</p>
 <p><b>Goal Statement:</b>  Stand up a new public-private partnership pilot program at DOE for national laboratory innovation.  DOE will:
-By September 30, 2018, develop an inventory  of the Department’s existing commercialization programs and relevant statutory authorities, and document best practices, common challenges and resource requirements; and By September 30, 2019, design a pilot commercialization program template in conjunction with the national laboratories.</p>
+<ul>
+<li>By September 30, 2018, develop an inventory  of the Department’s existing commercialization programs and relevant statutory authorities, and document best practices, common challenges and resource requirements; </li>
+<li>and By September 30, 2019, design a pilot commercialization program template in conjunction with the national laboratories.</li>
+</ul>
 <p><b>Goal Action Plan & Progress Update:</b></p>
-   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_stand_up.pdf">December 2019</a>.</p>
+   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_stand_up.pdf">December 2019</a>.</p>
 
 <hr>
 
@@ -111,4 +114,4 @@ By September 30, 2018, develop an inventory  of the Department’s existing comm
 </p>
 
 <p><b>Goal Action Plan & Progress Update:</b></p>
- <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_clean_up.pdf">December 2019</a>.</p>
+ <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/2019_dec_DOE_clean_up.pdf">December 2019</a>.</p>

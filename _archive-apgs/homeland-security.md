@@ -1,10 +1,11 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: dhs
+folder: homeland_security
 permalink: /dhs/2018-2019-apg/
 agency-name: Department of Homeland Security
 agency-seal: /img/agency/Homeland_Security_Department_Seal.png
+agency-link: /homeland-security/
 
 #twitter and blog image
 image: "/img/agency/Homeland_Security_Department_Seal.png"

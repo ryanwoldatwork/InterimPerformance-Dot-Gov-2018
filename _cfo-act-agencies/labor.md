@@ -3,6 +3,7 @@ title: DOL
 layout: cfo-act-agency
 archive-link: /labor/2018-2019-apg/ #link to archived apgs
 permalink: ../labor/
+strategic-objective-link: /labor/DOL-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Labor

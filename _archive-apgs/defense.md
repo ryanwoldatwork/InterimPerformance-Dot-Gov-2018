@@ -39,7 +39,7 @@ description: Provide the military forces needed to deter and win wars to protect
 
 <div class="usa-width-one-half usa-media_block">
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Financial_Management">December 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Financial_Management.pdf">December 2018</a></p>
 
 <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Financial_Management.pdf">June 2018</a></p>
 
@@ -72,7 +72,7 @@ description: Provide the military forces needed to deter and win wars to protect
 
 <div class="usa-width-one-half usa-media_block">
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Force_Readiness">December 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Force_Readiness.pdf">December 2018</a></p>
 
 <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Force_Readiness.pdf">June 2018</a></p>
 </div>

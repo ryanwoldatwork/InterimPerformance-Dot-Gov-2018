@@ -5,6 +5,7 @@ folder: gsa
 permalink: /gsa/2018-2019-apg/
 agency-name: General Services Administration
 agency-seal: /img/agency/GSA_Seal.png
+agency-link: /GSA/
 
 #twitter and blog image
 image: "/img/agency/GSA_Seal.png"

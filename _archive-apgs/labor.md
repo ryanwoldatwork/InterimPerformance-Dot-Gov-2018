@@ -5,6 +5,7 @@ folder: labor
 permalink: /labor/2018-2019-apg/
 agency-name: Department of Labor
 agency-seal: /img/agency/Labor_Department_Seal.png
+agency-link: /labor/
 
 #side navigation
 #twitter and blog image
@@ -99,8 +100,8 @@ description: To foster, promote, and develop the welfare of the wage earners, jo
 <hr>
 
 <h3>Worker Safety: Reduce Miner Injuries</h3>
-<p><b>Goal Leaders:</b>David Zatezalo, Assistant Secretary, Mine Safety and Health Administration (MSHA), Tim Watkins, Acting Administrator, Coal Safety and Health, and Sheila McConnell,  Director, Standards, Regulations and Variances</p>
-<p><b>Goal Statement:</b> By September 30, 2019, reduce the reportable injury rate associated with powered haulage equipment, the primary  of miners’ injuries, by 10 percent per year based on a rolling 5-year average per 200,000 hours worked. </p>
+<p><b>Goal Leaders:</b> David Zatezalo, Assistant Secretary, Mine Safety and Health Administration (MSHA), Tim Watkins, Acting Administrator, Coal Safety and Health, and Sheila McConnell,  Director, Standards, Regulations and Variances</p>
+<p><b>Goal Statement:</b> By September 30, 2019, reduce the reportable injury rate associated with powered haulage equipment, the primary cause of miners’ injuries, by 10 percent per year based on a rolling 5-year average per 200,000 hours worked. </p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
 

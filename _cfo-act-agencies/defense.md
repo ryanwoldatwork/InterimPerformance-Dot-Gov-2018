@@ -2,6 +2,7 @@
 title: DOD
 layout: cfo-act-agency
 archive-link: /defense/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /defense/DoD-Strategic-Objectives.pdf
 
 
 permalink: ../defense/

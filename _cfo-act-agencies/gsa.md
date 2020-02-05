@@ -2,6 +2,7 @@
 title: GSA
 layout: cfo-act-agency
 archive-link: /gsa/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /GSA/GSA-Strategic-Objectives.pdf
 
 permalink: ../GSA/
 

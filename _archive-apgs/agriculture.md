@@ -20,8 +20,8 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 
 ---
 <h3>Improve the Customer Service at USDA</h3>
-<b>Goal Leader:</b> Robert Stephenson, Chief Operating Officer, Farm Production and Conservation Mission Area </p>
-<p><b>Goal Statement:</b> USDA will effectively deliver farm and conservation programs to America’s farmers, ranchers and foresters, ultimately increasing their ability to prosper and grow. By September 2019, the Department will enhance the customer experience for farmers, ranchers, and foresters at USDA service centers as well as improve and expand service delivery channels by establishing an effective framework to serve customers in-person and online. </p>
+<p><b>Goal Leader:</b> Robert Stephenson, Chief Operating Officer, Farm Production and Conservation Mission Area </p>
+<p><b>Goal Statement:</b> USDA will effectively deliver farm and conservation programs to America’s farmers, ranchers, and foresters, ultimately increasing their ability to prosper and grow. By September 2019, the Department will enhance the customer experience for farmers, ranchers, and foresters at USDA service centers as well as improve and expand service delivery channels by establishing an effective framework to serve customers in-person and online. </p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
 
@@ -56,11 +56,9 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 <section class="usa-section">
 
 <h3>Modernize USDA’s Information Technology</h3>
-<div class="usa-width-one-whole">
-  <p><b>Goal Leaders:</b> Gary Washington, Chief Information Office and Francisco Salguero, Deputy Chief Information Officer</p>
-</div>
+<p><b>Goal Leaders:</b> Gary Washington, Chief Information Officer and Francisco Salguero, Deputy Chief Information Officer</p>
 
-<p><b>Goal Statement:</b> Modernize information technology and data analytics capabilities across the Department, resulting in a USDA that is customer-focused, evidence-based, and efficient in the use of American taxpayer’s dollars. By September 30, 2019, provide all USDA leadership with one click access to key administrative data allowing the Department to make informed and data driven decisions. </p>
+<p><b>Goal Statement:</b> Modernize information technology and data analytics capabilities across the Department, resulting in a USDA that is customer-focused, evidence-based, and efficient in the use of American taxpayers dollars. By September 30, 2019, provide all USDA leadership with one click access to key administrative data allowing the Department to make informed and data-driven decisions. </p>
 <p><b>Goal Action Plans & Progress Updates</b></p>
 
 <div class="usa-width-one-whole usa-media_block">

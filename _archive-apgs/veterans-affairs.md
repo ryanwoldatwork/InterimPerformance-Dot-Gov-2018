@@ -1,10 +1,11 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: va
+folder: veterans_affairs
 permalink: /va/2018-2019-apg/
 agency-name: Department of Veterans Affairs
 agency-seal: /img/agency/Veterans_Affairs_Department_Seal.png
+agency-link: /veterans-affairs/
 
 #twitter and blog image
 image: "/img/agency/Veterans_Affairs_Department_Seal.png"

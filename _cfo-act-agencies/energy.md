@@ -2,6 +2,7 @@
 title: DOE
 layout: cfo-act-agency
 archive-link: /energy/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /energy/DOE-Strategic-Objectives.pdf
 
 permalink: ../energy/
 
