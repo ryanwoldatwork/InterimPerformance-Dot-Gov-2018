@@ -3,6 +3,7 @@ title: DOI
 layout: cfo-act-agency
 archive-link: /interior/2018-2019-apg/ #link to archived apgs
 permalink: ../interior/
+strategic-objective-link: /interior/DOI-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of the Interior

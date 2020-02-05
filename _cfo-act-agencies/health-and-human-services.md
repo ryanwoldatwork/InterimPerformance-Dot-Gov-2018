@@ -2,6 +2,7 @@
 title: HHS
 layout: cfo-act-agency
 archive-link: /hhs/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /health_and_human_services/HHS-Strategic-Objectives.pdf
 
 permalink: ../health-and-human-services/
 

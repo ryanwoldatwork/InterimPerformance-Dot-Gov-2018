@@ -1,10 +1,13 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: hhs
+folder: health_and_human_services
 permalink: /hhs/2018-2019-apg/
 agency-name: Department of Health and Human Services
 agency-seal: /img/agency/Health_and_Human_Department_Seal.png
+agency-link: /health-and-human-services/
+
+
 
 #twitter and blog image
 image: "/img/agency/Energy_Department_Seal.png"
@@ -122,6 +125,7 @@ description: Advance U.S. national security and economic growth through scientif
 <h3>Serious Mental Illness</h3>
 <p><b>Goal Leaders:</b> Anita Everett, Director, Center for Mental Health Services, Substance Abuse and Mental Health Services Administration and Robert Heinssen,  Director, Division of Services and Intervention Research, National Institute of Mental Health</p>
 <p><b>Goal Statement:</b> Improve treatment for individuals with early Serious Mental Illness.  By September 30, 2019, HHS wants at least 280 evidence-based Coordinated Specialty Care programs providing services to individuals with first episode psychosis, representing a seven-fold increase in the number of such programs compared to 2014. </p>
+<p>* <em>This target assumes stable funding at the federal and state level and may need to be adjusted if there are major unanticipated changes in either.</em></p>
 
 <div class="usa-width-one-whole usa-media_block">
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">

@@ -3,6 +3,7 @@ title: DOJ
 layout: cfo-act-agency
 archive-link: /doj/2018-2019-apg/ #link to archived apgs
 permalink: ../justice/
+strategic-objective-link: /justice/DOJ-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Justice

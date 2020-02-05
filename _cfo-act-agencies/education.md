@@ -2,6 +2,7 @@
 title: Education
 layout: cfo-act-agency
 archive-link: /education/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /education/Ed-Strategic-Objectives.pdf
 
 
 permalink: ../education/

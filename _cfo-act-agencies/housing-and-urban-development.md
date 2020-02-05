@@ -3,6 +3,7 @@ title: HUD
 layout: cfo-act-agency
 archive-link: /hud/2018-2019-apg/ #link to archived apgs
 permalink: ../housing-and-urban-development/
+strategic-objective-link: /housing_and_urban_development/HUD-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Housing and Urban Development

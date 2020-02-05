@@ -5,6 +5,7 @@ folder: nsf
 permalink: /nsf/2018-2019-apg/
 agency-name: National Science Foundation
 agency-seal: /img/agency/National_Science_Foundation_Seal.png
+agency-link: /NSF/
 
 #twitter and blog image
 image: "/img/agency/National_Science_Foundation_Seal.png"

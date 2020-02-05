@@ -3,6 +3,7 @@ title: OPM
 layout: cfo-act-agency
 archive-link: /opm/2018-2019-apg/ #link to archived apgs
 permalink: ../OPM/
+strategic-objective-link: /OPM/OPM-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Office of Personnel Management

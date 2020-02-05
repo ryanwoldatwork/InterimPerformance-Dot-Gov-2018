@@ -1,10 +1,12 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: hud
+folder: housing_and_urban_development
 permalink: /hud/2018-2019-apg/
 agency-name: Department of Housing and Urban Development
 agency-seal: /img/agency/HUD_Seal.png
+agency-link: /housing-and-urban-development/
+
 
 #twitter and blog image
 image: "/img/agency/HUD_Seal.png"
@@ -43,7 +45,7 @@ description: Create strong, sustainable, inclusive communities and quality affor
 
 <h3>Protect Families From Lead-Based Paint and Other Health Hazards</h3>
 <p><b>Goal Leader:</b> Matthew Ammon, Director of the Office of Lead Hazard Control and Healthy Homes</p>
-<p><b>Goal Statement:</b>Protect families from lead-based paint and other health hazards by making an additional 23,500 at-risk housing units healthy and lead-safe by the end of FY 2019.</p>
+<p><b>Goal Statement:</b> Protect families from lead-based paint and other health hazards by making an additional 23,500 at-risk housing units healthy and lead-safe by the end of FY 2019.</p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
 
@@ -51,16 +53,16 @@ description: Create strong, sustainable, inclusive communities and quality affor
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="2019_dec_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf">December 2019</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2019_sept_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf">September 2019</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2019_June_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_HUD_Protect_Families_From_Lead_Based_Paint_and_Other_Health_Hazards.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q4_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">December 2018</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q3_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">September 2018</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q2_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">June 2018</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q1_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_HUD_Protect_Families_From_Lead-Based_Paint_and_Other_Health_Hazards.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -78,16 +80,16 @@ description: Create strong, sustainable, inclusive communities and quality affor
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="2019_dec_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2019_sept_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2019_June_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q4_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q3_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q2_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q1_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_HUD_Reduce_the_Average_Length_of_Homelessness.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -106,16 +108,16 @@ description: Create strong, sustainable, inclusive communities and quality affor
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="2019_dec_HUD_Enhance_Rental_Assistance.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2019_sept_HUD_Enhance_Rental_Assistance.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2019_June_HUD_Enhance_Rental_Assistance.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_HUD_Enhance_Rental_Assistance.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_HUD_Enhance_Rental_Assistance.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_HUD_Enhance_Rental_Assistance.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q4_HUD_Enhance_Rental_Assistance.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q3_HUD_Enhance_Rental_Assistance.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q2_HUD_Enhance_Rental_Assistance.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="FY2018_Q1_HUD_Enhance_Rental_Assistance.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_HUD_Enhance_Rental_Assistance.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_HUD_Enhance_Rental_Assistance.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_HUD_Enhance_Rental_Assistance.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_HUD_Enhance_Rental_Assistance.pdf">March 2018</a></p>
 </div>
 
 </div>

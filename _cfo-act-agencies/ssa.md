@@ -3,6 +3,7 @@ title: SSA
 layout: cfo-act-agency
 archive-link: /ssa/2018-2019-apg/ #link to archived apgs
 permalink: ../SSA/
+strategic-objective-link: /SSA/SSA-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Social Security Administration
