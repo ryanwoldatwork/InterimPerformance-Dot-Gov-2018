@@ -27,9 +27,10 @@ tags:
 - cx
 
 ---
-*This is one of Performance.gov’s  [‘wonkier’](https://www.merriam-webster.com/dictionary/wonk) news posts related to [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf). Circulars are one of the primary ways OMB provides detailed instructions and information to Federal agencies. Importantly, Circulars standardize implementation guidance for Federal agencies across an array of policy areas and topics that are central to the Federal Government’s management and budget processes.*
 
-*To view new 2020-2021 Agency Priority Goals, navigate to Agency landing pages using the "Agencies" dropdown. The new APG titles, goal leaders, and goal statements are listed in the side navigation. Action plans are forthcoming.*
+*To view the new 2020-2021 Agency Priority Goals (APG), navigate to agency landing pages from the "Agencies" dropdown menu. The new APG titles, goal leaders, and goal statements are listed in the side navigation. Note: Action plans will be released in Spring 2020.*
+
+<hr style= "hieght:10px; color:#28a0cb">
 
 Federal agencies continue to leverage best practices from across sectors to drive organizational performance improvement via the Federal Performance Management Framework. Throughout 2019, OMB has continued to work in conjunction with Federal agency leadership to focus on clear goals and leverage data-driven management reviews to improve the efficiency and effectiveness of agency operations. **Four best practices have been identified:**
 
@@ -42,7 +43,7 @@ Federal agencies continue to leverage best practices from across sectors to driv
 
 4. Strengthening the Policy Framework of Management Processes and Routines
 
-The approach rests on several proven management practices grounded in the GPRA Modernization Act of 2010 and OMB’s implementation implementing guidance in [OMB Circular A-11, Part 6, the Federal Performance Framework for Improving Program and Service Delivery](https://www.performance.gov/a-11-revision/).
+The approach rests on several proven management practices grounded in the [Government Performance and Results Act (GPRA) Modernization Act of 2010](https://www.govinfo.gov/content/pkg/BILLS-111hr2142enr/pdf/BILLS-111hr2142enr.pdf) and OMB’s implementation implementing guidance in [OMB Circular A-11, Part 6, the Federal Performance Framework for Improving Program and Service Delivery](https://www.performance.gov/a-11-revision/).
 
 This post details some of the highlights of progress throughout 2019 and looks ahead to further leverage these practices in 2020.
 
@@ -56,26 +57,26 @@ It is through the annual internal Strategic Review process that OMB also works w
 ***Case Studies:***
 
 
-During the 2019 Strategic Review meetings, OMB officials engaged senior leadership of the major Federal agencies to discuss management successes, challenges, and risks identified from the over 300 strategic objectives and outcomes articulated in Agency Strategic Plans, and identify course corrections where needed. Across these 300+ strategic objectives, major Federal agencies identified 35 as making ‘Noteworthy Progress’ and 40 as a ‘Focus Area for Improvement’ to channel performance improvement efforts related to program execution moving forward. Strategic objective categorizations are often driven by a plurality of factors, from budget, legislative authorities, and administrative rules or authorities to factors related to administrative management such as human capital, IT, as well as management or operational processes contingent on intergovernmental relationships or partnerships. Strategic objective categorizations resulting from the 2019 strategic reviews are available on Performance.gov, and also on individual agency pages. Detailed performance information and comprehensive summaries of progress of agency goals and objectives are available in each agency’s Annual Performance Report.
+During the 2019 Strategic Review meetings, OMB officials engaged senior leadership from major Federal agencies to discuss management successes, challenges, and risks identified from the over 300 strategic objectives and outcomes articulated in Agency Strategic Plans, and identify course corrections where needed. Across these 300+ strategic objectives, major Federal agencies identified 35 as making ‘Noteworthy Progress’ and 40 as a ‘Focus Area for Improvement’ to channel performance improvement efforts related to program execution moving forward. Strategic objective categorizations are often driven by a plurality of factors, from budget, legislative authorities, and administrative rules or authorities to factors related to administrative management such as human capital, IT, as well as management or operational processes contingent on intergovernmental relationships or partnerships. Strategic objective categorizations resulting from the 2019 strategic reviews are available on Performance.gov, and also on individual agency pages. Detailed performance information and comprehensive summaries of progress of agency goals and objectives are available in each agency’s Annual Performance Report.
 
-In addition to helping agencies identify appropriate follow-up actions, the Strategic Reviews also help identify government-wide risks and challenges which need to be addressed. For example, during the 2019 reviews a majority of agencies identified hiring top talent as one of the most significant risks to achieving their mission. In response, OPM, in coordination with OMB, has taken a number of steps to address this challenge including issuing a September 13, 2019 [policy memorandum](https://www.chcoc.gov/content/improving-federal-hiring-through-use-effective-assessment-strategies-advance-mission) providing options that agencies can use immediately to improve outcomes in Federal hiring.
+In addition to helping agencies identify appropriate follow-up actions, the Strategic Reviews also help identify government-wide risks and challenges which need to be addressed. For example, during the 2019 reviews a majority of agencies identified hiring top talent as one of the most significant risks to achieving their mission. In response, OPM, in coordination with OMB, has taken a number of steps to address this challenge including the issuance of a [policy memorandum](https://www.chcoc.gov/content/improving-federal-hiring-through-use-effective-assessment-strategies-advance-mission) in September 2019 which provides options that agencies can use immediately to improve outcomes in Federal hiring.
 
-Moreover, Federal agencies continue to improve both the quality and utility of their strategic objective assessments to decision-making as well as the presentation of their analyses. Adopting a best practice from the private sector, the 2019 strategic reviews introduced a management dashboard component designed to enhance the visualization, display, and communication of key performance indicators and analyses conducted by agencies.
+Federal agencies continue to improve both the quality and utility of their strategic objective assessments to decision-making as well as the presentation of their analyses. Adopting a best practice from the private sector, the 2019 strategic reviews introduced a management dashboard component designed to enhance the visualization, display, and communication of key performance indicators and analyses conducted by agencies.
 
 ***In Review:***
 
 
-Looking ahead, the 2020 strategic reviews will continue to improve these analyses while also aligning implementation of critical management components of the GPRA Modernization Act, the Foundations for Evidence-Based Policymaking Act, and the President’s Management Agenda’s Government Effectiveness Advanced Research (GEAR) Center initiative to build a government-wide Management Learning Agenda.
+Looking ahead, the 2020 strategic reviews will continue to improve these analyses while also aligning implementation of critical management components of the GPRA Modernization Act, the Foundations for Evidence-Based Policymaking Act, and the [President’s Management Agenda’s Government Effectiveness Advanced Research Center initiative](https://www.performance.gov/GEARcenter/) to build a government-wide Management Learning Agenda.
 
 **Integrating Enterprise Risk Management to Address Programmatic and Operational Risks**
 
 
-Enterprise Risk Management (ERM) promotes risk-informed decision making that allows resources to be prioritized and allocated based on risk, fosters a more risk-aware culture within agencies, and supports agency strategic planning and performance improvement efforts. ERM encourages agencies to target their limited resources to activities more likely to produce the greatest improvement in program performance. Three years since ERM requirements were first established in OMB Circular No. A-123 in July, 2016, agencies continue to develop and mature in their ERM programs and approaches. Agencies continue to apply risk-based approaches to identify, assess, respond, mitigate, prepare and manage risks to achieving their mission goals and objectives. Increasing maturity among agency ERM programs will support decision making across the PMA and multiple CAP goals.
+Enterprise Risk Management (ERM) promotes risk-informed decision making that allows resources to be prioritized and allocated based on risk, fosters a more risk-aware culture within agencies, and supports agency strategic planning and performance improvement efforts. ERM encourages agencies to target their limited resources to activities more likely to produce the greatest improvement in program performance. Three years since ERM requirements were first established in OMB Circular No. A-123, agencies continue to develop and mature in their ERM programs and approaches. Agencies continue to apply risk-based approaches to identify, assess, respond, mitigate, prepare and manage risks to achieving their mission goals and objectives. Increasing maturity among agency ERM programs will support decision making across the PMA and multiple CAP goals.
 
 ***Case Study:***
 
 
-In 2019, OMB worked in conjunction with Federal agencies to establish an Executive Steering Committee for ERM, aligning strategies to facilitate greater capacity and maturity among ERM programs government-wide. This willing coalition of ERM practitioners seeks to identify and share best practices, identify opportunities to assess maturity of ERM programs, promote ERM integration within mission and mission support functions, and facilitate constructive coordination with oversight entities.
+In 2019, OMB worked in conjunction with Federal agencies to establish an Executive Steering Committee for ERM, aligning strategies to facilitate greater capacity and maturity among ERM programs government-wide. This coalition of ERM practitioners seeks to identify and share best practices, identify opportunities to assess maturity of ERM programs, promote ERM integration within mission and mission support functions, and facilitate constructive coordination with oversight entities.
 
 **Focusing on Clear Goals and Data-driven Performance Reviews**
 
@@ -86,11 +87,11 @@ Quarterly data-driven performance reviews continued in 2019 for the FYs 2018-201
 
 [Violent Crime Reduction](https://www.performance.gov/justice/APG_justice_2.html)
 
-The Department of Justice’s Violent Crime Reduction priority goal sought to combat violent crime by increasing the number of gang/violent crime enterprise dismantlements (non‐CPOT); favorably resolving 90 percent of federal violent crime cases; and increasing the percent of National Integrated Ballistic Information Network (NIBIN) “hits/leads,” by 40 percent. The DOJ surpassed its two-year performance targets while also demonstrating progress towards implementing the agency’s Project Safe Neighborhoods (PSN) program. Across the three performance measures against which success was measured, the DOJ exceeded each. Reducing violent crime remains a top priority for the Department, with a violent crime reduction priority goal continuing for the FY 2020-2021 APG cycle:
+The Department of Justice’s Violent Crime Reduction priority goal sought to combat violent crime by increasing the number of gang/violent crime enterprise dismantlements (non‐CPOT); favorably resolving 90% of federal violent crime cases; and increasing the percent of National Integrated Ballistic Information Network (NIBIN) “hits/leads,” by 40%. The DOJ surpassed its two-year performance targets while also demonstrating progress towards implementing the agency’s Project Safe Neighborhoods program. Across the three performance measures against which success was measured, the DOJ exceeded each. Reducing violent crime remains a top priority for the Department, with a violent crime reduction priority goal continuing for the FY 2020-2021 APG cycle:
 
 - The FBI exceeded its two-year target of increasing the dismantlement of non-CPOT gang/criminal enterprises by 30%, over the baseline of 150.
 
-- ATF exceeded its two-year target to increase the number of National Integrated Ballistic Information (NIBIN) “hits/leads,” that is the linkage of two or more shootings to the same firearm, based upon comparisons of 3D digital ballistic images of spent shell casings recovered from crime scenes and from crime gun test-fires by 55,000, by achieving a total of 74,123 “hits/leads.”
+- ATF exceeded its two-year target to increase the number of NIBIN “hits/leads,” that is the linkage of two or more shootings to the same firearm, based upon comparisons of 3D digital ballistic images of spent shell casings recovered from crime scenes and from crime gun test-fires by 55,000, by achieving a total of 74,123 “hits/leads.”
 
 - DOJ exceeded its two-year target of favorably resolving at least 90% of its federal violent crime defendants’ cases, by successfully resolving 92% of its prosecutions of a 30,484 federal violent crime defendants, throughout FY 2018 – 2019.
 
@@ -108,7 +109,7 @@ With the release of the President’s 2021 Budget, agencies have set over 90 new
 **Strengthening the Policy Framework of Management Processes and Routines**
 
 
-Finally, the Administration strengthened the Performance Framework as part of the 2019 revisions to OMB Circular A-11, Part 6.  The revisions incorporated those parts of the Foundations for Evidence-Based Policymaking Act of 2018 focused on evidence-building activities, further maturing the Federal Performance Framework as a management system which includes the organizational management functions agency leadership must prioritize to improve program outcomes and the performance of the Federal Government.
+Finally, the Administration strengthened the Performance Framework as part of the 2019 revisions to [OMB Circular A-11, Part 6](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf).  The revisions incorporated those parts of the Foundations for [Evidence-Based Policymaking Act of 2018](https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf) focused on evidence-building activities, further maturing the Federal Performance Framework as a management system which includes the organizational management functions agency leadership must prioritize to improve program outcomes and the performance of the Federal Government.
 
 ***In Review:***
 
