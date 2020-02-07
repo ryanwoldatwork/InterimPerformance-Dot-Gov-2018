@@ -58,9 +58,11 @@ layout: navigation
         <li>
           <a href="{{ page.apg-1-link }}">Agency Priority Goals</a>
           <ul class="usa-sidenav-sub_list">
+          {% if page.apg-1-link %}
             <li>
               <a href="{{ page.apg-1-link }}">{{ page.apg-1 }} </a>
             </li>
+          {% endif %}
             {% if page.apg-2-link %}
             <li>
               <a href="{{ page.apg-2-link }}">{{ page.apg-2 }}</a>

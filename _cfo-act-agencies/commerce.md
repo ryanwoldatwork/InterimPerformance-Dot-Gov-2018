@@ -17,8 +17,8 @@ strategic-plan-link: https://performance.commerce.gov/
 performance-plan-link: https://www.commerce.gov/about/budget-and-performance
 
 #side navigation
-apg-1: Advance U.S. Leadership in Space Commerce
-apg-1-link: APG_commerce_1.html
+#apg-1: Advance U.S. Leadership in Space Commerce
+#apg-1-link: APG_commerce_1.html
 apg-2: Conduct a Complete and Accurate 2020 Decennial Census
 apg-2-link: APG_commerce_2.html
 apg-3: Increase the Economic impact of U.S. Trade
