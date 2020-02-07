@@ -3,7 +3,7 @@ title: EPA
 layout: cfo-act-agency
 archive-link: /epa/2018-2019-apg/ #link to archived apgs
 permalink: ../EPA/
-strategic-objective-link: /EPa/EPA-Strategic-Objectives.pdf
+strategic-objective-link: /EPA/EPA-Strategic-Objectives.pdf
 
 
 #Appears at top of side navigation and top of right three-fourths of page
