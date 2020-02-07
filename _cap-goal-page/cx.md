@@ -70,7 +70,7 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/davis-lynda.jpg"
+goal-leader-photo: "/img/CAP-photos/davis-lynda.JPEG"
 alt_text_1: Photo of Dr. Lynda Davis #Goal leader 1
 goal-leader-name: "Dr. Lynda Davis"
 goal-leader-title: "Chief Veterans Experience Officer"
