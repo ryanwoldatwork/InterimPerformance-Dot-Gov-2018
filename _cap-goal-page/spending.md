@@ -14,10 +14,10 @@ cap-icon: "/img/CAP_icons/Icon_Improving_Outcomes_gray.png" #icon that appears n
 
 #resource 1 link
 resource-2-name: "TBM Basics"
-resource-2-url: https://www.cio.gov/priorities/tbm/
+resource-2-url: https://www.cio.gov/policies-and-priorities/tbm/
 
-resource-3-name: "TBM Community of Practice"
-resource-3-url: https://www.cio.gov/about/tbm-cop/
+resource-3-name: "FTIM Community of Practice"
+resource-3-url: https://www.cio.gov/about/members-and-leadership/ftim-cop/
 
 resource-4-name: "TBM Playbook"
 resource-4-url: https://tech.gsa.gov/playbooks/tbm/
