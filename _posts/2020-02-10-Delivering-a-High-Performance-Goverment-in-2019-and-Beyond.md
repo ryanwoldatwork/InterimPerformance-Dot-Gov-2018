@@ -23,8 +23,9 @@ authors:
 - Performance.gov Team
 
 tags:
-- CAP goal
-- cx
+- APG
+- strategic objectives
+- OMB
 
 ---
 Federal agencies continue to leverage best practices from across sectors to drive organizational performance improvement via the Federal Performance Management Framework. The approach rests on several proven management practices grounded in the [Government Performance and Results Act (GPRA) Modernization Act of 2010](https://www.govinfo.gov/content/pkg/PLAW-111publ352/pdf/PLAW-111publ352.pdf) and the Office of Management and Budget's (OMB) implementation guidance in [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6, the *Federal Performance Framework for Improving Program and Service Delivery*. Throughout 2019, OMB has continued to work in conjunction with federal agency leadership to focus on clear goals and leverage data-driven management reviews that incorporate a broad range of qualitative and quantitative inputs to improve the efficiency and effectiveness of agency operations. Agencies continue to build upon and ingrain these proven management practices in the operations of the Federal Government. This post details some of the highlights of progress throughout 2019 and looks ahead to further leverage these practices in 2020.
