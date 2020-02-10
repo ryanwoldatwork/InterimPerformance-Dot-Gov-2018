@@ -1,8 +1,9 @@
 ---
 title: DHS
 layout: cfo-act-agency
-
+archive-link: /dhs/2018-2019-apg/ #link to archived apgs
 permalink: ../homeland-security/
+strategic-objective-link: /homeland_security/DHS-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Homeland Security
@@ -14,7 +15,7 @@ strategic-plan-link: https://www.dhs.gov/publication/department-homeland-securit
 performance-plan-link: https://www.dhs.gov/publication/annual-performance-report-fiscal-years-2018-2020
 
 #side navigation
-apg-1: Enhance Southern Border Security
+apg-1: Enhance Border Security
 apg-1-link: ../homeland_security/APG_dhs_1.html
 apg-2: Strengthen Federal Cybersecurity
 apg-2-link: ../homeland_security/APG_dhs_2.html

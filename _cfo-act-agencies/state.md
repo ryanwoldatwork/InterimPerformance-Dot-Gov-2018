@@ -1,8 +1,9 @@
 ---
 title: State/USAID
 layout: cfo-act-agency
-
+archive-link: /state/2018-2019-apg/ #link to archived apgs
 permalink: ../state/
+strategic-objective-link: /state/State-USAID-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of State and United States Agency for International Development
@@ -12,8 +13,8 @@ agency-seal: ../img/agency/State_Department_Seal.png
 agency-seal-2: ../img/agency/USAID_Seal.png
 agency-site: https://www.state.gov/
 agency-site-2: https://www.usaid.gov/
-strategic-plan-link: https://www.state.gov/documents/organization/277156.pdf
-strategic-plan-link-2: https://www.state.gov/documents/organization/277156.pdf
+strategic-plan-link: https://www.state.gov/wp-content/uploads/2018/12/Joint-Strategic-Plan-FY-2018-2022.pdf
+strategic-plan-link-2: https://www.state.gov/wp-content/uploads/2018/12/Joint-Strategic-Plan-FY-2018-2022.pdf
 performance-plan-link: https://www.state.gov/plans-performance-budget/performance-plans-and-reports/
 performance-plan-link-2: https://www.usaid.gov/results-and-data/progress-data/annual-performance-report
 apg-state: APG_state_1.html

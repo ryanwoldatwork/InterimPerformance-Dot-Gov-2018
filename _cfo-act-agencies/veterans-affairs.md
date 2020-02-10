@@ -1,7 +1,8 @@
 ---
 layout: cfo-act-agency
-
+archive-link: /va/2018-2019-apg/ #link to archived apgs
 permalink: ../veterans-affairs/
+strategic-objective-link: /veterans_affairs/VA-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Veterans Affairs
@@ -13,13 +14,13 @@ strategic-plan-link: https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf
 performance-plan-link: https://www.va.gov/oei/docs/VA2020appr.pdf
 
 #side navigation
-apg-1: Appeals Improvement and Modernization Act Implementation
+apg-1: Decision Reviews and Appeals
 apg-1-link: ../veterans_affairs/APG_va_1.html
-apg-2: Community Care
+apg-2: Suicide Prevention
 apg-2-link: ../veterans_affairs/APG_va_2.html
-apg-3: Veteran Customer Experience
+apg-3: Telehealth/Connected Care
 apg-3-link: ../veterans_affairs/APG_va_3.html
-apg-4: Veteran Suicide Prevention
+apg-4: Veteran’s Experience with VA.gov
 apg-4-link: ../veterans_affairs/APG_va_4.html
 apg-5:
 apg-5-link:

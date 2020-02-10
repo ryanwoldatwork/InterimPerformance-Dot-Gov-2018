@@ -1,6 +1,9 @@
 ---
 title: Education
 layout: cfo-act-agency
+archive-link: /education/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /education/Ed-Strategic-Objectives.pdf
+
 
 permalink: ../education/
 
@@ -14,16 +17,16 @@ strategic-plan-link: https://www2.ed.gov/about/reports/strat/plan2018-22/strateg
 performance-plan-link: https://www2.ed.gov/about/reports/annual/index.html
 
 #side navigation
-apg-1: Improve Access to Quality and Transparency of School Choice Options
+apg-1: Education Freedom
 apg-1-link: APG_education_1.html
-apg-2: Improve Borrowers' Access to Customer Service
+apg-2: Multiple Pathways to Success
 apg-2-link: APG_education_2.html
-apg-3: Improve Student Privacy/Data Security at Institutions of Higher Education
+apg-3: Federal Student Aid Customer Service
 apg-3-link: APG_education_3.html
-apg-4: Provide Regulatory Relief to Education Stakeholders
+apg-4: Student Privacy and Cybersecurity
 apg-4-link: APG_education_4.html
-apg-5:
-apg-5-link:
+apg-5: Regulatory Reform
+apg-5-link: APG_education_5.html
 apg-6:
 apg-6-link:
 twitter-feed: https://twitter.com/usedgov?ref_src=twsrc%5Etfw

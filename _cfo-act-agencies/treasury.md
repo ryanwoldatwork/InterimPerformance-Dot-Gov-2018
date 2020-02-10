@@ -1,7 +1,8 @@
 ---
 layout: cfo-act-agency
-
+archive-link: /treasury/2018-2019-apg/ #link to archived apgs
 permalink: ../treasury/
+strategic-objective-link: /treasury/Treasury-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of the Treasury
@@ -9,15 +10,15 @@ agency-name: Department of the Treasury
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Treasury_Department_Seal.png
 agency-site: https://www.treasury.gov/
-strategic-plan-link: https://www.treasury.gov/about/budget-performance/strategic-plan/Documents/2018-2022_Treasury_Strategic_Plan_web.pdf
+strategic-plan-link: https://home.treasury.gov/system/files/266/Treasury_Strategic_Plan_with_FY19_SOAR_update_and_annotations.pdf
 performance-plan-link: https://www.treasury.gov/about/budget-performance/Pages/cj-index.aspx
 
 #side navigation
-apg-1: Fraud Prevention
+apg-1: Implementation of the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA)
 apg-1-link: APG_treasury_1.html
-apg-2: Improved Business Qualification/Permitting Process
+apg-2: Fraud Prevention
 apg-2-link: APG_treasury_2.html
-apg-3: U.S.-Mexico Strategic Dialogue on Illicit Finance (SDIF)
+apg-3: Paper Check Reduction
 apg-3-link: APG_treasury_3.html
 apg-4:
 apg-4-link:

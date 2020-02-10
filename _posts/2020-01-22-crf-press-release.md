@@ -16,7 +16,7 @@ description: OMB Press Release
 
 excerpt: OMB Press Release
 
-image: /img/blog/a-11-logo.png
+image: /img/blog/omb-grants-seal.png
 image_accessibility:
 
 authors:

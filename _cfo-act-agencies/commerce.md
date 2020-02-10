@@ -1,6 +1,9 @@
 ---
 title: Commerce
 layout: cfo-act-agency
+archive-link: /commerce/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /commerce/DOC-Strategic-Objectives.pdf
+
 
 permalink: ../commerce/
 
@@ -10,20 +13,20 @@ agency-name: Department of Commerce
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Commerce_Department_Seal.png
 agency-site: https://www.commerce.gov/
-strategic-plan-link: https://www.commerce.gov/sites/default/files/us_department_of_commerce_2018-2022_strategic_plan.pdf
+strategic-plan-link: https://performance.commerce.gov/
 performance-plan-link: https://www.commerce.gov/about/budget-and-performance
 
 #side navigation
-apg-1: Accelerate Patent Processing
-apg-1-link: APG_commerce_1.html
-apg-2: Mitigate Flood Impacts
+#apg-1: Advance U.S. Leadership in Space Commerce
+#apg-1-link: APG_commerce_1.html
+apg-2: Conduct a Complete and Accurate 2020 Decennial Census
 apg-2-link: APG_commerce_2.html
-apg-3: Prepare to Conduct a Complete and Accurate Decennial Census
+apg-3: Increase the Economic Impact of U.S. Trade
 apg-3-link: APG_commerce_3.html
-apg-4: Remove Foreign Trade Barriers
+apg-4: Mitigate Flood Impacts by Demonstrating Improved Decision Support Services to Emergency Managers
 apg-4-link: APG_commerce_4.html
-apg-5:
-apg-5-link:
+apg-5: Rural Wireless Broadband for Public Safety
+apg-5-link: APG_commerce_5.html
 apg-6:
 apg-6-link:
 twitter-feed: https://twitter.com/CommerceGov?ref_src=twsrc%5Etfw
