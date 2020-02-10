@@ -14,7 +14,7 @@ strategic-plan-link: https://home.treasury.gov/system/files/266/Treasury_Strateg
 performance-plan-link: https://www.treasury.gov/about/budget-performance/Pages/cj-index.aspx
 
 #side navigation
-apg-1: Implementation of the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA
+apg-1: Implementation of the Foreign Investment Risk Review Modernization Act of 2018 (FIRRMA)
 apg-1-link: APG_treasury_1.html
 apg-2: Fraud Prevention
 apg-2-link: APG_treasury_2.html
