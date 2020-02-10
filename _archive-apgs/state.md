@@ -78,6 +78,7 @@ description: Lead the United States’ foreign policy through diplomacy, advocac
 </div>
 </div>
 
+<hr>
 
 ## United States Agency for International Development ##
 <h3>Food Security and Resilience</h3>
@@ -162,6 +163,8 @@ obligated dollars and procurement actions.</p>
 
 </div>
 </div>
+
+<hr>
 
 <h2>Joint</h2>
 
