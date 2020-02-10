@@ -10,7 +10,6 @@ permalink: /Delivering-High-Performance-blog/
 
 summary: summary_large_image
 
-agency: Office of Management and Budget
 
 description: Federal agencies continue to leverage best practices from across sectors to drive organizational performance improvement via the Federal Performance Management Framework.
 
@@ -20,7 +19,7 @@ image: /img/blog/a-11-logo.png
 image_accessibility: Seal of The Executive Office of the President
 
 authors:
-- OMB Performance Team
+- Performance.gov Team
 
 tags:
 - APG
