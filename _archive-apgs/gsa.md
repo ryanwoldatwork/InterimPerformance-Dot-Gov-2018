@@ -43,7 +43,7 @@ description: Deliver value and savings in real estate, acquisition, technology, 
 <hr>
 
 <h3>Leased Building Operations</h3>
-<b>Goal Leader:</b> Daniel W. Mathews, Commissioner, Public Buildings Service (PBS)</p>
+<b>Goal Leader:</b> Daniel W. Mathews, Commissioner, Public Buildings Service (PBS)
 <p style="margin-bottom:30px;"><b>Goal Statement:</b> GSA will generate savings for taxpayers by negotiating 55% of the lease office space agreements at or below market rates in FY 2018 and FY 2019. </p>
 <p style="margin-bottom:30px;"><b>Goal Action Plans & Progress Updates</b></p>
 
