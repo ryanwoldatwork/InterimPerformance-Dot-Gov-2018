@@ -3,6 +3,7 @@
 <div class="usa-width-three-fourths usa-media_block ">
   <p class="filter-count card-tag margin-top-0 text-gray-50"></p>
   <div class="2020-winners">
+
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
       <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} ">
       <div class="container-GoG">
@@ -10,7 +11,12 @@
         <div class="winner-text-team">
           <div id="winner-left">
             <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
+            {% if 2020_GoG_winners.team-names %}
+            <p class="card-tag">{{ 2020_GoG_winners.team-names }}</p>
+            {% else %}
             <p class="card-tag">{{ 2020_GoG_winners.agency }}</p>
+            {% endif %}
+
           </div>
           <div id="right">
            <img
@@ -21,7 +27,7 @@
               <div class="text">
                 <p style="margin-top:0;"><b>{{ 2020_GoG_winners.name}}</b>
                     <p class="description-2020">{{ 2020_GoG_winners.description }}</p>
-                  {% if GoG_winners.award == "Agency" %}
+                  {% if 2020_GoG_winners.award == "Agency" %}
                     <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                   {% elsif 2020_GoG_winners.award == "Council" %}
                     <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
