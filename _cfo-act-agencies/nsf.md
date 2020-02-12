@@ -12,7 +12,7 @@ agency-name: National Science Foundation
 agency-seal: ../img/agency/National_Science_Foundation_Seal.png
 agency-site: https://www.nsf.gov/
 strategic-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/66_fy2020.pdf
-performance-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/67_fy2020.pdf
+performance-plan-link: https://nsf.gov/about/budget/fy2021/pdf/68_fy2021.pdf
 
 #side navigation
 apg-1: Developing an Agency-Wide Partnerships Strategy
