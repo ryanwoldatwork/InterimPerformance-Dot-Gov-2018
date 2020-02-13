@@ -12,7 +12,7 @@ agency-name: Social Security Administration
 agency-seal: ../img/agency/Social_Security_Administration_Seal.png
 agency-site: https://www.ssa.gov/
 strategic-plan-link: https://www.ssa.gov/agency/asp/materials/pdfs/SSA_Agency_Strategic_Plan_Fiscal_Years_2018-2022.pdf
-performance-plan-link: http://www.ssa.gov/agency/performance
+performance-plan-link: https://www.ssa.gov/agency/performance/
 
 #side navigation
 apg-1: Improve Hearings Pending

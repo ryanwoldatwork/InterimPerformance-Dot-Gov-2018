@@ -12,7 +12,7 @@ agency-name: Office of Personnel Management
 agency-seal: ../img/agency/Personnel_Management_Seal.png
 agency-site: https://www.opm.gov/
 strategic-plan-link: https://www.opm.gov/about-us/budget-performance/strategic-plans/2018-2022-strategic-plan.pdf
-performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/
+performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/2019-annual-performance-report.pdf
 
 #side navigation
 apg-1: Enable Agencies to Meet Mission Objectives

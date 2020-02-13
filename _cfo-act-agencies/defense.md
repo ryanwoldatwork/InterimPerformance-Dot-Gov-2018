@@ -14,7 +14,7 @@ agency-name: Department of Defense
 agency-seal: ../img/agency/Defense_Department_Seal.png
 agency-site: https://www.defense.gov/
 strategic-plan-link: https://dcmo.defense.gov/Publications/DoD-ASP/
-performance-plan-link: https://cmo.defense.gov/Portals/47/Documents/Publications/Annual%20Performance%20Plan/FY%202020%20Annual%20Perf%20Plan%20and%20FY%202018%20Annual%20Perf%20Report.pdf?ver=2019-03-28-155655-073
+performance-plan-link: https://cmo.defense.gov/Publications/Annual-Performance-Plan-and-Performance-Report/
 
 #side navigation
 apg-1: DoD Reform Savings
