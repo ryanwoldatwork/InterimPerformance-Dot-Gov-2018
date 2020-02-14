@@ -1,5 +1,5 @@
 ---
-name: Department of Justice
+name: Modernizing the Protection of United States Citizenship
 team-names: 
  - Timothy Belsan 
  - Anthony Bianco 

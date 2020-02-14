@@ -1,5 +1,5 @@
 ---
-name: Department of Homeland Security
+name: Homeland Security Investigations RAVEn Program
 team-names: 
  - Ben Teed 
  - Evan Campanella

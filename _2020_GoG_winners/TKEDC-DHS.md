@@ -1,5 +1,5 @@
 ---
-name: Department of Homeland Security
+name: Welcome2Video Investigation Team
 team-names: 
  - Thomas Tamsi 
  - Kimberly Reece 

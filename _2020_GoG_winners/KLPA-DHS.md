@@ -1,5 +1,5 @@
 ---
-name: Department of Homeland Security
+name: H-1B Data Hub Working Group
 team-names: 
  - Katherine Lotspeich 
  - Limary Suarez 

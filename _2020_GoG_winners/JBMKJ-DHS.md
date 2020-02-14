@@ -1,5 +1,5 @@
 ---
-name: Department of Homeland Security
+name: Community Lifelines Team
 team-names: 
  - Jeremy Greenberg 
  - Bobby Posick 

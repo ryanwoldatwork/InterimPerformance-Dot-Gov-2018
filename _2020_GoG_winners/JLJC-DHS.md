@@ -1,5 +1,5 @@
 ---
-name: Department of Homeland Security
+name: Texas Service Center EOIR Data Team
 team-names: 
  - James Bowen 
  - Lawrence Barry 

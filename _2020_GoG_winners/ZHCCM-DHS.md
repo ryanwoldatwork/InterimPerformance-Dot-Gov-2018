@@ -1,5 +1,5 @@
 ---
-name: Department of Homeland Security
+name: FEMA Region 3, Substantial Damage Determination Team
 team-names: 
  - Zane Hadzick 
  - Heather Davis 
