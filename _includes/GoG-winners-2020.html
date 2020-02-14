@@ -7,12 +7,21 @@
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
       <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} ">
       <div class="container-GoG">
-        <img class="card-image-gog-team-2020 gray" src="{{ site.baseurl }}/img/GoG/{{ 2020_GoG_winners.image }}" alt="Avatar" class="image">
+        {% if 2020_GoG_winners.image %}
+        <center><img class="card-image-gog-team gray" src="{{ site.baseurl }}/img/{{ 2020_GoG_winners.image }}" alt="Avatar" class="image"></center>
+        {% else %}
+        <img class="card-image-gog-team-award gray" src="{{ site.baseurl }}/img/GoG/banners/agency-background.png" alt="Avatar" class="image">
+        {% endif %}
         <div class="winner-text-team">
           <div id="winner-left">
             <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
             {% if 2020_GoG_winners.team-names %}
-            <p class="card-tag">{{ 2020_GoG_winners.team-names }}</p>
+            <ul style="padding-left:0;">
+              {% for item in 2020_GoG_winners.team-names %}
+              <li class="team">{{ item }}</li>
+              {% endfor %}
+            </ul>
+<!--            <p class="card-tag">{{ 2020_GoG_winners.team-names }}</p>-->
             {% else %}
             <p class="card-tag">{{ 2020_GoG_winners.agency }}</p>
             {% endif %}
