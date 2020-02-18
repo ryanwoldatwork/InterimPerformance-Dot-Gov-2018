@@ -5,5 +5,6 @@ description: Developed the Human Capital Priority Areas Initiative, a program th
 filters: indiv hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

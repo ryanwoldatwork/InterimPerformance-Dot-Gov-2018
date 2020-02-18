@@ -5,5 +5,6 @@ description: Implemented creative wave-hiring techniques and supervised the exec
 filters: indiv hhs agency
 image: GoG/headshots/Amy Peeples HHS-04.jpg
 banner: agency
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

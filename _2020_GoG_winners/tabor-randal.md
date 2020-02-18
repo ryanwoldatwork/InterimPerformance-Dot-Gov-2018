@@ -5,5 +5,6 @@ description: Delivered cost savings to NASA through the efficient and effective 
 filters: indiv
 image: agency/NASA_Seal.png
 banner: agency
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

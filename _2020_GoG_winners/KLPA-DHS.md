@@ -9,5 +9,8 @@ description: Developed the H-1B employer data hub in response to the demand for 
 filters: GoG-team dhs agency
 image: agency/Homeland_Security_Department_Seal.png
 banner: agency
+team: yes #mark no if an individual, NO CAPS 
+length: short
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

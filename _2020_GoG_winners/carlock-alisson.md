@@ -5,5 +5,6 @@ description: Created an educational tool called "Prepare with Pedro," to help ch
 filters: indiv dhs agency
 image: agency/Homeland_Security_Department_Seal.png
 banner: agency
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

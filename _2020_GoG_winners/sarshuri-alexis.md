@@ -5,5 +5,6 @@ description: Implemented a data tracking mechanism to coordinate cases for the F
 filters: indiv doj agency
 image: agency/Justice_Department_Seal.png
 banner: agency
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

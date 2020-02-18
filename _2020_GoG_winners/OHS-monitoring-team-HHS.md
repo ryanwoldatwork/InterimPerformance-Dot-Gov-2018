@@ -6,5 +6,7 @@ description: Improved the Head Start Grantee oversight system by adjusting the w
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
-
+team: yes #mark no if an individual, NO CAPS 
+length: short
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

@@ -5,5 +5,6 @@ description: Provided exceptional customer service and partnership during the 20
 filters: indiv doc agency
 image: agency/Commerce_seal.svg
 banner: agency
+award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

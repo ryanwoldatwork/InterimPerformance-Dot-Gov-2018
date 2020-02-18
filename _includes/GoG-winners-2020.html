@@ -15,36 +15,84 @@
         <div class="winner-text-team">
           <div id="winner-left">
             <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
-            {% if 2020_GoG_winners.team-names %}
-            <ul style="padding-left:0;">
-              {% for item in 2020_GoG_winners.team-names %}
-              <li class="team">{{ item }}</li>
-              {% endfor %}
-            </ul>
-<!--            <p class="card-tag">{{ 2020_GoG_winners.team-names }}</p>-->
+            <!--    team awards below-->
+            {% if 2020_GoG_winners.team-names and 2020_GoG_winners.team %}
+                <ul style="padding-left:0;">
+                  <!--            Short team awards below-->
+                  {% if 2020_GoG_winners.length == "short" %}
+                    {% for item in 2020_GoG_winners.team-names %}
+                    <li class="team">{{ item }}</li>
+                    {% endfor %}
+                  <div class="overlay">
+                    <div class="text">
+                      <p style="margin-top:0;"><b>{{ 2020_GoG_winners.name}}</b>
+                      <p class="description-2020">{{ 2020_GoG_winners.description }}</p>
+                      {% if 2020_GoG_winners.award == "Agency" %}
+                      <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
+                      {% elsif 2020_GoG_winners.award == "Council" %}
+                      <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+                      {% elsif 2020_GoG_winners.award == "President's" %}
+                      <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
+                      {% endif %}
+                    </div><!--close text-->
+                  </div><!--close overlay-->
+
+                  <!--            Long team awards below-->
+                  {% else %}
+
+
+                  <a href="#openModal{{ 2020_GoG_winners.modal }}" class="team" style="text-decoration:none;line-height:14px;"> Click here to view more information.</a>
+                </ul>
+            {% include GoG-modal-2020.html %}
+                {% endif %}
+
+
+<!--            Individual awards below-->
             {% else %}
-            <p class="card-tag">{{ 2020_GoG_winners.agency }}</p>
+            <p style="margin-top:0;margin-bottom:0;" class="card-tag"><b>{{ 2020_GoG_winners.agency}}</b></p>
+            <div class="overlay">
+              <div class="text">
+                <p style="margin-top:0;"><b>{{ 2020_GoG_winners.name}}</b>
+                <p class="description-2020">{{ 2020_GoG_winners.description }}</p>
+                {% if 2020_GoG_winners.award == "Agency" %}
+                <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
+                {% elsif 2020_GoG_winners.award == "Council" %}
+                <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+                {% elsif 2020_GoG_winners.award == "President's" %}
+                <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
+                {% endif %}
+              </div><!--close text-->
+            </div><!--close overlay-->
+
             {% endif %}
 
           </div>
+
+
+
+
+
+
+
+
           <div id="right">
            <img
             src="{{ site.baseurl }}/img/GoG/banners/{{2020_GoG_winners.banner}}-banner.png"
             style="height:75px;float:right;margin-top: -32px;"><br>
           </div><!--close right div-->
-            <div class="overlay">
-              <div class="text">
-                <p style="margin-top:0;"><b>{{ 2020_GoG_winners.name}}</b>
-                    <p class="description-2020">{{ 2020_GoG_winners.description }}</p>
-                  {% if 2020_GoG_winners.award == "Agency" %}
-                    <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
-                  {% elsif 2020_GoG_winners.award == "Council" %}
-                    <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
-                  {% elsif 2020_GoG_winners.award == "President's" %}
-                    <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
-                  {% endif %}
-              </div><!--close text-->
-            </div><!--close overlay-->
+<!--            <div class="overlay">-->
+<!--              <div class="text">-->
+<!--                <p style="margin-top:0;"><b>{{ 2020_GoG_winners.name}}</b>-->
+<!--                    <p class="description-2020">{{ 2020_GoG_winners.description }}</p>-->
+<!--                  {% if 2020_GoG_winners.award == "Agency" %}-->
+<!--                    <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>-->
+<!--                  {% elsif 2020_GoG_winners.award == "Council" %}-->
+<!--                    <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>-->
+<!--                  {% elsif 2020_GoG_winners.award == "President's" %}-->
+<!--                    <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>-->
+<!--                  {% endif %}-->
+<!--              </div>&lt;!&ndash;close text&ndash;&gt;-->
+<!--            </div>&lt;!&ndash;close overlay&ndash;&gt;-->
         </div>
       </div>
       </div>
