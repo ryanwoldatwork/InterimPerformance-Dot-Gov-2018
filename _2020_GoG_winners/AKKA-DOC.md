@@ -7,7 +7,7 @@ team-names:
  - Aja Szumylo
 description: Maximized Pacific Coast groundfish commercial and recreational fishing opportunities by streamlining restrictive rules and regulations. These rulemaking actions ensure the productivity and sustainability of West Coast groundfish fisheries and fishing communities through science-based decision-making, saving operators between $50,000 - $100,000 per vessel and creating up to 2,600 jobs.
 filters: GoG-team doc agency
-image: agency/Commerce_seal.svg
+image: agency/Commerce_seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
