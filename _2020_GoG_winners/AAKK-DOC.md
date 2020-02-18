@@ -7,7 +7,7 @@ team-names:
  - Kenny Kimble
 description: Developed international measures and standards to evaluate and improve bomb-disposal robots and operators. These efforts led to the enhanced testing and use of advanced robot capabilities in challenging environments and the adoption of standard operator measures.
 filters: GoG-team doc agency
-image: agency/Commerce_seal.png
+image: agency/Commerce_Seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short

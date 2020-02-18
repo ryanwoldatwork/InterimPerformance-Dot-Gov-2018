@@ -8,7 +8,7 @@ team-names:
  - Peter Meyers
 description: Established a communications network across multiple federal law enforcement agencies to identify illegal scrap metal export transactions and procure evidence against violators. Thanks to this team’s diligent work, they dismantled a conspiracy network that was defrauding U.S. and foreign companies.
 filters: GoG-team doc agency
-image: agency/Commerce_seal.png
+image: agency/Commerce_Seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
