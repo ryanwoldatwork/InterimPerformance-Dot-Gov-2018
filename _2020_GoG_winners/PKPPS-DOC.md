@@ -8,7 +8,7 @@ team-names:
  - Simone Gills
 description: Created a common data platform and analytic tools to help address one of the deadliest diseases facing the world today, malaria. This improvement allowed the President’s Malaria Initiative team to draw insight and make evidence-based policy decisions.
 filters: GoG-team doc agency
-image: agency/Commerce_seal.png
+image: agency/Commerce_Seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short

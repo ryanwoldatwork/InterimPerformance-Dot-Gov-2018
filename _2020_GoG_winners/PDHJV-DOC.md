@@ -8,7 +8,7 @@ team-names:
  - Vanessa Griffin
 description: Restored the functionality of NOAA’s new weather satellite following a visibility defect. The team’s innovative techniques and coordinated approach restored the satellite’s ability to observe critical weather conditions across the Western Hemisphere, such as hurricanes, fires, and volcanic activity, with minimal data loss.
 filters: GoG-team doc agency
-image: agency/Commerce_seal.png
+image: agency/Commerce_Seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short

@@ -6,7 +6,7 @@ team-names:
  - Michael Bloomfield
 description: Identified 4,190 shell companies owned by Iran and North Korea, illuminating new illegal procurement pathways and providing a repository for the law enforcement and intelligence community to identify and mitigate future threats.
 filters: GoG-team doc agency
-image: agency/Commerce_seal.png
+image: agency/Commerce_Seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
