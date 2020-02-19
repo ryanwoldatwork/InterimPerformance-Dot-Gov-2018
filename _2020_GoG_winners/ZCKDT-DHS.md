@@ -1,11 +1,11 @@
 ---
 name: Welcome2Video Investigation Team
 team-names: 
- - Thomas Tamsi 
- - Kimberly Reece 
- - Erick Tarango 
- - Darrell Franklin 
- - Christopher Janczewiski
+ - Zia Faruqui
+ - Christopher Janczewski 
+ - Kimberly Reece  
+ - Donald Bruckschen 
+ - Thomas Tamsi
 description: Investigated a child exploitation website using innovative online and undercover techniques. The team’s investigation resulted in 323 arrests and the rescue of 21 victims.
 filters: GoG-team dhs agency
 image: agency/Homeland_Security_Department_Seal.png
