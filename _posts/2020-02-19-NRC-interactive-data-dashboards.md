@@ -27,7 +27,7 @@ tags:
 ---
 Today we released two interactive Nuclear Regulatory Commission (NRC) dashboards as part of the Data Pilot Initiative to link program performance and budget data for federal agencies. This initiative is designed to provide meaningful analysis for agency decision makers and increase public transparency through enhanced data visualizations and displays.
 
-<center><a href="{{site.baseurl}}/data/"><img src="{{site.baseurl}}/img/nrc-1.png"></a></center>
+<center><a href="{{site.baseurl}}/data/"><img src="{{site.baseurl}}/img/nrc-1.png" style="box-shadow: 7px 7px 5px grey;"></a></center>
 
 *The Complete Performance Dashboard showing civilian nuclear power reactors and research and test reactors.*
 
