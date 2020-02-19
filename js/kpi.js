@@ -36,7 +36,7 @@ function myFunctionE() {
 }
 
 
-var codeBlockE =   '<p>GSA has four strategic goals - Real Estate, Acquisition, Technology, and Shared Services - in its strategic plan and the agency tracks progress on 28 performance indicators across those goals. This data is published in the agency’s annual performance plan and report where you can find definitions and sources.</p>' + '<h3>Goal: Technology</h3>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8477" id="no-frame-border" frameborder="0" style="height:1750;width:1050px;"></iframe>';
+var codeBlockE =   '<p>GSA has four strategic goals - Real Estate, Acquisition, Technology, and Shared Services - in its strategic plan and the agency tracks progress on 28 performance indicators across those goals. This data is published in the agency’s annual performance plan and report where you can find definitions and sources.</p>' + '<h3>Goal: Technology</h3>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8477" id="no-frame-border" frameborder="0" style="height:1450px;width:1050px;"></iframe>';
 
 
 function myFunctionF() {
