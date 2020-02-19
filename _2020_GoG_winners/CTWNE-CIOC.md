@@ -1,5 +1,5 @@
 ---
-name: Small Business Environment
+name: Chief Information Officers Council
 team-names: 
  - Chezian Sivagnanaman
  - Travis Hoppe
@@ -7,7 +7,7 @@ team-names:
  - Nicholas Daly
  - Ellis Steven
 description: Implemented tools to minimize duplication and overlap of research grants. This work will provide real-time notifications to participating organizations about proposal information determined to be the most valuable for sharing across participating organizations, reducing potential duplication and saving time.
-filters: GoG-team sba council
+filters: GoG-team cioc council
 image: agency/CIO_council_Seal.png
 banner: council
 team: yes #mark no if an individual, NO CAPS 

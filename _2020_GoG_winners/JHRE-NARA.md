@@ -1,5 +1,5 @@
 ---
-name: National Archives Office of General Counsel
+name: National Archives and Records Administration
 team-names: 
  - Jennifer Klein
  - Hannah Bergman
@@ -7,7 +7,7 @@ team-names:
  - Erica Bell
 description: Expanded the reach of timely, effective ethics advice and training. As a result, the team reached over 1,250 NARA employees nationwide by utilizing engaging technology and other multimedia platforms. 
 filters: GoG-team nara agency
-image: agency/Transportation_Department_Seal.png
+image: 
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
