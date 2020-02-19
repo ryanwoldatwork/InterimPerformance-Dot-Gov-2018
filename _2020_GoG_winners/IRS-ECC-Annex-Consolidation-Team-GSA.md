@@ -1,5 +1,5 @@
 ---
-name: IRS Enterprise Computing Center (ECC) & Annex Consolidation Team
+name: ECC & Annex Consolidation Team
 team-names:
  - Emily Adams
  - Scott Palmer

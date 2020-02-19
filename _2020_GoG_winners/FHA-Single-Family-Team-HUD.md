@@ -1,5 +1,5 @@
 ---
-name: FHA Single Family Mortgage Insurance Premium Customer Transformation Team
+name: FHA Customer Transformation Team
 team-names: 
  - Natalia Yee
  - Silas Vaughn
