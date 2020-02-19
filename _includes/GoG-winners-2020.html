@@ -7,7 +7,9 @@
     {% for 2020_GoG_winners in site.2020_GoG_winners %}
       <div class="usa-width-one-third winner {{ 2020_GoG_winners.filters }} ">
       <div class="container-GoG">
-        {% if 2020_GoG_winners.image %}
+        {% if 2020_GoG_winners.image and 2020_GoG_winners.originalImage %}
+        <center><img class="card-image-gog" src="{{ site.baseurl }}/img/{{ 2020_GoG_winners.image }}" alt="Avatar" class="image"></center>
+        {% elsif 2020_GoG_winners.image %}
         <center><img class="card-image-gog-team gray" src="{{ site.baseurl }}/img/{{ 2020_GoG_winners.image }}" alt="Avatar" class="image"></center>
         {% else %}
         <img class="card-image-gog-team-award gray" src="{{ site.baseurl }}/img/GoG/banners/agency-background.png" alt="Avatar" class="image">
@@ -30,7 +32,7 @@
                       {% if 2020_GoG_winners.award == "Agency" %}
                       <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                       {% elsif 2020_GoG_winners.award == "Council" %}
-                      <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+                      <p id="council-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                       {% elsif 2020_GoG_winners.award == "President's" %}
                       <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                       {% endif %}
@@ -57,7 +59,7 @@
                 {% if 2020_GoG_winners.award == "Agency" %}
                 <p id="agency-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                 {% elsif 2020_GoG_winners.award == "Council" %}
-                <p id="council-winner-border"><b>{{ GoG_winners.award }} Award</b></p>
+                <p id="council-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                 {% elsif 2020_GoG_winners.award == "President's" %}
                 <p id="president-winner-border"><b>{{ 2020_GoG_winners.award }} Award</b></p>
                 {% endif %}
