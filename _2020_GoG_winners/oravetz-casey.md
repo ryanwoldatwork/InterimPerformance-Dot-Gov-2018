@@ -5,6 +5,7 @@ description: Led a multi-year operation which uncovered a scheme that was illega
 filters: indiv doc agency
 image: GoG/headshots/Casey Oravetz_DOC-05.jpg
 banner: agency
+originalImage: yes
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

@@ -5,6 +5,7 @@ description: Developed international standards to improve cybersecurity practice
 filters: indiv doc agency
 image: GoG/headshots/Ramaswamy Chandramouli_DOC-11.jpg
 banner: agency
+originalImage: yes
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

@@ -7,6 +7,7 @@ description: Combined technical, organizational, and standards expertise from mo
 filters: GoG-team doc agency
 image: GoG/headshots/Lin_Gibson Team_DOC-04.jpg
 banner: agency
+originalImage: yes
 team: yes #mark no if an individual, NO CAPS 
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card

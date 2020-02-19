@@ -5,6 +5,7 @@ description:  Improved quality, reach, and visibility of CDC’s Science Ambassa
 filters: indiv hhs agency
 image: GoG/headshots/Cordeira__Kelly_HHS-05.JPG
 banner: agency
+originalImage: yes
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

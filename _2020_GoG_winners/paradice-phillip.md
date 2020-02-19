@@ -5,6 +5,7 @@ description: Supported economic recovery efforts to invest and disburse $587M in
 filters: indiv doc agency
 image: GoG/headshots/Phillip Paradice_DOC-10.jpg
 banner: agency
+originalImage: yes
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

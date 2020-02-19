@@ -5,6 +5,7 @@ description: Provided exceptional customer service and partnership during the 20
 filters: indiv doc agency
 image: GoG/headshots/Deanna Marks_DOC-08.jpg
 banner: agency
+originalImage: yes
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---

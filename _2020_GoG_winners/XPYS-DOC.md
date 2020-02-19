@@ -9,6 +9,7 @@ description: Revolutionized the ability to identify emerging chemical compounds 
 filters: GoG-team doc agency
 image: GoG/headshots/Yang Team_DOC-12.jpg
 banner: agency
+originalImage: yes
 team: yes #mark no if an individual, NO CAPS 
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
