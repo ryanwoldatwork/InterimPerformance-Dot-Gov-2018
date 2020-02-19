@@ -15,8 +15,8 @@ agency: Nuclear Regulatory Commission
 description: Today we released two interactive Nuclear Regulatory Commission (NRC) dashboards as part of the Data Pilot Initiative to link program performance and budget data for federal agencies.
 
 excerpt:  Today we released two interactive Nuclear Regulatory Commission (NRC) dashboards as part of the Data Pilot Initiative to link program performance and budget data for federal agencies.
-image: /img/blog/a-11-logo.png
-image_accessibility: Seal of The Executive Office of the President
+image: /img/homepage_images/graphs.png
+image_accessibility: graphs on blue background
 
 authors:
 - Performance.gov Team
@@ -51,4 +51,4 @@ To view NRC’s dashboards, visit [performance.gov/data](www.performance.gov/dat
 
 *Over time, our team will work with additional agencies to bring you more key data sets in new and innovative ways. Let us know what kind of data visualizations you would like to see and provide feedback on our work so far:*
 
- <a class="usa-button " href="mailto:pgovsupport@gsa.gov" >Learn More</a>
+ <a class="usa-button" href="mailto:pgovsupport@gsa.gov" >Give us Feedback</a>
