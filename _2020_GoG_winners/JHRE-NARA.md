@@ -7,7 +7,7 @@ team-names:
  - Erica Bell
 description: Expanded the reach of timely, effective ethics advice and training. As a result, the team reached over 1,250 NARA employees nationwide by utilizing engaging technology and other multimedia platforms. 
 filters: GoG-team nara agency
-image: 
+image: agency/other/NARA.jpg
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
