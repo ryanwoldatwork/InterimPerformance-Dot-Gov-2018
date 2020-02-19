@@ -7,7 +7,7 @@ team-names:
  - Jay Hendricks
 description: Developed innovative encasement technologies to preserve, protect, and provide public access to seven historical documents dating back to before the founding of the United States. Since the re-encasement was completed, over one million people have visited the preserved documents at several public facilities.
 filters: GoG-team doc agency
-image: agency/Commerce_Seal.png
+image: GoG/headshots/Luce Team_DOC-02-P.jpg
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
