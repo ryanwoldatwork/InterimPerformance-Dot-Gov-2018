@@ -11,7 +11,7 @@ redirect_from: "/CAP/CAP_goal_6.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Burden Reduction Update Shows Progress Toward Leaner Government
-featured-box-url: /burden-reduction/
+featured-box-url: https://www.performance.gov/burden-reduction/
 featured-box-button: Learn More
 #end featured section
 
@@ -47,7 +47,7 @@ resource-7-url: https://www.performance.gov/burden-reduction/
 quote: "The Office of Management and Budget continues to identify existing guidance that should be rescinded or modified, to free agency resources for the pursuit of mission outcomes." #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/sept_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 #***********************FLOATING BOX SECTION*****************************
 
@@ -60,6 +60,7 @@ opportunity: "A Federal Government that shifts time, effort, and funding from bu
 
 action-2019-june: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Shifting_From_Low-Value_to_High-Value_Work.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Shifting_From_Low-Value_to_High-Value_Work.pdf"

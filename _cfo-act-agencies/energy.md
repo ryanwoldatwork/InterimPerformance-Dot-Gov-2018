@@ -1,6 +1,8 @@
 ---
 title: DOE
 layout: cfo-act-agency
+archive-link: /energy/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /energy/DOE-Strategic-Objectives.pdf
 
 permalink: ../energy/
 
@@ -14,18 +16,22 @@ strategic-plan-link: https://www.energy.gov/budget-performance
 performance-plan-link: https://www.energy.gov/budget-performance
 
 #side navigation
-apg-1:
+# Add apg-4: Environmental Management, apg-4-link: APG_energy_4.html and comment nav option from APG_energy files when pushing
+apg-1: Commercial Adoption of Energy Technologies
 apg-1-link: APG_energy_1.html
-apg-2:
-apg-2-link:
-apg-3:
-apg-3-link:
-apg-4:
-apg-4-link:
-apg-5:
-apg-5-link:
-apg-6:
-apg-6-link:
+apg-2: Department of Energy (DOE) Enterprise Cybersecurity
+apg-2-link: APG_energy_2.html
+apg-3: Energy Sector Cybersecurity
+apg-3-link: APG_energy_3.html
+apg-4-link: APG_energy_4.html
+apg-4: Environmental Management
+apg-5-link: APG_energy_5.html
+apg-5: High Performance Computing (Exascale/Artificial Intelligence)
+apg-6: Nuclear Stockpile Annual Assessment
+apg-6-link: APG_energy_6.html
+apg-7:
+apg-7-link:
+
 twitter-feed: https://twitter.com/ENERGY?ref_src=twsrc%5Etfw
 
 #twitter and blog image

@@ -27,7 +27,7 @@ resource-5-url: https://community.max.gov/pages/viewpage.action?spaceKey=HHS&tit
 quote: "The mission demands a federal workforce that's flexible and resilient enough to accommodate the ever-changing nature of work. And it must bring out the best in civil servants." #appears in the gray text box
 quote-author: "Peter Warren"
 font-size: 16.5px
-current-action-plan: "/CAP/action_plans/sept_2019_People_Workforce_for_the_21st_Century.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_People_Workforce_for_the_21st_Century.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -39,6 +39,8 @@ opportunity: "To achieve a state where Federal agencies and managers can hire th
 
 action-2019-june: "/CAP/action_plans/june_2019_People_Workforce_for_the_21st_Century.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_People_Workforce_for_the_21st_Century.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_People_Workforce_for_the_21st_Century.pdf"
+
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_People_Workforce_for_the_21st_Century.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_People_Workforce_for_the_21st_Century.pdf"
@@ -55,11 +57,11 @@ KPI-2:  #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "workforce" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: Career Compass Challenge
-CAP-event-date: July 2019
-CAP-event-text: This Challenge will address the changing nature of work, and the pace of change to the types of work, needed to carry out essential missions for the American people and create the Workforce for the 21st Century, starting with NSF.
-CAP-event-button: Learn more
-event-link: https://challenge.gov/a/buzz/challenge/86/ideas/top
+CAP-event-title:
+CAP-event-date:
+CAP-event-text:
+CAP-event-button:
+event-link:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
@@ -71,9 +73,9 @@ goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg"
 alt_text_2: Photo of Peter Warren   #Goal leader 2
 goal-leader-2-name: "Peter Warren"
 goal-leader-2-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
-alt_text_3: Photo of Michael Rigas
-goal-leader-3-name: "Michael Rigas"
+goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_3: Photo of Dale Cabaniss
+goal-leader-3-name: "Dale Cabaniss"
 goal-leader-3-title: "Deputy Director, Office of Personnel Management"
 goal-leader-4-photo: "/img/CAP-photos/charles-rettig.jpg"
 alt_text_4: Photo of Charles Rettig

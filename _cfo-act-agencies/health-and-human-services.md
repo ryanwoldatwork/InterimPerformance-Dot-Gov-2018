@@ -1,6 +1,8 @@
 ---
 title: HHS
 layout: cfo-act-agency
+archive-link: /hhs/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /health_and_human_services/HHS-Strategic-Objectives.pdf
 
 permalink: ../health-and-human-services/
 
@@ -14,14 +16,14 @@ strategic-plan-link: https://www.hhs.gov/about/strategic-plan/index.html
 performance-plan-link: https://www.hhs.gov/about/budget/fy2020/performance/index.html
 
 #side navigation
-apg-1: Health Security
+apg-1: Ending the HIV Epidemic
 apg-1-link: ../health_and_human_services/APG_hhs_1.html
-apg-2: Reducing Opioid Morbidity and Mortality
+apg-2: Kidney Care
 apg-2-link: ../health_and_human_services/APG_hhs_2.html
-apg-3: Combined Data Analyses
+apg-3: Reducing Opioid Morbidity and Mortality
 apg-3-link: ../health_and_human_services/APG_hhs_3.html
-apg-4: Serious Mental Illness
-apg-4-link: ../health_and_human_services/APG_hhs_4.html
+apg-4:
+apg-4-link: 
 apg-5:
 apg-5-link:
 apg-6:

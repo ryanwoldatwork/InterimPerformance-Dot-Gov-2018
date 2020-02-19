@@ -1,7 +1,7 @@
 {% assign card_link = include.link | prepend: site.baseurl %}
 
 <article class="card">
-  <div class="card-link" data-href="{{ card_link }}" tabindex="-1">
+  <div class="card-link" data-href="{{ card_link }}" tabindex="0">
     <img
        alt="{{ include.image_alt }}"
        class="card-image-bg"
@@ -10,7 +10,7 @@
     >
     <div class="card-banner-homepage">
       {% if card_link and include.tagline %}
-        <a href="{{ card_link }}" tabindex="-1" class="card-link-tagline"><h3 class="h4" style="margin-top:0;">{{ include.tagline }}</h3></a>
+        <a href="{{ card_link }}" tabindex="0" class="card-link-tagline"><h3 class="h4" style="margin-top:0;">{{ include.tagline }}</h3></a>
       {% endif %}
       {% if include.date %}
         <p class="card-date"; style="color:#323a45;">{{ include.date | date: '%B %d, %Y' }} </p>

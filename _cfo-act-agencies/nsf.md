@@ -1,8 +1,9 @@
 ---
 title: NSF
 layout: cfo-act-agency
-
+archive-link: /nsf/2018-2019-apg/ #link to archived apgs
 permalink: ../NSF/
+strategic-objective-link: /NSF/NSF-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: National Science Foundation
@@ -11,10 +12,10 @@ agency-name: National Science Foundation
 agency-seal: ../img/agency/National_Science_Foundation_Seal.png
 agency-site: https://www.nsf.gov/
 strategic-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/66_fy2020.pdf
-performance-plan-link: https://www.nsf.gov/about/budget/fy2020/pdf/67_fy2020.pdf
+performance-plan-link: https://nsf.gov/about/budget/fy2021/pdf/68_fy2021.pdf
 
 #side navigation
-apg-1: Expand Public and Private Partnerships
+apg-1: Developing an Agency-Wide Partnerships Strategy
 apg-1-link: APG_nsf_1.html
 apg-2:
 apg-2-link:

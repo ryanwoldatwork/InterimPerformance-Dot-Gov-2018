@@ -1,8 +1,9 @@
 ---
 title: SSA
 layout: cfo-act-agency
-
+archive-link: /ssa/2018-2019-apg/ #link to archived apgs
 permalink: ../SSA/
+strategic-objective-link: /SSA/SSA-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Social Security Administration
@@ -11,15 +12,15 @@ agency-name: Social Security Administration
 agency-seal: ../img/agency/Social_Security_Administration_Seal.png
 agency-site: https://www.ssa.gov/
 strategic-plan-link: https://www.ssa.gov/agency/asp/materials/pdfs/SSA_Agency_Strategic_Plan_Fiscal_Years_2018-2022.pdf
-performance-plan-link: http://www.ssa.gov/agency/performance
+performance-plan-link: https://www.ssa.gov/agency/performance/
 
 #side navigation
 apg-1: Improve Hearings Pending
 apg-1-link: APG_ssa_1.html
 apg-2: Improve Supplemental Security Income Payment Accuracy
 apg-2-link: APG_ssa_2.html
-apg-3:
-apg-3-link:
+apg-3: Improve the National 800 Number Service
+apg-3-link: APG_ssa_3.html
 apg-4:
 apg-4-link:
 apg-5:

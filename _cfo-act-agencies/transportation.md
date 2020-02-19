@@ -1,7 +1,8 @@
 ---
 layout: cfo-act-agency
-
+archive-link: /dot/2018-2019-apg/ #link to archived apgs
 permalink: ../transportation/
+strategic-objective-link: /transportation/DOT-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Transportation
@@ -13,16 +14,16 @@ strategic-plan-link: https://www.transportation.gov/sites/dot.gov/files/docs/mis
 performance-plan-link: https://www.transportation.gov/mission/budget/combined-fy-2018-performance-report-and-fy-2020-performance-plan
 
 #side navigation
-apg-1: Improve Conditions of America's Transportation Related Infrastructure
+apg-1: Enhance Commercial Space Innovation
 apg-1-link: APG_transportation_1.html
-apg-2: Reduce Aviation-Related Fatalities
+apg-2: Improve America’s Transportation-Related Infrastructure
 apg-2-link: APG_transportation_2.html
-apg-3: Controlling Regulatory Burden
+apg-3: Increase Aviation Safety
 apg-3-link: APG_transportation_3.html
 apg-4: Reduce Surface Transportation-Related Fatalities
 apg-4-link: APG_transportation_4.html
-apg-5: Simplify and Enhance Environmental Review Process for Major Transportation Projects
-apg-5-link: APG_transportation_5.html
+apg-5: 
+apg-5-link: 
 apg-6:
 apg-6-link:
 twitter-feed: https://twitter.com/USDOT?ref_src=twsrc%5Etfw
