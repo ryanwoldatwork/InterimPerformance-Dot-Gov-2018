@@ -6,7 +6,7 @@ team-names:
  - Eric Bartlow
  - Jason Mann
  - Ryan Fowler
-description: Completed 400+ Air Force projects, reducing production flow time by more than 2400 days and reducing cost by $3.7 million. Their application and rapid integration of technologies to real-world challenges advanced readiness and reform in support of our National Defense Strategy.
+description: Completed 400+ Air Force projects, reducing production flow time by more than 2,400 days and reducing cost by $3.7 million. Their application and rapid integration of technologies to real-world challenges advanced readiness and reform in support of our National Defense Strategy.
 filters: GoG-team defense agency
 image: agency/Defense_Department_Seal.png
 banner: agency
