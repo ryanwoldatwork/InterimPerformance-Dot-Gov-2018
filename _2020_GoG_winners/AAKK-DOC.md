@@ -5,7 +5,7 @@ team-names:
  - Ann Virts 
  - Kamel Saidi 
  - Kenny Kimble
-description: Developed international measures and standards to evaluate and improve bomb-disposal robots and operators. These efforts led to the enhanced testing and use of advanced robot capabilities in challenging environments and the adoption of standard operator measures.
+description: Developed the first ever comprehensive suite of emergency response robot test methods and data collection tools to evaluate and improve bomb-disposal robots and operators. These efforts led to the enhanced testing and use of advanced robot capabilities in challenging environments and the adoption of standard operator measures.
 filters: GoG-team doc agency
 image: GoG/headshots/Jacoff Team_DOC-01-P.jpg
 banner: agency
