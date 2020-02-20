@@ -1,7 +1,7 @@
 ---
 name: Erin Rachelle Brown
 agency: United States Agency for International Development
-description: Strengthened USAID’s Enterprise Risk Management (ERM) approach through qualitative and quantitative data analysis. The work decreased staff burden when flagging risks across the agency and improved how the agency uses ERM to steward tax dollars.  
+description: Recommended process improvements after reviews of the Enterprise Risk Management and ADS 580 Conference Planning and attendance. Ms. Brown’s recommendations help the agency clarify policy and implement process changes.  
 filters: indiv usaid agency
 image: agency/USAID_Seal.png
 banner: agency
