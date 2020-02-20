@@ -3,7 +3,7 @@ name: Homeland Security Investigations RAVEn Program
 team-names: 
  - Ben Teed 
  - Evan Campanella
-description: Developed an analytics IT program (RAVEn), which allows for information to be processed and stored quickly from multiple sources. RAVEn has reduced time and taxpayer dollars and has directly improved DHS’ ability to dismantle transnational criminal organizations and protect the nation.
+description: Developed an analytics IT program (RAVEn), which allows information to be processed and stored quickly from multiple sources. RAVEn has reduced time and taxpayer dollars and has directly improved DHS’ ability to dismantle transnational criminal organizations and protect the nation. The team’s effort saved 6 months of manual processing time and is estimated to save $1.8 million per year.
 filters: GoG-team dhs agency
 image: agency/Homeland_Security_Department_Seal.png
 banner: agency
