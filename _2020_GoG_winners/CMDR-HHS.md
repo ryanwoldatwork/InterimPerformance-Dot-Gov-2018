@@ -5,7 +5,7 @@ team-names:
  - Meghan Alleyne
  - Deborah Pearson
  - Robert Zablocki 
-description:  Expanded the National Cancer Institute’s “Live Chat” to include a new feature designed to capture information such as health status and disease characteristics. The team’s utilization of technology led to 3000+ interactions, improving operations and increasing client satisfaction in just three months. 
+description:  Expanded the National Cancer Institute’s “Live Chat” to include a new feature designed to capture information such as health status and disease characteristics. The team’s utilization of technology led to 3,000+ interactions, improving operations and increasing client satisfaction in just three months. 
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
