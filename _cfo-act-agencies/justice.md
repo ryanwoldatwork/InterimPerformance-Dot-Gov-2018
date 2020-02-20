@@ -1,8 +1,9 @@
 ---
 title: DOJ
 layout: cfo-act-agency
-
+archive-link: /doj/2018-2019-apg/ #link to archived apgs
 permalink: ../justice/
+strategic-objective-link: /justice/DOJ-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Justice
@@ -16,12 +17,12 @@ performance-plan-link: https://www.justice.gov/doj/page/file/1148176/download
 #side navigation
 apg-1: Combat Cyber-Enabled Threats and Attacks
 apg-1-link: APG_justice_1.html
-apg-2: Violent Crime Reduction
+apg-2: Combat the Opioid Crisis
 apg-2-link: APG_justice_2.html
-apg-3: Disrupt Drug Trafficking
+apg-3: Prevent and Disrupt Transnational Elder Fraud
 apg-3-link: APG_justice_3.html
-apg-4:
-apg-4-link:
+apg-4: Reduce Violent Crime, Specifically Gun Violence
+apg-4-link: APG_justice_4.html
 apg-5:
 apg-5-link:
 apg-6:

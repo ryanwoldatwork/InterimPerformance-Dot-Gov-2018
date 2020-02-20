@@ -1,8 +1,9 @@
 ---
 title: DOL
 layout: cfo-act-agency
-
+archive-link: /labor/2018-2019-apg/ #link to archived apgs
 permalink: ../labor/
+strategic-objective-link: /labor/DOL-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Labor
@@ -11,12 +12,12 @@ agency-name: Department of Labor
 agency-seal: ../img/agency/Labor_Department_Seal.png
 agency-site: https://www.dol.gov/
 strategic-plan-link: https://www.dol.gov/sites/dolgov/files/general/plans/fy2018-2022strategicplan.pdf
-performance-plan-link: https://www.dol.gov/sites/dolgov/files/general/budget/2020/CBJ-2020-V1-01.pdf
+performance-plan-link: https://www.dol.gov/general/aboutdol#budget
 
 #side navigation
 apg-1: Administration - Implement an Enterprise-Wide Shared Services Model
 apg-1-link: APG_labor_1.html
-apg-2: Combat the Opioid Epidemic
+apg-2: Decrease Unemployment Insurance Improper Payments
 apg-2-link: APG_labor_2.html
 apg-3: Job Creation - Apprenticeship Expansion
 apg-3-link: APG_labor_3.html

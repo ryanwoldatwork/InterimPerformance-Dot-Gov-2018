@@ -1,8 +1,9 @@
 ---
 title: HUD
 layout: cfo-act-agency
-
+archive-link: /hud/2018-2019-apg/ #link to archived apgs
 permalink: ../housing-and-urban-development/
+strategic-objective-link: /housing_and_urban_development/HUD-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of Housing and Urban Development
@@ -11,16 +12,16 @@ agency-name: Department of Housing and Urban Development
 agency-seal: ../img/agency/HUD_Seal.png
 agency-site: https://www.hud.gov/
 strategic-plan-link: https://www.hud.gov/sites/dfiles/SPM/documents/HUDSTRATEGICPLAN2018-2022.pdf
-performance-plan-link: https://www.hud.gov/sites/dfiles/SPM/documents/HUDFY2020APP-FY2018APR-3.22.2019.pdf
+performance-plan-link: https://www.hud.gov/sites/dfiles/CFO/documents/HUD_FY2021_APP_FY2019_APR_Final_2-10-20.pdf
 
 #side navigation
-apg-1: Promote Economic Opportunity for HUD-Assisted Residents
+apg-1: Enhance Rental Assistance
 apg-1-link: ../housing_and_urban_development/APG_hud_1.html
-apg-2: Protect Families From Lead-Based Paint and Other Health Hazards
+apg-2: Promote Economic Opportunity for HUD-Assisted Residents
 apg-2-link: ../housing_and_urban_development/APG_hud_2.html
-apg-3: Reduce the Average Length of Homelessness
+apg-3: Protect Families from Lead-Based Paint and Other Health Hazards
 apg-3-link: ../housing_and_urban_development/APG_hud_3.html
-apg-4: Enhance Rental Assistance
+apg-4: Reduce the Average Length of Homelessness
 apg-4-link: ../housing_and_urban_development/APG_hud_4.html
 apg-5:
 apg-5-link:

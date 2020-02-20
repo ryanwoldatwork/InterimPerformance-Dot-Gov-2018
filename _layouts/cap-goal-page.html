@@ -1,6 +1,17 @@
 ---
 layout: navigation_PMA
 ---
+
+{% if page.title == "Results-Oriented Accountability for Grants" %}
+<div class="usa-alert usa-alert-error" role="alert" style="margin-top:0px;">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading"></h3>
+    <p class="usa-alert-text">
+      The public comment period for proposed changes to "2 CFR" is open through March 23, 2020. Refer to the 2 CFR Proposed Revisions Resources section for more information. Federal Register Notice: https://go.usa.gov/xdrDB.<p>
+  </div>
+</div>
+{% endif %}
+
 <section class="usa-section usa-graphic_list" id="image">
    <div class="usa-grid usa-graphic_list-row">
      <div class="usa-width-two-thirds usa-media_block">
@@ -31,6 +42,12 @@ layout: navigation_PMA
       <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#d6d7d9;color:black;font-weight:600;font-size: 14px;height: 36px;" href="{{ site.baseurl }}/cx/">HISP Profiles</a>
     {% endif %}
 
+    {% if page.CFR %}
+      <a id ="mobile-button" class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#00bde3;color:black;font-weight:600;font-size: 14px;height: 36px;margin-top:0px;" href="#cfr">2 CFR Proposed Revisions</a>
+    {% endif %}
+
+
+
 
     </div>
     <div class="usa-width-one-third usa-media_block">
@@ -39,8 +56,8 @@ layout: navigation_PMA
         <div class="cap-box" style="margin-top:30px;">
           <div id="top">
           {% if page.featured-box %}
-            <p style="margin-bottom5px;">{{  page.featured-box }}</p>
-            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{  page.featured-box-url}}" target="_blank"><b>{{  page.featured-box-button }}</b></a>
+            <p style="margin-bottom:5px;">{{  page.featured-box }}</p>
+            <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{  page.featured-box-url}}" target="_blank"><b>{{  page.featured-box-button }}</b></a>
           {% else %}
             <p>Download the latest Action Plan and Progress Update</p>
             <a class="usa-button usa-button-secondary CAP-tag-text"style="background-color:#ffffff;color:#e31c3d;" href="{{ site.baseurl }}{{ page.current-action-plan }}" target="_blank"><b>Download</b></a>
@@ -181,7 +198,7 @@ blockquote-CAP cite {
        <ul class="usa-accordion" id="transition">
         <li>
         <button class="usa-accordion-button " style="font-size:2.2rem;padding-left:0;padding-bottom:20px;"
-          aria-expanded="true"
+          aria-expanded="false"
           aria-controls="a1">
           	<img class="usa-media_block-img" src="{{ site.baseurl }}/img/goal-statement-blue.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;Goal Statement
         </button>
@@ -249,6 +266,8 @@ blockquote-CAP cite {
       <div class="usa-grid usa-graphic_list-row">
         {% if page.action-2019-june %}
         <div class="usa-width-one-half usa-media_block">
+          <p><a href="{{ site.baseurl }}{{ page.action-2019-december }}" target="_blank"><b>Download the December 2019 Action Plan</b></a>
+          </p>
           <p><a href="{{ site.baseurl }}{{ page.action-2019-september }}" target="_blank"><b>Download the September 2019 Action Plan</b></a>
           </p>
             <p><a href="{{ site.baseurl }}{{ page.action-2019-june }}" target="_blank"><b>Download the June 2019 Action Plan</b></a>
@@ -354,6 +373,7 @@ blockquote-CAP cite {
         </li>
         {% if page.innovation %}
         <li>
+          <a name="cfr">
 
           <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
             aria-expanded="false"
@@ -377,10 +397,36 @@ blockquote-CAP cite {
                   <i><a href="../innovation-sessions/10-24-reducing-administrative-burden-a-states-perspective.pdf">View the Presentation: Reducing Administrative Burden – A State’s Perspective</a></i></li>
                   <li>Thursday, December 5, 2019<br>
                   <i><a href="../innovation-sessions/12-05-reinvent-grants-management.pdf">View the Presentation: ReInvent Grants Management & the Grant-Recipient Digital Dossier</a></i></li>
+                  <li>Thursday, January 23, 2020<br>
+                  <i><a href="../innovation-sessions/1-23-Proposed-Revisions-2CFR-session.pdf">View the Presentation: Proposed Revisions for 2 CFR</a></i></li>
+
                 </ul>
               </div>
           </div>
         {% endif %}
+
+        {% if page.CFR %}
+        <li>
+
+          <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
+            aria-expanded="true"
+            aria-controls="a9">
+              <img class="usa-media_block-img" src="{{ site.baseurl }}/img/resources.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;2 CFR Proposed Revisions Resources
+          </button>
+            <div id="a9" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
+            <div class="usa-grid usa-graphic_list-row">
+              <div class="usa-width-one-whole usa-media_block">
+                <p>OMB released revisions to Title 2 of the Code of Federal Regulations, beginning a foundational shift toward results-oriented accountability for Federal grants. Below you will find resources related to the revisions and information about how the public can provide comments.</p>
+                <ul>
+                  <li> <i><a href="../innovation-sessions/Grants-CAP-Goal-Proposed-2CFR-Revision1.pdf">Federal Register Reference Document: Proposed Revisions for 2 CFR (Tracked Changes)</a></i></li>
+                  <li><i><a href="https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment">View the Federal Register Notice and Provide Comments </a></i></li>
+                  <li><i><a href="../innovation-sessions/CFR-listening-session.pdf">View the "Listening Session" Presentation</a></i></li>
+                </ul>
+              </div>
+          </div>
+        {% endif %}
+
+
 
 </section>
 <section class="usa-section usa-graphic_list" style="background-color:#205493;color:#ffffff;">

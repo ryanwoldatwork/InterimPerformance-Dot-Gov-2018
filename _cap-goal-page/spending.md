@@ -14,10 +14,10 @@ cap-icon: "/img/CAP_icons/Icon_Improving_Outcomes_gray.png" #icon that appears n
 
 #resource 1 link
 resource-2-name: "TBM Basics"
-resource-2-url: https://www.cio.gov/priorities/tbm/
+resource-2-url: https://www.cio.gov/policies-and-priorities/tbm/
 
-resource-3-name: "TBM Community of Practice"
-resource-3-url: https://www.cio.gov/about/tbm-cop/
+resource-3-name: "FTIM Community of Practice"
+resource-3-url: https://www.cio.gov/about/members-and-leadership/ftim-cop/
 
 resource-4-name: "TBM Playbook"
 resource-4-url: https://tech.gsa.gov/playbooks/tbm/
@@ -26,11 +26,11 @@ resource-4-url: https://tech.gsa.gov/playbooks/tbm/
 quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
 quote-author: "Suzette Kent, Goal Leader"
 font-size: 19px
-current-action-plan: "/CAP/action_plans/sept_2019_Federal_IT_Spending_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/dec_2019_Federal_IT_Spending_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "This goal will:   improve business, financial, and acquisition outcomes; enable Federal executives to make data-driven decisions and analyze trade-offs between cost, quality, and value of IT investments; reduce agency burden for reporting IT budget, spend, and performance data by automating the use of authoritative data sources; and enable IT benchmarking across Federal Government agencies and with other public and private sector organizations."
+statement: "Adopt Technology Business Management (TBM) government-wide by FY 2022. This approach will improve IT spending data accountability and transparency, empowering agency executive-suite leadership from across the enterprise to drive innovation, business transformation and mission value."
 #first accordion text
 
 challenge: "The Federal Government spends at least $90 billion annually on IT, and Federal executives have long known they could better manage that spending with increased visibility and more accurate data. Congress and taxpayers have pressed for better information about how Federal IT dollars are spent and the return on that investment.
@@ -41,6 +41,7 @@ opportunity: "The Technology Business Management (TBM) Framework will enable the
 
 action-2019-june: "/CAP/action_plans/june_2019_Federal_IT_Spending_Transparency.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Federal_IT_Spending_Transparency.pdf"
+action-2019-december: "/CAP/action_plans/dec_2019_Federal_IT_Spending_Transparency.pdf"
 
 action-2018-Q1: "/CAP/action_plans/FY2018_Q1_Federal_IT_Spending_Transparency.pdf"
 action-2018-Q2: "/CAP/action_plans/FY2018_Q2_Federal_IT_Spending_Transparency.pdf"
@@ -85,11 +86,15 @@ alt_text_4: Photo of Denise Carter  #Goal leader 2
 goal-leader-4-name: "Denise Carter"
 goal-leader-4-title: "Acting Assistant Secretary for Finance and Operations, Department of Education"
 
-goal-leader-5-photo: "/img/CAP-photos/kent-suzette.jpg"
-alt_text_5: Photo of Suzette Kent  #Goal leader 2
-goal-leader-5-name: "Suzette Kent"
-goal-leader-5-title: "Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-5-photo: "/img/agr/Circle-icons-profle.svg.png"
+alt_text_5: Photo of Tim Soltis  #Goal leader 2
+goal-leader-5-name: "Tim Soltis"
+goal-leader-5-title: "Deputy Controller, Office of Management and Budget"
 
+goal-leader-6-photo: "/img/CAP-photos/kent-suzette.jpg"
+alt_text_6: Photo of Suzette Kent  #Goal leader 2
+goal-leader-6-name: "Suzette Kent"
+goal-leader-6-title: "Federal Chief Information Officer, Office of Management and Budget"
 
 
 #***********************END GOAL LEADER SECTION*****************************8
