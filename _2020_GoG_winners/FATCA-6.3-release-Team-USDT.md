@@ -1,12 +1,11 @@
 ---
-name: FATCA 6.3 Release
+name: FATCA 6.3 Release Team
 team-names: 
  -  Yoly Decelian
  - Edith Edusei Poku
  - Ernest John Leonardini
  - Tracy D. Smith
  - Keith Russo
-
 description:  Developed an automated system providing taxpayers with one-stop access to the IRS. They replaced the paper-driven process with a user-friendly, accessible option increasing voluntary compliance with US withholding and reporting requirements.
 filters: GoG-team treasury agency
 image: agency/Treasury_Department_Seal.png
