@@ -2,7 +2,7 @@
 name: Auxiliary Processing Unit Team
 team-names: 
  -  Kevin Smith
- - Joanqiin Tremols
+ - Joaquin Tremols
  - Michelle Corridon
  - Cathy Glover
  - Roger Glendenning
