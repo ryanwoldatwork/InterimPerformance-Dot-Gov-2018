@@ -1,5 +1,5 @@
 ---
-name: Commercial Customs Operations Advisory Committee
+name: Chief Acquisition Officers Council
 team-names: 
  - Joal Pitel
  - Marcia Cruz
@@ -7,8 +7,8 @@ team-names:
  - Maria Papet
  - Juana Perez
 description: Designed an innovative acquisition strategy that improved essential communication services with a new cost-effective wireless solution. The team’s work is expected to save $157 million for the DoD and VA within five years.
-filters: GoG-team coac council
-image: 
+filters: GoG-team caoc council
+image: GoG/winners/cao_logo-1.jpg
 banner: council
 team: yes #mark no if an individual, NO CAPS 
 length: long
