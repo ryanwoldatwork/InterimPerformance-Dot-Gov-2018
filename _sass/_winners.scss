@@ -350,6 +350,7 @@ background-color: #ffffff;
 
   .card-image-gog {
     object-fit:cover;
+    border-radius: 10px 10px 0px 0px;
     height: 160px;
     margin: 0;
     padding: 0;
@@ -375,6 +376,7 @@ background-color: #ffffff;
 
   .card-image-gog-team {
     object-position: center;
+    object-fit: scale-down;
     height: 160px;
     margin: 0;
     padding: 9px;
@@ -382,7 +384,9 @@ background-color: #ffffff;
    }
 
   .card-image-gog-team-award {
+   border-radius: 10px 10px 0px 0px;
    object-position: center;
+   object-fit: cover;
    height: 160px;
    margin: 0;
 }
@@ -677,6 +681,7 @@ background-color: #ffffff;
   right: 0;
   background-color: rgba(17,46,81,1);
   overflow: hidden;
+  border-radius: 10px;
   width: 100%;
   height:0;
   transition: .5s ease;
