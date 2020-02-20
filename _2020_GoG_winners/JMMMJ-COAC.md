@@ -8,7 +8,7 @@ team-names:
  - Juana Perez
 description: Designed an innovative acquisition strategy that improved essential communication services with a new cost-effective wireless solution. The team’s work is expected to save $157 million for the DoD and VA within five years.
 filters: GoG-team coac council
-image: agency/CIO_council_Seal.png
+image: 
 banner: council
 team: yes #mark no if an individual, NO CAPS 
 length: long
