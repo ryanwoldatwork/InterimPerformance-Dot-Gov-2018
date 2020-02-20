@@ -1,5 +1,5 @@
 ---
-name: Ground Based Detect and Avoid Team
+name: Ground-Based Detect and Avoid Team
 team-names: 
  - Jason Glaneuski
  - Peter Kennett
