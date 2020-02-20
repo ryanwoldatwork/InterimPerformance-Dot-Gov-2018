@@ -1,7 +1,7 @@
 ---
 name: Melissa Mosley
 agency: Department of Defense
-description: Improved data accuracy by identifying and implementing process improvements and changing
+description: Improved data accuracy by identifying and implementing process improvements and changing requirements to more accurately reflect the required data in reports. Her work expedited the review process and improved accounting for public sector transactions.
 filters: indiv defense
 image: agency/Defense_Department_Seal.png
 banner: agency
