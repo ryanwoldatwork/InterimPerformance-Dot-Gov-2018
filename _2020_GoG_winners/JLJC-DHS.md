@@ -5,7 +5,7 @@ team-names:
  - Lawrence Barry 
  - Jeffery Terry 
  - Charles Bullard
-description: Streamlined the identification of criminal cases for USCIS’ Background Check Unit through collaboration with partners at the DOJ. The team’s work led to a more efficient and effective vetting process, freeing up time to be spent on the most critical cases.
+description: Streamlined the identification of criminal cases for USCIS’ Background Check Unit through collaboration with partners at the DOJ. The team’s work led to a more efficient and effective vetting process, generating a daily average of 600 positive criminal cases, freeing up time to be spent on the most critical cases.
 filters: GoG-team dhs agency
 image: agency/Homeland_Security_Department_Seal.png
 banner: agency
