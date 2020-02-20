@@ -1,7 +1,7 @@
 ---
 name: Digital Aviation Readiness Technology, Engine (DART-E) Team
 team-names: 
- - Benjamin Michlin, 
+ - Benjamin Michlin 
  - Jarrod Groves 
  - Sean Blackman 
  - Joshua Duclos 
