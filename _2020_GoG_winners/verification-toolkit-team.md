@@ -1,5 +1,5 @@
 ---
-name: Verification Tool Kit Team
+name: Verification Toolkit Team
 team-names: 
  - Edward Harper
  - Kevin Maskomick
