@@ -1,5 +1,5 @@
 ---
-name: Office of Mission Support- Phased Retirement Team
+name: Office of Mission Support - Phased Retirement Team
 team-names: 
  - Christina Hines
  - Ramona Conway
