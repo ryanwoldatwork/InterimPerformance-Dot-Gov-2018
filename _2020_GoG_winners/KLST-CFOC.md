@@ -7,7 +7,7 @@ team-names:
  - Tyson  Whitney
 description: Helped drive government-wide improvements in DATA Act data quality. Their work improved communication and information sharing between the agency and the agency inspector general, and increased coordination and openness to feedback during the audit and review processes.
 filters: GoG-team cfoc council
-image:
+image: agency/CFO_Seal.png
 banner: council
 team: yes #mark no if an individual, NO CAPS 
 length: short

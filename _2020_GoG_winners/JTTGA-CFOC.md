@@ -8,7 +8,7 @@ team-names:
  - Aimee Shadder
 description: Identified specific data elements that can be used to pre-check federal payment eligibility criteria. Their work revealed root causes of improper payments, allowing agencies to implement process improvements to save taxpayers money.
 filters: GoG-team cfoc council
-image: 
+image: agency/CFO_Seal.png
 banner: council
 team: yes #mark no if an individual, NO CAPS 
 length: short
