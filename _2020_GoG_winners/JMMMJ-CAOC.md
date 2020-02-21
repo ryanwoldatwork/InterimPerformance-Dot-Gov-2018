@@ -1,7 +1,7 @@
 ---
-name: Chief Acquisition Officers Council
+name: Joel Pitel and Team
 team-names: 
- - Joal Pitel
+ - Joel Pitel
  - Marcia Cruz
  - Mark Ascione
  - Maria Papet
@@ -11,9 +11,7 @@ filters: GoG-team caoc council
 image: GoG/winners/cao_logo-1.jpg
 banner: council
 team: yes #mark no if an individual, NO CAPS 
-length: long
+length: short
 award: Council #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
-modal: 8 #for every card that uses "long"; this number should consecutively increase and never be the same
-
 
 ---

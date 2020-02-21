@@ -1,5 +1,5 @@
 ---
-name: Commercial Customs Operations Advisory Committee
+name: Chief Acquisition Officers Council
 team-names: 
  - Wayne Vickers
  - Brian Snellen
