@@ -43,7 +43,8 @@ $(function() {
 		// Variables privadas
 		var links = this.el.find('.link');
 		// Evento
-		links.on('click', {el: this.el, multiple: this.multiple}, this.dropdown)
+		links.on('click', {el: this.el, multiple: this.multiple}, this.dropdown);
+		links.on('keypress', {el: this.el, multiple: this.multiple}, this.dropdown);
 	}
 
 	Accordion.prototype.dropdown = function(e) {
