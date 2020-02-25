@@ -15,7 +15,7 @@ strategic-plan-link: https://www.opm.gov/about-us/budget-performance/strategic-p
 performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/2019-annual-performance-report.pdf
 
 #side navigation
-apg-1: Enable Agencies to Meet Mission Objectives
+apg-1: Federal Strategic Human Capital Management Tools, Flexibilities, and Authorities and Strategic Skill Gaps Mitigation
 apg-1-link: APG_opm_1.html
 apg-2: Establish an FEHB Master Enrollment Index
 apg-2-link: APG_opm_2.html
