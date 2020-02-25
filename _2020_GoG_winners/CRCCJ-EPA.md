@@ -1,6 +1,7 @@
 ---
 name: Office of Mission Support - Phased Retirement Team
-team-names: 
+agency: EPA
+team-names:
  - Christina Hines
  - Ramona Conway
  - Cheri Hembrey
@@ -10,7 +11,7 @@ description: Streamlined and automated the phased retirement process, saving the
 filters: GoG-team epa agency
 image: agency/Environmental_Protection_Agency_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

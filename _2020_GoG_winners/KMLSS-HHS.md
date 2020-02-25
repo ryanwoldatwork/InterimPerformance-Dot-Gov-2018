@@ -1,8 +1,9 @@
 ---
 name: CMS Patients over Paperwork Initiative
-team-names: 
+agency: HHS
+team-names:
  - Kate Goodrich
- - Mary Green 
+ - Mary Green
  - Leslie Flaherty
  - Suzanne Martin-Devroye
  - Stefanie Costello
@@ -10,7 +11,7 @@ description: Launched the National Diabetes Prevention Program Customer Service 
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

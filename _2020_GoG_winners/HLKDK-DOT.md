@@ -1,6 +1,7 @@
 ---
 name: NAS Information Security Group Team
-team-names: 
+agency: DOT
+team-names:
  - Hector Morales
  - Linda Santon
  - Kristof Preisner
@@ -10,7 +11,7 @@ description: Provided impactful cybersecurity services and solutions through the
 filters: GoG-team dot agency
 image: agency/Transportation_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

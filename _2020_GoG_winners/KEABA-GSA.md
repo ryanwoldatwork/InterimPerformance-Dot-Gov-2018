@@ -1,6 +1,7 @@
 ---
 name: Robotics Process Automation (RPA) Program Team
-team-names: 
+agency: GSA
+team-names:
  - Kathy Hammer
  - Erik Dorman
  - Anthony Cavallo
@@ -10,7 +11,7 @@ description: Implemented Robotics Process Automation, deploying 33 bots that hav
 filters: GoG-team gsa agency
 image: agency/GSA_Logo.JPG
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: long
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 modal: 9 #for every card that uses "long"; this number should consecutively increase and never be the same

@@ -1,6 +1,7 @@
 ---
 name: FATCA 6.3 Release Team
-team-names: 
+agency: Treasury
+team-names:
  -  Yoly Decelian
  - Edith Edusei Poku
  - Ernest John Leonardini
@@ -10,7 +11,7 @@ description:  Developed an automated system providing taxpayers with one-stop ac
 filters: GoG-team treasury agency
 image: agency/Treasury_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

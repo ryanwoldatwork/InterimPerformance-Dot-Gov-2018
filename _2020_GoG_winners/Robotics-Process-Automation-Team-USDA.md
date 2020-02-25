@@ -1,8 +1,9 @@
 ---
 name: Robotics Process Automation Team
-team-names: 
+agency: USDA
+team-names:
  - Lynn Moaney
- - Ron Woody 
+ - Ron Woody
  - Adrian Carter
  - Tacy Summersett
  - Ed Reyelts
@@ -10,7 +11,7 @@ description: Implemented the first server-based RPA in the federal government, l
 filters: GoG-team usda agency
 image: agency/Agriculture_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

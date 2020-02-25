@@ -1,6 +1,6 @@
 ---
 name: United States Department of Veterans Affairs
-team-names: 
+team-names:
  - Justin Isbell
  - Bennet Gebken
  - Molly Gati
@@ -8,7 +8,7 @@ description: Implemented process automation for 40% of disability compensation c
 filters: GoG-team va agency
 image: agency/Veterans_Affairs_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

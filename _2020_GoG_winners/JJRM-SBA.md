@@ -1,6 +1,7 @@
 ---
 name: SBA Compliance Team
-team-names: 
+agency: SBA
+team-names:
  - Joseph Loddo
  - John Valliere
  - Richard Vogler
@@ -9,7 +10,7 @@ description: Improved SBA’s audit compliance functions through facilitation se
 filters: GoG-team sba agency
 image: agency/Small_Business_Administration_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

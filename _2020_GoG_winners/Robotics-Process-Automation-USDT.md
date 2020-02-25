@@ -1,6 +1,7 @@
 ---
 name: Robotics Process Automation
-team-names: 
+agency: Treasury
+team-names:
  - David Weekley
  - Jillian Eddy
  - James Nigh
@@ -8,7 +9,7 @@ description: Implemented 30 Robotics Process Automation bots that interact with 
 filters: GoG-team treasury agency
 image: agency/Treasury_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

@@ -1,6 +1,7 @@
 ---
 name: ASDE-X Taxiway Arrival Prediction Team
-team-names: 
+agency: DOT
+team-names:
  - Jacqueline Wiese
  - Jeff Lohr
  - James (Rusty) Dean
@@ -10,7 +11,7 @@ description: Developed the Taxiway Arrival Prediction capability to identify pot
 filters: GoG-team dot agency
 image: agency/Transportation_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

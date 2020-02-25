@@ -16,10 +16,19 @@
         {% endif %}
         <div class="winner-text-team">
           <div id="winner-left">
+            {% if 2020_GoG_winners.agency %}
+            <p class="name-text" style="margin-bottom:0px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
+            {% else %}
             <p class="name-text" style="margin-bottom:19px;line-height:1;"><b>{{ 2020_GoG_winners.name }}</b></p>
+            {% endif %}
+
             <!--    team awards below-->
             {% if 2020_GoG_winners.team-names and 2020_GoG_winners.team %}
-                <ul style="padding-left:0;">
+            {% if 2020_GoG_winners.agency %}
+            <span class="gog-agency-text"><b>{{ 2020_GoG_winners.agency }}</b></span>
+            {% endif %}
+
+                <ul style="padding-left:0;margin-top:5px;">
                   <!--            Short team awards below-->
                   {% if 2020_GoG_winners.length == "short" %}
                     {% for item in 2020_GoG_winners.team-names %}

@@ -1,6 +1,7 @@
 ---
 name: Air Force Sustainment Center Innovation Team
-team-names: 
+agency: DOD
+team-names:
  - Christopher Blackwell
  - Kristian Olivero
  - Eric Bartlow
@@ -10,7 +11,7 @@ description: Completed 400+ Air Force projects, reducing production flow time by
 filters: GoG-team defense agency
 image: agency/Defense_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: long
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 modal: 21 #for every card that uses "long"; this number should consecutively increase and never be the same

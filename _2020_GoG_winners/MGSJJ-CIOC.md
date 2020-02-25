@@ -1,6 +1,7 @@
 ---
 name: SBA Cloud Based CDM Pilot Team
-team-names: 
+agency: CIOC
+team-names:
  - Maria Roat
  - Guy Cavallo
  - Sanjay Gupta
@@ -10,7 +11,7 @@ description: Leveraged cloud-native tools to successfully complete a pilot to me
 filters: GoG-team cioc council
 image: agency/CIO_council_Seal.png
 banner: council
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Council #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

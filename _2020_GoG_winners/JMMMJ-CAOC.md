@@ -1,6 +1,7 @@
 ---
 name: Joel Pitel and Team
-team-names: 
+agency: CAOC
+team-names:
  - Joel Pitel
  - Marcia Cruz
  - Mark Ascione
@@ -10,7 +11,7 @@ description: Designed an innovative acquisition strategy that improved essential
 filters: GoG-team caoc council
 image: GoG/winners/cao_logo-1.jpg
 banner: council
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Council #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
