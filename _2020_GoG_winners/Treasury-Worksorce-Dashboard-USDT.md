@@ -1,6 +1,7 @@
 ---
 name: Treasury Workforce Dashboard
-team-names: 
+agency: Treasury
+team-names:
  - Kimberly Steide
  - Roger Mishoe
  - Kim So Yeon
@@ -10,7 +11,7 @@ description: Developed the workforce dashboard, a Treasury-wide tool that standa
 filters: GoG-team treasury agency
 image: agency/Treasury_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

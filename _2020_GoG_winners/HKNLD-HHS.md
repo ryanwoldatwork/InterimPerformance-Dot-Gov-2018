@@ -1,6 +1,7 @@
 ---
 name: PAGES Data System Team
-team-names: 
+agency: HHS
+team-names:
  - Hilary Bruck
  - Kim Stupica
  - Nicole Constance
@@ -10,7 +11,7 @@ description: Modernized the collection and use of data for a large federal grant
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

@@ -1,6 +1,7 @@
 ---
 name: Cyber Reskilling Academy Project Team
-team-names: 
+agency: GSA
+team-names:
  - Annette Maldonado
  - Doc McConnell
  - Jason Gray
@@ -10,7 +11,7 @@ description: Created the first ever Federal Cybersecurity Reskilling Academy, of
 filters: GoG-team gsa agency
 image: agency/GSA_Logo.JPG
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 

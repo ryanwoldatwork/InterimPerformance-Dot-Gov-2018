@@ -1,6 +1,7 @@
 ---
 name: OGC/ORD - Successful CRADA Technology Transfer Team
-team-names: 
+agency: EPA
+team-names:
  - Vasudevan Namboodiri
  - Jennifer Cashdollar
  - Craig Patterson
@@ -9,7 +10,7 @@ description: Developed cost-effective, innovative technologies that can effectiv
 filters: GoG-team epa agency
 image: agency/Environmental_Protection_Agency_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: long
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 modal: 12 #for every card that uses "long"; this number should consecutively increase and never be the same

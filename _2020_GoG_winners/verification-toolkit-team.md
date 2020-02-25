@@ -1,6 +1,7 @@
 ---
 name: Verification Toolkit Team
-team-names: 
+agency: USDA
+team-names:
  - Edward Harper
  - Kevin Maskomick
  - Whitney Peters
@@ -10,7 +11,7 @@ description: Developed a Verification Toolkit to help households and school dist
 filters: GoG-team usda agency
 image: agency/Agriculture_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

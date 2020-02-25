@@ -1,6 +1,7 @@
 ---
 name: Accelerated Acquisition Team
-team-names: 
+agency: DOD
+team-names:
  - Robin Howard
  - Beverly Reinharz
  - Gregory Robinson
@@ -12,7 +13,7 @@ filters: GoG-team defense agency
 image: GoG/headshots/Accelerated Acquisition Team_DoD-01-P.jpg
 banner: agency
 originalImage: yes
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---

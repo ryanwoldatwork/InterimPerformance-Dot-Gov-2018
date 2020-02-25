@@ -1,6 +1,7 @@
 ---
 name: Bureau of Primary Health Care Online and In-Person Onboarding Program
-team-names: 
+agency: HHS
+team-names:
  - Ruth Hurtado-Day
  - Christy Nelson
  - Natalie Matthews
@@ -10,7 +11,7 @@ description: Developed a blended onboarding program to provide productivity trai
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: long
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 modal: 5 #for every card that uses "long"; this number should consecutively increase and never be the same
