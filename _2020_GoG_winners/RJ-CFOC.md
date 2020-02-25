@@ -2,7 +2,7 @@
 name: Chief Financial Officers Council
 team-names: 
  - Rhea Hubbard
- - Jeannette Mandy
+ - Jeannette Mandycz
 description: Created the first set of grant data standards, standardizing the grant management process across the government and reducing the reporting burden. The team’s work is now considered the cornerstone for the future development of grant systems.
 filters: GoG-team cfoc council
 image: agency/CFO_Seal.png
