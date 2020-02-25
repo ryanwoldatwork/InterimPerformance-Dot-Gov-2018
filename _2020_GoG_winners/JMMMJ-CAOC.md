@@ -1,5 +1,5 @@
 ---
-name: Joel Pitel and Team
+name: Chief Acquisition Officers Council
 team-names: 
  - Joel Pitel
  - Marcia Cruz
