@@ -14,9 +14,9 @@ Since the launch of the CSAT on May 14 (thru June 30), we received 13,606 respon
 <h2 class="cx-section-heading">Operational Data</h2>
 
 
-|                            | FY19 Q1      | FY19 Q2      | FY19 Q3      |
-|----------------------------|--------------|--------------|--------------|
-| Users                      | 2.5 million  | 4.2 million  | 7.7 million  |
-| Sessions                   | 4.7 million  | 8.7 million  | 15.2 million |
-| Pageviews                  | 16.9 million | 37 million   | 56.8 million |
-| Transactions processed     | 217,500      | 716,000      | 841,000      |
+|                            | FY19 Q1      | FY19 Q2      | FY19 Q3      | FY19 Q4      |
+|----------------------------|--------------|--------------|--------------|--------------|
+| Users                      | 2.5 million  | 4.2 million  | 7.7 million  | 7.9 million  |
+| Sessions                   | 4.7 million  | 8.7 million  | 15.2 million | 15.2 million |
+| Pageviews                  | 16.9 million | 37 million   | 56.8 million | 52.2 million |
+| Transactions processed     | 217,500      | 716,000      | 841,000      | 683,517      |
