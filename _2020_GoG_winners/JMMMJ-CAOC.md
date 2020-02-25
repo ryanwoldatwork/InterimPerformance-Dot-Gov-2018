@@ -1,6 +1,5 @@
 ---
-name: Joel Pitel and Team
-agency: CAOC
+name: Chief Acquisition Officers Council
 team-names:
  - Joel Pitel
  - Marcia Cruz

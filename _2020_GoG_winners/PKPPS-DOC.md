@@ -1,5 +1,5 @@
 ---
-name: Department of Commerce
+name: NTIS Team
 team-names: 
  - Patricia Cullum 
  - Kathleen Kaplan 

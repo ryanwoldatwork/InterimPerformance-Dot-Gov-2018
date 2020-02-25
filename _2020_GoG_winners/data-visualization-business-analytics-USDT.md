@@ -3,8 +3,7 @@ name: Data Visualization and Business Analytics
 agency: Treasury
 team-names:
  - Ica Tassi
- - Cynthia
- - Bartin
+ - Cynthia Bartin
  - Angela Bryant
  - Melissa Hayes
 
