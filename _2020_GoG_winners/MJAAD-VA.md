@@ -1,5 +1,5 @@
 ---
-name: United States Department of Veterans Affairs
+name: Department of Veterans Affairs
 team-names: 
  - Mick Worstell
  - Jeremy Cernik
