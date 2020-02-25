@@ -2,8 +2,7 @@
 name: Data Visualization and Business Analytics 
 team-names: 
  - Ica Tassi
- - Cynthia
- - Bartin
+ - Cynthia Bartin
  - Angela Bryant
  - Melissa Hayes
 
