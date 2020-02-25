@@ -1,6 +1,6 @@
 ---
 name: Randy Tabor
-agency: The National Aeronautics and Space Administration
+agency: National Aeronautics and Space Administration
 description:  Developed a decision package providing options to address FY20 budget shortfalls for mission support services, including budgeting, revenue collection, and performance reporting. Mr. Tabor’s accessible, responsive, and empathetic attitudes towards those he is working with resulted in a positive customer experience and stakeholder confidence.
 filters: indiv nasa agency
 image: agency/NASA_Seal.png
