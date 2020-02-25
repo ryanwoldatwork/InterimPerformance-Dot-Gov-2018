@@ -1,6 +1,7 @@
 ---
 name: ASDE-X Taxiway Arrival Prediction Team
 agency: DOT
+agency: DOT
 team-names:
  - Jacqueline Wiese
  - Jeff Lohr

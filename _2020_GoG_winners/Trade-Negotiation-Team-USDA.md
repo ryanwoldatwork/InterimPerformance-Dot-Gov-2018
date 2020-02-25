@@ -1,6 +1,7 @@
 ---
 name: Trade Negotiation Team
-team-names: 
+agency: USDA
+team-names:
  - Bob Spitzer
  - Krsti Goodfellow-Mills
  - Becky Rasdall
@@ -10,7 +11,7 @@ description: Negotiated the new USMCA, securing access to the Mexican and Canadi
 filters: GoG-team usda agency
 image: agency/Agriculture_Department_Seal.png
 banner: agency
-team: yes #mark no if an individual, NO CAPS 
+team: yes #mark no if an individual, NO CAPS
 length: short
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 ---
