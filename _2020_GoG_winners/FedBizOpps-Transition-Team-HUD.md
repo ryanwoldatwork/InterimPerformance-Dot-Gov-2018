@@ -1,5 +1,5 @@
 ---
-name: FedBizOps (FBO) Transition Team
+name: FedBizOpps (FBO) Transition Team
 team-names:
  - Judith Zawatsky
  - Vicky Niblett
