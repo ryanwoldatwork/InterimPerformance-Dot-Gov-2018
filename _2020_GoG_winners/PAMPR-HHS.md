@@ -2,7 +2,7 @@
 name: The National Diabetes Prevention Program Customer Service Center
 agency: HHS
 team-names:
- - Phllip Jacobs
+ - Philip Jacobs
  - Ann Albright
  - Miriam Bell
  - Patricia Schumacher
