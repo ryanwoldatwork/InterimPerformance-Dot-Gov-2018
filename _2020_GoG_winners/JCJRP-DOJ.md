@@ -1,7 +1,6 @@
 ---
 name: Electronic Departmental Order (eDO) Team
 agency: DOJ
-agency: DOJ
 team-names:
  - Joshua Cutler
  - Charles Smith
