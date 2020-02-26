@@ -7,7 +7,7 @@ team-names:
  - Leslie Flaherty
  - Suzanne Martin-Devroye
  - Stefanie Costello
-description: Launched the National Diabetes Prevention Program Customer Service Center, which provides a repository of articles, recorded webinars, and answers to frequently asked questions. As a result of their efforts, the site has provided enhanced customer experience and reduced the need for individualized program support.
+description: Launched the Patients over Paperwork initiative to systematically identify and eliminate regulatory and administrative burden. As a result, the team has targeted over 1,000 areas of burden so far, resulting in billions of dollars and millions of hours saved.
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
