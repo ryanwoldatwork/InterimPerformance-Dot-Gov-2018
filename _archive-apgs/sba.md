@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: sba
+folder: SBA
 permalink: /sba/2018-2019-apg/
 agency-name: Small Business Administration
 agency-seal: /img/agency/Small_Business_Administration_Seal.png

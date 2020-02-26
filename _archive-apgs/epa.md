@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: epa
+folder: EPA
 permalink: /epa/2018-2019-apg/
 agency-name: Environmental Protection Agency
 agency-seal: /img/agency/Environmental_Protection_Agency_Seal.png

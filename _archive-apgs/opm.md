@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: opm
+folder: OPM
 permalink: /opm/2018-2019-apg/
 agency-name: Office of Personnel Management
 agency-seal: /img/agency/Personnel_Management_Seal.png
