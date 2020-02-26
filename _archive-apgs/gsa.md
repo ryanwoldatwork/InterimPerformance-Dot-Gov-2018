@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: gsa
+folder: GSA
 permalink: /gsa/2018-2019-apg/
 agency-name: General Services Administration
 agency-seal: /img/agency/GSA_Seal.png
