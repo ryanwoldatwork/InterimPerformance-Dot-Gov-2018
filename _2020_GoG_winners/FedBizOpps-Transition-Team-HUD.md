@@ -4,7 +4,7 @@ agency: GSA
 team-names:
  - Judith Zawatsky
  - Vicky Niblett
- - Meridith Whitehead
+ - Meredith Whitehead
  - Nancy Goode
  - Matthew Mcguire
 filters: GoG-team gsa agency
