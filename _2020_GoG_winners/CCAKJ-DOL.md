@@ -6,7 +6,7 @@ team-names:
  - Claudia Guidi
  - Austin Pedersen
  - Kyle Livingston
- - ames Gyenes
+ - James Gyenes
 description: Redesigned the Comply Chain mobile application by reducing load times, increasing storage size, and implementing new features. The team improved the tool’s overall functionality and usability by the business community.
 filters: GoG-team dol agency
 image: agency/Labor_Department_Seal.png
