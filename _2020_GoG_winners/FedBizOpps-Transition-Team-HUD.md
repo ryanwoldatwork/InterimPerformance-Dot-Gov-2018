@@ -1,5 +1,5 @@
 ---
-name: FedBizOps (FBO) Transition Team
+name: FedBizOpps (FBO) Transition Team
 agency: GSA
 team-names:
  - Judith Zawatsky
