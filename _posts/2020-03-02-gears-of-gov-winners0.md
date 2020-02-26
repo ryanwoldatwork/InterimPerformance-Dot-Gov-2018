@@ -4,9 +4,9 @@ tumblr_url:
 
 title: "The Gears of Government Awards Hall of Winners is Now Live!"
 
-permalink: /2019-2-25-gears-of-gov-winners/
+permalink: /2020-03-02-gears-of-gov-winners/
 
-url: /2020-3-02-gears-of-gov-winners.md
+url: /2020-03-02-gears-of-gov-winners.md
 
 summary: summary_large_image
 
@@ -31,4 +31,4 @@ Throughout the year, Federal employees nominated individuals and teams across th
 
 The Hall of Winners can be filtered by agency/council, award type, and team or individual winners. Use these sorting functions on the left side of the page to navigate between agencies and types. Plus, when you filter the page and send the new URL, the recipient will see the pre-filtered page.
 
-Join us in honoring and learning from these outstanding public servants on the [Hall of Winners page](https://www.performance.gov/gearawards/winners/), and stay tuned as we highlight their success stories through blog posts and on our [Twitter](https://twitter.com/performancegov?lang=en) and [LinkedIn](https://www.linkedin.com/company/performance-gov/) pages. Plus, keep an eye out for the President’s Winners, who will be announced in the coming months. 
+Join us in honoring and learning from these outstanding public servants on the [Hall of Winners page](https://www.performance.gov/gearawards/winners/), and stay tuned as we highlight their success stories through blog posts and on our [Twitter](https://twitter.com/performancegov?lang=en) and [LinkedIn](https://www.linkedin.com/company/performance-gov/) pages. Plus, keep an eye out for the President’s Winners, who will be announced in the coming months.
