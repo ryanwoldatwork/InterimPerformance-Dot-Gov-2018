@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: nasa
+folder: NASA
 permalink: /nasa/2018-2019-apg/
 agency-name: National Aeronautics and Space Administration
 agency-seal: /img/agency/NASA_Seal.png

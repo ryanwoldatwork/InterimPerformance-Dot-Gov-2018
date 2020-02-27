@@ -1,7 +1,7 @@
 ---
 title: 2018-2019 APGs
 layout: archive-apg
-folder: nsf
+folder: NSF
 permalink: /nsf/2018-2019-apg/
 agency-name: National Science Foundation
 agency-seal: /img/agency/National_Science_Foundation_Seal.png

@@ -14,7 +14,7 @@ agency-name: Department of Commerce
 agency-seal: ../img/agency/Commerce_Department_Seal.png
 agency-site: https://www.commerce.gov/
 strategic-plan-link: https://performance.commerce.gov/
-performance-plan-link: https://www.commerce.gov/about/budget-and-performance
+performance-plan-link: https://www.commerce.gov/sites/default/files/2020-02/FY19-21_DOC_APPR.pdf
 
 #side navigation
 #apg-1: Advance U.S. Leadership in Space Commerce

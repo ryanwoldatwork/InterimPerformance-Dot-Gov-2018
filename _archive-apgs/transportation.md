@@ -48,7 +48,7 @@ transportation infrastructure condition and, in the near term, focus on data ava
 <p><b>Goal Leaders: FAA:</b> Ali Bahrami, Associate Administrator for Aviation Safety, Liro Liu, Acting Deputy Associate Administrator for Aviation Safety, FAA, Deputy Associate Administrator for Aviation Safety, Steven Gottlieb, Acting Executive Director, Office of Accident Investigation and Prevention, and Warren Randolph, Acting Deputy Executive Director, Office of Accident Investigation and Prevention  </p>
 <p><b>Goal Statement:</b>
 <p> U.S.-Owned Commercial Aviation: DOT will work to reduce commercial air carrier fatalities per 100 million persons on board to no more than 5.9 by September 30, 2019. Long term, DOT is committed to reduce fatalities by 50 percent over 18-year period (until FY2025)</p>
-<p> U.S. General Aviation: DOT will work to reduce general aviation fatal accidents to no more than 1.05 fatal accidents per 100,000 flight hours by September 30, 2019. Long term, DOT seeks to reduce general aviation fatal accidents more than 0.96 fatal accidents per 100,000 flight hours by FY2028.</p>
+<p> U.S. General Aviation: DOT will work to reduce general aviation fatal accidents to no more than 0.98 fatal accidents per 100,000 flight hours by September 30, 2019. Long term, DOT seeks to reduce general aviation fatal accidents more than 0.96 fatal accidents per 100,000 flight hours by FY2028.</p>
 
 <p><b>Goal Action Plans & Progress Updates</b></p>
 
