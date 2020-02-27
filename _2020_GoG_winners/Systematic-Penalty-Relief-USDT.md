@@ -6,7 +6,7 @@ team-names:
  - Jeremy Green
 filters: GoG-team treasury agency
 image: agency/Treasury_Department_Seal.png
-description:  Translated broad tax policy goals from Congress into tangible computer programming changes for IRS technology systems. The team updated more than 140 IT systems and 500 tax products, resulting in effective, timely implementation of tax legislation.
+description:  Identified new methods of applying systemic penalty relief to more than 440,000 taxpayers without filing a claim. Their dedication saved the IRS 400,000 hours of customer service work.
 banner: agency
 team: yes #mark no if an individual, NO CAPS
 length: short
