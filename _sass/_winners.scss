@@ -790,6 +790,11 @@ background-color: #ffffff;
   height: 100%;
 }
 
+.container-GoG:focus .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
 .text-ag-cou {
   position: absolute;
 

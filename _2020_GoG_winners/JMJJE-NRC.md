@@ -8,7 +8,7 @@ team-names:
  - Evan Davidson
 filters: GoG-team nrc agency
 image: agency/NRC-seal.png
-description:  Using innovative procurement methods, the Nuclear Regulatory Commission used an integrated project team to award critical enterprise wide agreements with Department of Energy’s National Laboratories.
+description: Implemented five Enterprise-Wide Agreements to DOE laboratories, ensuring that each one was tailored to the unique capabilities of each laboratory. Their creative efforts made acquisitions at the NRC more efficient, effective, and mission-oriented.
 banner: agency
 team: yes #mark no if an individual, NO CAPS 
 length: short
