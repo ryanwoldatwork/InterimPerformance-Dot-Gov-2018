@@ -47,7 +47,7 @@ We attempted to combine these data sets and found that the reported NRC budget a
 
 The Pilot highlighted that before we can move forward, the data reporting hierarchy and structural changes need to be remedied. Despite this challenge, our team is already looking into potential solutions and is committed to helping enhance agency financial data reporting to improve decision making and public transparency.
 
-To view NRC’s dashboards, visit [performance.gov/data](www.performance.gov/data). You can find the performance and budget data featured in these dashboards in [NRC’s FY18 and FY19 Congressional Justification](https://www.nrc.gov/docs/ML1802/ML18023B460.pdf) and on [USASpending.gov](https://www.usaspending.gov/).
+To view NRC’s dashboards, visit [performance.gov/data](https://www.performance.gov/data/). You can find the performance and budget data featured in these dashboards in [NRC’s FY18 and FY19 Congressional Justification](https://www.nrc.gov/docs/ML1802/ML18023B460.pdf) and on [USASpending.gov](https://www.usaspending.gov/).
 
 *Over time, our team will work with additional agencies to bring you more key data sets in new and innovative ways. Let us know what kind of data visualizations you would like to see and provide feedback on our work so far:*
 
