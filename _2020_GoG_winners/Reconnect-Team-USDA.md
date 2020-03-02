@@ -7,7 +7,6 @@ team-names:
  - Kristin Lough
  - Farwa Naqvi
  - Kenneth Kuchno
- - Andrew Hochhalter
 description: Reengineered staff and IT processes and systems to implement the pilot Rural Broadband Program. This program’s investment represents over $200 million in grant and loan funding for broadband infrastructure that currently includes 35,270 households.
 filters: GoG-team usda agency
 image: agency/Agriculture_Department_Seal.png

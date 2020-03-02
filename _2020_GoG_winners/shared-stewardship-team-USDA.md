@@ -3,7 +3,7 @@ name: Shared Stewardship Team
 agency: USDA
 team-names:
  - Doug Crandall
- - Allen Ager
+ - Alan Ager
  - Hutch Brown
  - Erin Connelly
  - John Phipps
