@@ -22,9 +22,10 @@ collections:
     output: true
   cap-goal-page:
     output: true
+  2020_GoG_winners:
+        output: true
   archive-apgs:
-    output: true
-
+        output: true
 
 defaults:
   - scope:

@@ -3,7 +3,7 @@ layout: post
 
 title: "Grants CAP Goal: Proposed Changes to Title 2 of the Code of Federal Regulations (2 CFR) Now Open for Public Comments "
 
-rating: "1"
+rating: "0"
 
 permalink: /2cfr-public-comment-period/
 
