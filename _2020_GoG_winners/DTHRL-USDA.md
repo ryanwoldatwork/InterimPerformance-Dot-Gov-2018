@@ -1,5 +1,5 @@
 ---
-name: Department of Agriculture
+name: Nebraska Flood Response Team
 team-names: 
  - Dennis Kohler
  - Toby Cox

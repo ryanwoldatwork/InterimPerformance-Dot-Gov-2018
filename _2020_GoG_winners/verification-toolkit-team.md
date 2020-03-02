@@ -3,7 +3,7 @@ name: Verification Toolkit Team
 agency: USDA
 team-names:
  - Edward Harper
- - Kevin Maskomick
+ - Kevin Maskornick
  - Whitney Peters
  - Timothy Wepplo
  - Janis Johnson

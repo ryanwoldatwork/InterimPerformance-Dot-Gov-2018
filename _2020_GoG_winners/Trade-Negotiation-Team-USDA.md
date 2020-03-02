@@ -3,7 +3,7 @@ name: Trade Negotiation Team
 agency: USDA
 team-names:
  - Bob Spitzer
- - Krsti Goodfellow-Mills
+ - Kristy Goodfellow-Mills
  - Becky Rasdall
  - Leo Roytman
  - Andrew Hochhalter

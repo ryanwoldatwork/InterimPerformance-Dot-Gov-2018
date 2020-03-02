@@ -2,7 +2,7 @@
 name: Billings Analysis and Management Team
 agency: USDA
 team-names:
- - Shuana Armstrong
+ - Shauna Armstrong
  - Matthew Didday
  - Jordan Goldie
 description: Solved an immediate issue that was threatening to derail millions of dollars in commodities traded with China. Their work directly impacted the economic success for producers and the ability for USDA to continue processing export certificates in the future.
