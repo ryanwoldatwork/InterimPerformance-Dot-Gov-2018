@@ -12,7 +12,7 @@ award: Agency #type of award, either Agency, Council, or President's; this is ca
 Year: 2018 #variable to be used at later date
 image: /img/agency/Labor_Department_Seal.png
 people:
- - Gundeep Ahluwalia
+ - Gundeep Ahluwalia,
  - Louis Charlier
  - Steve Davis
  - Blaine Marchik
