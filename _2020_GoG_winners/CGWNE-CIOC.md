@@ -2,7 +2,7 @@
 name: Chief Information Officers Council
 team-names: 
  - Chezian Sivagnanaman
- - Travis Hoppe
+ - George Santangelo
  - William Cahoe
  - Nicholas Daly
  - Ellis Steven
