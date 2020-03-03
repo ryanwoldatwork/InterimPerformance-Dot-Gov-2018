@@ -2,11 +2,11 @@
 name: Treasury Workforce Dashboard
 agency: Treasury
 team-names:
- - Kimberly Steide
+ - Dr. Kimberly Steide
  - Roger Mishoe
  - Kim So Yeon
  - Luis Unda
- - Darry Goode
+ - Darryl Goode
 description: Developed the workforce dashboard, a Treasury-wide tool that standardizes data, identifies trends, and enables management to modernize the workforce. Their work allows for effective data analysis and visualization for both self-service and enterprise use within a single platform, creating a greater sense of transparency.
 filters: GoG-team treasury agency
 image: agency/Treasury_Department_Seal.png
