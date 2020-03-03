@@ -4,7 +4,7 @@ agency: SBA
 team-names:
  - Elias Hernandez
  - Tanya Bennett
- - Valencia Fickens
+ - Valencia Dickens
  - Charles Brinkley
  - Shenita Hamlin
 description: Ensured continuous, outstanding service to the Small Business Administration during the 2018/2019 government shutdown. The team maintained a high morale, proactively resolved issues, and minimized financial loss.
