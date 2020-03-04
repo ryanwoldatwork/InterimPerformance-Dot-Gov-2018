@@ -2,7 +2,7 @@
 name: Simplified Classification Team
 agency: NASA
 team-names:
- - Kelly Elliot
+ - Kelly Elliott
  - Joanna Lange
  - Joan Davidson
  - Cherie Carlson
