@@ -7,7 +7,7 @@ team-names:
  - Mark Rohrbaugh       
  - Matthew McMahon
  - Mojdeh Bahar
-description: Evaluated over $43 billion worth of contracts to identify potential cost-savings, resulting in the estimated savings of over $1.5 billion over a five-year period.
+description: Led efforts to develop milestones for each of the Lab-to-Market CAP Goal strategies, which work to improve the $150 billion annual Federal Government investment in research and development. The team’s work streamlined regulation, reduced administrative burden, increased private sector engagement, and improved innovative technology transfer tools and services.
 filters: GoG-team omb agency
 image: homepage_images/logo-omb.png
 banner: agency
