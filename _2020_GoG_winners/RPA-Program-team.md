@@ -1,5 +1,5 @@
 ---
-name: RPA Program team
+name: RPA Program Team
 agency: PIC
 team-names:
 - Gerard Badorrek
