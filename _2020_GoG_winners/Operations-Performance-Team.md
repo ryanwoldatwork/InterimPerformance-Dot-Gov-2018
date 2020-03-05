@@ -1,5 +1,5 @@
 ---
-name: Operations Performance Team
+name: USAID's Operations Performance Team
 agency: PIC
 team-names:
 - Margaret Mesaros
