@@ -5,6 +5,7 @@ description:  Modernized health systems and care delivery in order to improve he
 filters: indiv hhs agency
 image: GoG/headshots/Marietta LaDue Headshot.jpg
 banner: agency
+originalImage: yes
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
 
 ---
