@@ -5,6 +5,7 @@ team-names:
  - Lisa Romney
  - Steve Kunze
  - Tyson  Whitney
+ - Reed Waller
 description: Helped drive government-wide improvements in DATA Act data quality. Their work improved communication and information sharing between the agency and the agency inspector general, and increased coordination and openness to feedback during the audit and review processes.
 filters: GoG-team cfoc council
 image: agency/CFO_Seal.png
