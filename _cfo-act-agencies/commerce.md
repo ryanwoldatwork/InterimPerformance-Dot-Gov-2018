@@ -17,17 +17,17 @@ strategic-plan-link: https://performance.commerce.gov/
 performance-plan-link: https://www.commerce.gov/sites/default/files/2020-02/FY19-21_DOC_APPR.pdf
 
 #side navigation
-#apg-1: Advance U.S. Leadership in Space Commerce
-#apg-1-link: APG_commerce_1.html
-apg-2: Conduct a Complete and Accurate 2020 Decennial Census
+apg-1: Conduct a Complete and Accurate 2020 Decennial Census
+apg-1-link: APG_commerce_1.html
+apg-2: Increase the Economic Impact of U.S. Trade
 apg-2-link: APG_commerce_2.html
-apg-3: Increase the Economic Impact of U.S. Trade
+apg-3: Mitigate Flood Impacts by Demonstrating Improved Decision Support Services to Emergency Managers
 apg-3-link: APG_commerce_3.html
-apg-4: Mitigate Flood Impacts by Demonstrating Improved Decision Support Services to Emergency Managers
+apg-4: Rural Wireless Broadband for Public Safety
 apg-4-link: APG_commerce_4.html
-apg-5: Rural Wireless Broadband for Public Safety
+apg-5: Space Situational Awareness
 apg-5-link: APG_commerce_5.html
-apg-6:
+apg-6: 
 apg-6-link:
 twitter-feed: https://twitter.com/CommerceGov?ref_src=twsrc%5Etfw
 
