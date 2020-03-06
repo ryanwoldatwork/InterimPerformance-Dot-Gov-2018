@@ -1,5 +1,5 @@
 ---
-name: RPA Program Team
+name: GSA's RPA Program Team
 agency: PIC
 team-names:
 - Gerard Badorrek
@@ -7,7 +7,7 @@ team-names:
 - Shang-Jeo Gaublomme
 - James Gregory 
 - Erica Thomas
-description: Implemented Robotic Process Automation (RPA) across GSA, which helped accelerate its adoption government-wide. The team’s work helped to deploy 33 RPA “bots”, saving 65,000+ employee hours and allowing employees to focus on higher-value work.
+description: Implemented Robotic Process Automation (RPA) across GSA, which helped accelerate its adoption government-wide. The team’s work helped to deploy 33 RPA “bots,” saving 65,000+ employee hours and allowing employees to focus on higher-value work.
 filters: GoG-team pic council
 image: agency/Pic logo.png
 banner: council
