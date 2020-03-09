@@ -1,5 +1,5 @@
 ---
-name: VHA Enterprise Governance Team
+name: VA Enterprise Governance Team
 agency: VA
 team-names:
  - Melissa  Glynn
