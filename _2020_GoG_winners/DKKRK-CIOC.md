@@ -2,7 +2,7 @@
 name: Chief Information Officers Council
 team-names: 
  - David Chow
- - Kevin Crooke
+ - Kevin Cooke
  - Kathleen Cheeseman
  - Robert Arrington
  - Kelly Wong
