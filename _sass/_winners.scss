@@ -60,6 +60,20 @@
 
 }
 
+.list123{
+  padding: 0;
+}
+.list123 li {
+  list-style: none;
+  float: left;
+  width: 73px;
+}
+
+.filters a.checked {
+  background: gray;
+  color: white;
+}
+
 .filters ul {
     display: flex;
     flex-wrap: wrap;
@@ -78,12 +92,13 @@
 
 .filters a {
     display: block;
-    padding: .5em 1em;
+    padding: .5em .5em;
     font-size: 80%;
     border: solid 1px hsl(0, 0%, 50%);
     color: #333;
     text-decoration: none;
     background: white;
+    text-align: center;
 }
 
 
