@@ -4,7 +4,7 @@ agency: CIOC
 team-names:
  - Margaret Lentz
  - Pamela Isom
- - Wende Wiles
+ - Wendy Wiles
 description: Implemented the Artificial Intelligence (AI) Exchange, allowing users to reduce duplicative efforts across mission spaces and increase the education and adoption of AI throughout the Department of Energy.
 filters: GoG-team cioc council
 image: agency/CIO_council_Seal.png
