@@ -4,7 +4,7 @@ agency: VA
 team-names:
  - Thomas Pasakarnis
  - Toni Hightower
- - Jeffery Tennen
+ - jeffrey Tennen
  - Jennifer Purdy
  - Paula Stokes
  - Michael Renfrow
