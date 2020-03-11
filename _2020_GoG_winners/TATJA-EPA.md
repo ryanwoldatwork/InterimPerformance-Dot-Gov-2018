@@ -5,7 +5,7 @@ team-names:
  - Tracy Clarke
  - Angela lthier
  - Theresa Johnson
- - Jeffery Fang
+ - jeffrey Fang
  - Allison Ng
 description: Managed the Region 3 Realignment, working tirelessly to ensure all Realignment activities and deadlines were met. Their thorough communication strategy ensured all stakeholders were up to speed on all details of the realignment and had the tools needed to successfully realign while maintaining high customer service standards.
 filters: GoG-team epa agency

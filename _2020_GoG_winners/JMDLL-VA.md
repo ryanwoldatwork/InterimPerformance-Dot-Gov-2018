@@ -1,7 +1,7 @@
 ---
 name: Department of Veterans Affairs
 team-names: 
- - Jeffery S. Pearson
+ - jeffrey S. Pearson
  - Mark L. Hawkins
  - Deanna S. Devos
  - Lamoyd Figures

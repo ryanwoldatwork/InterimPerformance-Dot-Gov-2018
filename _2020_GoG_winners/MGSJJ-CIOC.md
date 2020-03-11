@@ -5,7 +5,7 @@ team-names:
  - Maria Roat
  - Guy Cavallo
  - Sanjay Gupta
- - Jeffery Harris
+ - jeffrey Harris
  - James Saunders
 description: Leveraged cloud-native tools to successfully complete a pilot to meet Continuous Diagnostics and Mitigation (CDM) cybersecurity objectives. Using fewer products and cloud-based tools will improve cybersecurity protection with a faster implementation time at a lower cost.
 filters: GoG-team cioc council
