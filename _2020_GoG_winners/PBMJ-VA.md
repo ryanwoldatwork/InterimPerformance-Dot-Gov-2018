@@ -1,5 +1,5 @@
 ---
-name: Department of Veterans Affairs
+name: VET TEC Team
 team-names: 
  - Peter Nastasi
  - Beth Wesser
