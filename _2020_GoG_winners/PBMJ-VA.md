@@ -1,7 +1,7 @@
 ---
 name: Department of Veterans Affairs
 team-names: 
- - Peter Natasi
+ - Peter Nastasi
  - Beth Wesser
  - Michael Johnson
  - Jerome Golombeck
