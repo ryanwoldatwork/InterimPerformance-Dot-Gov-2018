@@ -7,6 +7,7 @@ team-names:
  - Tamara Jones
  - Steve Forry
  - Gerald Brozyna
+ - Juanita Wilson
 description: Improved the acquisition management process to increase efficiencies and reduce cost across Health and Human Services. The team reduced the procurement acquisition lead time by four months and saved the government $100+ million.
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
