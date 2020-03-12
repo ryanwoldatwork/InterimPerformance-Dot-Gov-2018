@@ -9,9 +9,9 @@ url: /CAP/grants/
 redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: NEW: Performance Playbook highlights best practices for federal grants management
+featured-box: New! Performance Playbook highlights best practices for grants management
 featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment
-featured-box-button: Submit Comments
+featured-box-button: Learn More
 #end featured section
 
 #cap-category: "Key Driver of Reform" #category text
