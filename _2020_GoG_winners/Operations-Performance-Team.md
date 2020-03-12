@@ -1,6 +1,7 @@
 ---
 name: USAID's Operations Performance Team
 agency: PIC
+tag: usaid
 team-names:
 - Margaret Mesaros
 - Erin Brown
@@ -8,7 +9,7 @@ team-names:
 - Maggie Strong
 - Chris Meservy
 description: Improved the efficiency of USAID operations through seven major management analyses. The team’s work saved over 6,400 employee hours.
-filters: GoG-team pic council
+filters: GoG-team pic council usaid
 image: agency/Pic logo.png
 banner: council
 team: yes #mark no if an individual, NO CAPS
