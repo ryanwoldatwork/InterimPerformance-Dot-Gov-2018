@@ -1,6 +1,7 @@
 ---
 name: Chief Acquisition Officers Council
-tag: dod
+tag: CAOC
+tag-2: dod
 team-names:
  - Joel Pitel
  - Marcia Cruz

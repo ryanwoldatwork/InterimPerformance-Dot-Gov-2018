@@ -1,6 +1,7 @@
 ---
 name: Chief Acquisition Officers Council
 tag: dod
+tag-2: CAOC
 team-names:
  - Wayne Vickers
  - Brian Snellen

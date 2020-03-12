@@ -1,6 +1,6 @@
 ---
 name: Artificial Intelligence Exchange
-tags: doe
+tag: doe
 agency: CIOC
 team-names:
  - Margaret Lentz

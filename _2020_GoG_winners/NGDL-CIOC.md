@@ -1,6 +1,7 @@
 ---
 name: Chief Information Officers Council
 tag: DOJ
+tag-2: CIOC
 team-names:
  - Nickolous Ward
  - Gabriela Smith-Sherman
