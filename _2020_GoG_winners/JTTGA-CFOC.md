@@ -1,6 +1,6 @@
 ---
 name: Chief Financial Officers Council
-tag: CFO
+tag: CFOC
 tag-2: hhs
 tag-3: Treasury
 tag-4: SSA
