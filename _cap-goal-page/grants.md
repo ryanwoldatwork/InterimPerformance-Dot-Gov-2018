@@ -9,7 +9,7 @@ url: /CAP/grants/
 redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: Comment Period for Proposed Changes to 2 CFR Open through 3/23/20
+featured-box: NEW: Performance Playbook highlights best practices for federal grants management
 featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment
 featured-box-button: Submit Comments
 #end featured section
@@ -43,6 +43,9 @@ resource-7-url:  https://www.performance.gov/CAP/overview-grants-data-standards.
 
 resource-8-name: Version 1.0 Grants Management Standard Data Elements
 resource-8-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
+
+resource-9-name: Performance Playbook
+resource-9-url:  
 
 listserv-title: Join Community
 listserv-url: 13
