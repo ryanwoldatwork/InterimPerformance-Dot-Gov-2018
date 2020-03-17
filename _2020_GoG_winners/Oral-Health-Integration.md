@@ -3,10 +3,10 @@ name: Oral Health Integration
 agency: HHS
 team-names:
  - Dr. Suma Nair
- - Beth Douglas-Perrine
  - Vy Nguyen
  - Cuong Bui
  - Chinyere Amaefule
+ - Sue Lin
 description: Implemented a data-driven training and technical assistance strategy to increase the precision of dental sealants, adoption of evidence-based interventions, optimization of health IT systems, and quality in health centers. Their work improved access to high quality pediatric oral health care in underserved communities.
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
