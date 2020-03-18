@@ -3,7 +3,7 @@ name: DoD Contracts Management Reform Team
 agency: PIC
 tag: DoD
 team-names:
- - Waldemar Kosciski
+ - Waldemar Koscinski
  - Kristina Schneider
  - Sherry Wellmer
  - Kaitlyn Faillace
