@@ -9,7 +9,8 @@ team-names:
  - Alicia Saucedo de Flores
 description: Implemented Robotics Process Automation, deploying 33 bots that have saved 70,000 work hours across GSA business functions. The team will continue to increase the efficiency of the agency and accelerate RPA adoption government-wide.
 filters: GoG-team gsa agency
-image: agency/GSA_Logo.JPG
+image: GoG/headshots/GSA Robotics Process Automation Program Team.jpg
+originalImage: yes
 banner: agency
 team: yes #mark no if an individual, NO CAPS
 length: long

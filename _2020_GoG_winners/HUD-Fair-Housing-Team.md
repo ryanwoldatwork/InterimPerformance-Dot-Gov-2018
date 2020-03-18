@@ -5,7 +5,7 @@ team-names:
  - Lynn Grosso
  - Pamela Zai
  - Jeanine Lafratta
- - Meryl Kansofsky
+ - Meryl Kanofsky
  - Anne Quesada
 filters: GoG-team hud agency
 image: agency/HUD_Seal.png
