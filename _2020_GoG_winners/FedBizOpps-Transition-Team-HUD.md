@@ -8,7 +8,7 @@ team-names:
  - Nancy Goode
  - Matthew Mcguire
 filters: GoG-team gsa agency
-image: GoG/headshots/GSA FBO Transition Team.jpg
+image: GoG/headshots/GSA-FBO-Transition-Team.jpg
 originalImage: yes
 description: Upgraded the long-standing Integrated Award Environment system by merging it into the new beta.SAM.gov. Their modernized, more efficient customer-friendly system makes contracting opportunities easier, saving both the federal government and business customers time and resources.
 banner: agency
