@@ -20,6 +20,15 @@ resource-4-url: https://ussm.gsa.gov/m3/
 resource-5-name: Federal Integrated Business Framework
 resource-5-url: https://ussm.gsa.gov/fibf/
 
+resource-6-name: Frequently Asked Questions
+resource-6-url: https://ussm.gsa.gov/assets/files/SQS-Public-FAQs-April-2019.pdf
+
+resource-7-name: Quality Service Management Offices (QSMOs)
+resource-7-url: https://ussm.gsa.gov/qsmo/
+
+resource-8-name: Governance Ecosystem
+resource-8-url: https://ussm.gsa.gov/governance/
+
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Shared services will create efficiencies in government and optimize the workforce by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
