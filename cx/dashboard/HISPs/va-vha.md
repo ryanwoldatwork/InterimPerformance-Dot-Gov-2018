@@ -103,7 +103,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 </div>
 
 | Volume of Customers during Performance Period:    | 8,586,476 |
-|---------------------------------------------------|-----------|
+| ------------------------------------------------- | --------- |
 | Volume of Customers provided survey opportunity:  | 1,808,680 |
 | Number of Respondents reflected in response data: | 304,687   |
 
@@ -475,7 +475,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 |--------------------------------------------------|-----------|
 | Volume of Customers provided survey opportunity  | 1,236,483 |
 | Number of Respondents reflected in response data | 377,268   |
-| Response Rate | 31%   |
+| Response Rate                                    | 31%       |
 
 {:.cx-section-heading}
 
