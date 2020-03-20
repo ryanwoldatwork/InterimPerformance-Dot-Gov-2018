@@ -11,6 +11,25 @@ The Veterans Health Administration outpatient customer experience survey data is
 
 Mapping of the VHA-adapted questions to the government-wide CX measures and the conversion of the VHA submitted data to an overall score out of 5 on each of the CX measures can <a href="{{ site.baseurl }}/cx/dashboard/supportingdocs/VHA-FY19-DataDetail.xlsx">be found here</a>.
 
+{:.cx-section-heading}
+
+### FY20
+
+#### Q1 Survey Results
+
+
+<div class="survey-result-box">
+	<div class="survey-result-stats">
+		<span class="survey-question">Satisfaction</span>
+		<div class="survey-score">
+			<div class="survey-avg-score">4.70</div>
+			<div class="star-rating" style="--rating: 4.70;" aria-label="Rating of this product is 4.70 out of 5."></div>
+			<span class="survey-trend-arrow survey-no-arrow">⇧</span>
+		</div>
+	</div>
+	<div class="survey-question-description">Agreed "I am satisfied with the service I received"</div>
+</div>
+
 #### Q4 Survey Results
 
 <div class="survey-result-box">
