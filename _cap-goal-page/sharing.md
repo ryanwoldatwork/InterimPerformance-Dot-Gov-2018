@@ -11,32 +11,15 @@ redirect_from: "/CAP/CAP_goal_5.html"
 
 cap-icon: "/img/CAP_icons/Icon_Sharing_Quality_gray.png"##### #icon that appears next to title
 
-resource-2-name: Quality Service Management Offices (QSMOs)
-resource-2-url: https://ussm.gsa.gov/qsmo/
-
 resource-3-name: OMB Memo 19-16
 resource-3-url: https://ussm.gsa.gov/qsmo/
 
-resource-4-name: Frequently Asked Questions
-resource-4-url: https://ussm.gsa.gov/assets/files/SQS-Public-FAQs-April-2019.pdf
+resource-4-name: Modernization and Migration Management (M3) Framework
+resource-4-url: https://ussm.gsa.gov/m3/
 
-resource-5-name: Designation Criteria
-resource-5-url: https://ussm.gsa.gov/assets/files/QSMO-Long-term-Designation-Criteria.pdf
+resource-5-name: Federal Integrated Business Framework
+resource-5-url: https://ussm.gsa.gov/fibf/
 
-resource-6-name: Workforce Strategies Guide
-resource-6-url: https://ussm.gsa.gov/assets/files/Workforce-Strategies-Guide-4-11-19.pdf
-
-resource-7-name: Investment Action Plan
-resource-7-url: https://ussm.gsa.gov/assets/files/Investment-Action-Plan-SOP-April-2019.pdf
-
-resource-8-name: Modernization and Migration Management (M3) Framework
-resource-8-url: https://ussm.gsa.gov/m3/
-
-resource-9-name: Federal Integrated Business Framework
-resource-9-url: https://ussm.gsa.gov/fibf/
-
-resource-10-name: Governance Ecosystem
-resource-10-url: https://ussm.gsa.gov/governance/
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Shared services will create efficiencies in government and optimize the workforce by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
