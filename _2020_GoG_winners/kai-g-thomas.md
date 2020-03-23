@@ -1,7 +1,7 @@
 ---
-name: Thomas G. Kai
+name: Lieutenant Thomas G. Kai
 agency: Department of Homeland Security
-description: Improved mission support for the Coast Guard’s patrol boat fleet. Mr. Kai’s efforts disrupted drug trade operations, improved search and rescue missions, and increased port security operations throughout the nation.
+description: Improved mission support for the Coast Guard’s patrol boat fleet. Lieutenant Kai’s efforts disrupted drug trade operations, improved search and rescue missions, and increased port security operations throughout the nation.
 filters: indiv dhs agency
 image: GoG/headshots/thomas-kai.jpg
 banner: agency
