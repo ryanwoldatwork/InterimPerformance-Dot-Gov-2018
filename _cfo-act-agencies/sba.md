@@ -1,8 +1,9 @@
 ---
 title: SBA
 layout: cfo-act-agency
-
+archive-link: /sba/2018-2019-apg/ #link to archived apgs
 permalink: ../SBA/
+strategic-objective-link: /SBA/SBA-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Small Business Administration
@@ -14,14 +15,14 @@ strategic-plan-link: https://www.sba.gov/sites/default/files/aboutsbaarticle/SBA
 performance-plan-link: https://www.sba.gov/document/report--congressional-budget-justification-annual-performance-report
 
 #side navigation
-apg-1: Expand Capital to Small Businesses in Disadvantaged Areas
+apg-1: Increase Access to Capital for Small Businesses through Enhancements in Web-Based Technology
 apg-1-link: APG_sba_1.html
-apg-2: Increase Federal Contracts to Disadvantaged Small Businesses
+apg-2: Increase US Small Business Export Sales
 apg-2-link: APG_sba_2.html
 apg-3: Maximize Small Business Participation in Government Contracting
 apg-3-link: APG_sba_3.html
-apg-4: Reduce Loan Processing Time for Disaster Survivors
-apg-4-link: APG_sba_4.html
+apg-4:
+apg-4-link:
 apg-5:
 apg-5-link:
 apg-6:

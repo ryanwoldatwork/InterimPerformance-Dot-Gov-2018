@@ -1,8 +1,9 @@
 ---
 title: OPM
 layout: cfo-act-agency
-
+archive-link: /opm/2018-2019-apg/ #link to archived apgs
 permalink: ../OPM/
+strategic-objective-link: /OPM/OPM-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Office of Personnel Management
@@ -11,12 +12,12 @@ agency-name: Office of Personnel Management
 agency-seal: ../img/agency/Personnel_Management_Seal.png
 agency-site: https://www.opm.gov/
 strategic-plan-link: https://www.opm.gov/about-us/budget-performance/strategic-plans/2018-2022-strategic-plan.pdf
-performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/
+performance-plan-link: https://www.opm.gov/about-us/budget-performance/performance/2019-annual-performance-report.pdf
 
 #side navigation
-apg-1: Enable Federal Employees to Seamlessly Transfer Agencies
+apg-1: Federal Strategic Human Capital Management Tools, Flexibilities, and Authorities and Strategic Skill Gaps Mitigation
 apg-1-link: APG_opm_1.html
-apg-2: Improve the Hiring Process
+apg-2: Establish an FEHB Master Enrollment Index
 apg-2-link: APG_opm_2.html
 apg-3:
 apg-3-link:

@@ -1,6 +1,8 @@
 ---
 title: NASA
 layout: cfo-act-agency
+archive-link: /nasa/2018-2019-apg/ #link to archived apgs
+strategic-objective-link: /NASA/NASA-Strategic-Objectives.pdf
 
 permalink: ../NASA/
 
@@ -11,19 +13,19 @@ agency-name: National Aeronautics and Space Administration
 agency-seal: ../img/agency/NASA_Seal.png
 agency-site: https://www.nasa.gov/
 strategic-plan-link: https://www.nasa.gov/sites/default/files/atoms/files/nasa_2018_strategic_plan.pdf
-performance-plan-link: https://www.nasa.gov/news/budget/index.html
+performance-plan-link: https://www.nasa.gov/sites/default/files/atoms/files/fy2021_volume_of_integrated_performance.pdf
 
 #side navigation
-apg-1: Commercial Crew Program
+apg-1: Commercial Low Earth Orbit Economy
 apg-1-link: APG_nasa_1.html
-apg-2: Exploration
+apg-2: Artemis 2024 Lunar Landing
 apg-2-link: APG_nasa_2.html
-apg-3: International Space Station
+apg-3: Enable Sustainable Surface Capabilities for the Moon in preparation for Mars
 apg-3-link: APG_nasa_3.html
 apg-4: James Webb Space Telescope
 apg-4-link: APG_nasa_4.html
-apg-5: Mars 2020
-apg-5-link: APG_nasa_5.html
+apg-5: 
+apg-5-link: 
 apg-6:
 apg-6-link:
 twitter-feed: https://twitter.com/NASA?ref_src=twsrc%5Etfw

@@ -1,6 +1,7 @@
 ---
 title: USDA
 layout: cfo-act-agency
+archive-link: /agriculture/2018-2019-apg/ #link to archived apgs
 
 permalink: ../agriculture/
 
@@ -12,21 +13,21 @@ agency-seal: ..\img\agency\Agriculture_Department_Seal.png
 agency-site: https://www.usda.gov/
 strategic-plan-link: https://www.usda.gov/our-agency/about-usda/strategic-goals
 performance-plan-link: https://www.obpa.usda.gov/perfrpt/2020perfplan2018rpt.pdf
+strategic-objective-link: /agriculture/USDA-Strategic-Objectives.pdf
 
 #side navigation
-apg-1: Improve the Customer Experience at USDA
+apg-1: Agriculture Research Utilization
 apg-1-link: APG_agriculture_1.html
-apg-2: Modernize USDA's Information Technology
+apg-2: Improve Customer Experience and Operational Efficiency
 apg-2-link: APG_agriculture_2.html
-apg-3:
-apg-3-link:
-apg-4:
-apg-4-link:
-apg-5:
-apg-5-link:
+apg-3: Reduce Animal Disease
+apg-3-link: APG_agriculture_3.html
+apg-4: Reduce Consumer Risk from Regulated Products through Modernization
+apg-4-link: APG_agriculture_4.html
+apg-5: Rural Connectivity
+apg-5-link: APG_agriculture_5.html
 apg-6:
 apg-6-link:
-twitter-feed: https://twitter.com/USDA?ref_src=twsrc%5Etfw
 
 #twitter and blog image
 image: "/img/agency/Agriculture_Department_Seal.png"

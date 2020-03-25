@@ -249,3 +249,13 @@
   transition: all .5s ease;
   cursor: pointer;
 }
+
+.round-headshot {
+  border-radius: 90px;
+  object-fit: cover;
+  width: 115px;
+  height: 115px;
+  padding:5px;
+  margin-right: 12px;
+  float: left;
+}

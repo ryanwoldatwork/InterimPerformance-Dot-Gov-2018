@@ -1,8 +1,9 @@
 ---
 title: State/USAID
 layout: cfo-act-agency
-
+archive-link: /state/2018-2019-apg/ #link to archived apgs
 permalink: ../state/
+strategic-objective-link: /state/State-USAID-Strategic-Objectives.pdf
 
 #Appears at top of side navigation and top of right three-fourths of page
 agency-name: Department of State and United States Agency for International Development
