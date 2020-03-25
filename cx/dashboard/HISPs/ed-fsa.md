@@ -13,10 +13,10 @@ hisp_profile_headline: "FSA serves more than 42 million customers and has a lend
 
 <h2 class="cx-section-heading">Operational Data</h2>
 
-| Touchpoint                                              | FY19 Q1      | FY19 Q2      | FY19 Q3      |
-|---------------------------------------------------------|--------------|--------------|--------------|
-| FAFSA applications submitted                            | 6.3 million  | 5.2 million  | 21.5 million |
-| FAFSA.gov visits                                        | 30 million   | 26.5 million | 3.5 million  |
-| myStudentAid app downloads                              |              |              | 246,000      |
-| myStudentAid app FAFSA submissions                      |              |              | 52,000       |
-| Customers checking load balances via myStudentAid app   |              |              | 15,000       |
+| Touchpoint                                              | FY19 Q1      | FY19 Q2      | FY19 Q3      | FY19 Q4      |
+|---------------------------------------------------------|--------------|--------------|--------------|--------------|
+| FAFSA applications submitted                            | 6.3 million  | 5.2 million  | 21.5 million | 2.5 million  |
+| FAFSA.gov visits                                        | 30 million   | 26.5 million | 3.5 million  | 21.5 million |
+| myStudentAid app downloads                              |              |              | 246,000      | 294,000      |
+| myStudentAid app FAFSA submissions                      |              |              | 52,000       | 26,000       |
+| Customers checking load balances via myStudentAid app   |              |              | 15,000       | 19,000       |
