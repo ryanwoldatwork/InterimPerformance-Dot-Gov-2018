@@ -30,6 +30,8 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 
 <div class="usa-width-one-half usa-media_block">
 
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_dec_Agriculture_Improving_Customer_Experience_at_USDA.pdf">December 2019</a></p>
+
     <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Agriculture_Improving_Customer_Experience_at_USDA.pdf">September 2019</a></p>
 
     <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Agriculture_Improving_Customer_Experience_at_USDA.pdf">June 2019</a></p>
@@ -65,6 +67,9 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
+
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_dec_Agriculture_Modernize_USDAs_Information_Technology.pdf">December 2019</a></p>
+
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Agriculture_Modernize_USDAs_Information_Technology.pdf">September 2019</a></p>
 
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Agriculture_Modernize_USDAs_Information_Technology.pdf">June 2019</a></p>
