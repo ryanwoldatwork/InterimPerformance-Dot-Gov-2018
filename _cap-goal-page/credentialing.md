@@ -79,7 +79,7 @@ goal-leader-2-title: "Under Secretary of Defense for Intelligence, Department of
 goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
 alt_text_3: Photo of Michael Rigas
 goal-leader-3-name: "Michael Rigas"
-goal-leader-3-title: "Acting Director, Office of Personnel Management"
+goal-leader-3-title: "Acting Director, Office of Personnel Management and Acting Deputy Director of Management, Office of Management and Budget"
 
 
 
