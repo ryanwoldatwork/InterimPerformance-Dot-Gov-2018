@@ -75,15 +75,13 @@ goal-leader-2-photo: "/img/CAP-photos/kernan-joseph.jpg"
 alt_text_2: Photo of Joseph Kernan #Goal leader 2
 goal-leader-2-name: "Joseph Kernan"
 goal-leader-2-title: "Under Secretary of Defense for Intelligence, Department of Defense"
-goal-leader-3-photo: "/img/CAP-photos/weichert-margaret.jpeg"
-alt_text_3: Photo of Margaret Weichert  #Goal leader 2
-goal-leader-3-name: "Margaret Weichert"
-goal-leader-3-title: "Deputy Director of Management, Office of Management and Budget"
 
-goal-leader-4-photo:  "/img/agr/Circle-icons-profle.svg.png"
-alt_text_4: Photo of Dale Cabaniss  #Goal leader 2
-goal-leader-4-name: "Dale Cabaniss"
-goal-leader-4-title: "Director, Office of Personnel Management"
+goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
+alt_text_3: Photo of Michael Rigas
+goal-leader-3-name: "Michael Rigas"
+goal-leader-3-title: "Acting Director, Office of Personnel Management"
+
+
 
 
 #***********************END GOAL LEADER SECTION*****************************8
