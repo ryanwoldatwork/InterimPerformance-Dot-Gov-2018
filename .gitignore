@@ -3,3 +3,4 @@ errorpage_grid.html
 .sass-cache
 _site
 .DS_Store
+*.lock

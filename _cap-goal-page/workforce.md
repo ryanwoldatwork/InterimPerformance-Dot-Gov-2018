@@ -73,10 +73,12 @@ goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg"
 alt_text_2: Photo of Peter Warren   #Goal leader 2
 goal-leader-2-name: "Peter Warren"
 goal-leader-2-title: "Associate Director for Performance and Personnel Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/agr/Circle-icons-profle.svg.png"
-alt_text_3: Photo of Dale Cabaniss
-goal-leader-3-name: "Dale Cabaniss"
-goal-leader-3-title: "Deputy Director, Office of Personnel Management"
+
+goal-leader-3-photo: "/img/CAP-photos/rigas-michael.jpg"
+alt_text_3: Photo of Michael Rigas
+goal-leader-3-name: "Michael Rigas"
+goal-leader-3-title: "Acting Director, Office of Personnel Management"
+
 goal-leader-4-photo: "/img/CAP-photos/charles-rettig.jpg"
 alt_text_4: Photo of Charles Rettig
 goal-leader-4-name: "Charles Rettig"

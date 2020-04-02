@@ -3,7 +3,7 @@ name: CMS Patients over Paperwork Initiative
 agency: HHS
 team-names:
  - Kate Goodrich
- - Mary Green
+ - Mary Greene
  - Leslie Flaherty
  - Suzanne Martin-Devroye
  - Stefanie Costello
