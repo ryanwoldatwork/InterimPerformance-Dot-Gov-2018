@@ -33,7 +33,7 @@ tags:
 ---
 On May 22, 2019, the Office of Management and Budget (OMB) hosted the Gears of Government President’s Award Ceremony to honor the inaugural class of presidential-level award winners. Recipients of the President’s Award are comprised of both individuals and teams across the Federal workforce who have made a profound difference for Americans through public service.
 
-<a href="{{ site.baseurl }}/img/blog/gear-ceremony-photo-3"><img src="{{ site.baseurl }}/img/blog/gear-ceremony-photo-3.jpg"></a>
+<a href="{{ site.baseurl }}/img/blog/gear-ceremony-photo-3.jpg"><img src="{{ site.baseurl }}/img/blog/gear-ceremony-photo-3.jpg"></a>
 <center><i>The NOAA Team receiving their medallions.</i></center>
 
 As Deputy Director of Management at OMB and Acting Director of the Office of Personnel Management, I had the pleasure of kicking off the ceremony with a reminder of the  importance of federal public service. The work these public servants do celebrates the best in what we as Americans can and should be doing every day. From improving access to generic drugs to furthering space exploration, each winner's job is challenging in hundreds of ways, yet they are making outstanding strides in the way they provide service to citizens across the country.  As Deputy Secretary Stephen Censky of the United States Department of Agriculture said in his opening remarks, these President’s Award Winners went above and beyond to make government work.
