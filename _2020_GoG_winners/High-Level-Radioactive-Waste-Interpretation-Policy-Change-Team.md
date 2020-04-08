@@ -2,7 +2,7 @@
 name: High Level Radioactive Waste Interpretation Policy Change Team
 agency: DOE
 team-names:
- - JMark Sanderling
+ - Mark Sanderling
  - Betsy Connell 
  - Theresa Kliczewski
  - Jamie Joyce
