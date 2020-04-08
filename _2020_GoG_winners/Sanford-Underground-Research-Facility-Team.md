@@ -7,7 +7,7 @@ team-names:
  - Jill  Jonkouski
  - Michael Procario
  - Steven Thiede
-description: Negotiated and created unique cooperative agreement with the South Dakota Science and Technical Authority to operate the underground research facility for the Department of Energy. The team’s work enables the further study and experimentation of neutrino physics and other disciplines that require the absence of cosmic radiation. 
+description: Negotiated and created a unique cooperative agreement with the South Dakota Science and Technical Authority to operate the underground research facility for the Department of Energy. The team’s work enables the further study and experimentation of neutrino physics and other disciplines that require the absence of cosmic radiation. 
 filters: GoG-team doe agency
 image: agency/Energy_Department_Seal.png
 banner: agency
