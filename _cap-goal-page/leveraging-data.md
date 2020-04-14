@@ -78,10 +78,11 @@ goal-leader-4-photo: "/img/CAP-photos/kent-suzette.jpg"
 alt_text_4: Photo of Suzette Kent
 goal-leader-4-name: "Suzette Kent"
 goal-leader-4-title: "Federal Chief Information Officer, Office of Management and Budget"
-goal-leader-5-photo: "/img/CAP-photos/potok-nancy.jpg"
-alt_text_5: Photo of Nancy Potok
-goal-leader-5-name:   "Nancy Potok"
-goal-leader-5-title: "Chief Statistician of the United States, Office of Management and Budget"
+
+goal-leader-5-photo: "/img/CAP-photos/mancini-dom.jpg"
+alt_text_5: Photo of Dominic Mancini
+goal-leader-5-name:   "Dominic Mancini"
+goal-leader-5-title: " Deputy Administrator of the Office of Regulatory Affairs, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "IT Modernization"
