@@ -82,7 +82,7 @@ goal-leader-4-title: "Federal Chief Information Officer, Office of Management an
 goal-leader-5-photo: "/img/CAP-photos/mancini-dom.jpg"
 alt_text_5: Photo of Dominic Mancini
 goal-leader-5-name:   "Dominic Mancini"
-goal-leader-5-title: " Deputy Administrator of the Office of Regulatory Affairs, Office of Management and Budget"
+goal-leader-5-title: "Deputy Administrator of the Office of Regulatory Affairs, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "IT Modernization"
