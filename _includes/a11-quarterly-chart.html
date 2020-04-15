@@ -1,0 +1,39 @@
+<html>
+ <head>
+   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+   <script type="text/javascript">
+     google.charts.load('current', {'packages':['corechart']});
+     google.charts.setOnLoadCallback(drawChart);
+
+     function drawChart() {
+       var data = google.visualization.arrayToDataTable([
+         ['quarter', 'Satisfaction', 'Trust/Confidence', 'Service Effectiveness', 'Process/Ease', 'Efficiency', 'Process Transparency', 'Helpful Employees'],
+         ['FY19 Q1', null, 4.66, 4.76, 4.71, 4.67, 4.83, 4.81],
+         ['FY19 Q2', null, 4.67, 4.76, 4.72, 4.66, 4.84, 4.81],
+         ['FY19 Q3', 4.55, 4.38, 4.61, 4.56, 4.48, 4.72, 4.71],
+         ['FY19 Q4', 4.70, 4.39, 4.64, 4.57, 4.54, 4.73, 4.73],
+         ['FY20 Q1', 4.7, 4.42, 4.62, 4.56, 4.51, 4.75, 4.74]
+       ]);
+
+       var options = {
+        // title: 'A11 Survey',
+         colors: ['#fb5a47', '#face00', '#a3b72c', '#9bd4cf', '#52daf2', '#628ef4', '#e0699f'],
+         curveType: 'function',
+         vAxis: { maxValue: 5 },
+         lineWidth: 3,
+         legend: { position: 'none' },
+         pointSize: 7,
+       };
+
+       var chart = new google.visualization.LineChart(document.getElementById('a11_chart'));
+
+       chart.draw(data, options);
+     }
+   </script>
+ </head>
+ <body>
+   <div id="a11_chart" style="width: 100%; height: 500px"></div>
+   <div></div>
+   <hr>
+  </body>
+</html>

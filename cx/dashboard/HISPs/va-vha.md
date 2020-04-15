@@ -13,10 +13,14 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 
 {:.cx-section-heading}
 
+
+<div>
+	{% include a11-quarterly-chart.html %}
+</div>
+
 ### FY20
 
 #### Q1 Survey Results
-
 
 <div class="survey-result-box">
 	<div class="survey-result-stats">
@@ -106,6 +110,7 @@ Mapping of the VHA-adapted questions to the government-wide CX measures and the 
 | ------------------------------------------------- | --------- |
 | Volume of Customers provided survey opportunity:  | 1,808,680 |
 | Number of Respondents reflected in response data: | 304,687   |
+
 
 {:.cx-section-heading}
 
