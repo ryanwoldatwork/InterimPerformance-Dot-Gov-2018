@@ -26,7 +26,7 @@ authors:
 tags:
 - PMA
 - CAP Goal
-- CX
+- cx
 ---
 
 Meet Charlotte. She is a resident of Northern California who survived the devastating Camp Fire which burned nearly 154,000 acres. Her house where she lives with her aging mother, husband, and three children was destroyed and her family farm severely damaged.
