@@ -28,6 +28,9 @@ resource-4-url: https://www.performance.gov/cx/HISP-placemat.pdf
 resource-5-name: US Forms System Library
 resource-5-url: https://github.com/usds/us-forms-system
 
+resource-6-name: Customer Experience Services Evaluation and Buying Guide
+resource-6-url: /cx/CX-Evaluation-and-Buying-Guide.pdf
+
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
