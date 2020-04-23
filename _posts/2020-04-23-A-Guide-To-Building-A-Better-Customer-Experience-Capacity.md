@@ -28,11 +28,11 @@ This month, the General Services Administration’s (GSA) Office of Customer Exp
 The Federal Government is focused now more than ever on providing better experiences for the public, incorporating modern practices into their services such as CX and HCD principles. Some agencies have mature CX practices, while others are just getting started. At times, agencies look to private industry to help them fill gaps in their CX work. However, these practices are still new and some agencies are asking where to go for help and how to evaluate for good partners. The new Customer Experience Services Evaluation and Buying Guide will help to answer these questions and more.
 
 The guide highlights a number of important topic areas:
-* *Fundamental questions to ask in pursuing CX maturity*
-* *A roadmap on what agencies should consider as they buy CX services*
-* *Evaluation criteria for assessing the capabilities of industry partners, including what to seek in proposals as well as what to be cautious of
-Information gathered from GSA’s HCD Request for Information (released fall of 2019)*
-* *Resources and organizations to reference and contact*
+* Fundamental questions to ask in pursuing CX maturity
+* A roadmap on what agencies should consider as they buy CX services
+* Evaluation criteria for assessing the capabilities of industry partners, including what to seek in proposals as well as what to be cautious of
+Information gathered from GSA’s HCD Request for Information (released fall of 2019)
+* Resources and organizations to reference and contact
 
 If you have any questions or comments about the guide please contact GSA’s OCE at
 [CustomerExperience@gsa.gov](mailto:CustomerExperience@gsa.gov).
