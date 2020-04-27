@@ -9,9 +9,9 @@ url: /CAP/grants/
 redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: New! Performance Playbook highlights promising practices for grants management
+featured-box:
 featured-box-url:
-featured-box-button: Learn More
+featured-box-button:
 #end featured section
 
 #cap-category: "Key Driver of Reform" #category text
@@ -24,7 +24,7 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 resources:
 
 resource-2-name: Managing for Results - The Performance Management Playbook for Federal Awarding Agencies
-resource-2-url:  
+resource-2-url:  https://www.performance.gov/CAP/Managing for Results_The Performance Management Playbook for Federal Awarding Agencies.pdf
 
 resource-3-name: Chief Financial Officers Council Grant Resources
 resource-3-url:  https://cfo.gov//grants/
