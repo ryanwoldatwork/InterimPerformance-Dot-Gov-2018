@@ -23,8 +23,8 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 
 resources:
 
-resource-2-name: Grants 101 Training Modules
-resource-2-url:  https://cfo.gov/grants/training/
+resource-2-name: Managing for Results - The Performance Management Playbook for Federal Awarding Agencies
+resource-2-url:  https://www.performance.gov/CAP/Managing for Results_The Performance Management Playbook for Federal Awarding Agencies.pdf
 
 resource-3-name: Chief Financial Officers Council Grant Resources
 resource-3-url:  https://cfo.gov//grants/
@@ -43,6 +43,9 @@ resource-7-url:  https://www.performance.gov/CAP/overview-grants-data-standards.
 
 resource-8-name: Version 1.0 Grants Management Standard Data Elements
 resource-8-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
+
+resource-9-name: Grants 101 Training Modules
+resource-9-url:  https://cfo.gov/grants/training/
 
 listserv-title: Join Community
 listserv-url: 13
