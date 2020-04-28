@@ -11,7 +11,7 @@ summary: summary_large_image
 description:
 
 excerpt:
-image: "/img/blog/cxo-fellows.png"
+image: "/img/blog/cxo-logo.png"
 image_accessibility: CX logo
 
 authors:
@@ -21,7 +21,7 @@ tags:
 - leadership program
 
 ---
-*The CXO Fellowship Program is accepting applications for the 2020-2021 cohort from May 1 through June 12, 2020. Learn more and apply at cfo.gov/cxo-fellows/.*
+*The CXO Fellowship Program is accepting applications for the 2020-2021 cohort from May 1 through June 12, 2020. Learn more and apply at [cfo.gov/cxo-fellows/](https://cfo.gov/cxo-fellows/).*
 
 While there are many professional development programs out there, few compare to the experiences offered through the [CXO Fellowship Program](https://cfo.gov/cxo-fellows/). To find out what the program looks like and how it impacts participants on a daily basis, we took a peek behind the curtain and got to see for ourselves just how transformative this program can be.
 
@@ -53,6 +53,6 @@ While there are many professional development programs out there, few compare to
 
   <img src="../img/blog/cxo-career-growth-image-2.jpg" style="width:500px;">
 
-
+---------------------------
 
 <img src="../img/blog/cxo-final-graphic.jpg">
