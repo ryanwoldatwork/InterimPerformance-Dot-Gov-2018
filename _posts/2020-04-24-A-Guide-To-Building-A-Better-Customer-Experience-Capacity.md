@@ -8,9 +8,9 @@ permalink: /A-Guide-to-Building-A-Better-Customer-Experience-Capacity/
 
 summary: summary_large_image
 
-description:
+description: This month, the General Services Administration’s (GSA) Office of Customer Experience (OCE), in association with the Customer Experience Cross-Agency Priority (CAP) Goal team, released the Customer Experience Services Evaluation and Buying Guide. This resource is intended to answer questions and provide guidance to agencies looking to build their Customer Experience (CX) capacity through Human-centered Design (HCD).
 
-excerpt:
+excerpt: This month, the General Services Administration’s (GSA) Office of Customer Experience (OCE), in association with the Customer Experience Cross-Agency Priority (CAP) Goal team, released the Customer Experience Services Evaluation and Buying Guide. This resource is intended to answer questions and provide guidance to agencies looking to build their Customer Experience (CX) capacity through Human-centered Design (HCD).
 
 image: "/img/cx/CX Image.PNG"
 image_accessibility: CX logo
@@ -19,7 +19,7 @@ authors:
 - GSA’s Office of Customer Experience
 
 tags:
-- CX
+- cx
 - PMA
 ---
 

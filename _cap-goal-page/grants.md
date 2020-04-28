@@ -23,8 +23,8 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 
 resources:
 
-resource-2-name: Managing for Results - The Performance Management Playbook for Federal Awarding Agencies
-resource-2-url:  https://www.performance.gov/CAP/Managing for Results_The Performance Management Playbook for Federal Awarding Agencies.pdf
+resource-2-name:   
+resource-2-url:
 
 resource-3-name: Chief Financial Officers Council Grant Resources
 resource-3-url:  https://cfo.gov//grants/
@@ -94,7 +94,7 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "grants" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
 CAP-event-title:
-CAP-event-date: 
+CAP-event-date:
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
