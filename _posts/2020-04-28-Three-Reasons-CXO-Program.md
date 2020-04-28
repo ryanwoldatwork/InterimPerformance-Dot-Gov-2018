@@ -21,10 +21,9 @@ tags:
 - leadership program
 
 ---
-While there are many professional development programs out there, few compare to the experiences offered through the [CXO Fellowship Program](https://cfo.gov/cxo-fellows/). To find out what the program looks like and how it impacts participants on a daily basis, we took a peek behind the curtain and got to see for ourselves just how transformative this program can be.
-
 *The CXO Fellowship Program is accepting applications for the 2020-2021 cohort from May 1 through June 12, 2020. Learn more and apply at cfo.gov/cxo-fellows/.*
 
+While there are many professional development programs out there, few compare to the experiences offered through the [CXO Fellowship Program](https://cfo.gov/cxo-fellows/). To find out what the program looks like and how it impacts participants on a daily basis, we took a peek behind the curtain and got to see for ourselves just how transformative this program can be.
 
 **1. Professional Development**
 
