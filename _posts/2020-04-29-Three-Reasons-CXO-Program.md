@@ -11,7 +11,7 @@ summary: summary_large_image
 description:
 
 excerpt:
-image: "/img/blog/cxo-final-graphic.jpg"
+image: "/img/blog/CXO-logo-2.jpg"
 image_accessibility: CX logo
 
 authors:
