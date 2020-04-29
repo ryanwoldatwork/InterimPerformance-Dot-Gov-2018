@@ -11,7 +11,7 @@ summary: summary_large_image
 description:
 
 excerpt:
-image: "/img/blog/CXO-logo-2.jpg"
+image: "/img/blog/cxo-final-graphic.jpg"
 image_accessibility: CX logo
 
 authors:
@@ -49,7 +49,7 @@ While there are many professional development programs out there, few compare to
   <img src="../img/blog/cxo-career-growth-image.jpg" style="width:500px;">
 
 
-  Fellows are exposed to leaders across government who inspire them to refelct on their path and reach higher. In the program, fellows are able to pause their routine, take a step back, and rethink the direction of their future as a federal employee.
+  Fellows are exposed to leaders across government who inspire them to reflect on their path and reach higher. In the program, fellows are able to pause their routine, take a step back, and rethink the direction of their future as a federal employee.
 
   <img src="../img/blog/cxo-career-growth-image-2.jpg" style="width:500px;">
 
