@@ -40,7 +40,7 @@ While there are many professional development programs out there, few compare to
   <img src="../img/blog/cxo-networking-image.jpg" style="width:500px;">
 
 
-  When fellows meet they work together to practice their new skills. Connections made in this program have led to new jobs and even new career paths. Fellows often stay in touch far past the end of the program, which shows the power of learning and connecting with their networks.
+  When fellows meet, they work together to practice their new skills. Connections made in this program have led to new jobs and even new career paths. Fellows often stay in touch far past the end of the program, which shows the power of learning and connecting with their networks.
 
 **3. Career Growth**
 
