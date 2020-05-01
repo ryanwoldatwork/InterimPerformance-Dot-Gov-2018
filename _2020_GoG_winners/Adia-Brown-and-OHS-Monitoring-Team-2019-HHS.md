@@ -1,5 +1,5 @@
 ---
-name: Adia Brown and OHS Monitoring Team 2019 From Gotcha to Growth
+name: Adia Brown and OHS Monitoring Team 2019-From Gotcha to Growth
 agency: HHS
 team-names:
  - Adia Brown
