@@ -1,5 +1,5 @@
 ---
-name: Aligning Safety Net Providers with ONC Health IT
+name: Providing Value Based Incentives to Align Safety Net Providers with ONC Health IT Standards of Care
 agency: HHS
 team-names:
  - Alex Sripipatana

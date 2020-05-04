@@ -347,7 +347,7 @@ blockquote-CAP cite {
                  <p><a target="_blank" href="{{ page.resource-5-url }}"><b>{{ page.resource-5-name }}</b></a></p>
            {% endif %}
            {% if page.resource-6-name %}
-                 <p><a target="_blank" href="{{ page.resource-6-url }}"><b>{{ page.resource-6-name }}</b></a></p>
+                 <p><a target="_blank" href="{{ site.baseurl }}/cx/CX-Evaluation-and-Buying-Guide.pdf"><b>{{ page.resource-6-name }}</b></a></p>
            {% endif %}
            {% if page.resource-7-name %}
                  <p><a target="_blank" href="{{ page.resource-7-url }}"><b>{{ page.resource-7-name }}</b></a></p>
@@ -391,14 +391,18 @@ blockquote-CAP cite {
                   <i><a href="../innovation-sessions/12-05-reinvent-grants-management.pdf">View the Presentation: ReInvent Grants Management & the Grant-Recipient Digital Dossier</a></i></li>
                   <li>January 23, 2020<br>
                   <i><a href="../innovation-sessions/1-23-Proposed-Revisions-2CFR-session.pdf">View the Presentation: Proposed Revisions for 2 CFR</a></i></li>
-                  <li>February 27, 2020: B is for Blockchain: Proof of Concept using Distributed Ledger Technology for Multi-Tier Grants Payments<br>   
-                  
+                  <li>February 27, 2020: B is for Blockchain: Proof of Concept using Distributed Ledger Technology for Multi-Tier Grants Payments<br>
+
                      <i><a href="../innovation-sessions/grants-innovation-block-chain.pdf">View the Presentation</a></i><br>
                      <i><a href="https://meet.gsa.gov/pvmr67iosxlw/?OWASP_CSRFTOKEN=be105fb1e7470102f6478d3021160ec49bbf88eb50ddb5aae9e45b7624ab9efb">View the Recording</a></i></li>
-                
+
                   <li>March 26, 2020: Administrative Relief for Recipients and Applicants Impacted by the Novel Coronavirus and Implementation of The GREAT Act<br>
                   <i><a href="../innovation-sessions/Administrative_Relief_for_Recipients_and_Applicants_Impacted_by_the_Novel_Coronavirus_and_Implementation_of_The_GREAT_Act.pdf">View the Presentation</a></i><br>
                   <i><a href="https://meet.gsa.gov/pd5ky3cwbe5c/?OWASP_CSRFTOKEN=4b25e875bc92245cbbf41f0528da057f2fdd317793441f7c166a310d1a26fad6">View the Recording</a></i></li>
+
+                    <li>April 16, 2020: M-20-21, Implementation Guidance for Supplemental Funding Provided in Response to the Coronavirus Disease (COVID-19”)<br>
+                        <i><a href="../innovation-sessions/Apr 16 2020 GIEx slides - Final (for posting).pdf">View the Presentation</a></i><br>
+                        <i><a href="https://meet.gsa.gov/p7a5k7b8sf87/">View the Recording</a></i></li>
 
 
 
@@ -411,7 +415,7 @@ blockquote-CAP cite {
         <li>
 
           <button  class="usa-accordion-button" style="font-size:2.2rem;padding-left:0;"
-            aria-expanded="true"
+            aria-expanded="false"
             aria-controls="a9">
               <img class="usa-media_block-img" src="{{ site.baseurl }}/img/resources.png" alt="PMG_red_target_icon" style="width:40px;margin-right:10px;margin-top:-9px;">&nbsp;&nbsp;2 CFR Proposed Revisions Resources
           </button>
@@ -421,7 +425,7 @@ blockquote-CAP cite {
                 <p>OMB released revisions to Title 2 of the Code of Federal Regulations, beginning a foundational shift toward results-oriented accountability for Federal grants. Below you will find resources related to the revisions and information about how the public can provide comments.</p>
                 <ul>
                   <li><i><a href="https://meet.gsa.gov/p78nmsdy0ty7/?OWASP_CSRFTOKEN=5dd88967c74c3a49bed884327df076ffa70850770d68bfcca5e163d92b97c365"> View the Recording</a>: Proposed Revisions to 2CFR</i></li>
-              
+
                   <li> <i><a href="../innovation-sessions/Grants-CAP-Goal-Proposed-2CFR-Revision1.pdf">Federal Register Reference Document: Proposed Revisions for 2 CFR (Tracked Changes)</a></i></li>
                   <li><i><a href="https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment">View the Federal Register Notice and Provide Comments </a></i></li>
                   <li><i><a href="../innovation-sessions/CFR-listening-session.pdf">View the "Listening Session" Presentation</a></i></li>
@@ -460,7 +464,17 @@ blockquote-CAP cite {
   {% else %}
   <div class="usa-width-one-whole usa-media_block">
    <h2>News</h2>
+   {% if page.sqs %}
+     <hr>
+     <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">April 27, 2020</p>
+       <a style="color:#ffffff;text-decoration:none;" href="https://ussm.gsa.gov/qsmo/">
+         <h3 style="margin-top:5px;">Administration Announces DHS CISA as the designated QSMO for Cybersecurity Services</h3>
+       </a>
+       <p>The Office of Management and Budget (OMB) has designated the Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency (CISA) as the Quality Service Management Office for Cybersecurity Services, specifically Security Operations Center standardization, Vulnerability Management standardization, and DNS Resolver service.</p>
+   {% endif %}
+
   {% for post in site.tags[page.tag] limit:2 %}
+
   {% if page.tag %}
     <hr>
     <p class="card-tag" style="color:#ffffff;margin-bottom:0px;">{{ post.date | date: '%B %d, %Y' }}</p>
