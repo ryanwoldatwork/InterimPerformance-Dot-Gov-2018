@@ -11,7 +11,7 @@ summary: summary_large_image
 description:
 
 excerpt:
-image: img\CAP-photos\kent-suzette.jpg
+image: /img/CAP-photos/kent-suzette.jpg
 image_accessibility: Suzette Kent
 
 authors:
@@ -49,7 +49,7 @@ While many agencies had urgent demands for response actions, maintaining mission
 
 The [Federal Data Strategy](https://www.performance.gov/CAP/leveragingdata/) has enabled the government to better curate, use, and share operational data as agencies were asked to disperse funds for the economy, collaborate with industry to understand and fight an invisible enemy, gain visibility to a complex supply chain, and protect those who are most vulnerable in our populations.
 
-- The **Department of Health and Human Services (HHS)** created a system called **HHS PROTECT** that pulls together an ecosystem of over 200 datasets. PROTECT provides a common operating picture of the spread, impact, and behavior of the virus so members of the White House Coronavirus Task Force can analyze policy options with data insights. The system was established in nine days to support White House Coronavirus Task Force efforts to manage the response to COVID-19. 
+- The **Department of Health and Human Services (HHS)** created a system called **HHS PROTECT** that pulls together an ecosystem of over 200 datasets. PROTECT provides a common operating picture of the spread, impact, and behavior of the virus so members of the White House Coronavirus Task Force can analyze policy options with data insights. The system was established in nine days to support White House Coronavirus Task Force efforts to manage the response to COVID-19.
 
 - Multiple agencies have reported leveraging data and Artificial Intelligence to ramp up and inform their COVID-19 response-related actions.
 
