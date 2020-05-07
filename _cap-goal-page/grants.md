@@ -23,8 +23,8 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 
 resources:
 
-resource-2-name:   
-resource-2-url:
+resource-2-name: Managing for Results, Performance Management Playbook for Federal Awarding Agencies
+resource-2-url: https://www.performance.gov/CAP/innovation-sessions/Managing for Results, Performance Management Playbook for Federal Awarding Agencies.pdf
 
 resource-3-name: Chief Financial Officers Council Grant Resources
 resource-3-url:  https://cfo.gov//grants/
