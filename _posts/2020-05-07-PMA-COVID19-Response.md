@@ -30,7 +30,7 @@ The ability to rapidly pivot and transition to this highly digital environment i
 
 **Response Efforts to Embrace Full-Time Telework**
 
-- The **Treasury Department** created a “Get My Payment” application to inform taxpayers on the status of their Economic Impact Payment. The application went live on April 15, 2020 and has had over 305 million visits to date.
+- The **Treasury Department** created a “Get My Payment” application to inform taxpayers on the status of their Economic Impact Payment. The application went live on April 15, 2020 and has had over 368 million visits to date.
 
 - The **Small Business Administration (SBA)** created new intake portals and expanded existing cloud-based solutions support tools for borrowers and lenders. This included launching Economic Injury Disaster Loan programs for economic impact due to COVID-19 and implementing the new Paycheck Protection Program (PPP) within one week. Through May 1, SBA has approved over $500 billion in PPP loans to support payroll costs for borrowers impacted by COVID-19.
 
