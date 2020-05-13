@@ -155,3 +155,16 @@ function myFunction13() {
 }
 
 var codeBlock13 =   '<h3>Cash Loss to the Government - Program Scorecards <em>(Updated December 2019)</em></h3>' + '<p>The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are eliminated in the highest-risk programs, otherwise known as high-priority programs. Details about these programs can be found in the dashboard below as well as steps to improve their efficiency by focusing on reducing incorrect payment that result in monetary loss.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash_Loss_Government_KPI_Data_Dec2019.xlsx">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8537" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+
+function myFunction14() {
+  document.getElementById("wrapper-css").innerHTML = codeBlock14
+}
+
+var codeBlock14 =   '<h3>CSS Agency Peer Group Distribution</h3>' + '<a class="usa-button usa-button-secondary " href="######">Download the Data</a>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11998" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+function myFunction15() {
+  document.getElementById("wrapper-css").innerHTML = codeBlock15
+}
+
+var codeBlock15 =   '<h3>CSS Agency Peer Group Comparison</h3>' + '<a class="usa-button usa-button-secondary " href="#######">Download the Data</a>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11999" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
