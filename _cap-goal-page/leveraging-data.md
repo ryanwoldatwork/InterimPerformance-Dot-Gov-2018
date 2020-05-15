@@ -24,8 +24,8 @@ resource-4-url: https://strategy.data.gov/news/
 resource-5-name: Sign up for the Newsletter
 resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 
-resource-6-name: Data Innovation Event Playbook
-resource-6-url: https://resources.data.gov/assets/documents/data-innovation-event-playbook.pdf
+resource-7-name: Data Innovation Event Playbook
+resource-7-url: https://resources.data.gov/assets/documents/data-innovation-event-playbook.pdf
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Federal Data Strategy 2020 Action Plan
