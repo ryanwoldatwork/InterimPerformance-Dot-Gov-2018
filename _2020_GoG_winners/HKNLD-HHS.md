@@ -3,7 +3,7 @@ name: PAGES Data System Team
 agency: HHS
 team-names:
  - Hilary Bruck
- - Kim Stupica
+ - Kim Stupica-Dobbs
  - Nicole Constance
  - Lauren Deutsch
  - Dvora Wilensky
