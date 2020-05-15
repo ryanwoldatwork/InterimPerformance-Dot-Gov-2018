@@ -12,7 +12,7 @@ filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png
 banner: agency
 team: yes #mark no if an individual, NO CAPS
-length: short
+length: long
 award: Agency #type of award, either Agency, Council, or President's; this is case sensitive so make sure to match the options listed exactly. This section generates the format of the card
-
+modal: 111
 ---
