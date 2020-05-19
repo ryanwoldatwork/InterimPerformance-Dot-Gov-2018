@@ -1,20 +1,21 @@
-#sba-desktop {
-}
-
+#sba-desktop {}
 @media screen and (max-width: 550px) {
-    #sba-desktop {
-      display:none;
-}}
-
-
-#sba-mobile {
+  #sba-desktop {
+    display: none;
+  }
 }
 
+#sba-mobile {}
 @media screen and (min-width: 550px) {
-    #sba-mobile {
-      display:none;
-}}
+  #sba-mobile {
+    display: none;
+  }
+}
 
 .fa-building:before {
-  padding-right:10px;
+  padding-right: 10px;
+}
+
+.fa-user:before {
+  padding-right: 10px;
 }
