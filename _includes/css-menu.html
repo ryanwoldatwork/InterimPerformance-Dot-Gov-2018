@@ -4,28 +4,28 @@
 
            <div class="usa-grid usa-graphic_list-row" >
            <div class="usa-width-one-third usa-media_block " style="margin-bottom:0px;">
-             <li tabindex="0" onclick="myFunction14()" onkeypress="myFunction14()">
+             <li class="tooltip" style="width:100%" tabindex="0" onclick="myFunction14()" onkeypress="myFunction14()">
                <div class="link" tabindex="0">
-               <i class="fa fa-user" style="display: contents;margin-right:5px;"></i><span style="width:200px;text-align:center;font-size:1.6rem;text-transform: uppercase;font-weight: 700;letter-spacing: 0.5px;">CSS 2019 Agency Overview</span><i class="fa fa-chevron-down"></i>
+               <i class="fa fa-user" style="display: contents;margin-right:5px;"></i><span style="width:200px;text-align:center;font-size:1.6rem;text-transform: uppercase;font-weight: 700;letter-spacing: 0.5px;">Agency View</span><i class="fa fa-chevron-down"></i>
                </div>
-             </li>
+               <span class="tooltiptext">This dashboard shows CSS 2020 average satisfaction scores on a seven point Likert scale by agency for the 24 CFO Act Agencies.</span></li>
            </div>
 
            <div class="usa-width-one-third usa-media_block " style="margin-bottom:0px;">
-             <li tabindex="0" onclick="myFunction16()" onkeypress="myFunction16()">
+             <li tabindex="0" class="tooltip" style="width:100%" onclick="myFunction16()" onkeypress="myFunction16()">
                <div class="link" tabindex="0">
-               <i class="fa fa-user" style="display: contents;margin-right:5px;"></i><span style="width:200px;text-align:center;font-size:1.6rem;text-transform: uppercase;font-weight: 700;letter-spacing: 0.5px;">CSS 2019 Agency Component View</span><i class="fa fa-chevron-down"></i>
+               <i class="fa fa-user" style="display: contents;margin-right:5px;"></i><span style="width:200px;text-align:center;font-size:1.6rem;text-transform: uppercase;font-weight: 700;letter-spacing: 0.5px;">Bureau View </span><i class="fa fa-chevron-down"></i>
                </div>
-             </li>
+             <span class="tooltiptext">This dashboard shows CSS 2020 average satisfaction scores on a seven point Likert scale by bureau for the 24 CFO Act Agencies.</span></li>
            </div>
 
 
            <div class="usa-width-one-third usa-media_block " style="margin-bottom:0px;">
-             <li tabindex="0" onclick="myFunction15()" onkeypress="myFunction15()">
+             <li tabindex="0" class="tooltip" style="width:100%" onclick="myFunction15()" onkeypress="myFunction15()">
                <div class="link" tabindex="0">
-               <i class="fa fa-user" style="display: contents;margin-right:5px;"></i><span style="width:200px;text-align:center;font-size:1.6rem;text-transform: uppercase;font-weight: 700;letter-spacing: 0.5px;">CSS 2019 Agency Satisfaction Distribution</span><i class="fa fa-chevron-down"></i>
+               <i class="fa fa-user" style="display: contents;margin-right:5px;"></i><span style="width:200px;text-align:center;font-size:1.6rem;text-transform: uppercase;font-weight: 700;letter-spacing: 0.5px;">Agency Satisfaction View </span><i class="fa fa-chevron-down"></i>
                </div>
-             </li>
+              <span class="tooltiptext">This dashboard shows the distribution of the CSS 2020 Likert scale satisfaction scores by agency. </span></li>
            </div>
 
 
@@ -33,6 +33,47 @@
 
 
           </ul>
+
+          <style>
+          .tooltip {
+            position: relative;
+            display: inline-block;
+                    }
+
+          .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 100%;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -60px;
+            opacity: 0;
+            transition: opacity 0.3s;
+          }
+
+          .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+          }
+
+          .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+          }
+          </style>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/js/kpi.js"></script>
