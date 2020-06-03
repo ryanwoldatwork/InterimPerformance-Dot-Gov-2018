@@ -39,7 +39,7 @@ In April, we highlighted [three reasons why you should apply to the CXO Fellowsh
 
   Many fellows told us they initially felt shy, but the program helped them break out of their shell and build confidence. Take this opportunity to find out what someone from another agency does and how their position contributes to larger federal initiatives. You may find you have more in common than you thought.
 
-[insert image]
+<img src="../img/blog/cxo-network-image-1.jpg" style="width:500px;">
 
   Beyond just introducing yourself, fellows advised that you should try to get to know other fellows on a deeper level. It’s easy to have a short conversation about your job and what agency you work for, but if you ask thoughtful questions and share your interests, you may find yourself building lasting connections. Most fellows keep in touch long after the program ends, providing them with a diverse professional network they can call upon for future job opportunities or cross-agency collaboration.
 
@@ -58,7 +58,6 @@ In April, we highlighted [three reasons why you should apply to the CXO Fellowsh
 
 **Next Steps**
 - Read our last blog post, [3 Reasons Why YOU Should Apply to the CXO Fellowship Program](https://www.performance.gov/3-reasons-why-you-should-apply-to-CXO-fellowship-program/)
-- Watch the CXO Fellowship Program application video
-- [Apply to the CXO Fellowship Program](https://cfo.gov/cxo-fellows/) by June 12, 2020!
+- Learn more and [apply to the CXO Fellowship Program](https://cfo.gov/cxo-fellows/) by June 12, 2020!
 
 <img src="../img/blog/cxo-final-graphic.jpg">
