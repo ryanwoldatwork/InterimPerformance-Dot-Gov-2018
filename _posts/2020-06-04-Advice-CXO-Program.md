@@ -30,7 +30,7 @@ In April, we highlighted [three reasons why you should apply to the CXO Fellowsh
 
   Showing up and being engaged was the most common advice we heard from current and former fellows. Take advantage of the unique opportunity to pause your routine, take a step back from your day-to-day role, and reflect on your career goals. Being present will also  increase your understanding of the material as well as your ability to remember it later. Over the course of the fellowship, you’ll attend sessions on a variety of topics, ranging from agile project management to perfecting an elevator pitch. Fellows recommend having a way to capture your thoughts because some sessions may spark an idea you can take back to your agency. Even if a topic isn’t directly applicable to your current role, it may end up becoming helpful next week, next year, or in your next role.
 
-  <img src="../img/blog/cxo-present-image-1.png" style="width:500px;">
+  <img src="../img/blog/cxo-present-image-1.jpg" style="width:500px;">
 
 
 **2. Network**
