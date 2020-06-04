@@ -21,7 +21,7 @@ tags:
 - leadership program
 
 ---
-*The CXO Fellowship Program is accepting applications for the 2020-2021 cohort from May 1 through June 12, 2020. Visit the [CXO Fellowship Program page](https://cfo.gov/cxo-fellows/) to learn more and apply.*
+*The CXO Fellowship Program is accepting applications for the 2020-2021 cohort from May 1 through June 12, 2020. The program is open to current federal employees in the Washington, D.C. area in grades GS09-GS13. Visit the [CXO Fellowship Program page](https://cfo.gov/cxo-fellows/) to learn more and apply.*
 
 In April, we highlighted [three reasons why you should apply to the CXO Fellowship Program](https://www.performance.gov/3-reasons-why-you-should-apply-to-CXO-fellowship-program/): professional development, networking opportunities, and career growth. If you felt that this program would be a good fit for you, check out this post full of great advice from both current fellows and program alumni.
 
@@ -30,7 +30,7 @@ In April, we highlighted [three reasons why you should apply to the CXO Fellowsh
 
   Showing up and being engaged was the most common advice we heard from current and former fellows. Take advantage of the unique opportunity to pause your routine, take a step back from your day-to-day role, and reflect on your career goals. Being present will also  increase your understanding of the material as well as your ability to remember it later. Over the course of the fellowship, you’ll attend sessions on a variety of topics, ranging from agile project management to perfecting an elevator pitch. Fellows recommend having a way to capture your thoughts because some sessions may spark an idea you can take back to your agency. Even if a topic isn’t directly applicable to your current role, it may end up becoming helpful next week, next year, or in your next role.
 
-  <img src="../img/blog/cxo-present-image-1.jpg" style="width:500px;">
+  <img src="../img/blog/cxo-present-image-1.png" style="width:500px;">
 
 
 **2. Network**
