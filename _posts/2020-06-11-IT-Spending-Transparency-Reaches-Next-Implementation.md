@@ -24,6 +24,7 @@ tags:
 *In 2017, the Federal Government began efforts to track funds and create transparency on resources spent on Information Technology (IT) through the implementation of Technology Business Management (TBM), a framework used to measure the value of their IT investments. Under the umbrella of the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html), the associated Cross-Agency Priority (CAP) Goal -- [IT Spending Transparency](https://www.performance.gov/CAP/tbm/) -- had a goal to adopt TBM government-wide by Fiscal Year 2022.*
 
 *This post provides a brief summary of the progress of IT Spending Transparency/TBM implementation across the government and an update on what’s next.*
+
 ----------
 Information technology is foundational to every Federal Government function and is a critical component in the delivery of services to citizens. In 2018, the [President’s Management Agenda](https://www.performance.gov/PMA/PMA.html) formalized [IT Spending Transparency](https://www.performance.gov/CAP/tbm/) as a CAP Goal with the intent to develop a government-wide classification system to categorize IT data that enables them to better understand how money is spent on IT.
 
