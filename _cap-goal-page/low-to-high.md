@@ -58,6 +58,8 @@ challenge: "Too often, requirements persist over time despite changes to the cir
 
 opportunity: "A Federal Government that shifts time, effort, and funding from burdensome requirements to high value work will:   improve the return on investment of central-management guidance to Federal agencies; reduce compliance requirements for Federal agencies; work with Congress to eliminate outdated legislative reporting requirements for Federal agencies; and reduce unnecessary costs and compliance requirements within individual agencies. " #third accordion text
 
+action-2020-june: "/CAP/action_plans/june_2020_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
+
 action-2019-june: "/CAP/action_plans/june_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"
 action-2019-december: "/CAP/action_plans/dec_2019_Low-Value_to_High-Value_Work_UpdatedVersion.pdf"

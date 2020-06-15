@@ -48,6 +48,8 @@ challenge: "The use of data is transforming society, business, and the economy. 
 opportunity: "There are opportunities to: develop a long-term, enterprise-wide Federal Data Strategy to better govern and leverage the Federal Government’s data; enable government data to be accessible and useful for the American public, businesses, and researchers; improve the use of data for decision-making and accountability for the Federal Government, including for policy-making, innovation, oversight, and learning."
 #action plan links
 
+action-2020-june: "/CAP/action_plans/june_2020_Data_Accountability_Transparency.pdf"
+
 action-2019-june: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"
 action-2019-december: "/CAP/action_plans/dec_2019_Data_Accountability_Transparency.pdf"
