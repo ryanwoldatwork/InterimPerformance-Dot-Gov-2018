@@ -32,7 +32,7 @@ Information technology is foundational to every Federal Government function and 
 
 The development of a government-wide classification system to categorize IT data is no easy task, but for agencies that have committed resources to better understand IT spending, the outcomes have been well worth the investment. Most notably, research conducted by the [Professional Services Council](https://www.pscouncil.org/) has shown that the implementation of a standard cross-agency framework for understanding IT spending is having a "stabilizing effect" on civilian IT spending. In addition, agencies are embracing lessons they’ve learned from the private sector when it comes to IT, making more decisions through the use of business cases to justify any technology spending.
 
-*“A guiding principle of GSA’s strategy is to demonstrate strong stewardship of every taxpayer dollar spent on technology. To be a good steward, it’s important to leverage what you already have and then determine what you still need.”- David Shive, Chief Information Officer, General Services Administration”*
+*“A guiding principle of GSA’s strategy is to demonstrate strong stewardship of every taxpayer dollar spent on technology. To be a good steward, it’s important to leverage what you already have and then determine what you still need.”- David Shive, Chief Information Officer, General Services Administration*
 
 As the government’s chosen framework and through the [Federal Technology Investment Management Community of Practice](https://www.cio.gov/about/members-and-leadership/ftim-cop/), agencies have leveraged TBM knowledge and best practices as a standard way to categorize IT costs, technologies, resources, applications, and services. For example:
 
