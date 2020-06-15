@@ -9,9 +9,9 @@ url: /CAP/grants/
 redirect_from: "/CAP/CAP_goal_8.html"
 
 #use this section if you want to highlight something other than the quarterly action plan
-featured-box: Comment Period for Proposed Changes to 2 CFR Open through 3/23/20
-featured-box-url: https://www.federalregister.gov/documents/2020/01/22/2019-28524/guidance-for-grants-and-agreements#open-comment
-featured-box-button: Submit Comments
+featured-box:
+featured-box-url:
+featured-box-button:
 #end featured section
 
 #cap-category: "Key Driver of Reform" #category text
@@ -23,8 +23,8 @@ cap-icon: "/img/CAP_icons/Icon_Results-Oriented_gray.png" #icon that appears nex
 
 resources:
 
-resource-2-name: Grants 101 Training Modules
-resource-2-url:  https://cfo.gov/grants/training/
+resource-2-name: Managing for Results, Performance Management Playbook for Federal Awarding Agencies
+resource-2-url: https://www.performance.gov/CAP/innovation-sessions/Managing for Results, Performance Management Playbook for Federal Awarding Agencies.pdf
 
 resource-3-name: Chief Financial Officers Council Grant Resources
 resource-3-url:  https://cfo.gov//grants/
@@ -43,6 +43,9 @@ resource-7-url:  https://www.performance.gov/CAP/overview-grants-data-standards.
 
 resource-8-name: Version 1.0 Grants Management Standard Data Elements
 resource-8-url:  https://ussm.gsa.gov/fibf-gm/#standard_data_elements
+
+resource-9-name: Grants 101 Training Modules
+resource-9-url:  https://cfo.gov/grants/training/
 
 listserv-title: Join Community
 listserv-url: 13
@@ -92,8 +95,8 @@ KPI-2: #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "grants" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
-CAP-event-title: Listening Session for Proposed Revisions for 2 CFR
-CAP-event-date: February 4, 2020
+CAP-event-title:
+CAP-event-date:
 CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 

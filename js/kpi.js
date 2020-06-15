@@ -70,32 +70,39 @@ function myFunction1() {
 
 var codeBlock1 =   '<h3>Federal Employee Veiwpoint Survey - Strategic Hiring <em>(Updated December 2019)</em></h3>' + '<p>The Office of Personnel Management Federal Employee Viewpoint Survey measures employee perception of whether, and to what extent, conditions characteristic of successful organizations are present in their agencies.</p>' + '<p>The dashboard below compares 2017 and 2018 government-wide scores for two hiring-related metrics, tracking progress in hiring people with the right skills and overall satisfaction with agency hiring and recruiting. </p>'  + '<a class="usa-button usa-button-secondary" href="https://www.performance.gov/CAP/workforce/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/FEVS-KPI-Data-dec.xlsx">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8533" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
+function myFunction1a() {
+  document.getElementById("wrapper").innerHTML = codeBlock1a
+}
+
+var codeBlock1a =   '<h3>Federal Employee Veiwpoint Survey - Improve Employee Performance Management and Engagement <em>(Updated March 2020)</em></h3>' + '<p>The Office of Personnel Management Federal Employee Viewpoint Survey measures employee perception of whether, and to what extent, conditions characteristic of successful organizations are present in their agencies.</p>' + '<p>The dashboard below shows 2019 government-wide scores for one performance-related metric related to poor performers in work units.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/KPI_FEVS_2019-Employee-Engagement.csv">Download Data</a>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8689" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
+
+
 function myFunction2() {
   document.getElementById("wrapper").innerHTML = codeBlock2
 }
 
-var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security <em>(Updated December 2019)</em></h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY19-dec.xlsx">Download Data</a>' +
+var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security <em>(Updated April 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI_Data_FY20Q1.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8526" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction3() {
   document.getElementById("wrapper").innerHTML = codeBlock3
 }
 
-var codeBlock3 =   '<h3>Cybersecurity - Limit Personnel Access <em>(Updated December 2019)</em></h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for three access-related metrics for 23 federal agencies. Measuring progress in limiting personnel access helps the Federal Government control which personnel have access to priveleged networks and high value assets.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY19-dec.xlsx">Download Data</a>'  +
+var codeBlock3 =   '<h3>Cybersecurity - Limit Personnel Access <em>(Updated April 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for three access-related metrics for 23 federal agencies. Measuring progress in limiting personnel access helps the Federal Government control which personnel have access to priveleged networks and high value assets.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI_Data_FY20Q1.xlsx">Download Data</a>'  +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8534" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction4() {
   document.getElementById("wrapper").innerHTML = codeBlock4
 }
 
-var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data <em>(Updated December 2019)</em></h3>' + '<p>The dashboard below tracks FY2019 Q2-Q3 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect federal data from unauthorized intrusion and exfultration.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY19-dec.xlsx">Download Data</a>' +
+var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data <em>(Updated April 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect federal data from unauthorized intrusion and exfultration.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI_Data_FY20Q1.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8535" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction5() {
   document.getElementById("wrapper").innerHTML = codeBlock5
 }
 
-var codeBlock5 =   '<h3>Cloud Email Adoption <em>(Updated December 2019)</em></h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from June 2019 - September 2019.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cloud-Email-Adoption_KPI-Data_dec.xlsx">Download Data</a>' +
+var codeBlock5 =   '<h3>Cloud Email Adoption <em>(Updated April 2020)</em></h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from December 2019 - March 2020.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cloud Email Adoption_KPI Data_FY20Q1.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8539" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction6() {

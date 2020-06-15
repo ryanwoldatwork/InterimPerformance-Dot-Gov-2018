@@ -4,7 +4,7 @@ team-names:
  - Peter Nastasi
  - Beth Wesser
  - Michael Johnson
- - Jerome Golombeck
+ - Jerome Golombek
 description: Managed a nationwide education program offering veterans more accessible employment opportunities through high-tech, accelerated learning programs.
 filters: GoG-team va agency
 image: agency/Veterans_Affairs_Department_Seal.png

@@ -24,6 +24,9 @@ resource-4-url: https://strategy.data.gov/news/
 resource-5-name: Sign up for the Newsletter
 resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 
+resource-7-name: Data Innovation Event Playbook
+resource-7-url: https://resources.data.gov/assets/documents/data-innovation-event-playbook.pdf
+
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Federal Data Strategy 2020 Action Plan
 featured-box-url: https://strategy.data.gov/action-plan/
@@ -77,10 +80,11 @@ goal-leader-4-photo: "/img/CAP-photos/kent-suzette.jpg"
 alt_text_4: Photo of Suzette Kent
 goal-leader-4-name: "Suzette Kent"
 goal-leader-4-title: "Federal Chief Information Officer, Office of Management and Budget"
-goal-leader-5-photo: "/img/CAP-photos/potok-nancy.jpg"
-alt_text_5: Photo of Nancy Potok
-goal-leader-5-name:   "Nancy Potok"
-goal-leader-5-title: "Chief Statistician of the United States, Office of Management and Budget"
+
+goal-leader-5-photo: "/img/CAP-photos/mancini-dom.jpg"
+alt_text_5: Photo of Dominic Mancini
+goal-leader-5-name:   "Dominic Mancini"
+goal-leader-5-title: "Deputy Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
 previous-cap-goal-name: "IT Modernization"

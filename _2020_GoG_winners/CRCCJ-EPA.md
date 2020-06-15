@@ -5,8 +5,8 @@ team-names:
  - Christina Hines
  - Ramona Conway
  - Cheri Hembrey
- - Caterina Gillikiin
- - Jeremy Haworth
+ - Caterina Gillikin
+ - Jerry Haworth
 description: Streamlined and automated the phased retirement process, saving the agency over $2 million. By automating the system, they reduced the time by 66% and eliminated the delay from supervisor to supervisor processing.
 filters: GoG-team epa agency
 image: agency/Environmental_Protection_Agency_Seal.png
