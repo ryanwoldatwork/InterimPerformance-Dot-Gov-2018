@@ -11,7 +11,7 @@ summary: summary_large_image
 description:
 
 excerpt:
-image: "/img/blog/TBM-photo-1.png"
+image: "/img/blog/TBM-photo-1.PNG"
 image_accessibility: CX logo
 
 authors:
