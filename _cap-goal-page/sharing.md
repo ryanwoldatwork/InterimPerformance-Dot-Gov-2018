@@ -60,6 +60,7 @@ KPI-2:  #2nd KPI title that pulls in CAP-KPI include
 
 #***********************HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 tag: "sharing" #news tag to pull in relevant news articles. This tag needs to be included in the "post" front matter
+sqs: yes
 CAP-event-title:
 CAP-event-date:
 CAP-event-text:

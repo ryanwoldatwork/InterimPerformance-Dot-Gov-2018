@@ -60,3 +60,21 @@ Contact Centers - Call answer rate of 89% within 2 minutes.
 
 ### Website Page Views
 37,784,347 unique page views on Passport Services web pages.
+
+{:.cx-section-heading}
+## FY19 Q4 Operational Data
+
+### Processing Times
+
+Passport Services met its published service commitment 2-3 weeks for expedited service.
+
+| Service                                       | Processing Time      |
+|-----------------------------------------------|----------------------|
+| Average number of days for routine service:   | 14.26 business days  |
+| Total passport applications processed Q4      | 5,374,022            |
+
+### Contact Centers
+Contact Centers - Call answer rate of 97% within 2 minutes.
+
+### Website Page Views
+30,356,737 unique page views on Passport Services web pages.

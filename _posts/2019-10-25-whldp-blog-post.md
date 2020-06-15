@@ -53,7 +53,7 @@ Each fellow was assigned to work on one of the 14 [CAP Goals]({{ site.baseurl }}
 
 Jackson was placed on the [Sharing Quality Services CAP Goal]({{ site.baseurl }}/CAP/sharing-quality-services/) to support the creation of cross-agency efficiencies and reduce duplication of effort. Specifically, she worked on the [NewPay Initiative](https://interact.gsa.gov/node/461216/information), which will replace outdated payroll systems and modernize federal payroll services, leading to elevated user experience, reduced costs, better-managed budgets, and enhanced security posture.
 
-<a href="{{ site.baseurl }}/img/blog/jackson-quote-card"><img src="{{ site.baseurl }}/img/blog/jackson-quote-card.jpg"></a>
+<a href="{{ site.baseurl }}/img/blog/jackson-quote-card.jpg"><img src="{{ site.baseurl }}/img/blog/jackson-quote-card.jpg"></a>
 
 <h2><font size="2"></font>Challenges and Lessons Learned</h2><font/>
 
@@ -64,7 +64,7 @@ For Mawani, he gleaned a lesson learned from each challenge. He shared his top t
 2. You need to collaborate. You don’t need to have all the answers.
 3. Be adaptable. As we got more information, we modified over time. You need to be agile enough to take on bits of information -- all this came from people feeling empowered to present ideas to the table.”
 
-<a href="{{ site.baseurl }}/img/blog/mawani-quote-card"><img src="{{ site.baseurl }}/img/blog/mawani-quote-card.jpg"></a>
+<a href="{{ site.baseurl }}/img/blog/mawani-quote-card.jpg"><img src="{{ site.baseurl }}/img/blog/mawani-quote-card.jpg"></a>
 
 <h2><font size="2"></font>Advice to the Incoming WHLDP Cohort</h2><font/>
 

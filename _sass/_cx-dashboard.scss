@@ -161,8 +161,8 @@ height : 75px;
 @import url('https://fonts.googleapis.com/css?family=Montserrat:700');
 
 :root {
-  --star-size: 19px;
-  --star-color: #c5c5c5;
+  --star-size: 20px;
+  --star-color: #666;
   --star-background: #e7711b;
 }
 
@@ -191,4 +191,8 @@ height : 75px;
 .HISP-border h2 {
 	margin-top: 0;
 	color: #162e51;
+}
+
+.service-stat-examples .more-info-row {
+  padding-top : 2rem;
 }

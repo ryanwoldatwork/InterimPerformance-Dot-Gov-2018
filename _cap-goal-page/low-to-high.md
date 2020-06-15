@@ -93,14 +93,14 @@ goal-leader-2-photo: "/img/CAP-photos/brown-dustin.jpeg"
 alt_text_2: Photo of Dustin Brown   #Goal leader 2
 goal-leader-2-name: "Dustin Brown"
 goal-leader-2-title: "Deputy Assistant Director for Management, Office of Management and Budget"
-goal-leader-3-photo: "/img/CAP-photos/montgomery-brian.jpg"
-alt_text_3: Photo of Brian Montgomery
-goal-leader-3-name: "Brian Montgomery"
-goal-leader-3-title: "Acting Deputy Secretary, Department of Housing and Urban Development"
-goal-leader-4-photo: "/img/CAP-photos/r_gaines.jpg"  
-alt_text_4: Photo of Ralph H. Gaines
-goal-leader-4-name: "Ralph H. Gaines"
-goal-leader-4-title: "Chief Operations Officer, Department of Housing and Urban Development"
+goal-leader-3-photo: "/img/CAP-photos/brigati-allison.png"
+alt_text_3: Photo of Allison Brigati
+goal-leader-3-name: "Allison Brigati"
+goal-leader-3-title: "Deputy Administrator, General Services Administration"
+goal-leader-4-photo: "/img/CAP-photos/badorrek-gerard.png"  
+alt_text_4: Photo of Gerard Badorrek
+goal-leader-4-name: "Gerard Badorrek"
+goal-leader-4-title: "Chief Financial Officer, General Services Administration"
 
 #***********************END GOAL LEADER SECTION*****************************8
 
