@@ -61,13 +61,13 @@ function myFunctionI() {
   document.getElementById("wrapper-letter").innerHTML = codeBlockI
 }
 
-var codeBlockI =   '<p>This report consolidates information on agency strategic goals and strategic objectives covering FYs 2018-2022.</p>' + '<h3>Strategic Objectives</h3>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11944" id="no-frame-border" frameborder="0" style="height:1000px;width:1051px;"></iframe>';
+var codeBlockI =   '<p>This report consolidates information on agency strategic goals and strategic objectives covering FYs 2018-2022.</p>' + '<h3>Strategic Objectives</h3>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8878" id="no-frame-border" frameborder="0" style="height:1000px;width:1051px;"></iframe>';
 
 function myFunctionJ() {
   document.getElementById("wrapper-letter").innerHTML = codeBlockJ
 }
 
-var codeBlockJ =   '<p>This report consolidates information on Agency Priority Goals covering FYs 2020-2021.</p>' + '<h3>Priority Goals</h3>' + '<iframe src="https://staging.d2d.gsa.gov/tableau-report-for-embed/11965" id="no-frame-border" frameborder="0" style="height:1000px;width:1051px;"></iframe>';
+var codeBlockJ =   '<p>This report consolidates information on Agency Priority Goals covering FYs 2020-2021.</p>' + '<h3>Priority Goals</h3>' + '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8890 " id="no-frame-border" frameborder="0" style="height:1000px;width:1051px;"></iframe>';
 
 
 function myFunction() {
