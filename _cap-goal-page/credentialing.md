@@ -94,5 +94,6 @@ previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveragingdata
 
+alert: This Cross Agency Priority (CAP) Goal has achieved significant gains and is being institutionalized across the federal government. You can read more about this categorization <a href="https://www.performance.gov/about/CAP_about.html">here</a> and can continue to find modified quarterly progress updates on this page.
 
 ---  

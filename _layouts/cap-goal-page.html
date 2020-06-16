@@ -1,7 +1,14 @@
 ---
 layout: navigation_PMA
 ---
-
+{% if page.alert %}
+<div class="usa-alert usa-alert-info" >
+    <div class="usa-alert-body">
+        <h3 class="usa-alert-heading">Update</h3>
+        <p class="usa-alert-text">{{ page.alert }}</p>
+    </div>
+</div>
+{% endif %}
 
 
 <section class="usa-section usa-graphic_list" id="image">

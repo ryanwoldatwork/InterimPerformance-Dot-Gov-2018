@@ -98,6 +98,8 @@ alt_text_6: Photo of Suzette Kent  #Goal leader 2
 goal-leader-6-name: "Suzette Kent"
 goal-leader-6-title: "Federal Chief Information Officer, Office of Management and Budget"
 
+alert: Going forward, the critical work of this Cross Agency Priority (CAP) Goal will be folded into the IT Modernization; Data, Accountability, and Transparency; and Category Management CAP Goals. Read more about this shift <a href="">here</a>.
+
 
 #***********************END GOAL LEADER SECTION*****************************8
 
