@@ -8130,3 +8130,7 @@ img .news {
 .usa-footer-secondary-link{
   margin-top: 5px;
 }
+
+.usa-media_block-body > a{
+  display: block;
+}
