@@ -3951,7 +3951,7 @@ input.usa-input-medium {
 
    }
 
-   #navheader {
+   .navheader{
        text-decoration: none;
        color: #02bfe7;
        font-weight: bold;
@@ -3977,7 +3977,7 @@ input.usa-input-medium {
 
    }
 
-   #navheader {
+   .navheader{
        text-decoration: none;
        color: #02bfe7;
        font-weight: bold;
@@ -4800,7 +4800,7 @@ border-top: 1.6rem solid #205493;
 
 }
 
-#navheader {
+.navheader{
     text-decoration: none;
     color: #02bfe7;
     font-weight: bold;
