@@ -73,7 +73,7 @@ CAP-event-text:
 goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG"
 alt_text_1: Photo of Lisa Hershman #Goal leader 1
 goal-leader-name: "Lisa Hershman"
-goal-leader-title: "Acting Chief Management Officer, Department of Defense"
+goal-leader-title: "Chief Management Officer, Department of Defense"
 goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg"
 alt_text_2: Photo of Lesley Field  #Goal leader 2
 goal-leader-2-name: "Lesley Field"
