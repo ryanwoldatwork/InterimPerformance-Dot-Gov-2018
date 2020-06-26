@@ -1,0 +1,14 @@
+<a id="cx-data"></a>
+<h2 class="cx-section-heading">CX Feedback Data</h2>
+
+{% if this_hisp_data.data_available == 'TRUE' %}
+  {% if this_hisp_data.data_public == 'FALSE' %}
+    This HISP is collecting customer feedback under the Fast Track clearance process of the
+    <a href="https://digital.gov/resources/paperwork-reduction-act-fast-track-process/">PRA</a>
+    and so it cannot be shared publicly at this time.
+  {% endif %}
+{% endif %}
+
+{% if this_hisp_data.data_available == 'FALSE' %}
+  This HISP did not submit customer feedback data for this quarter.
+{% endif %}

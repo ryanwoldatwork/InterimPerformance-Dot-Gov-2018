@@ -1,0 +1,90 @@
+<style>
+  canvas {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+  }
+</style>
+
+<h2 class="cx-section-heading">
+  CX Charts
+</h2>
+
+<div class="usa-grid">
+  <div class="usa-width-full">
+    <div style="width:100%;">
+      <canvas id="canvas-{{ hisp.service_id }}"></canvas>
+    </div>
+  </div>
+</div>
+
+<script>
+  chartConfigs["{{ hisp.service_id }}"] = {
+    type: 'bar',
+    data: {
+      labels: [
+        {% for hisp in site.data.hisp-state-passports %}
+        {% assign outerLoop = forloop.index %}
+          {% if forloop.first %}{% for pair in hisp %}
+            {% unless forloop.first  %}'{{pair[0]}}',{% endunless %}
+          {% endfor %}{% endif %}
+        {% endfor %}
+      ],
+      datasets: [
+        {% for hisp in site.data.hisp-state-passports %}{% assign outerLoop = forloop.index %}
+          {
+            label: '{% for pair in hisp %}{% if forloop.first %}{{ pair[1] }}{% endif %}{% endfor %}',
+            data: [
+              {{ hisp.satisfied }},
+              {{ hisp.confidence }},
+              {{ hisp.effective }},
+              {{ hisp.easy }},
+              {{ hisp.efficient }},
+              {{ hisp.transparent }},
+              {{ hisp.employee }}
+            ],
+            backgroundColor: Object.values(window.chartjsColors)[{{forloop.index0}}],
+            borderColor: Object.values(window.chartjsColors)[{{forloop.index0}}],
+            borderWidth: 1,
+            // fill: false,
+            // pointHoverRadius: 10,
+          },
+        {% endfor %}
+      ]
+    },
+    options: {
+      responsive: true,
+      legend: {
+        position: 'bottom',
+      },
+      hover: {
+        mode: 'index'
+      },
+      scales: {
+        xAxes: [{
+          display: true,
+          scaleLabel: {
+            display: true,
+            labelString: 'Quarter'
+          }
+        }],
+        yAxes: [{
+          display: true,
+          scaleLabel: {
+            display: true,
+            labelString: 'Value'
+          }
+        }]
+      },
+      title: {
+        display: true,
+        text: 'Quarterly CX Results'
+      }
+    }
+  };
+
+  window.addEventListener("load", function() {
+    var ctx = document.getElementById('canvas-{{ hisp.service_id }}').getContext('2d');
+    cxCharts["{{ hisp.service_id }}"] = new Chart(ctx, chartConfigs["{{ hisp.service_id }}"]);
+  });
+</script>

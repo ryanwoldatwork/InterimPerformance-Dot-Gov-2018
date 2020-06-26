@@ -1,0 +1,54 @@
+---
+title: "CX CAP Goal Resources for Agencies"
+layout: navigation_PMA
+agency_dir: cx
+---
+
+<section class="usa-section usa-graphic_list service-stat-examples">
+  <div class="usa-grid usa-graphic_list-row">
+
+    <h2>Customer Experience</h2>
+    <p>
+      Transform the customer experience by improving
+      the usability and reliability of our Federal Government's most
+      critical services; create measure improvments in customer satisfaction
+      by using the principles proven by leading private sector organizations.
+    </p>
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-fourth">
+      13 Agencies
+    </div>
+    <div class="usa-width-one-fourth">
+      25 Services
+    </div>
+    <div class="usa-width-one-fourth">
+      514,602
+      Interactions
+    </div>
+    <div class="usa-width-one-fourth">
+      14,543 Responses
+    </div>
+  </div>
+
+  <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-full">
+      <h2>
+        High Impact Service Providers - Individual Service Profiles
+      </h2>
+    </div>
+  </div>
+  <div class="usa-grid usa-graphic_list-row">
+    {% for hisp in site.data.hisps %}
+    <div class="usa-width-one-fourth usa-media_block">
+      <div style="height:250px;text-align:center;">
+        <a style="text-decoration:none;color:#000000" href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}"><img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:80px;"><br />
+          <p style="font-size:.8em;">{{ hisp.department }}</p>
+          <p style="font-weight:bold;font-size:.9em;color:#171717">{{ hisp.service }}</p>
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,65 @@
+<section class="usa-section">
+   <div class="usa-grid">
+    <div class="usa-width-one-whole">
+      <h2>High Impact Service Providers (HISP)</h2>
+      <p>
+        Each agency continues to move toward user-centered design practices to support better customer experiences.
+      </p>
+      <p>
+        <strong>Digital analytics</strong> are used to gain insight regarding how websites are used.
+        <strong>Action Plans</strong> are developed annually and outline how an agency will
+        improve one or more customer experiences.
+        <strong>Operational data</strong> is used to quantitatively measure different public service delivery processes.
+        Finally, <strong>customer feedback data</strong> is reported on a quarterly basis.
+      </p>
+      <p>
+        Click to view CX-related plans and progress for the following public services.
+      </p>
+    </div>
+  </div>
+  <br>
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
+      {% for hisp in site.data.hisps %}
+      <ul class="usa-accordion-bordered">
+        <li>
+          <button
+          class="usa-accordion-button"
+          aria-expanded="false"
+          aria-controls="b-{{ hisp.department_abbreviation }}-{{ hisp.service_abbreviation }}"
+          >
+            <div class="card-service">
+              <div class="logo" style="line-height: 0;">
+                <a href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}" title="{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">
+                  <img src="{{ site.baseurl }}/img/cx/agencies/{{ hisp.department_abbreviation }}-seal.png" alt="{{ this_hisp.department }} seal" style="width:96px;">
+                </a>
+              </div>
+              <div class="copy">
+                <h3 style="font-size: 22px; margin-top: 7px;">
+                  <a href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}" title="{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}">{{ hisp.department }} - {{ hisp.service }}</a>
+                </h3>
+
+                <div class="list-topics2" style="font-size: 13px;">
+                  <a href="{{ site.baseurl }}/cx/dashboard/actionplans/2019/2019-hisp-action-plan-{{ hisp.service_id }}.pdf" target="_blank" rel="noopener">Read the Action Plan <i class="fa fa-external-link"></i></a>
+                  &nbsp;
+                  &nbsp;
+                  <a href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}#cx-charts">View CX Charts</a>
+                  &nbsp;
+                  &nbsp;
+                  <a href="{{ site.baseurl }}/cx/dashboard/{{ hisp.department_abbreviation }}/{{ hisp.service_abbreviation }}#data">Download Data</a>
+                  &nbsp;
+                  &nbsp;
+                  <a href="/topics/product-management/" class="complete">Latest Q2 data</a>
+                </div>
+              </div>
+            </div>
+          </button>
+          <div id="b-{{ hisp.department_abbreviation }}-{{ hisp.service_abbreviation }}" class="usa-accordion-content">
+            {% include hisp-detail.html hisp=hisp %}
+          </div>
+        </li>
+      </ul>
+      {% endfor %}
+    </div>
+  </div>
+</section>

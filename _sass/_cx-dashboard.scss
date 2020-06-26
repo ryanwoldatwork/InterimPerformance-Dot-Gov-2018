@@ -196,3 +196,67 @@ height : 75px;
 .service-stat-examples .more-info-row {
   padding-top : 2rem;
 }
+
+.card-service .list-topics span.text-muted,
+.card-service .list-topics a.text-muted {
+	background-color: white;
+}
+
+.usa-alert.cx-alert-stat {
+	border-left: 10px solid #CCC;
+	.usa-alert-body {
+		display: block;
+		padding: 0;
+
+		.percentage {
+			color: #005EA2;
+			float: left;
+			font-size: 1.75em;
+			font-weight: 400;
+			width: 22%;
+		}
+
+		.category {
+			 float: right;
+			 width: 76%;
+
+			 .usa-alert-heading {
+				 font-size: 24px;
+			 }
+
+			 .usa-alert-text {
+				  font-size: 1.5rem;
+			 }
+		}
+	}
+}
+
+.usa-alert.cx-alert-stat.highlight {
+	border-left: 10px solid #00BDE3;
+
+	.percentage {
+		color: black;
+		float: left;
+		font-size: 2.5em;
+		font-weight: 400;
+		width: 30%;
+	}
+
+	.category {
+		 width: 68%;
+	 }
+}
+
+.card-service .list-topics .complete {
+	background-color: #70e17b;
+}
+
+.cx-hero {
+	background-image: url("../img/cx/cx-header3.png");
+	background-position: bottom;
+	min-height: 500px;
+
+	h1 {
+		font-size: 5rem;
+	}
+}
