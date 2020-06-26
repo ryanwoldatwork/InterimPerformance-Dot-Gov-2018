@@ -3639,7 +3639,7 @@ input.usa-input-medium {
 
    }
 
-   #navheader {
+   .navheader{
        text-decoration: none;
        color: #f1f1f1;
        font-weight: bold;
@@ -3665,7 +3665,7 @@ input.usa-input-medium {
 
    }
 
-   #navheader {
+   .navheader{
        text-decoration: none;
        color: #02bfe7;
        font-weight: bold;
