@@ -140,7 +140,7 @@ function myFunction11() {
   document.getElementById("wrapper").innerHTML = codeBlock11
 }
 
-var codeBlock11 =   '<h3>Customer Satisfaction Scores <em>(Updated June 2020)</em></h3>' + '<p>The dashboard below compares 2017 and 2018 customer satisfaction data from 23 federal agencies in four targeted mission support areas.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/sharing-quality-services/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Customer-Satisfaction-Survey-KPI-data-june-2020.xlsx">Download Data</a>' +
+var codeBlock11 =   '<h3>Customer Satisfaction Scores <em>(Updated June 2020)</em></h3>' + '<p>The dashboard below compares 2019 and 2020 customer satisfaction data from 24 federal agencies in four targeted mission support areas.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/sharing-quality-services/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Customer-Satisfaction-Survey-KPI-data-june-2020.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8536" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction12() {
