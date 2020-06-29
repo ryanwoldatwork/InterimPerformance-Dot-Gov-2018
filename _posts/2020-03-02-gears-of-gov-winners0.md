@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: "1"
+rating: "0"
 
 title: "BREAKING: Gears of Government Awards Hall of Winners is Live!"
 
