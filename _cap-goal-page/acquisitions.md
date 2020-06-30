@@ -1,10 +1,10 @@
 ---
 layout: cap-goal-page
 
-title: "Improve Management of Major Acquisitions" #page title
+title: "Frictionless Acquisition" #page title
 
-permalink: ../CAP/major-acquisitions/
-url: /CAP/major-acquisitions/
+permalink: ../CAP/frictionless-acquisition/
+url: /CAP/frictionless-acquisition/
 
 redirect_from: "/CAP/CAP_goal_11.html"
 
