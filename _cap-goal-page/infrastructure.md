@@ -32,7 +32,7 @@ opportunity: "This goal will:   reduce time and cost to complete environmental r
 
 A public dashboard tracks individual projects at www.permits.performance.gov. " #third accordion text
 
-action-2020-june: "/CAP/action_plans/june_2020_Modernize_Infrastructure_Permitting.pdf"
+action-2020-july: "/CAP/action_plans/july_2020_Modernize_Infrastructure_Permitting.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Modernize_Infrastructure_Permitting.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Modernize_Infrastructure_Permitting.pdf"
