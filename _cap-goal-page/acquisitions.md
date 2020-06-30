@@ -82,5 +82,6 @@ previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveragingdata
 
+alert: This Cross Agency Priority (CAP) Goal has been refreshed and renamed to Frictionless Acquisition.
 
 ---  
