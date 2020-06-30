@@ -37,6 +37,8 @@ challenge: "Agencies must comply with hundreds of legacy operating requirements,
 
 opportunity: "Federal Agencies can identify and streamline operational processes to improve the pursuit of mission outcomes and increase the effectiveness and efficiency of government." #third accordion text
 
+action-2020-july: "/CAP/action_plans/july_2020_Lab_to_Market.pdf"
+
 action-2019-june: /CAP/action_plans/june_2019_Lab_to_Market.pdf
 action-2019-september: /CAP/action_plans/sept_2019_Lab_to_Market.pdf
 action-2019-december: /CAP/action_plans/dec_2019_Lab_to_Market.pdf

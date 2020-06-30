@@ -41,6 +41,8 @@ Quality decisions, enabled by improved investigative and adjudicative capabiliti
 Optimized government-wide capabilities through enterprise approaches; and
 Strong partnership with Federal Insider Threat programs to identify, deter, and mitigate problems before they negatively impact the workforce or national security. " #third accordion text
 
+action-2020-july: "/CAP/action_plans/july_2020_Security_Suitability.pdf"
+
 action-2019-june: "/CAP/action_plans/june_2019_Security_Suitability.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Security_Suitability.pdf"
 action-2019-december: "/CAP/action_plans/dec_2019_Security_Suitability.pdf"
@@ -92,5 +94,6 @@ previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveragingdata
 
+alert: This Cross Agency Priority (CAP) Goal has achieved significant gains and is being institutionalized across the federal government. You can read more about this categorization <a href="https://www.performance.gov/about/CAP_about.html">here</a> and can continue to find modified quarterly progress updates on this page.
 
 ---  
