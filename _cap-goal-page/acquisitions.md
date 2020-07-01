@@ -101,7 +101,7 @@ goal-leader-2-title: "Senior Procurement Executive, Department of Homeland Secur
 goal-leader-3-photo: "/img/CAP-photos/berkowitz-barry.PNG"
 alt_text_3: Photo of Barry Berkowitz
 goal-leader-3-name: "Barry Berkowitz"
-goal-leader-3-title: "Senior Procurement Executive Department of Commerce, Department of Commerce"
+goal-leader-3-title: "Senior Procurement Executive, Department of Commerce"
 alt_text_3:
 #***********************END GOAL LEADER SECTION*****************************8
 
