@@ -18,8 +18,17 @@ resource-2-url: https://www.congress.gov/114/plaws/publ264/PLAW-114publ264.pdf
 resource-3-name: M-18-19, Improving the Management of Federal Programs and Projects through Implementing the Program Management Improvement Accountability Act
 resource-3-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/M-18-19.pdf
 
-resource-4-name: Capital Programming Guide
-resource-4-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/capital_programming_guide.pdf
+resource-4-name: Acquisition Innovation Hub
+resource-4-url: https://hallways.cap.gsa.gov/app/#/gateway/acquisition-innovation
+
+resource-5-name: Periodic Table of Acquisition Innovations
+resource-5-url: https://www.fai.gov/periodic-table/
+
+resource-6-name: TechFAR Handbook
+resource-6-url: https://techfarhub.cio.gov/handbook/
+
+resource-7-name: Case Studies
+resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
 
 
 #***********************FLOATING BOX SECTION*****************************
