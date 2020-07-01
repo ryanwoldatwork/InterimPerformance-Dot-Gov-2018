@@ -36,7 +36,7 @@ resource-6-name: Customer Experience Services Evaluation and Buying Guide
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/dec_2019_Improving_Customer_Experience.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

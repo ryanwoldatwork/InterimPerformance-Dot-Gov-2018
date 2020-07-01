@@ -36,7 +36,7 @@ featured-box-button: Read the Action Plan
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 quote-author: "Pradeep Belur, SBA Official"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/dec_2019_Data_Accountability_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

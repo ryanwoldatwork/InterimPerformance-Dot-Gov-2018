@@ -25,7 +25,7 @@ resource-4-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/capital_pr
 #***********************FLOATING BOX SECTION*****************************
 quote: "Improving the management of major acquisitions will help ensure taxpayer dollars fund agency missions instead of expensive overruns and project failures." #appears in the gray text box
 quote-author: "Mathew Blum, Goal Leader"
-current-action-plan: "/CAP/action_plans/dec_2019_Improve_Management_of_Major_Acquisitions.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Improve_Management_of_Major_Acquisitions.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
