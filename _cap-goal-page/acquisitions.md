@@ -34,6 +34,7 @@ resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
 #***********************FLOATING BOX SECTION*****************************
 quote: "We must reduce the costly lag between when our customers identify needs and when they receive solutions." #appears in the gray text box
 quote-author: "Michael Wooten, Goal Leader"
+font-size: 16px
 current-action-plan: "/CAP/action_plans/july_2020_Improve_Management_of_Major_Acquisitions.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
@@ -89,8 +90,7 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-
-goal-leader-photo: "/img/CAP-photos/michael-wooten.png" #Goal leader 2
+goal-leader-photo: "/img/CAP-photos/michael-wooten.png" 
 alt_text_1: Photo of Michael Wooten
 goal-leader-name: "Michael Wooten"
 goal-leader-title: "Administrator for Federal Procurement Policy, Office of Management and Budget"
