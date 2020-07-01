@@ -23,7 +23,7 @@ resource-4-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/capital_pr
 
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "We must reduce the costly lag between when our customers identify needs and when they receive solutions by ensuring access to modern business processes and technologies." #appears in the gray text box
+quote: "We must reduce the costly lag between when our customers identify needs and when they receive solutions." #appears in the gray text box
 quote-author: "Michael Wooten, Goal Leader"
 current-action-plan: "/CAP/action_plans/july_2020_Improve_Management_of_Major_Acquisitions.pdf"
 #***********************FLOATING BOX SECTION*****************************
