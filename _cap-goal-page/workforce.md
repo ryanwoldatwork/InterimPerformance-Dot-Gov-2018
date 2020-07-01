@@ -68,9 +68,9 @@ event-link:
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
 goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG"
-alt_text_1: Photo of Lisa Hershmann   #Goal leader 1
-goal-leader-name: "Lisa Hershmann"
-goal-leader-title: "Deputy Chief Management Officer, Department of Defense"
+alt_text_1: Photo of Lisa Hershman   #Goal leader 1
+goal-leader-name: "Lisa Hershman"
+goal-leader-title: "Chief Management Officer, Department of Defense"
 goal-leader-2-photo: "/img/CAP-photos/warren-peter.jpeg"
 alt_text_2: Photo of Peter Warren   #Goal leader 2
 goal-leader-2-name: "Peter Warren"
