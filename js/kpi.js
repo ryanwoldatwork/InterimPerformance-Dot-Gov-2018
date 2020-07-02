@@ -102,7 +102,7 @@ function myFunction5() {
   document.getElementById("wrapper").innerHTML = codeBlock5
 }
 
-var codeBlock5 =   '<h3>Cloud Email Adoption <em>(Updated June 2020)</em></h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from December March 2020 - March 2020.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cloud Email Adoption_KPI Data_FY20Q2.xlsx">Download Data</a>' +
+var codeBlock5 =   '<h3>Cloud Email Adoption <em>(Updated June 2020)</em></h3>' + '<p>The dashboard below shows percentage change of agency email inboxes serviced by cloud-based solutions from March 2020 - June 2020.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cloud Email Adoption_KPI Data_FY20Q2.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8539" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction6() {
