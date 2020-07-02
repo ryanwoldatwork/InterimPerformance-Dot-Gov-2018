@@ -72,10 +72,10 @@ goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG"
 alt_text_1: Photo of Lisa Hershman #Goal leader 1
 goal-leader-name: "Lisa Hershman"
 goal-leader-title: "Chief Management Officer, Department of Defense"
-goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg"
+goal-leader-2-photo: "/img/CAP-photos/michael-wooten-CAP.png"
 alt_text_2: Photo of Lesley Field  #Goal leader 2
-goal-leader-2-name: "Lesley Field"
-goal-leader-2-title: "Deputy Administrator for Federal Procurement Policy and Shared Services Policy Officer, Office of Management and Budget"
+goal-leader-2-name: "Michael Wooten"
+goal-leader-2-title: "Administrator, Office of Federal Procurement Policy, OMB"
 goal-leader-3-photo: "/img/CAP-photos/dunn-julie.jpg"
 alt_text_3: Photo placeholder
 goal-leader-3-name: "Julie Dunne"
