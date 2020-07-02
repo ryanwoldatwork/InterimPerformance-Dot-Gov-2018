@@ -6,7 +6,9 @@ title: "Frictionless Acquisition" #page title
 permalink: ../CAP/frictionless-acquisition/
 url: /CAP/frictionless-acquisition/
 
-redirect_from: "/CAP/CAP_goal_11.html"
+redirect_from: 
+ - "/CAP/CAP_goal_11.html"
+ - /CAP/major-acquisitions/
 
 #cap-category: "Key Driver of Reform" #category text
 
