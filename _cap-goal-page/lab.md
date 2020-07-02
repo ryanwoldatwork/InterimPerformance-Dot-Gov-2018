@@ -35,7 +35,7 @@ statement: "This goal will:   improve the transition of federally funded innovat
 
 challenge: "Agencies must comply with hundreds of legacy operating requirements, built up over successive administrations, that persist over time despite changes to the circumstances they were intended to address. Time, energy, and dollars spent performing repetitive administrative tasks and complying with outdated, redundant, and unnecessary requirements can be better spent on accomplishing mission outcomes." #second accordion text
 
-opportunity: "Federal Agencies can identify and streamline operational processes to improve the pursuit of mission outcomes and increase the effectiveness and efficiency of government." #third accordion text
+opportunity: "The Federal Government invests approximately $150 billion annually in research and development (R&D) conducted at federal laboratories, universities, and other research organizations. For America to maintain its position as the global leader in innovation, bringing products to market more quickly, growing the economy, and maintaining a strong national security innovation base, it is essential to optimize technology transfer and support programs to increase the return on investment (ROI) from federally funded R&D." #third accordion text
 
 action-2020-july: "/CAP/action_plans/july_2020_Lab_to_Market.pdf"
 
