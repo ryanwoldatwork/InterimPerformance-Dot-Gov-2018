@@ -8,8 +8,8 @@ url: /CAP/frictionless-acquisition/
 
 redirect_from: 
  - "/CAP/CAP_goal_11.html"
- - /CAP/major-acquisitions/
- - ../CAP/frictionless-acquisition/
+ - "/CAP/major-acquisitions/"
+ - "../CAP/frictionless-acquisition/"
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -32,6 +32,9 @@ resource-6-url: https://techfarhub.cio.gov/handbook/
 
 resource-7-name: Case Studies
 resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
+
+resource-7-name: Frictionless Acquisition Resources Collection.pdf
+resource-7-url: https://performance.gov/CAP/Frictionless_Acquisition_Resources_Collection.pdf/
 
 
 #***********************FLOATING BOX SECTION*****************************
