@@ -9,6 +9,7 @@ url: /CAP/frictionless-acquisition/
 redirect_from: 
  - "/CAP/CAP_goal_11.html"
  - /CAP/major-acquisitions/
+ - ../CAP/frictionless-acquisition/
 
 #cap-category: "Key Driver of Reform" #category text
 
