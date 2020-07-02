@@ -147,7 +147,7 @@ function myFunction12() {
   document.getElementById("wrapper").innerHTML = codeBlock12
 }
 
-var codeBlock12 =   '<h3>Cash Loss to the Government - FY 17-18 <em>(Updated June 2020)</em></h3>' + '<p>The dashboard below shows 2017 - 2018 change in cash loss to the government by program across 23 federal agecies.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash Loss to the Government_KPI Data_FY20Q1.xlsx">Download Data</a>'  +
+var codeBlock12 =   '<h3>Cash Loss to the Government - FY 18-19 <em>(Updated June 2020)</em></h3>' + '<p>The dashboard below shows 2018 - 2019 change in cash loss to the government by program across 23 federal agecies.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/getting-payments-right/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cash Loss to the Government_KPI Data_FY20Q1.xlsx">Download Data</a>'  +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8538" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction13() {
