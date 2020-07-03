@@ -18,19 +18,11 @@ resource-2-url:  ##
 quote: "Now is the time for transformational change in how we vet our workforce. We are committed to reducing the investigation inventory and fundamentally overhauling the process." #appears in the gray text box
 quote-author: "Margaret Weichert, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/dec_2019_Security_Suitability.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Security_Suitability.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement-bullets: "The Federal Government will advance this goal through four work streams:"
-
-bullet-1: "Trusted workforce. Instill a sense of shared responsibility by enabling a trusted workforce through consistent reporting requirements, awareness, and strengthened partnerships with other mission areas and industry;"
-
-bullet-2: "Modern clearance process. Transform the Government’s approach at a fundamental level, revamping the policy framework and process to a more effective and efficient model that leverages the latest innovative technologies;"
-
-bullet-3: "Secure, modern, and mission-capable information technology. Rebuild the end-to-end information technology to accelerate the implementation of new policies and processes and to improve the cyber security posture of the enterprise; and"
-
-bullet-4: "Continuous performance improvement. Use outcome-based metrics, research and innovation, and an institutionalized Executive branch-wide model to continuously evaluate and improve policies and processes." #first accordion text
+statement: "A Federal workforce entrusted to protect Government information and property and to promote a safe and secure work environment, sustained by an enhanced risk management approach. Supported by: Improved early detection enabled by an informed, aware, and responsible Federal workforce; quality decisions enabled by improved investigative and adjudicative capabilities; optimized government-wide capabilities through enterprise approaches; and strong partnership with Insider Threat Programs to strengthen the identification, deterrence, and mitigation of problems before they negatively impact the workforce or national security."
 
 challenge: "The Government’s existing framework for establishing trust in the Federal civilian, military, and contracted workforce has struggled to onboard needed personnel efficiently and effectively, and to determine whether those workers can be consistently trusted to perform their duties and not to cause harm to people, property, systems, and information." #second accordion text
 

@@ -25,7 +25,7 @@ resource-5-url: https://ussm.gsa.gov/fibf/
 quote: "Shared services will create efficiencies in government and optimize the workforce by shifting resources to higher value work and reducing duplication across agencies " #appears in the gray text box
 quote-author: OMB Memo-19-16
 font-size: 17px
-current-action-plan: "/CAP/action_plans/dec_2019_Sharing_Quality_Services.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Sharing_Quality_Services.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************

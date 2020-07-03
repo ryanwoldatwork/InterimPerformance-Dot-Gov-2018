@@ -29,19 +29,15 @@ resource-4-url: https://hallways.cap.gsa.gov/app/#/gateway/category-management/6
 quote:  "Category Management is a real game-changer for government acquisition, and it's an exciting time to be a part of this effort." #appears in the gray text box
 quote-author: "Lesley Field, CAP Goal Leader"
 font-size: 19px
-current-action-plan: "/CAP/action_plans/dec_2019_Category_Management.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Category_Management.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "Federal agencies will leverage common contracts, meaning that they share in contracts that get the best value for taxpayers, in order to buy common goods and services as an enterprise. This approach will eliminate redundancies, increase efficiency, and deliver more value and savings from Federal acquisition programs.
+statement: "The Federal Government will buy common goods and services as an enterprise to eliminate redundancies, increase efficiency, and deliver more value and savings from the government’s acquisition programs. By the end of FY 2020, the Government will have achieved $40 billion in savings for taxpayers in five years by applying category management principles—or smart decision-making where agencies buy the same kinds of goods and services through best-value contract solutions—to 60% of common spend. The Government also will reduce duplicative contracts by 50,000, potentially reducing administrative costs by hundreds of millions of dollars. In addition, by the end of FY 2025, 75% of common spend will be through managed solutions while continuing to meet small business objectives. " #first accordion text
 
-By the end of FY 2020, the Government will achieve $18 billion in savings for taxpayers by applying category management principles—or smart decision-making where agencies buy the same kinds of goods and services through best value contract solutions—to 60% of common spend.1 In addition, the Government will reduce duplicative contracts by 50,000, potentially reducing administrative costs by hundreds of millions of dollars." #first accordion text
+challenge: "The Federal Government spends over $350 billion on common goods and services each year. However, agencies buy in a fragmented manner and taxpayers often do not get the benefit of the Government’s position as the largest buyer in the world. Hundreds - and in some cases thousands – of duplicative contracts are awarded to the same vendors for similar requirements. This fragmentation leads agencies to pay significantly different prices – sometimes varying by over 300% – for the same items. " #second accordion text
 
-challenge: "The Federal Government spends over $300 billion on common goods and services every year. However, because agencies buy in a fragmented manner, taxpayers often do not get the benefit of the Government’s position as the largest buyer in the world.
-
-Hundreds—and in some cases thousands—of duplicative contracts are awarded to the same vendors for similar requirements. This fragmentation leads agencies to pay significantly different prices—sometimes varying by over 300%—for the same items." #second accordion text
-
-opportunity: "Success means the Government will not only save taxpayer dollars but will improve mission outcomes. For example, this work will allow:  our law enforcement personnel to ensure their safety through easy access to equipment such as ammunition and body armor; medical professionals to save time and focus more on patients by ordering pharmaceuticals through electronic catalogues; agencies to more easily prioritize modernizing the Government’s IT infrastructure, to include efforts such as buying standardized computers; and the goal will be evaluated using industry best practice metrics, including savings, spend through common contract solutions, reduction of duplicative contracts, small business utilization and training the workforce. " #third accordion text
+opportunity: "The Government will not only save taxpayer dollars, but this effort also will improve mission outcomes. For example, this will allow our law enforcement personnel to have easier access to equipment, such as ammunition and body armor, to ensure their safety; medical professionals can order medical supplies through electronic catalogues to save time and focus more on patients; and agencies can buy standardized computers to reduce cyber risk by having greater control over infrastructure and access points.  " #third accordion text
 
 action-2020-july: "/CAP/action_plans/july_2020_Category_Management.pdf"
 
@@ -76,10 +72,10 @@ goal-leader-photo: "/img/CAP-photos/hershmann-lisa.JPG"
 alt_text_1: Photo of Lisa Hershman #Goal leader 1
 goal-leader-name: "Lisa Hershman"
 goal-leader-title: "Chief Management Officer, Department of Defense"
-goal-leader-2-photo: "/img/CAP-photos/field-lesley.jpeg"
+goal-leader-2-photo: "/img/CAP-photos/michael-wooten-CAP.png"
 alt_text_2: Photo of Lesley Field  #Goal leader 2
-goal-leader-2-name: "Lesley Field"
-goal-leader-2-title: "Deputy Administrator for Federal Procurement Policy and Shared Services Policy Officer, Office of Management and Budget"
+goal-leader-2-name: "Michael Wooten"
+goal-leader-2-title: "Administrator, Office of Federal Procurement Policy, OMB"
 goal-leader-3-photo: "/img/CAP-photos/dunn-julie.jpg"
 alt_text_3: Photo placeholder
 goal-leader-3-name: "Julie Dunne"
