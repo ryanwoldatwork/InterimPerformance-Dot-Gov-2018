@@ -3,10 +3,10 @@ name: The National Diabetes Prevention Program Customer Service Center
 agency: HHS
 team-names:
  - Philip Jacobs
- - Ann Albright
+ - Ann L. Albright
  - Miriam Bell
  - Patricia Schumacher
- - Robert Hanock
+ - Robert Hancock
 description: Launched the National Diabetes Prevention Program Customer Service Center, which provides a repository of articles, recorded webinars, and answers to frequently asked questions. As a result of their efforts, the site has provided enhanced customer experience and reduced the need for individualized program support.
 filters: GoG-team hhs agency
 image: agency/Health_and_Human_Department_Seal.png

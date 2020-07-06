@@ -24,8 +24,8 @@ resource-4-url: https://strategy.data.gov/news/
 resource-5-name: Sign up for the Newsletter
 resource-5-url: https://www.performance.gov/CAP/CAP_goal_2.html#GD-snippet-form
 
-resource-6-name: Data Innovation Event Playbook
-resource-6-url: https://resources.data.gov/assets/documents/data-innovation-event-playbook.pdf
+resource-7-name: Data Innovation Event Playbook
+resource-7-url: https://resources.data.gov/assets/documents/data-innovation-event-playbook.pdf
 
 #use this section if you want to highlight something other than the quarterly action plan
 featured-box: Federal Data Strategy 2020 Action Plan
@@ -36,7 +36,7 @@ featured-box-button: Read the Action Plan
 quote: "Using data in a new and collaborative manner will drive ideas, spur innovation, and solve important problems."
 quote-author: "Pradeep Belur, SBA Official"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/dec_2019_Data_Accountability_Transparency.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Data_Accountability_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -47,6 +47,8 @@ challenge: "The use of data is transforming society, business, and the economy. 
 #third accordion text
 opportunity: "There are opportunities to: develop a long-term, enterprise-wide Federal Data Strategy to better govern and leverage the Federal Government’s data; enable government data to be accessible and useful for the American public, businesses, and researchers; improve the use of data for decision-making and accountability for the Federal Government, including for policy-making, innovation, oversight, and learning."
 #action plan links
+
+action-2020-july: "/CAP/action_plans/july_2020_Data_Accountability_Transparency.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Data_Accountability_Transparency.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Data_Accountability_Transparency.pdf"

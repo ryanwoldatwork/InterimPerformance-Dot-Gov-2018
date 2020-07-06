@@ -11,7 +11,7 @@ agency-name: Department of Veterans Affairs
 agency-seal: ../img/agency/Veterans_Affairs_Department_Seal.png
 agency-site: https://www.va.gov/
 strategic-plan-link: https://www.va.gov/oei/docs/VA2018-2024strategicPlan.pdf
-performance-plan-link: https://www.va.gov/oei/docs/VA2020appr.pdf
+performance-plan-link: https://www.va.gov/oei/docs/VA2021appr.pdf
 
 #side navigation
 apg-1: Decision Reviews and Appeals

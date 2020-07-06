@@ -18,7 +18,7 @@ resource-2-url:  https://www.permits.performance.gov/
 #***********************FLOATING BOX SECTION*****************************
 quote: "We're working to make a cultural change in the permitting process, by applying predictability, accountability, and transparency to what has been an impenetrable black box." #appears in the gray text box
 quote-author: "Alex Herrgott, Goal Leader"
-current-action-plan: "/CAP/action_plans/dec_2019_Modernize_Infrastructure_Permitting.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Modernize_Infrastructure_Permitting.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -31,6 +31,8 @@ challenge: "The American people rely on infrastructure improvements to benefit o
 opportunity: "This goal will:   reduce time and cost to complete environmental reviews and authorizations for new major infrastructure projects; increase predictability and transparency for project investors and stakeholders; and result in agencies implementing clear timetables, consistent processes to make decisions, and best practices.
 
 A public dashboard tracks individual projects at www.permits.performance.gov. " #third accordion text
+
+action-2020-july: "/CAP/action_plans/july_2020_Modernize_Infrastructure_Permitting.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Modernize_Infrastructure_Permitting.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Modernize_Infrastructure_Permitting.pdf"
@@ -78,5 +80,6 @@ previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveragingdata
 
+alert: This Cross Agency Priority (CAP) Goal has achieved significant gains and is being institutionalized across the federal government. You can read more about this categorization <a href="https://www.performance.gov/about/CAP_about.html">here</a> and can continue to find modified quarterly progress updates on this page.
 
 ---  

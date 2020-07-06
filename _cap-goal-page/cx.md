@@ -36,16 +36,18 @@ resource-6-name: Customer Experience Services Evaluation and Buying Guide
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
 quote-author: "President's Management Agenda"
 font-size: 20px
-current-action-plan: "/CAP/action_plans/dec_2019_Improving_Customer_Experience.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
 statement: "This goal will provide a modern, streamlined, and responsive customer experience across government, comparable to leading private-sector organizations."
  #first accordion text
 
-challenge: "Whether seeking a loan, Social Security benefits, veterans benefits, or other services provided by the Federal Government, individuals and businesses expect Government customer services to be efficient and intuitive, just like services from leading private-sector organizations. Yet the 2016 American Consumer Satisfaction Index and the 2017 Forrester Federal Customer Experience Index show that, on average, Government services lag nine percentage points behind the private sector." #second accordion text
+challenge: "Citizens and businesses expect well-designed, efficient government services that are generally comparable in quality to that of leading private-sector organizations. Despite some important strides to improve customer experience, many federal government services fail to meet the expectations of the public, creating unnecessary hassle and cost for citizens, businesses, and the government itself. " #second accordion text
 
 opportunity: "A modern, streamlined and responsive customer experience means:  raising government-wide customer experience to the average of the private sector service industry, as measured by external organizations; developing indicators for high-impact Federal programs to monitor progress towards excellent customer experience and mature digital services; providing the structure and resources to ensure customer experience is a focal point for agency leadership; and examples of programs where improved customer service will impact millions of Americans include Federal Student Aid, Airport Security Screening, National Parks, Veterans Health Care, Passport Services, Emergency and Disaster Relief, and Medicare." #third accordion text
+
+action-2020-july: "/CAP/action_plans/july_2020_Improving_Customer_Experience.pdf"
 
 action-2019-june: "/CAP/action_plans/june_2019_Improving_Customer_Experience.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Improving_Customer_Experience.pdf"
