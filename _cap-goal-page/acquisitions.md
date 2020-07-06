@@ -34,7 +34,7 @@ resource-7-name: Case Studies
 resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
 
 resource-7-name: Frictionless Acquisition Resources Collection
-resource-7-url: https://performance.gov/CAP/Frictionless_Acquisition_Resources_Collection.pdf/
+resource-7-url: https://performance.gov/CAP/Frictionless_Acquisition_Resources_Collection.pdf
 
 
 #***********************FLOATING BOX SECTION*****************************
