@@ -41,7 +41,7 @@ resource-7-url: https://performance.gov/CAP/Frictionless_Acquisition_Resources_C
 quote: "We must reduce the costly lag between when our customers identify needs and when they receive solutions." #appears in the gray text box
 quote-author: "Michael Wooten, Goal Leader"
 font-size: 16px
-current-action-plan: "/CAP/action_plans/july_2020_Improve_Management_of_Major_Acquisitions.pdf"
+current-action-plan: "/CAP/action_plans/july_2020_Frictionless_Acquisition.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
@@ -66,7 +66,7 @@ opportunity: "Agencies will leverage advanced technology & best commercial & pub
  <li>75% of acquisition employees feel empowered and enabled to innovate on behalf of the taxpayers they serve.</li>
  </ul> " #third accordion text
 
-action-2020-july: "/CAP/action_plans/july_2020_Improve_Management_of_Major_Acquisitions.pdf"
+action-2020-july: "/CAP/action_plans/july_2020_Frictionless_Acquisition.pdf"
 
 
 action-2019-june: "/CAP/action_plans/june_2019_Improve_Management_of_Major_Acquisitions.pdf"
