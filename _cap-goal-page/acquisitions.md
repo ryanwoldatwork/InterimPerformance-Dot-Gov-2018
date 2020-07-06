@@ -1,12 +1,15 @@
 ---
 layout: cap-goal-page
 
-title: "Improve Management of Major Acquisitions" #page title
+title: "Frictionless Acquisition" #page title
 
-permalink: ../CAP/major-acquisitions/
-url: /CAP/major-acquisitions/
+permalink: ../CAP/frictionless-acquisition/
+url: /CAP/frictionless-acquisition/
 
-redirect_from: "/CAP/CAP_goal_11.html"
+redirect_from: 
+ - "/CAP/CAP_goal_11.html"
+ - "/CAP/major-acquisitions/"
+ - "../CAP/frictionless-acquisition/"
 
 #cap-category: "Key Driver of Reform" #category text
 
@@ -18,24 +21,53 @@ resource-2-url: https://www.congress.gov/114/plaws/publ264/PLAW-114publ264.pdf
 resource-3-name: M-18-19, Improving the Management of Federal Programs and Projects through Implementing the Program Management Improvement Accountability Act
 resource-3-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/M-18-19.pdf
 
-resource-4-name: Capital Programming Guide
-resource-4-url: https://www.whitehouse.gov/wp-content/uploads/2018/06/capital_programming_guide.pdf
+resource-4-name: Acquisition Innovation Hub
+resource-4-url: https://hallways.cap.gsa.gov/app/#/gateway/acquisition-innovation
+
+resource-5-name: Periodic Table of Acquisition Innovations
+resource-5-url: https://www.fai.gov/periodic-table/
+
+resource-6-name: TechFAR Handbook
+resource-6-url: https://techfarhub.cio.gov/handbook/
+
+resource-7-name: Case Studies
+resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
+
+resource-7-name: Frictionless Acquisition Resources Collection
+resource-7-url: https://performance.gov/CAP/Frictionless_Acquisition_Resources_Collection.pdf/
 
 
 #***********************FLOATING BOX SECTION*****************************
-quote: "Improving the management of major acquisitions will help ensure taxpayer dollars fund agency missions instead of expensive overruns and project failures." #appears in the gray text box
-quote-author: "Mathew Blum, Goal Leader"
-current-action-plan: "/CAP/action_plans/dec_2019_Improve_Management_of_Major_Acquisitions.pdf"
+quote: "We must reduce the costly lag between when our customers identify needs and when they receive solutions." #appears in the gray text box
+quote-author: "Michael Wooten, Goal Leader"
+font-size: 16px
+current-action-plan: "/CAP/action_plans/july_2020_Frictionless_Acquisition.pdf"
 #***********************FLOATING BOX SECTION*****************************
 
 #***********************ACCORDION SECTION*****************************
-statement: "Federal agencies will ensure that contracts supporting transformative and other priority projects will meet or beat delivery schedules, provide exceptional customer service, and achieve savings or cost avoidance for the taxpayer." #first accordion text
+statement: "The Federal Government will deliver commercial items at the same speed as the market place & manage customers’ delivery expectations for acquisitions of non-commercial items by breaking down barriers to entry using modern business practices and technologies." #first accordion text
 
-challenge: "Major acquisitions—which vary in size by agency but often exceed $50 million—account for approximately one-third of annual Federal spend on contracts. These large contracts frequently support projects meant to transform areas of critical need. Yet major acquisitions often fail to achieve their goals because many Federal managers lack the program management and acquisition skills required to successfully manage and integrate large and complex acquisitions into their projects. These shortcomings are compounded by complex acquisition rules that reward compliance over creativity and results." #second accordion text
+challenge: "Agencies face challenges in meeting their customers’ cost, schedule, and performance expectation: 
+<ul>
+<li>The acquisition culture remains captive to norms and rules that reward compliance and risk avoidance over good business judgment and positive customer experience as agencies address their mission needs and work with each other to solve national problems.</li>
+<li>Efforts center on creating a perfect contract, rather than a trusted partnership with shared common values.</li>
+<li>Agencies gather billions of data points that are difficult to use, instead of exploiting  disruptive technologies to promote cost-effective self-service analytics & allow acquisition professionals to pursue higher value activities.</li>
+<li>Metrics often drive stakeholders to think of acquisition as a mechanical activity, rather than as a value-enhancing platform or conduit for effective accomplishment of critical mission outcomes. </li>
+<li>Major acquisitions experience shortfalls because program management is undervalued.</li>
+</ul> 
+" #second accordion text
 
-opportunity: "Agencies and their contractors will successfully meet taxpayer expectations and performance goals on key transformational projects across the Government—from upgrading hospitals to better meet veterans needs to integrating technology into conducting a modern and efficient census to achieving IT modernization needs for a 21st century Government. " #third accordion text
+opportunity: "Agencies will leverage advanced technology & best commercial & public sector practices to support a transformed acquisition environment where, by 2025:
+<ul>
+ <li>90% of routine, non-major acquisitions and 80% of complex major acquisitions are completed in a time frame and comparable to private sector averages or benchmarks of leading state and local governments, or federal agencies;</li>
+ <li>The number of unique businesses receiving federal prime contracting dollars has increased by 15%;</li>
+  <li>The number of  new entrant small businesses has increased by 30%;</li>
+ <li>80% of customers & other internal and external stakeholders rate delivered service and experience with the acquisition process as above average or better; and</li>
+ <li>75% of acquisition employees feel empowered and enabled to innovate on behalf of the taxpayers they serve.</li>
+ </ul> " #third accordion text
 
-action-2020-april: "/CAP/action_plans/april_2020_Improve_Management_of_Major_Acquisitions.pdf"
+action-2020-july: "/CAP/action_plans/july_2020_Frictionless_Acquisition.pdf"
+
 
 action-2019-june: "/CAP/action_plans/june_2019_Improve_Management_of_Major_Acquisitions.pdf"
 action-2019-september: "/CAP/action_plans/sept_2019_Improve_Management_of_Major_Acquisitions.pdf"
@@ -64,15 +96,19 @@ CAP-event-text:
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/berkowitz-barry.PNG"
-alt_text_1: Photo of Barry Berkowitz
-goal-leader-name: "Barry Berkowitz"
-goal-leader-title: "Senior Procurement Executive Department of Commerce, Department of Commerce"
-alt_text_1:
-goal-leader-2-photo: "/img/CAP-photos/blum-matthew.jpg" #Goal leader 2
-alt_text_2: Photo of Mathew Blum
-goal-leader-2-name: "Mathew Blum"
-goal-leader-2-title: "Associate Administrator Office of Federal Procurement Policy, Office of Management and Budget"
+goal-leader-photo: "/img/CAP-photos/michael-wooten.png" 
+alt_text_1: Photo of Michael Wooten
+goal-leader-name: "Michael Wooten"
+goal-leader-title: "Administrator for Federal Procurement Policy, Office of Management and Budget"
+goal-leader-2-photo: "/img/CAP-photos/correa-soraya.png" #Goal leader 3
+alt_text_2: Photo of Soraya Correa
+goal-leader-2-name: "Soraya Correa"
+goal-leader-2-title: "Senior Procurement Executive, Department of Homeland Security"
+goal-leader-3-photo: "/img/CAP-photos/berkowitz-barry.PNG"
+alt_text_3: Photo of Barry Berkowitz
+goal-leader-3-name: "Barry Berkowitz"
+goal-leader-3-title: "Senior Procurement Executive, Department of Commerce"
+alt_text_3:
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8
@@ -81,5 +117,6 @@ previous-page-url: /CAP/overview/
 next-cap-goal-name: "Leveraging Data"
 next-page-url: /CAP/leveragingdata
 
+alert: This Cross Agency Priority (CAP) Goal has been refreshed and renamed Frictionless Acquisition.
 
 ---  

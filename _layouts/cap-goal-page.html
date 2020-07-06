@@ -1,7 +1,14 @@
 ---
 layout: navigation_PMA
 ---
-
+{% if page.alert %}
+<div class="usa-alert usa-alert-info" >
+    <div class="usa-alert-body">
+        <h3 class="usa-alert-heading">Update</h3>
+        <p class="usa-alert-text">{{ page.alert }}</p>
+    </div>
+</div>
+{% endif %}
 
 
 <section class="usa-section usa-graphic_list" id="image">
@@ -9,7 +16,7 @@ layout: navigation_PMA
      <div class="usa-width-two-thirds usa-media_block">
        <a href="{{ site.baseurl }}/CAP/overview/" style="text-decoration:none;color:#ffffff;float:left;font-size:2rem;">
            <b>&#10094; &nbsp; CAP Goal Overview</b></a>
-          <h1 style="margin-top:66px;line-height:48px;">
+          <h1 style="margin-top:66px;line-height:48px;padding-top: 50px">
         <!--   {% if page.cap-category == "Key Driver of Reform" %}
            <p class="card-tag" style="margin-bottom:0px;font-size:.37em;"><a style="text-decoration:none;color:#d6d7d9;" href="{{ site.baseurl }}/news">Key Driver of Reform</a></p>
           {% elsif page.cap-category == "Cross-Cutting Priority Area" %}
@@ -256,24 +263,37 @@ blockquote-CAP cite {
           </button>
           <div id="a4" class="usa-accordion-content" style="background-color:#f1f1f1;padding-left:0;">
       <div class="usa-grid usa-graphic_list-row">
+          {% if page.action-2020-july %}
+          <div class="usa-width-one-third usa-media_block">
+<!--              Uncomment this to add more links to pdf action plans-->
+<!--              <p><a href="{{ site.baseurl }}{{ page.action-2020-december }}" target="_blank"><b>December 2020</b></a>-->
+<!--              </p>-->
+<!--              <p><a href="{{ site.baseurl }}{{ page.action-2020-september }}" target="_blank"><b>September 2020</b></a>-->
+<!--              </p>-->
+<!--              <p><a href="{{ site.baseurl }}{{ page.action-2020-july }}" target="_blank"><b>June 2020</b></a>-->
+<!--              </p>-->
+              <p><a href="{{ site.baseurl }}{{ page.action-2020-july }}" target="_blank"><b>July 2020</b></a>
+              </p>
+          </div>
+          {% endif %}
         {% if page.action-2019-june %}
-        <div class="usa-width-one-half usa-media_block">
-          <p><a href="{{ site.baseurl }}{{ page.action-2019-december }}" target="_blank"><b>Download the December 2019 Action Plan</b></a>
+        <div class="usa-width-one-third usa-media_block">
+          <p><a href="{{ site.baseurl }}{{ page.action-2019-december }}" target="_blank"><b>December 2019</b></a>
           </p>
-          <p><a href="{{ site.baseurl }}{{ page.action-2019-september }}" target="_blank"><b>Download the September 2019 Action Plan</b></a>
+          <p><a href="{{ site.baseurl }}{{ page.action-2019-september }}" target="_blank"><b>September 2019</b></a>
           </p>
-            <p><a href="{{ site.baseurl }}{{ page.action-2019-june }}" target="_blank"><b>Download the June 2019 Action Plan</b></a>
+            <p><a href="{{ site.baseurl }}{{ page.action-2019-june }}" target="_blank"><b>June 2019</b></a>
             </p>
          </div>
        {% endif %}
-        <div class="usa-width-one-half usa-media_block">
-            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q4 }}" target="_blank"><b>Download the December 2018 Action Plan</b></a>
+        <div class="usa-width-one-third usa-media_block">
+            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q4 }}" target="_blank"><b>December 2018</b></a>
             </p>
-            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q3 }}" target="_blank"><b>Download the September 2018 Action Plan</b></a>
+            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q3 }}" target="_blank"><b>September 2018</b></a>
             </p>
-            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q2 }}" target="_blank"><b>Download the June 2018 Action Plan</b></a>
+            <p><a href="{{ site.baseurl }}{{ page.action-2018-Q2 }}" target="_blank"><b>June 2018</b></a>
             </p>
-             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q1 }}" target="_blank"><b>Download the March 2018 Action Plan</b></a>
+             <p><a href="{{ site.baseurl }}{{ page.action-2018-Q1 }}" target="_blank"><b>March 2018</b></a>
              </p>
          </div>
          </div>
