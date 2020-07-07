@@ -28,15 +28,15 @@ description: Protect Human Health and the Environment.
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_EPA_Accelerate_Permitting-Related_Decisions.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_EPA_Accelerate_Permitting_Related_Decisions.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_EPA_Accelerate_Permitting_Related_Decisions.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/2019_dec_EPA_Accelerate_Permitting-Related_Decisions.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_sept_EPA_Accelerate_Permitting_Related_Decisions.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_June_EPA_Accelerate_Permitting_Related_Decisions.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_EPA_Accelerate_Permitting-Related_Decisions.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_EPA_Accelerate_Permitting-Related_Decisions.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_EPA_Accelerate_Permitting-Related_Decisions.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q4_EPA_Accelerate_Permitting-Related_Decisions.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q3_EPA_Accelerate_Permitting-Related_Decisions.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q2_EPA_Accelerate_Permitting-Related_Decisions.pdf">June 2018</a></p>
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_EPA_Accelerate_Permitting-Related_Decisions.pdf">March 2018</a></p>
 </div>
 </div>
@@ -53,16 +53,16 @@ description: Protect Human Health and the Environment.
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/2019_dec_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_sept_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_June_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q4_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q3_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q2_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q1_EPA_Accelerate_the_Pace_of_Cleanups_and_Return_Sites_to_Beneficial_Use.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -79,24 +79,24 @@ description: Protect Human Health and the Environment.
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">December 2019</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/2019_dec_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">December 2019</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">September 2019</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_sept_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">September 2019</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">June 2019</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_June_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">June 2019</a></p>
 </div>
 
 
 
 <div class="usa-width-one-half usa-media_block">
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">December 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q4_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">December 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">September 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q3_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">September 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">June 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q2_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">June 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">March 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q1_EPA_Empower_Communities_to_Leverage_EPA_Water_Infrastructure_Investments.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -113,22 +113,22 @@ description: Protect Human Health and the Environment.
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">December 2019</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/2019_dec_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">December 2019</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">September 2019</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_sept_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">September 2019</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">June 2019</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_June_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">December 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q4_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">December 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">September 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q3_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">September 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">June 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q2_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">June 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">March 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q1_EPA_Improve_Air_Quality_by_Implementing_Pollution_Control_Measures.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -146,16 +146,16 @@ description: Protect Human Health and the Environment.
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/2019_dec_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_sept_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_June_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q4_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q3_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q2_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q1_EPA_Increase_Environmental_Law_Compliance_Rate.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -172,16 +172,16 @@ description: Protect Human Health and the Environment.
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/2019_dec_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/EPA/2019_dec_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_sept_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2019_June_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q4_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q3_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q2_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/EPA/FY2018_Q1_EPA_Meet_New_Statutory_Requirements_to_Improve_the_Safety_of_Chemicals_in_Commerce.pdf">March 2018</a></p>
 </div>
 
 </div>
