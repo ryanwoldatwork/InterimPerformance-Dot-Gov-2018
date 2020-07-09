@@ -24,16 +24,16 @@ description: To conserve and manage the Nation’s natural resources and cultura
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/2019_dec_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_sept_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_June_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q4_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q3_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q2_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q1_Interior_Ensure_Clear_Quantitative_Criteria_for_Threatened_and_Endangered_Species_Recovery_Plans.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -52,10 +52,10 @@ Assessments. </p>
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q4_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q3_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q2_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q1_Interior_Species_Status_Assessments_for_Listings_with_State_Input.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -72,17 +72,17 @@ Assessments. </p>
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/2019_dec_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_June_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">June 2019</a></p>
 </div>
 
 <!--Q2 deck-->
 <div class="usa-width-one-half usa-media_block">
   <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest"
-   style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">March 2018</a></p>
+   style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q4_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q3_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q2_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q1_Interior_Improve_Access_to_Leasing_Public_Lands_for_Oil_Gas_and_Mineral_Extraction.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -99,15 +99,15 @@ Assessments. </p>
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/2019_dec_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_sept_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_June_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">June 2019</a></p>
 </div>
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q4_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q3_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q2_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q1_Interior_Improve_Condition_of_Priority_Assets_Necessary_for_Mission_Delivery.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -125,14 +125,14 @@ Assessments. </p>
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_Interior_Improve_Processing_of_Drilling_Applications.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/2019_dec_Interior_Improve_Processing_of_Drilling_Applications.pdf">December 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Improve_Processing_of_Drilling_Applications.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Improve_Processing_of_Drilling_Applications.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Improve_Processing_of_Drilling_Applications.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Improve_Processing_of_Drilling_Applications.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q4_Interior_Improve_Processing_of_Drilling_Applications.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q3_Interior_Improve_Processing_of_Drilling_Applications.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q2_Interior_Improve_Processing_of_Drilling_Applications.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q1_Interior_Improve_Processing_of_Drilling_Applications.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -150,16 +150,16 @@ Assessments. </p>
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/2019_dec_Interior_Water_Conservation_and_Supply_Enhancement.pdf">December2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Interior_Water_Conservation_and_Supply_Enhancement.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Interior_Water_Conservation_and_Supply_Enhancement.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/2019_dec_Interior_Water_Conservation_and_Supply_Enhancement.pdf">December2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_sept_Interior_Water_Conservation_and_Supply_Enhancement.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2019_June_Interior_Water_Conservation_and_Supply_Enhancement.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Interior_Water_Conservation_and_Supply_Enhancement.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Interior_Water_Conservation_and_Supply_Enhancement.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Interior_Water_Conservation_and_Supply_Enhancement.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Interior_Water_Conservation_and_Supply_Enhancement.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q4_Interior_Water_Conservation_and_Supply_Enhancement.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q3_Interior_Water_Conservation_and_Supply_Enhancement.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q2_Interior_Water_Conservation_and_Supply_Enhancement.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Interior/FY2018_Q1_Interior_Water_Conservation_and_Supply_Enhancement.pdf">March 2018</a></p>
 </div>
 
 </div>

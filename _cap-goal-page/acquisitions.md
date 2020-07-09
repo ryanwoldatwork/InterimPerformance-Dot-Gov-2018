@@ -48,7 +48,7 @@ current-action-plan: "/CAP/action_plans/july_2020_Frictionless_Acquisition.pdf"
 statement: "The Federal Government will deliver commercial items at the same speed as the market place & manage customers’ delivery expectations for acquisitions of non-commercial items by breaking down barriers to entry using modern business practices and technologies." #first accordion text
 
 challenge: "Agencies face challenges in meeting their customers’ cost, schedule, and performance expectation: 
-<ul>
+<ul><br/>
 <li>The acquisition culture remains captive to norms and rules that reward compliance and risk avoidance over good business judgment and positive customer experience as agencies address their mission needs and work with each other to solve national problems.</li>
 <li>Efforts center on creating a perfect contract, rather than a trusted partnership with shared common values.</li>
 <li>Agencies gather billions of data points that are difficult to use, instead of exploiting  disruptive technologies to promote cost-effective self-service analytics & allow acquisition professionals to pursue higher value activities.</li>

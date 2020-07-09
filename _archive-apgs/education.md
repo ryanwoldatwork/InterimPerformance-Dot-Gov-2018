@@ -28,16 +28,16 @@ description: To promote student achievement and preparation for global competiti
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;" style="margin-bottom:30px;" style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_Education_School_Choice.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;" style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Education_School_Choice.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;" style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Education_School_Choice.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;" style="margin-bottom:30px;" style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/2019_dec_Education_School_Choice.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;" style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_sept_Education_School_Choice.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;" style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_June_Education_School_Choice.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Education_School_Choice.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Education_School_Choice.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Education_School_Choice.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Education_School_Choice.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q4_Education_School_Choice.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q3_Education_School_Choice.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q2_Education_School_Choice.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q1_Education_School_Choice.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -55,16 +55,16 @@ description: To promote student achievement and preparation for global competiti
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_Education_Improve_Borrows_Access.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Education_Improve_Borrows_Access.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Education_Improve_Borrows_Access.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/2019_dec_Education_Improve_Borrows_Access.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_sept_Education_Improve_Borrows_Access.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_June_Education_Improve_Borrows_Access.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Education_Improve_Borrows_Access.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Education_Improve_Borrows_Access.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Education_Improve_Borrows_Access.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Education_Improve_Borrows_Access.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q4_Education_Improve_Borrows_Access.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q3_Education_Improve_Borrows_Access.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q2_Education_Improve_Borrows_Access.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q1_Education_Improve_Borrows_Access.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -81,17 +81,17 @@ description: To promote student achievement and preparation for global competiti
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_Education_Improve_Student_Privacy.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Education_Improve_Student_Privacy.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Education_Improve_Student_Privacy.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/2019_dec_Education_Improve_Student_Privacy.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_sept_Education_Improve_Student_Privacy.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_June_Education_Improve_Student_Privacy.pdf">June 2019</a></p>
 </div>
 
 <!--Q4 deck-->
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Education_Improve_Student_Privacy.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Education_Improve_Student_Privacy.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Education_Improve_Student_Privacy.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Education_Improve_Student_Privacy.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q4_Education_Improve_Student_Privacy.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q3_Education_Improve_Student_Privacy.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q2_Education_Improve_Student_Privacy.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q1_Education_Improve_Student_Privacy.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -110,16 +110,16 @@ description: To promote student achievement and preparation for global competiti
 <div class= "usa-grid usa-graphic_list-row" style="padding-left:0rem;">
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/2019_dec_Education_Improve_Regulatory_Relief.pdf">December 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Education_Improve_Regulatory_Relief.pdf">September 2019</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Education_Improve_Regulatory_Relief.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/2019_dec_Education_Improve_Regulatory_Relief.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_sept_Education_Improve_Regulatory_Relief.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2019_June_Education_Improve_Regulatory_Relief.pdf">June 2019</a></p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Education_Improve_Regulatory_Relief.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Education_Improve_Regulatory_Relief.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Education_Improve_Regulatory_Relief.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Education_Improve_Regulatory_Relief.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q4_Education_Improve_Regulatory_Relief.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q3_Education_Improve_Regulatory_Relief.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q2_Education_Improve_Regulatory_Relief.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Education/FY2018_Q1_Education_Improve_Regulatory_Relief.pdf">March 2018</a></p>
 </div>
 
 </div>
