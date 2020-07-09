@@ -42,9 +42,9 @@ description: Lead the United States’ foreign policy through diplomacy, advocac
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_State_IT_Modernization.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_State_IT_Modernization.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_State_IT_Modernization.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_State_IT_Modernization.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_State_IT_Modernization.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_State_IT_Modernization.pdf">June 2018</a></p>
 </div>
 
 </div>
@@ -69,10 +69,10 @@ description: Lead the United States’ foreign policy through diplomacy, advocac
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_State_Visa_Security.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_State_Visa_Security.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_State_Visa_Security.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_State_Visa_Security.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_State_Visa_Security.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_State_Visa_Security.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_State_Visa_Security.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q1_State_Visa_Security.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -97,10 +97,10 @@ description: Lead the United States’ foreign policy through diplomacy, advocac
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_USAID_Food_Security.pdf">December 2018</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_USAID_Food_Security.pdf">September 2018</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_USAID_Food_Security.pdf">June 2018</a></p>
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_USAID_Food_Security.pdf">March 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_USAID_Food_Security.pdf">December 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_USAID_Food_Security.pdf">September 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_USAID_Food_Security.pdf">June 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q1_USAID_Food_Security.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -125,10 +125,10 @@ description: Lead the United States’ foreign policy through diplomacy, advocac
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_USAID_Maternal_and_Child_Health.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_USAID_Maternal_and_Child_Health.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_USAID_Maternal_and_Child_Health.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_USAID_Maternal_and_Child_Health.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_USAID_Maternal_and_Child_Health.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_USAID_Maternal_and_Child_Health.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_USAID_Maternal_and_Child_Health.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q1_USAID_Maternal_and_Child_Health.pdf">March 2018</a></p>
 </div>
 </div>
 
@@ -155,10 +155,10 @@ obligated dollars and procurement actions.</p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_USAID_Procurement_Reform.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_USAID_Procurement_Reform.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_USAID_Procurement_Reform.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_USAID_Procurement_Reform.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_USAID_Procurement_Reform.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_USAID_Procurement_Reform.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_USAID_Procurement_Reform.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q1_USAID_Procurement_Reform.pdf">March 2018</a></p>
 </div>
 
 </div>
@@ -184,9 +184,9 @@ obligated dollars and procurement actions.</p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_State_USAID_Category_Management.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_State_USAID_Category_Management.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_State_USAID_Category_Management.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_State_USAID_Category_Management.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_State_USAID_Category_Management.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_State_USAID_Category_Management.pdf">June 2018</a></p>
   <p><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_State_USAID_Category_Management.pdf">March 2018</a></p>
 </div>
 
@@ -211,10 +211,10 @@ obligated dollars and procurement actions.</p>
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_State_USAID_HIV_AIDS.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_State_USAID_HIV_AIDS.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_State_USAID_HIV_AIDS.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_State_USAID_HIV_AIDS.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q4_State_USAID_HIV_AIDS.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q3_State_USAID_HIV_AIDS.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q2_State_USAID_HIV_AIDS.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link" href="https://pic.gov/assets/APG/State/FY2018_Q1_State_USAID_HIV_AIDS.pdf">March 2018</a></p>
 </div>
 
 </div>

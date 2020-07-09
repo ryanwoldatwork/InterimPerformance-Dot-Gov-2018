@@ -3,7 +3,7 @@ layout: post
 
 title: "Delivering a High-Performance Government in 2019"
 
-rating: "1"
+rating: "0"
 
 permalink: /Delivering-High-Performance-blog/
 
