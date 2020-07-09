@@ -30,23 +30,23 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 
 <div class="usa-width-one-half usa-media_block">
 
-    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_dec_Agriculture_Improving_Customer_Experience_at_USDA.pdf">December 2019</a></p>
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Agriculture/FY2019_dec_Agriculture_Improving_Customer_Experience_at_USDA.pdf">December 2019</a></p>
 
-    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Agriculture_Improving_Customer_Experience_at_USDA.pdf">September 2019</a></p>
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/Agriculture/FY2019_sept_Agriculture_Improving_Customer_Experience_at_USDA.pdf">September 2019</a></p>
 
-    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Agriculture_Improving_Customer_Experience_at_USDA.pdf">June 2019</a></p>
+    <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2019_June_Agriculture_Improving_Customer_Experience_at_USDA.pdf">June 2019</a></p>
 
 </div>
 
 <div class="usa-width-one-half usa-media_block">
 
- <p  style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Agriculture_Improving_Customer_Experience_at_USDA.pdf">December 2018</a></p>
+ <p  style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q4_Agriculture_Improving_Customer_Experience_at_USDA.pdf">December 2018</a></p>
 
- <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Agriculture_Improving_Customer_Experience_at_USDA.pdf">September 2018</a></p>
+ <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q3_Agriculture_Improving_Customer_Experience_at_USDA.pdf">September 2018</a></p>
 
- <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Agriculture_Improving_Customer_Experience_at_USDA.pdf">June 2018</a></p>
+ <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q2_Agriculture_Improving_Customer_Experience_at_USDA.pdf">June 2018</a></p>
 
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Agriculture_Improving_Customer_Experience_at_USDA.pdf">March 2018</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q1_Agriculture_Improving_Customer_Experience_at_USDA.pdf">March 2018</a></p>
 
 </div>
 
@@ -68,23 +68,23 @@ description: Provide leadership on agriculture, food, natural resources, rural i
 
 <div class="usa-width-one-half usa-media_block">
 
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_dec_Agriculture_Modernize_USDAs_Information_Technology.pdf">December 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2019_dec_Agriculture_Modernize_USDAs_Information_Technology.pdf">December 2019</a></p>
 
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_sept_Agriculture_Modernize_USDAs_Information_Technology.pdf">September 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2019_sept_Agriculture_Modernize_USDAs_Information_Technology.pdf">September 2019</a></p>
 
-  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2019_June_Agriculture_Modernize_USDAs_Information_Technology.pdf">June 2019</a></p>
+  <p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2019_June_Agriculture_Modernize_USDAs_Information_Technology.pdf">June 2019</a></p>
 
 </div>
 
 <div class="usa-width-one-half usa-media_block">
 <!--4th quarter deck-->
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_Agriculture_Modernize_USDAs_Information_Technology.pdf">December 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q4_Agriculture_Modernize_USDAs_Information_Technology.pdf">December 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_Agriculture_Modernize_USDAs_Information_Technology.pdf">September 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q3_Agriculture_Modernize_USDAs_Information_Technology.pdf">September 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_Agriculture_Modernize_USDAs_Information_Technology.pdf">June 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q2_Agriculture_Modernize_USDAs_Information_Technology.pdf">June 2018</a></p>
 
-<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_Agriculture_Modernize_USDAs_Information_Technology.pdf">March 2018</a></p>
+<p style="margin-bottom:30px;"><img src="{{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/Agriculture/FY2018_Q1_Agriculture_Modernize_USDAs_Information_Technology.pdf">March 2018</a></p>
 </div>
 
 </div>

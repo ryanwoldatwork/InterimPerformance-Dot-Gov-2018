@@ -87,7 +87,7 @@ alt_text_4: Photo of Denise Carter  #Goal leader 2
 goal-leader-4-name: "Denise Carter"
 goal-leader-4-title: "Acting Assistant Secretary for Finance and Operations, Department of Education"
 
-goal-leader-5-photo: "/img/agr/Circle-icons-profle.svg.png"
+goal-leader-5-photo: "/img/CAP-photos/Tim-soltis.png"
 alt_text_5: Photo of Tim Soltis  #Goal leader 2
 goal-leader-5-name: "Tim Soltis"
 goal-leader-5-title: "Deputy Controller, Office of Management and Budget"
