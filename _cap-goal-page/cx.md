@@ -16,6 +16,7 @@ redirect_from: "/CAP/CAP_goal_4.html"
 
 cap-icon: "/img/CAP_icons/Icon_Improving_Customer_gray.png" ##### #icon that appears next to title
 
+
 resource-2-name: 2019 CX Action Plan Summary
 resource-2-url: https://www.performance.gov/CX-HISP-Action-Plans
 
@@ -29,8 +30,13 @@ resource-5-name: US Forms System Library
 resource-5-url: https://github.com/usds/us-forms-system
 
 resource-6-name: Customer Experience Services Evaluation and Buying Guide
-//resource-6-url: "/cx/CX-Evaluation-and-Buying-Guide.pdf"
+resource-6-url: "/cx/CX-Evaluation-and-Buying-Guide.pdf"
 
+resource-7-name: Mapping the Cross-Agency Experience
+resource-7-url: https://www.performance.gov/mapping-cx-journey/
+
+resource-8-name: Tips for Starting on your CX Journey
+resource-8-url: https://www.performance.gov/tips-for-starting-your-customer-experience-journey/
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Federal customers deserve an experience that compares to—or exceeds—that of leading private sector organizations."  #appears in the gray text box
