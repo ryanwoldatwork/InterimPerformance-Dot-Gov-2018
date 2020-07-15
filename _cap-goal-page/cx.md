@@ -30,7 +30,7 @@ resource-5-name: US Forms System Library
 resource-5-url: https://github.com/usds/us-forms-system
 
 resource-6-name: Customer Experience Services Evaluation and Buying Guide
-resource-6-url: "/cx/CX-Evaluation-and-Buying-Guide.pdf"
+resource-6-url: https://www.performance.gov/cx/CX-Evaluation-and-Buying-Guide.pdf
 
 resource-7-name: Mapping the Cross-Agency Experience
 resource-7-url: https://www.performance.gov/mapping-cx-journey/
