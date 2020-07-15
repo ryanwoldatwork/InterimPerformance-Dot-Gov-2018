@@ -30,8 +30,8 @@ resource-5-url: https://www.fai.gov/periodic-table/
 resource-6-name: TechFAR Handbook
 resource-6-url: https://techfarhub.cio.gov/handbook/
 
-resource-7-name: Case Studies
-resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
+resource-8-name: Case Studies
+resource-8-url: https://techfarhub.cio.gov/learning-center/case-studies/
 
 resource-8-name: Frictionless Acquisition Resources Collection
 resource-8-url: "/CAP/Frictionless-Acquisition-Resources-Collection.pdf"
