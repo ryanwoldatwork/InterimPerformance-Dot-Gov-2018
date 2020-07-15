@@ -33,7 +33,7 @@ resource-6-url: https://techfarhub.cio.gov/handbook/
 resource-7-name: Case Studies
 resource-7-url: https://techfarhub.cio.gov/learning-center/case-studies/
 
-resource-7-name: Frictionless Acquisition Resources Collection
+resource-7-name: 
 resource-7-url: /CAP/Frictionless-Acquisition-Resources-Collection.pdf
 
 
