@@ -22,6 +22,26 @@ apg-usaid: APG_usaid_1.html
 apg-joint: APG_joint_1.html
 
 #side navigation (APG code lives in cfo-act-agency layout)
+apg-1: IT Modernization
+apg-1-link: APG_state_1.html
+apg-2: Category Management
+apg-2-link: APG_state_2.html
+apg-3: Data Informed Diplomacy
+apg-3-link: APG_state_3.html
+apg-4: Enhancing Security Monitoring Solutions
+apg-4-link: APG_state_4.html
+apg-5: Category Management
+apg-5-link: APG_usaid_1.html
+apg-6: Effective Partnering and Procurement Reform
+apg-6-link: APG_usaid_2.html
+apg-7: Maternal and Child Health
+apg-7-link: APG_usaid_3.html
+apg-8: Private-Sector Engagement
+apg-8-link: APG_usaid_4.html
+apg-9: Resilience and Food Security
+apg-9-link: APG_usaid_5.html
+apg-10: HIV/AIDS
+apg-10-link: APG_joint_1.html
 twitter-feed: https://twitter.com/StateDept?ref_src=twsrc%5Etfw
 
 #twitter and blog image
