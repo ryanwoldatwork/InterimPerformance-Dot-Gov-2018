@@ -111,10 +111,10 @@ description: Advance U.S. national security and economic growth through scientif
 </div>
 
 <div class="usa-width-one-half usa-media_block">
-  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q4_HHS_Combined_Data_Analyses.pdf">December 2018</a></p>
-  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q3_HHS_Combined_Data_Analyses.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q2_HHS_Combined_Data_Analyses.pdf">June 2018</a></p>
-  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="{{site.baseurl}}/{{page.folder}}/FY2018_Q1_HHS_Combined_Data_Analyses.pdf">March 2018</a>.</p>
+  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/HHS/FY2018_Q4_HHS_Combined_Data_Analyses.pdf">December 2018</a></p>
+  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/HHS/FY2018_Q3_HHS_Combined_Data_Analyses.pdf">September 2018</a></p>
+  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/HHS/FY2018_Q2_HHS_Combined_Data_Analyses.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"   href="https://pic.gov/assets/APG/HHS/FY2018_Q1_HHS_Combined_Data_Analyses.pdf">March 2018</a>.</p>
 </div>
 
 </div>
