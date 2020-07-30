@@ -59,7 +59,7 @@ description: To safeguard the security of the American People, our homeland, and
 <div class="usa-width-one-half usa-media_block">
   <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/DHS/FY2018_Q4_DHS_Strengthen_Federal_Cybersecurity.pdf">December 2018</a></p>
   <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/DHS/FY2018_Q3_DHS_Strengthen_Federal_Cybersecurity.pdf">September 2018</a></p>
-  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="{https://pic.gov/assets/APG/DHS/FY2018_Q2_DHS_Strengthen_Federal_Cybersecurity.pdf">June 2018</a></p>
+  <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/DHS/FY2018_Q2_DHS_Strengthen_Federal_Cybersecurity.pdf">June 2018</a></p>
   <p style="margin-bottom:30px;"><img src=" {{site.baseurl}}/img/PDF_icon.png" alt="pdftest" style="float:left;width:50px;align:bottom;"><a class="usa-external_link"  href="https://pic.gov/assets/APG/DHS/FY2018_Q1_DHS_Strengthen_Federal_Cybersecurity.pdf">March 2018</a></p>
 </div>
 
