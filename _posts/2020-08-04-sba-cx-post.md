@@ -20,7 +20,7 @@ image: "/img/cx/CX Image.PNG"
 image_accessibility: CX logo
 
 authors:
-- Brian Goodrow, Amber Chaudhry, and Ryan Korn
+- Brian Goodrow, Amber Chaudhry, Ryan Korn - Small Business Administration 
 
 
 tags:
@@ -47,7 +47,7 @@ Since the launch of the Paycheck Protection Program (PPP) on April 3, 2020, the 
 
 **Improving and Streamlining Customer Inquiry Response**
 
-Taking an enterprise approach to customer service has also allowed SBA to analyze and improve the customer experience across the agency. As a result of the CARES Act, customer email inquiries to the SBA skyrocketed. SBA accelerated its timeline to launch an Enterprise Customer Relationship Management (CRM) application in order to meet the increasing need and stood up a Customer Service Hub cloud application in under one week. Less than two months later, the Customer Service Hub has become a central tool in the agency’s COVID-19 response effort, reaching one million emails by mid-May.
+Taking an enterprise approach to customer service has also allowed SBA to analyze and improve the customer experience across the agency. As a result of the CARES Act, customer email inquiries to the SBA skyrocketed. SBA accelerated its timeline to launch an Enterprise Customer Relationship Management application in order to meet the increasing need and stood up a Customer Service Hub cloud application in under one week. Less than two months later, the Customer Service Hub has become a central tool in the agency’s COVID-19 response effort, reaching one million emails by mid-May.
 
 **Looking Ahead**
 
