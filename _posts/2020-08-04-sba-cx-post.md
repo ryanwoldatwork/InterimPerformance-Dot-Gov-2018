@@ -16,8 +16,8 @@ description: During difficult times, it’s more important than ever for the gov
 
 excerpt: During difficult times, it’s more important than ever for the government to serve its citizens well. The Small Business Administration (SBA) has prioritized a modern, responsive customer experience (CX). 
 
-image: /img/blog/a-11-logo.png
-image_accessibility: Photo of A-11 cover page which reads "Circular NO. A-11, Preparation, Submission, and Execution of the Budget, Executive Office of the President, Office of Management and Budget, June 2019"
+image: "/img/cx/CX Image.PNG"
+image_accessibility: CX logo
 
 authors:
 - Brian Goodrow, Amber Chaudhry, and Ryan Korn
