@@ -43,6 +43,8 @@ Since the launch of the Paycheck Protection Program (PPP) on April 3, 2020, the 
 - **March 18:** The HDO hosted the first public webinar related to COVID-19. Since then, the HDO has conducted nearly 300 webinars/town halls/teleconferences with Chambers of Commerce, Economic Development Organizations, U.S. Congressional Offices, other partner organizations, and SBA Resource Partners. This includes outreach events offered in Spanish to better meet customer needs.
 - **May 2020:** The HDO expanded its educational resources to include events focusing on economic resiliency and recovery, such as twice daily interactive Q&A webinars for the public with SBA District Office Leadership.
 
+  <img src="../img/blog/sba-houston.png" style="width:500px;">
+
 **Improving and Streamlining Customer Inquiry Response**
 
 Taking an enterprise approach to customer service has also allowed SBA to analyze and improve the customer experience across the agency. As a result of the CARES Act, customer email inquiries to the SBA skyrocketed. SBA accelerated its timeline to launch an Enterprise Customer Relationship Management (CRM) application in order to meet the increasing need and stood up a Customer Service Hub cloud application in under one week. Less than two months later, the Customer Service Hub has become a central tool in the agency’s COVID-19 response effort, reaching one million emails by mid-May.
