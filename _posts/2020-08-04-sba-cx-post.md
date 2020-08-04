@@ -50,4 +50,5 @@ Since the launch of the Paycheck Protection Program (PPP) on April 3, 2020, the 
 Taking an enterprise approach to customer service has also allowed SBA to analyze and improve the customer experience across the agency. As a result of the CARES Act, customer email inquiries to the SBA skyrocketed. SBA accelerated its timeline to launch an Enterprise Customer Relationship Management (CRM) application in order to meet the increasing need and stood up a Customer Service Hub cloud application in under one week. Less than two months later, the Customer Service Hub has become a central tool in the agency’s COVID-19 response effort, reaching one million emails by mid-May.
 
 **Looking Ahead**
+
 Since 1953, SBA has worked to help American small businesses across the country. During this unprecedented time, we will continue to improve customer experience and enhance the impact of SBA’s programs to ensure small businesses have the resources they need, now and in the future. 
