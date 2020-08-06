@@ -4,6 +4,26 @@ layout: navigation_PMA
 agency_dir: 2020cxmaps
 ---
 
+<style>
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: #211a23;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
 
 
 <section class="usa-section usa-section-dark usa-graphic_list">
@@ -24,7 +44,7 @@ agency_dir: 2020cxmaps
 
         <div><img  style="float: left; height: 125px; width: 430px; margin: 3px 12px 3px 0px; " src="{{ site.baseurl }}/img/cx/cx-us-logo.png" alt="US CX Logo">
             <p style="font-size: 1.5em; margin-bottom:0em"><b>Project Overview</b></p>
-            <p>Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might federal agencies change their approach or better work together? How might citizens think differently about those services and their overall experience with government?</p>
+            <p style="overflow: auto;">Imagine if the U.S. government understood how each of its services were part of a broader customer journey. How might federal agencies change their approach or better work together? How might citizens think differently about those services and their overall experience with government?</p>
             <p>Our hypothesis is that a human-centered perspective can yield better results. We are building off our first <a href="https://www.performance.gov/mapping-cx-journey/"> pilot project </a> of a more deliberately coordinated inter-agency research effort to understand how customers during a life experience navigate across multiple Federal agencies and even levels of government. This can help to identify moments or opportunities that are most meaningful to actual people to improve.</p>
             <p>During the Summer and Fall of 2020, we are interviewing customers and developing two journey maps: one of an individual that survives a natural disaster, the other of an individual with a developmental disability.</p>
         </div>
@@ -39,82 +59,94 @@ agency_dir: 2020cxmaps
             <p>A cross-government team, brought together as part of the <a href="https://www.performance.gov/CAP/cx/">Improving Customer Experience with Federal Services CAP goal</a>  (co-owned by the Office of Management and Budget and the Department of Veterans Affairs) will be conducting this effort. We have collaborating partners from multiple Federal agencies:</p>
         </div>
     </div>
-    <div class="usa-grid">
+    <div class="usa-grid" >
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-               <img src="{{ site.baseurl }}/img/cx/agencies/ssa-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+               <img src="{{ site.baseurl }}/img/cx/agencies/ssa-seal.png" alt="Social Security Administration seal" style="width:80px;"><br>
+                <span class="tooltiptext">Social Security Administration seal</span>
             </div>
         </div>
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="{{ site.baseurl }}/img/cx/agencies/dol-seal.png" alt=" seal" style="width:80px;"><br>
-            </div>
-        </div>
-
-
-        <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-               <img src="{{ site.baseurl }}/img/cx/agencies/hhs-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="{{ site.baseurl }}/img/cx/agencies/dol-seal.png" alt="Department of Labor seal" style="width:80px;"><br>
+                <span class="tooltiptext">Department of Labor</span>
             </div>
         </div>
 
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-              <img src="{{ site.baseurl }}/img/cx/agencies/ed-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+               <img src="{{ site.baseurl }}/img/cx/agencies/hhs-seal.png" alt="Department of Health & Human Services seal" style="width:80px;"><br>
+                <span class="tooltiptext">Department of Health & Human Services</span>
             </div>
         </div>
 
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-              <img src="{{ site.baseurl }}/img/cx/agencies/va-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+              <img src="{{ site.baseurl }}/img/cx/agencies/ed-seal.png" alt="Department of Education seal" style="width:80px;"><br>
+                <span class="tooltiptext">Department of Education</span>
             </div>
         </div>
 
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="{{ site.baseurl }}/img/cx/agencies/dhs-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+              <img src="{{ site.baseurl }}/img/cx/agencies/va-seal.png" alt="Veterans Affairs seal" style="width:80px;"><br>
+                <span class="tooltiptext">Veterans Affairs</span>
+            </div>
+        </div>
+
+
+        <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="{{ site.baseurl }}/img/cx/agencies/dhs-seal.png" alt="Department of Homeland Security seal" style="width:80px;"><br>
+                <span class="tooltiptext">Department of Homeland Security</span>
             </div>
         </div>
 
 
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="{{ site.baseurl }}/img/cx/agencies/hud-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="{{ site.baseurl }}/img/cx/agencies/hud-seal.png" alt="Department of Housing and Urban Development seal" style="width:80px;"><br>
+                <span class="tooltiptext">Department of Housing and Urban Development</span>
             </div>
         </div>
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="{{ site.baseurl }}/img/cx/agencies/sba-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="{{ site.baseurl }}/img/cx/agencies/sba-seal.png" alt="Small Business Administration seal" style="width:80px;"><br>
+                <span class="tooltiptext">Small Business Administration</span>
             </div>
         </div>
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="{{ site.baseurl }}/img/cx/agencies/opm-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="{{ site.baseurl }}/img/cx/agencies/opm-seal.png" alt="Office of Personnel Management seal" style="width:80px;"><br>
+                <span class="tooltiptext">Office of Personnel Management</span>
             </div>
         </div>
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="{{ site.baseurl }}/img/cx/agencies/usda-seal.png" alt=" seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="{{ site.baseurl }}/img/cx/agencies/usda-seal.png" alt="Department of Agriculture seal" style="width:80px;"><br>
+                <span class="tooltiptext">Department of Agriculture</span>
             </div>
         </div>
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="gsa.png" alt="GSA seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="gsa.png" alt="General Services Administration seal" style="width:80px;"><br>
+                <span class="tooltiptext">General Services Administration</span>
             </div>
         </div>
 
         <div class="usa-width-one-sixth usa-media_block" style="margin-top:2em">
-            <div style="height:90px;text-align:center;">
-                <img src="1200px-US-OfficeOfManagementAndBudget-Seal.svg.png" alt=" OMB seal" style="width:80px;"><br>
+            <div class="tooltip" style="height:90px;text-align:center;">
+                <img src="1200px-US-OfficeOfManagementAndBudget-Seal.svg.png" alt="United States Office of Management and Budget seal" style="width:80px;"><br>
+                <span class="tooltiptext">United States Office of Management and Budget</span>
             </div>
         </div>
 
