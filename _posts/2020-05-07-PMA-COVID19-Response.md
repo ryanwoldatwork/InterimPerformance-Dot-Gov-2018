@@ -1,6 +1,6 @@
 ---
 layout: post
-rating: "1"
+rating: "0"
 
 title: "PMA Tech Initiatives Support Rapid Response to COVID-19"
 
