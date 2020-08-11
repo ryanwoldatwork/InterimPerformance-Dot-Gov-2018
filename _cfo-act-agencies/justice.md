@@ -10,7 +10,7 @@ agency-name: Department of Justice
 
 #Appear on the right three-fourths of the page
 agency-seal: ../img/agency/Justice_Department_Seal.png
-agency-site: https://www.doj.gov/
+agency-site: https://justice.gov/
 strategic-plan-link: https://www.justice.gov/jmd/page/file/1071066/download
 performance-plan-link: https://www.justice.gov/doj/page/file/1249306/download
 
