@@ -24,7 +24,7 @@ resource-4-url: https://tech.gsa.gov/playbooks/tbm/
 
 #***********************FLOATING BOX SECTION*****************************
 quote: "Improving IT spend transparency is critical to improving business end-to-end, from the idea to the acquisition to what we actually deliver." #appears in the gray text box
-quote-author: "Maria Roat, Goal Leader"
+quote-author: "Suzette Kent, Goal Leader"
 font-size: 19px
 current-action-plan: "/CAP/action_plans/dec_2019_Federal_IT_Spending_Transparency.pdf"
 #***********************FLOATING BOX SECTION*****************************
