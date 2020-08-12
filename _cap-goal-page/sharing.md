@@ -75,7 +75,7 @@ goal-leader-title: "Administrator, General Services Administration"
 goal-leader-2-photo: "/img/CAP-photos/bio_maria1.jpg"
 alt_text_2: Photo of Maria Roat  #Goal leader 2
 goal-leader-2-name: "Maria Roat"
-goal-leader-2-title: "Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-2-title: "Deputy Federal Chief Information Officer, Office of Management and Budget"
 #***********************END GOAL LEADER SECTION*****************************8
 
 #***********************PREVIOUS AND NEXT LINK FOR TOP SECTION*****************************8

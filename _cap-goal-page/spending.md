@@ -95,7 +95,7 @@ goal-leader-5-title: "Deputy Controller, Office of Management and Budget"
 goal-leader-6-photo: "/img/CAP-photos/bio_maria1.jpg"
 alt_text_6: Photo of Maria Roat #Goal leader 2
 goal-leader-6-name: "Maria Roat"
-goal-leader-6-title: "Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-6-title: "Deputy Federal Chief Information Officer, Office of Management and Budget"
 
 alert: Going forward, the critical work of this Cross Agency Priority (CAP) Goal will be folded into the <a href="https://www.performance.gov/CAP/it-mod/">IT Modernization</a>; <a href="https://performance.gov/CAP/leveragingdata/">Data, Accountability, and Transparency</a>; and <a href="https://www.performance.gov/CAP/category-management/">Category Management</a> CAP Goals. 
 

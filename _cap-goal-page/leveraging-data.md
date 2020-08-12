@@ -64,10 +64,7 @@ action-2018-Q4: "/CAP/action_plans/FY2018_Q4_Data_Accountability_Transparency.pd
 tag: "data"
 #***********************END HIGHLIGHTS SECTION - INCLUDES NEWS AND EVENTS*****************************
 #************************GOAL LEADER SECTION - up to 6 goal leaders possible by creating up to 6 sections below***************************
-goal-leader-photo: "/img/CAP-photos/Roat_Head_Shot.jpg"
-alt_text_1: Photo of Maria Roat
-goal-leader-name: "Maria Roat"
-goal-leader-title: "Chief Information Officer, Small Business Administration"
+
 goal-leader-2-photo: "/img/CAP-photos/kelley-karen.jpg"
 alt_text_2: Photo of Karen Dunn Kelley
 goal-leader-2-name: "Karen Dunn Kelley"
@@ -79,7 +76,7 @@ goal-leader-3-title: "Director, White House Office of Science and Technology Pol
 goal-leader-4-photo: "/img/CAP-photos/bio_maria1.jpg"
 alt_text_4: Photo of Maria Roat
 goal-leader-4-name: "Maria Roat"
-goal-leader-4-title: "Federal Chief Information Officer, Office of Management and Budget"
+goal-leader-4-title: "Deputy Federal Chief Information Officer, Office of Management and Budget"
 
 goal-leader-5-photo: "/img/CAP-photos/mancini-dom.jpg"
 alt_text_5: Photo of Dominic Mancini
