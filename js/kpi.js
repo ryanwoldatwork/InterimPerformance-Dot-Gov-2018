@@ -94,21 +94,21 @@ function myFunction2() {
   document.getElementById("wrapper").innerHTML = codeBlock2
 }
 
-var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security <em>(Updated July 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q3_7_17_20.xlsx">Download Data</a>' +
+var codeBlock2 =   '<h3>Cybersecurity - Manage Asset Security <em>(Updated July 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for four asset security metrics for 23 federal agencies. Measuring progress in asset security area helps the Federal Government protect federal networks, software, and devices from unauthorized activity.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q3_8_13_20.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8526" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction3() {
   document.getElementById("wrapper").innerHTML = codeBlock3
 }
 
-var codeBlock3 =   '<h3>Cybersecurity - Limit Personnel Access <em>(Updated July 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for three access-related metrics for 23 federal agencies. Measuring progress in limiting personnel access helps the Federal Government control which personnel have access to priveleged networks and high value assets.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q3_7_17_20.xlsx">Download Data</a>'  +
+var codeBlock3 =   '<h3>Cybersecurity - Limit Personnel Access <em>(Updated July 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for three access-related metrics for 23 federal agencies. Measuring progress in limiting personnel access helps the Federal Government control which personnel have access to priveleged networks and high value assets.</p>' + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q3_8_13_20.xlsx">Download Data</a>'  +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8534" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction4() {
   document.getElementById("wrapper").innerHTML = codeBlock4
 }
 
-var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data <em>(Updated July 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect federal data from unauthorized intrusion and exfultration.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q3_7_17_20.xlsx">Download Data</a>' +
+var codeBlock4 =   '<h3>Cybersecurity - Protect Networks and Data <em>(Updated July 2020)</em></h3>' + '<p>The dashboard below tracks FY2019 Q4 - FY2020 Q1 change for three data protection metrics for 23 federal agencies. Measuring progress in this area helps the Federal Government improve data encryption and protect federal data from unauthorized intrusion and exfultration.</p>'  + '<a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/it-mod/">View the CAP Goal</a>' + ' <a class="usa-button usa-button-secondary " href="https://www.performance.gov/CAP/KPI/Cybersecurity_KPI Data_FY20Q3_8_13_20.xlsx">Download Data</a>' +
 '<iframe src="https://d2d.gsa.gov/tableau-report-for-embed/8535" id="no-frame-border-1" frameborder="0" style="height:1130px;width:1050px;"></iframe>';
 
 function myFunction5() {
